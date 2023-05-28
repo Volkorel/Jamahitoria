@@ -1,0 +1,1137 @@
+#Sphere of Influence
+
+ADU = {
+	value = 13
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 69
+	military_access = yes
+	influence_value = 54
+	level = 5
+}
+ANN = {
+	value = 0
+	level = 2
+}
+APA = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = -147
+	level = 2
+}
+ARG = {
+	value = 60
+	influence_value = 2
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 1
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AVI = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+BEY = {
+	value = 0
+	level = 2
+}
+BMN = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOU = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = -15
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 219
+	military_access = yes
+	influence_value = 92
+	level = 5
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+CEQ = {
+	value = 25
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 110
+	influence_value = 15
+	level = 2
+}
+CRI = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+ENG = {
+	value = 1
+	level = 2
+}
+EST = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+FER = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 42
+	level = 2
+}
+FZA = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+GYN = {
+	value = 34
+	level = 2
+}
+HAN = {
+	value = -52
+	level = 2
+}
+HRZ = {
+	value = 138
+	influence_value = 22
+	level = 3
+}
+HSI = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 38
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JAR = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 85
+	influence_value = 8
+	level = 3
+}
+KIT = {
+	value = 0
+	level = 2
+}
+KNI = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+KON = {
+	value = 95
+	influence_value = 11
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = -12
+	level = 2
+}
+LOR = {
+	value = -11
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 77
+	influence_value = 6
+	level = 2
+}
+LUC = {
+	value = -7
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+MDS = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MGD = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MTA = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+NAP = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+ORL = {
+	value = 0
+	level = 2
+}
+PAD = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+PAL = {
+	value = 37
+	level = 2
+}
+PAP = {
+	value = 126
+	influence_value = 19
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = -6
+	level = 2
+}
+PGA = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PIS = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+PRO = {
+	value = -26
+	level = 2
+}
+PTG = {
+	value = 162
+	military_access = yes
+	influence_value = 78
+	level = 5
+}
+QIN = {
+	value = 0
+	level = 2
+}
+SAF = {
+	value = 0
+	level = 2
+}
+SER = {
+	value = 80
+	military_access = yes
+	influence_value = 57
+	level = 5
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 44
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNA = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+SRD = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUM = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TUL = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 95
+	influence_value = 11
+	level = 2
+}
+WAL = {
+	value = 178
+	military_access = yes
+	influence_value = 82
+	level = 5
+}
+WSI = {
+	value = 111
+	influence_value = 15
+	level = 2
+}
+X00 = {
+	value = 145
+	military_access = yes
+	influence_value = 73
+	level = 5
+}
+X01 = {
+	value = 170
+	military_access = yes
+	influence_value = 80
+	level = 5
+}
+X02 = {
+	value = 52
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = -10
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 87
+	military_access = yes
+	influence_value = 59
+	level = 5
+}
+X11 = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+X15 = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X16 = {
+	value = 4
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 89
+	influence_value = 9
+	level = 2
+}
+X22 = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+X23 = {
+	value = -59
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+X26 = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+X27 = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+X28 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X29 = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+X30 = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X32 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X36 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 126
+	influence_value = 19
+	level = 3
+}
+X38 = {
+	value = -36
+	level = 2
+}
+X39 = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+X40 = {
+	value = 146
+	influence_value = 24
+	level = 2
+}
+X41 = {
+	value = 65
+	influence_value = 3
+	level = 2
+}
+X42 = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X43 = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+X45 = {
+	value = 0
+	level = 2
+}
+X46 = {
+	value = 0
+	level = 2
+}
+X47 = {
+	value = -9
+	military_access = yes
+	influence_value = 50
+	level = 5
+}
+X48 = {
+	value = 24
+	military_access = yes
+	influence_value = 50
+	level = 5
+}
+X49 = {
+	value = 87
+	influence_value = 9
+	level = 2
+}
+X50 = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+X51 = {
+	value = 0
+	level = 2
+}
+X52 = {
+	value = 0
+	level = 2
+}
+X53 = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+X54 = {
+	value = 0
+	level = 2
+}
+X55 = {
+	value = 0
+	level = 2
+}
+X56 = {
+	value = 0
+	level = 2
+}
+X57 = {
+	value = 0
+	level = 2
+}
+X58 = {
+	value = 166
+	military_access = yes
+	influence_value = 79
+	level = 5
+}
+X59 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+ZAF = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Kharaton Károlyi"
+	date="1685.4.22"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Quirino Zrinski"
+	date="1686.8.20"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Besar Báthory"
+	date="1711.6.10"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Tsog Ozoray"
+	date="1712.4.22"
+	type=land
+	personality="chivalrous"
+	background="artillerist"
+}
+
+leader = {
+	name="Goleda Thököly"
+	date="1712.7.22"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Zenti Batthyány"
+	date="1713.9.17"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Belkermak Garay"
+	date="1720.10.26"
+	type=land
+	personality="coolminded"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Ernakh Thököly"
+	date="1720.10.26"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Quirino Frangepán"
+	date="1720.10.26"
+	type=sea
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+
+#Armies
+army = {
+	name="6th Army"
+	location=645
+	regiment = {
+		name="1st Mitrovica Infantry"
+		type=infantry
+		home=791
+	}
+	regiment = {
+		name="1st Békéscsaba Infantry"
+		type=infantry
+		home=650
+	}
+	regiment = {
+		name="2nd Mitrovica Infantry"
+		type=infantry
+		home=791
+	}
+	regiment = {
+		name="3rd Mitrovica Infantry"
+		type=infantry
+		home=791
+	}
+	regiment = {
+		name="1st Gyulafehervar Infantry"
+		type=infantry
+		home=655
+	}
+	regiment = {
+		name="4th Mitrovica Infantry"
+		type=infantry
+		home=791
+	}
+}
+
+army = {
+	name="Asafo Company"
+	location=1839
+	regiment = {
+		name="1st Tamale Infantry"
+		type=infantry
+		home=1913
+	}
+	regiment = {
+		name="1st Yendi Infantry"
+		type=infantry
+		home=1916
+	}
+	regiment = {
+		name="2nd Tamale Infantry"
+		type=infantry
+		home=1913
+	}
+	regiment = {
+		name="3rd Tamale Infantry"
+		type=infantry
+		home=1913
+	}
+	regiment = {
+		name="4th Tamale Infantry"
+		type=infantry
+		home=1913
+	}
+	regiment = {
+		name="5th Tamale Infantry"
+		type=infantry
+		home=1913
+	}
+	regiment = {
+		name="6th Tamale Infantry"
+		type=infantry
+		home=1913
+	}
+	regiment = {
+		name="7th Tamale Infantry"
+		type=infantry
+		home=1913
+	}
+}
+
+army = {
+	name="11th Army"
+	location=770
+	regiment = {
+		name="1st Novi Sad Infantry"
+		type=infantry
+		home=2538
+	}
+	regiment = {
+		name="1st Szeged Infantry"
+		type=infantry
+		home=649
+	}
+	regiment = {
+		name="2nd Gyor Infantry"
+		type=infantry
+		home=642
+	}
+	regiment = {
+		name="3rd Gyor Infantry"
+		type=infantry
+		home=642
+	}
+	regiment = {
+		name="1st Pest Infantry"
+		type=infantry
+		home=641
+	}
+	regiment = {
+		name="2nd Novi Sad Infantry"
+		type=infantry
+		home=2538
+	}
+	regiment = {
+		name="3rd Novi Sad Infantry"
+		type=infantry
+		home=2538
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=2754
+	ship = {
+		name="1st Banjul Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Fiume Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Senj Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Trieste Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bluefields Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bluefields Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Zadar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Zadar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gaeta Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pola Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Pola Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Baraka Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Crabats"
+	location=726
+	regiment = {
+		name="1st Kaposvár Infantry"
+		type=infantry
+		home=644
+	}
+	regiment = {
+		name="1st Pécs Infantry"
+		type=infantry
+		home=640
+	}
+	regiment = {
+		name="2nd Kaposvár Infantry"
+		type=infantry
+		home=644
+	}
+	regiment = {
+		name="2nd Pécs Infantry"
+		type=infantry
+		home=640
+	}
+	regiment = {
+		name="3rd Kaposvár Infantry"
+		type=infantry
+		home=644
+	}
+	regiment = {
+		name="4th Kaposvár Infantry"
+		type=infantry
+		home=644
+	}
+}
+
+army = {
+	name="Levends"
+	location=2538
+	regiment = {
+		name="1st Gyor Infantry"
+		type=infantry
+		home=642
+	}
+	regiment = {
+		name="1st Székesfehérvár Infantry"
+		type=infantry
+		home=643
+	}
+	regiment = {
+		name="2nd Székesfehérvár Infantry"
+		type=infantry
+		home=643
+	}
+	regiment = {
+		name="4th Gyor Infantry"
+		type=infantry
+		home=642
+	}
+	regiment = {
+		name="5th Gyor Infantry"
+		type=infantry
+		home=642
+	}
+	regiment = {
+		name="6th Gyor Infantry"
+		type=infantry
+		home=642
+	}
+	regiment = {
+		name="7th Gyor Infantry"
+		type=infantry
+		home=642
+	}
+}
+
+navy = {
+	name="13th Fleet"
+	location=2764
+	ship = {
+		name="1st Pola Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Pola Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Senj Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Fiume Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2764
+	ship = {
+		name="1st Gaeta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Zadar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Senj Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cape Coast Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mboul Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Gaeta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Accra Frigate"
+		type=frigate
+	}
+}
+

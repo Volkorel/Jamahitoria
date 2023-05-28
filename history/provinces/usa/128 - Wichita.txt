@@ -1,0 +1,6 @@
+owner=X36
+controller=X57
+trade_goods = grain
+life_rating = 35
+colonial=2
+fort = 1

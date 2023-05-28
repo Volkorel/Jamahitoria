@@ -1,0 +1,15 @@
+name = "Bengali-Kawng Nationalist War"
+
+1722.10.20 = {
+	add_attacker = BNG
+	add_defender = KWN
+	add_defender = HSI
+	add_defender = X24
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = BNG
+		receiver = KWN
+		state_province_id = 1260
+	}
+}

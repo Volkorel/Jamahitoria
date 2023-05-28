@@ -1,0 +1,130 @@
+2213 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 15889
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 445
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = norse_pagan_reformed
+		size= 60293
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 1687
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 10665
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 1705
+	}
+
+	clergymen=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 166
+	}
+
+	officers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 159
+	}
+
+}
+2215 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 10404
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 104
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = norse_pagan_reformed
+		size= 40522
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 7129
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 1710
+	}
+
+	clergymen=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 330
+	}
+
+	bureaucrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 91
+	}
+
+	officers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 65
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 402
+	}
+
+}

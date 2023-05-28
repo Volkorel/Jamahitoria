@@ -1,0 +1,8 @@
+owner=X53
+controller=X53
+add_core=SCA
+add_core=SMI
+add_core=X53
+trade_goods = timber
+life_rating = 20
+terrain = boreal

@@ -1,0 +1,8 @@
+owner=X41
+controller=X41
+add_core=FRA
+add_core=HLR
+add_core=OCC
+add_core=X41
+trade_goods = silk
+life_rating = 32

@@ -1,0 +1,8 @@
+owner=PRO
+controller=PRO
+add_core=HLR
+add_core=PRO
+trade_goods = grain
+life_rating = 32
+naval_base = 1
+fort = 1

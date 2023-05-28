@@ -1,0 +1,5 @@
+owner=X58
+controller=X58
+add_core=X58
+trade_goods = coffee
+life_rating = 39

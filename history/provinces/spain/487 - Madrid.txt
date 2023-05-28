@@ -1,0 +1,12 @@
+owner=ADU
+controller=ADU
+add_core=ADU
+add_core=SPA
+trade_goods = cattle
+life_rating = 40
+state_building=
+{
+	level=1
+	building = canned_food_factory
+	upgrade = yes
+}

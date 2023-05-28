@@ -1,0 +1,6 @@
+owner=X36
+controller=X36
+add_core=ARA
+trade_goods = grain
+life_rating = 30
+terrain = small_island

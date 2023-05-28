@@ -1,0 +1,6 @@
+owner=X51
+controller=X51
+add_core=PER
+add_core=X51
+trade_goods = grain
+life_rating = 32

@@ -1,0 +1,8 @@
+owner=SUM
+controller=SUM
+add_core=KHA
+add_core=MGL
+add_core=SUM
+add_core=X18
+trade_goods = timber
+life_rating = 32

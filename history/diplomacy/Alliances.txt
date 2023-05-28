@@ -1,0 +1,944 @@
+alliance=
+{
+	first="ALB"
+	second="X48"
+	start_date="1567.3.21"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ANN"
+	second="HSI"
+	start_date="1719.12.13"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ARN"
+	second="PAP"
+	start_date="1708.1.25"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ARK"
+	second="CAM"
+	start_date="1444.11.12"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="AVI"
+	second="ORL"
+	start_date="1537.3.16"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="AVI"
+	second="CAT"
+	start_date="1544.12.31"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="AVI"
+	second="X41"
+	start_date="1656.9.11"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BMN"
+	second="SIA"
+	start_date="1694.12.17"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BNG"
+	second="KHO"
+	start_date="1593.4.5"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BOU"
+	second="PRO"
+	start_date="1519.5.5"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BOU"
+	second="AVI"
+	start_date="1600.9.13"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BOU"
+	second="PAL"
+	start_date="1602.10.2"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BRT"
+	second="FRA"
+	start_date="1637.1.8"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BRT"
+	second="GYN"
+	start_date="1637.3.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BUL"
+	second="X47"
+	start_date="1645.11.3"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BUL"
+	second="SER"
+	start_date="1646.1.30"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="CAT"
+	second="X41"
+	start_date="1454.12.11"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="CAT"
+	second="X38"
+	start_date="1483.3.19"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="CAT"
+	second="BRG"
+	start_date="1555.1.17"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="CAT"
+	second="ENG"
+	start_date="1697.1.6"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="CHG"
+	second="X51"
+	start_date="1503.3.8"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="CKW"
+	second="KSJ"
+	start_date="1444.11.14"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="CKW"
+	second="KON"
+	start_date="1616.1.7"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="CLM"
+	second="X06"
+	start_date="1723.8.12"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="EST"
+	second="X52"
+	start_date="1444.12.21"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="EST"
+	second="X53"
+	start_date="1599.3.16"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="FER"
+	second="LUC"
+	start_date="1543.3.9"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="FER"
+	second="X25"
+	start_date="1620.9.9"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="FER"
+	second="PGA"
+	start_date="1626.6.27"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="FER"
+	second="HAN"
+	start_date="1709.4.30"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="FER"
+	second="X35"
+	start_date="1721.1.17"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="FRA"
+	second="X42"
+	start_date="1713.4.8"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="HAN"
+	second="X22"
+	start_date="1706.3.25"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="HRZ"
+	second="X05"
+	start_date="1546.1.31"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="HSI"
+	second="ARK"
+	start_date="1715.10.18"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="IRE"
+	second="ORL"
+	start_date="1688.1.7"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="KIE"
+	second="X28"
+	start_date="1710.2.3"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="KSJ"
+	second="KON"
+	start_date="1444.12.24"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ARG"
+	second="X36"
+	start_date="1723.8.9"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="LNA"
+	second="JAR"
+	start_date="1603.5.2"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="LOR"
+	second="IRE"
+	start_date="1687.12.25"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="LUC"
+	second="PGA"
+	start_date="1560.12.22"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X23"
+	second="X35"
+	start_date="1689.11.13"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="MHR"
+	second="SIN"
+	start_date="1601.3.11"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="KWN"
+	second="X24"
+	start_date="1588.3.17"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="KWN"
+	second="HSI"
+	start_date="1690.12.8"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="MLC"
+	second="BRU"
+	start_date="1630.11.30"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="LOM"
+	second="MTA"
+	start_date="1669.3.23"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ORL"
+	second="BOU"
+	start_date="1519.5.2"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PHG"
+	second="SIA"
+	start_date="1597.10.31"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PAL"
+	second="BRG"
+	start_date="1553.12.21"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PAP"
+	second="HAN"
+	start_date="1701.6.7"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PAT"
+	second="BRU"
+	start_date="1620.9.13"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PER"
+	second="ARA"
+	start_date="1634.2.18"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PEU"
+	second="MEX"
+	start_date="1720.12.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PGA"
+	second="X25"
+	start_date="1444.11.16"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PRO"
+	second="BRG"
+	start_date="1541.6.11"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PRO"
+	second="PAL"
+	start_date="1577.5.14"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SVY"
+	second="LOM"
+	start_date="1497.9.19"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SVY"
+	second="BRT"
+	start_date="1635.6.3"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SVY"
+	second="X42"
+	start_date="1671.1.25"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SER"
+	second="X47"
+	start_date="1645.10.14"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SER"
+	second="X10"
+	start_date="1647.12.11"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SLV"
+	second="X28"
+	start_date="1664.5.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SIN"
+	second="YEM"
+	start_date="1603.4.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SIN"
+	second="X46"
+	start_date="1669.2.18"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X31"
+	second="MLC"
+	start_date="1632.1.19"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SWE"
+	second="X52"
+	start_date="1554.12.23"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SWE"
+	second="X54"
+	start_date="1678.12.2"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="TGA"
+	second="SMO"
+	start_date="1454.9.4"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="TUL"
+	second="LOM"
+	start_date="1608.3.15"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="TUL"
+	second="PRO"
+	start_date="1619.6.6"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="TUL"
+	second="ARN"
+	start_date="1667.1.28"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="TUN"
+	second="ZAF"
+	start_date="1498.1.31"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="VEN"
+	second="SVY"
+	start_date="1681.1.2"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X36"
+	second="ARN"
+	start_date="1624.1.15"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X36"
+	second="MEX"
+	start_date="1627.2.8"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X35"
+	second="LOR"
+	start_date="1666.4.26"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X35"
+	second="HRZ"
+	start_date="1697.12.8"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="WAL"
+	second="X48"
+	start_date="1662.12.11"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X37"
+	second="SIN"
+	start_date="1652.5.29"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X38"
+	second="X41"
+	start_date="1444.11.27"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X38"
+	second="ADU"
+	start_date="1472.1.31"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X39"
+	second="HAN"
+	start_date="1687.9.18"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X39"
+	second="X02"
+	start_date="1710.3.26"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X40"
+	second="VEN"
+	start_date="1632.12.4"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X41"
+	second="TUL"
+	start_date="1581.3.14"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X41"
+	second="ADU"
+	start_date="1677.12.28"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X42"
+	second="ADU"
+	start_date="1703.3.19"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X42"
+	second="PRO"
+	start_date="1706.4.19"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X42"
+	second="GYN"
+	start_date="1713.5.16"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X43"
+	second="X37"
+	start_date="1676.12.11"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X44"
+	second="X31"
+	start_date="1503.3.13"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X44"
+	second="X37"
+	start_date="1543.7.11"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X47"
+	second="X48"
+	start_date="1571.8.9"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="YEM"
+	second="SWA"
+	start_date="1586.9.26"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="YEM"
+	second="PER"
+	start_date="1655.5.21"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X48"
+	second="X10"
+	start_date="1628.2.20"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X51"
+	second="X43"
+	start_date="1444.12.29"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X51"
+	second="X44"
+	start_date="1564.4.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X51"
+	second="BMN"
+	start_date="1664.11.2"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X53"
+	second="SWE"
+	start_date="1587.4.17"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SWA"
+	second="ARA"
+	start_date="1625.11.2"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X00"
+	second="WAL"
+	start_date="1715.12.2"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X06"
+	second="GYN"
+	start_date="1489.11.7"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X06"
+	second="SWE"
+	start_date="1685.12.10"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X06"
+	second="X54"
+	start_date="1685.12.14"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X06"
+	second="X36"
+	start_date="1713.12.12"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X10"
+	second="X47"
+	start_date="1631.3.23"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X10"
+	second="BUL"
+	start_date="1647.6.30"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X10"
+	second="WAL"
+	start_date="1661.12.15"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X10"
+	second="X00"
+	start_date="1716.10.27"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X22"
+	second="PAL"
+	start_date="1618.3.20"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X22"
+	second="X28"
+	start_date="1695.2.9"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X22"
+	second="X04"
+	start_date="1710.11.26"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X24"
+	second="LNA"
+	start_date="1597.8.26"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X25"
+	second="X35"
+	start_date="1671.6.26"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X54"
+	second="X39"
+	start_date="1712.3.5"
+	end_date="1936.1.1"
+}
+

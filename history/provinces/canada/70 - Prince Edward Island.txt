@@ -1,0 +1,5 @@
+owner=X36
+controller=X36
+add_core=X36
+trade_goods = fish
+life_rating = 31

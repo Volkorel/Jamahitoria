@@ -1,0 +1,6 @@
+owner=X44
+controller=X44
+add_core=X44
+add_core=XIN
+trade_goods = sulphur
+life_rating = 32

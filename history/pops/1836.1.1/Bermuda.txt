@@ -1,0 +1,58 @@
+203 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = norse_pagan_reformed
+		size= 1316
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 726
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 215
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 107
+	}
+
+	clergymen=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	officers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+}

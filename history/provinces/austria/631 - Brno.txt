@@ -1,0 +1,7 @@
+owner=HAN
+controller=X05
+add_core=CZE
+add_core=HAN
+add_core=WSF
+trade_goods = coal
+life_rating = 35

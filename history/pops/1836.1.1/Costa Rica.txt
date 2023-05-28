@@ -1,0 +1,195 @@
+2201 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2403
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 9658
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 519
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 218
+	}
+
+	clergymen=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 13
+	}
+
+	officers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 16
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 105
+	}
+
+}
+2202 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 917
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 3489
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 189
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 79
+	}
+
+	clergymen=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 31
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	officers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 6
+	}
+
+}
+2203 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 539
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 2160
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 117
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 48
+	}
+
+	clergymen=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 37
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+}

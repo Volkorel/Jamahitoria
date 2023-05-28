@@ -1,0 +1,4 @@
+owner=X04
+controller=X04
+trade_goods = fruit
+life_rating = 35

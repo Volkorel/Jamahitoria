@@ -1,0 +1,407 @@
+1979 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 206
+	}
+
+	farmers=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 29
+	}
+
+	clergymen=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 1
+	}
+
+	officers=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 546
+	}
+
+}
+2239 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3319
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 97
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 57
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 654
+	}
+
+	farmers=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 83
+	}
+
+	soldiers=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 3
+	}
+
+	officers=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 3
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = noreligion
+		size= 9468
+	}
+
+	soldiers=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 277
+	}
+
+	artisans=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 479
+	}
+
+	clergymen=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 24
+	}
+
+	officers=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 101
+	}
+
+}
+2242 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 445
+	}
+
+	farmers=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 434
+	}
+
+	artisans=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 1
+	}
+
+	officers=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 1
+	}
+
+}
+2243 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1805
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 52
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 747
+	}
+
+	farmers=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 8
+	}
+
+	officers=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = surinamian
+		religion = protestant
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = noreligion
+		size= 6086
+	}
+
+	soldiers=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 175
+	}
+
+	artisans=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 303
+	}
+
+	clergymen=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 15
+	}
+
+	officers=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = surinamian
+		religion = noreligion
+		size= 64
+	}
+
+}

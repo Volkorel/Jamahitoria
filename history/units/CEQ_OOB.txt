@@ -1,0 +1,981 @@
+#Sphere of Influence
+
+ADU = {
+	value = 129
+	military_access = yes
+	influence_value = 19
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ANN = {
+	value = 0
+	level = 2
+}
+APA = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = -52
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AVI = {
+	value = 0
+	level = 2
+}
+BEY = {
+	value = 0
+	level = 2
+}
+BMN = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOU = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 32
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 48
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = -100
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 11
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = -10
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FZA = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+GYN = {
+	value = 2
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HRZ = {
+	value = 0
+	level = 2
+}
+HSI = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JAR = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 0
+	level = 2
+}
+KIT = {
+	value = 0
+	level = 2
+}
+KNI = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = -1
+	level = 2
+}
+LOR = {
+	value = -11
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+LUC = {
+	value = -9
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 0
+	level = 2
+}
+MDS = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MGD = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MTA = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+ORL = {
+	value = 0
+	level = 2
+}
+PAD = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = -20
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = -30
+	level = 2
+}
+PGA = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PIS = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = -26
+	level = 2
+}
+PTG = {
+	value = 0
+	level = 2
+}
+QIN = {
+	value = 0
+	level = 2
+}
+SAF = {
+	value = 0
+	level = 2
+}
+SER = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SRD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUM = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TUL = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 35
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = -3
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = -8
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = -10
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = -10
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X32 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X36 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X38 = {
+	value = -20
+	level = 2
+}
+X39 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = -32
+	level = 2
+}
+X42 = {
+	value = 0
+	level = 2
+}
+X43 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+X45 = {
+	value = 0
+	level = 2
+}
+X46 = {
+	value = 0
+	level = 2
+}
+X47 = {
+	value = 0
+	level = 2
+}
+X48 = {
+	value = 0
+	level = 2
+}
+X49 = {
+	value = 0
+	level = 2
+}
+X50 = {
+	value = 0
+	level = 2
+}
+X51 = {
+	value = 0
+	level = 2
+}
+X52 = {
+	value = 0
+	level = 2
+}
+X53 = {
+	value = 0
+	level = 2
+}
+X54 = {
+	value = 0
+	level = 2
+}
+X55 = {
+	value = 0
+	level = 2
+}
+X56 = {
+	value = 0
+	level = 2
+}
+X57 = {
+	value = 0
+	level = 2
+}
+X58 = {
+	value = 0
+	level = 2
+}
+X59 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+ZAF = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Hasan Ibn Idris"
+	date="1706.11.18"
+	type=sea
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Ufayr Ibn Utman"
+	date="1713.12.26"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="al-Mundhir Ibn Ummay"
+	date="1718.2.14"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+
+#Armies
+army = {
+	name="8th Army"
+	location=2443
+	regiment = {
+		name="1st Chapada Artillery"
+		type=artillery
+		home=2425
+	}
+	regiment = {
+		name="1st Salvador da Bahia Artillery"
+		type=artillery
+		home=2436
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2428
+	regiment = {
+		name="1st Vila Boa Infantry"
+		type=infantry
+		home=2421
+	}
+	regiment = {
+		name="1st Rio de Janeiro Artillery"
+		type=artillery
+		home=2447
+	}
+	regiment = {
+		name="2nd Vila do Poti Infantry"
+		type=infantry
+		home=2426
+	}
+	regiment = {
+		name="1st Fortaleza Infantry"
+		type=infantry
+		home=2429
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2425
+	regiment = {
+		name="1st Crato Artillery"
+		type=artillery
+		home=2430
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2423
+	regiment = {
+		name="1st Vila do Poti Infantry"
+		type=infantry
+		home=2426
+	}
+	regiment = {
+		name="1st Fortaleza Artillery"
+		type=artillery
+		home=2429
+	}
+	regiment = {
+		name="1st Cabrobo Infantry"
+		type=infantry
+		home=2433
+	}
+	regiment = {
+		name="1st Rio de Janeiro Infantry"
+		type=infantry
+		home=2447
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2446
+	regiment = {
+		name="1st Vila do Poti Cavalry"
+		type=cavalry
+		home=2426
+	}
+	regiment = {
+		name="1st Cuiabá Artillery"
+		type=artillery
+		home=2418
+	}
+	regiment = {
+		name="1st Recife Cavalry"
+		type=cavalry
+		home=2432
+	}
+	regiment = {
+		name="1st Juazeiro Cavalry"
+		type=cavalry
+		home=2437
+	}
+	regiment = {
+		name="1st Campos Artillery"
+		type=artillery
+		home=2448
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2432
+	ship = {
+		name="Primeiro De Marco"
+		type=manowar
+	}
+	ship = {
+		name="Parnahyba"
+		type=manowar
+	}
+	ship = {
+		name="Guanabara"
+		type=manowar
+	}
+	ship = {
+		name="Trajano"
+		type=manowar
+	}
+	ship = {
+		name="Vital De Oliveira"
+		type=manowar
+	}
+	ship = {
+		name="Nictheroy"
+		type=manowar
+	}
+	ship = {
+		name="Sergipe"
+		type=manowar
+	}
+	ship = {
+		name="1st São Luís Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd São Luís Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Recife Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rio de Janeiro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Maceió Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rio de Janeiro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Maceió Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Maceió Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Maceió Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Recife Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Maceió Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Parana"
+		type=manowar
+	}
+	ship = {
+		name="6th Maceió Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="5th Army"
+	location=2437
+	regiment = {
+		name="1st Rio de Janeiro Cavalry"
+		type=cavalry
+		home=2447
+	}
+	regiment = {
+		name="2nd Rio de Janeiro Artillery"
+		type=artillery
+		home=2447
+	}
+	regiment = {
+		name="1st Fortaleza Cavalry"
+		type=cavalry
+		home=2429
+	}
+	regiment = {
+		name="1st Santos Artillery"
+		type=artillery
+		home=2451
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2987
+	ship = {
+		name="Almirante Saldanha"
+		type=frigate
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2457
+	regiment = {
+		name="2nd Fortaleza Artillery"
+		type=artillery
+		home=2429
+	}
+	regiment = {
+		name="1st Maceió Artillery"
+		type=artillery
+		home=2434
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2987
+	ship = {
+		name="Pernambuco"
+		type=frigate
+	}
+	ship = {
+		name="Inhauma"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2434
+	ship = {
+		name="Jaceguay"
+		type=frigate
+	}
+	ship = {
+		name="Frontin"
+		type=frigate
+	}
+}
+

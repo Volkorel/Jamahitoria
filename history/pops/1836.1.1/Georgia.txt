@@ -1,0 +1,385 @@
+1090 = {
+	soldiers=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 3562
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 1854
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 403
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 127
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 712
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 56152
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 690
+	}
+
+}
+1091 = {
+	soldiers=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 1059
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 756
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 38
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 185
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 16721
+	}
+
+}
+1092 = {
+	soldiers=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 2534
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 196
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 86
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 303
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 20199
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 245
+	}
+
+}
+1093 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = pre_schism
+		size= 557
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = pre_schism
+		size= 896
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = pre_schism
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = pre_schism
+		size= 20
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = pre_schism
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = pre_schism
+		size= 167
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = pre_schism
+		size= 8233
+	}
+
+}
+1094 = {
+	soldiers=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 1686
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 1204
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 196
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 60
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 253
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 26655
+	}
+
+}
+1095 = {
+	soldiers=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 1366
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 2731
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 444
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 137
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 574
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = pre_schism
+		size= 62974
+	}
+
+}
+1096 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = pre_schism
+		size= 1172
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = pre_schism
+		size= 837
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = pre_schism
+		size= 136
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = pre_schism
+		size= 42
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = pre_schism
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = pre_schism
+		size= 176
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = pre_schism
+		size= 18524
+	}
+
+}

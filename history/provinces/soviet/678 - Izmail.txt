@@ -1,0 +1,8 @@
+owner=X47
+controller=X47
+add_core=LUZ
+add_core=WSF
+add_core=X47
+trade_goods = fish
+life_rating = 35
+naval_base = 1

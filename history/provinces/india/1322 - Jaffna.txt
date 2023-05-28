@@ -1,0 +1,6 @@
+owner=BNG
+controller=BMN
+add_core=BNG
+add_core=HND
+trade_goods = coffee
+life_rating = 33

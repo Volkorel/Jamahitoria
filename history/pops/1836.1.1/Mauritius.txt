@@ -1,0 +1,88 @@
+2125 = {
+	soldiers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 244
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 22806
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 982
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 412
+	}
+
+	clergymen=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 318
+	}
+
+	bureaucrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 34
+	}
+
+	officers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 32
+	}
+
+}
+2128 = {
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 143
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 2
+	}
+
+}

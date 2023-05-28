@@ -1,0 +1,8 @@
+owner=BRG
+controller=BRG
+add_core=BRG
+add_core=HLR
+add_core=SWI
+trade_goods = iron
+life_rating = 34
+fort = 1

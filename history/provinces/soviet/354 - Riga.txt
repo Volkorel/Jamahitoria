@@ -1,0 +1,9 @@
+owner=X23
+controller=X23
+add_core=SCA
+add_core=SWE
+add_core=X23
+add_core=X52
+trade_goods = fish
+life_rating = 40
+naval_base = 1

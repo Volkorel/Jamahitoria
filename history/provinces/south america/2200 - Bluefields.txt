@@ -1,0 +1,6 @@
+owner=X58
+controller=X58
+add_core=X56
+add_core=X58
+trade_goods = fruit
+life_rating = 33

@@ -1,0 +1,104 @@
+2129 = {
+	slaves=
+	{
+		culture = vinlandi
+		religion = norse_pagan_reformed
+		size= 434
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 374
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	officers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+}
+2130 = {
+	farmers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 57
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+}
+2132 = {
+	farmers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 57
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+}

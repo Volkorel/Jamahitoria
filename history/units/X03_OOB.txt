@@ -1,0 +1,1283 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+ANN = {
+	value = 0
+	level = 2
+}
+APA = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 19
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AVI = {
+	value = 0
+	level = 2
+}
+BEY = {
+	value = 0
+	level = 2
+}
+BMN = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOU = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = -100
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 167
+	influence_value = 29
+	level = 2
+}
+CRI = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+ENG = {
+	value = 107
+	influence_value = 14
+	level = 2
+}
+EST = {
+	value = 78
+	influence_value = 7
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FZA = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+GYN = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = -1
+	level = 2
+}
+HRZ = {
+	value = 7
+	level = 2
+}
+HSI = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JAR = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 13
+	level = 2
+}
+KIE = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+KIT = {
+	value = 0
+	level = 2
+}
+KNI = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 7
+	level = 2
+}
+LOM = {
+	value = -2
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+LUC = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 20
+	level = 2
+}
+MDS = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MGD = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MTA = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+ORL = {
+	value = 0
+	level = 2
+}
+PAD = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 68
+	influence_value = 4
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PGA = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PIS = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PTG = {
+	value = 0
+	level = 2
+}
+QIN = {
+	value = 0
+	level = 2
+}
+SAF = {
+	value = 0
+	level = 2
+}
+SER = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 7
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SRD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUM = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = -142
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TUL = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 101
+	influence_value = 12
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+X01 = {
+	value = 104
+	influence_value = 13
+	level = 2
+}
+X02 = {
+	value = 98
+	influence_value = 12
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = -37
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 22
+	level = 2
+}
+X17 = {
+	value = -1
+	level = 2
+}
+X18 = {
+	value = -9
+	level = 2
+}
+X19 = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = -100
+	level = 2
+}
+X22 = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+X28 = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X32 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = -58
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X36 = {
+	value = -20
+	level = 2
+}
+X37 = {
+	value = -37
+	level = 2
+}
+X38 = {
+	value = 0
+	level = 2
+}
+X39 = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+X40 = {
+	value = 24
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X42 = {
+	value = 0
+	level = 2
+}
+X43 = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+X45 = {
+	value = 0
+	level = 2
+}
+X46 = {
+	value = 0
+	level = 2
+}
+X47 = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+X48 = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+X49 = {
+	value = 0
+	level = 2
+}
+X50 = {
+	value = -39
+	level = 2
+}
+X51 = {
+	value = -15
+	level = 2
+}
+X52 = {
+	value = 23
+	level = 2
+}
+X53 = {
+	value = -10
+	level = 2
+}
+X54 = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+X55 = {
+	value = 0
+	level = 2
+}
+X56 = {
+	value = 0
+	level = 2
+}
+X57 = {
+	value = 0
+	level = 2
+}
+X58 = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+X59 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+ZAF = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Rodislav Volkonsky"
+	date="1708.12.17"
+	type=sea
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Araslan Strigin"
+	date="1714.4.17"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Furusten Mikula"
+	date="1720.1.18"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+
+#Armies
+army = {
+	name="23rd Army"
+	location=1191
+	regiment = {
+		name="1st Arkhangelsk Infantry"
+		type=infantry
+		home=981
+	}
+	regiment = {
+		name="1st Vologda Infantry"
+		type=infantry
+		home=989
+	}
+	regiment = {
+		name="2nd Arkhangelsk Infantry"
+		type=infantry
+		home=981
+	}
+	regiment = {
+		name="1st Belozersk Infantry"
+		type=infantry
+		home=992
+	}
+	regiment = {
+		name="1st Kostorma Infantry"
+		type=infantry
+		home=1023
+	}
+	regiment = {
+		name="2nd Vologda Infantry"
+		type=infantry
+		home=989
+	}
+	regiment = {
+		name="3rd Vologda Infantry"
+		type=infantry
+		home=989
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1191
+	regiment = {
+		name="1st St Petersburg Infantry"
+		type=infantry
+		home=994
+	}
+	regiment = {
+		name="1st Tambov Infantry"
+		type=infantry
+		home=1025
+	}
+	regiment = {
+		name="1st Bryansk Infantry"
+		type=infantry
+		home=1016
+	}
+	regiment = {
+		name="1st Voronezh Infantry"
+		type=infantry
+		home=1019
+	}
+	regiment = {
+		name="1st Kursk Infantry"
+		type=infantry
+		home=977
+	}
+	regiment = {
+		name="1st Rzhev Infantry"
+		type=infantry
+		home=999
+	}
+	regiment = {
+		name="2nd Voronezh Infantry"
+		type=infantry
+		home=1019
+	}
+}
+
+army = {
+	name="21st Army"
+	location=1181
+	regiment = {
+		name="1st St Petersburg Artillery"
+		type=artillery
+		home=994
+	}
+	regiment = {
+		name="1st Vladimir Artillery"
+		type=artillery
+		home=1013
+	}
+	regiment = {
+		name="1st Ryazan Artillery"
+		type=artillery
+		home=1012
+	}
+	regiment = {
+		name="2nd Ryazan Artillery"
+		type=artillery
+		home=1012
+	}
+	regiment = {
+		name="2nd Tula Artillery"
+		type=artillery
+		home=1011
+	}
+}
+
+army = {
+	name="56th Army"
+	location=1191
+	regiment = {
+		name="1st Lida Cavalry"
+		type=cavalry
+		home=938
+	}
+	regiment = {
+		name="1st Kostorma Cavalry"
+		type=cavalry
+		home=1023
+	}
+	regiment = {
+		name="2nd Kostorma Cavalry"
+		type=cavalry
+		home=1023
+	}
+	regiment = {
+		name="1st Nizhni Novgorod Cavalry"
+		type=cavalry
+		home=1020
+	}
+	regiment = {
+		name="2nd Lida Cavalry"
+		type=cavalry
+		home=938
+	}
+	regiment = {
+		name="3rd Nizhni Novgorod Cavalry"
+		type=cavalry
+		home=1020
+	}
+	regiment = {
+		name="4th Nizhni Novgorod Cavalry"
+		type=cavalry
+		home=1020
+	}
+	regiment = {
+		name="5th Nizhni Novgorod Cavalry"
+		type=cavalry
+		home=1020
+	}
+	regiment = {
+		name="6th Nizhni Novgorod Cavalry"
+		type=cavalry
+		home=1020
+	}
+	regiment = {
+		name="3rd Kostorma Cavalry"
+		type=cavalry
+		home=1023
+	}
+}
+
+army = {
+	name="20th Army"
+	location=1598
+	regiment = {
+		name="1st Hämeenlinna Infantry"
+		type=infantry
+		home=344
+	}
+	regiment = {
+		name="1st Viipuri Infantry"
+		type=infantry
+		home=339
+	}
+	regiment = {
+		name="1st Novaya Ladoga Infantry"
+		type=infantry
+		home=2580
+	}
+	regiment = {
+		name="2nd Viipuri Infantry"
+		type=infantry
+		home=339
+	}
+	regiment = {
+		name="3rd Viipuri Infantry"
+		type=infantry
+		home=339
+	}
+	regiment = {
+		name="2nd Hämeenlinna Infantry"
+		type=infantry
+		home=344
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=2711
+	ship = {
+		name="1st Onega Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Viipuri Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Viipuri Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Viipuri Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st St Petersburg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kostomushka Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2720
+	ship = {
+		name="1st Kotka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kostomushka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sinop Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kotka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kostomushka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st  Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Luga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd  Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Arkhangelsk Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Helsinki Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bodo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Onega Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bodo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st St Petersburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd St Petersburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kostomushka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Onega Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st St Petersburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ribe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Kotka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd St Petersburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bursa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Üsküdar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bodo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kotka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Corfu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Helsinki Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Volos Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kostomushka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Arkhangelsk Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="13th Army"
+	location=1187
+	regiment = {
+		name="1st St Petersburg Cavalry"
+		type=cavalry
+		home=994
+	}
+	regiment = {
+		name="2nd St Petersburg Artillery"
+		type=artillery
+		home=994
+	}
+	regiment = {
+		name="2nd St Petersburg Cavalry"
+		type=cavalry
+		home=994
+	}
+	regiment = {
+		name="1st Kazan Cavalry"
+		type=cavalry
+		home=1030
+	}
+	regiment = {
+		name="3rd St Petersburg Cavalry"
+		type=cavalry
+		home=994
+	}
+	regiment = {
+		name="2nd Nizhni Novgorod Cavalry"
+		type=cavalry
+		home=1020
+	}
+	regiment = {
+		name="1st Luga Cavalry"
+		type=cavalry
+		home=996
+	}
+	regiment = {
+		name="4th St Petersburg Cavalry"
+		type=cavalry
+		home=994
+	}
+	regiment = {
+		name="5th St Petersburg Cavalry"
+		type=cavalry
+		home=994
+	}
+	regiment = {
+		name="2nd Kazan Cavalry"
+		type=cavalry
+		home=1030
+	}
+	regiment = {
+		name="1st Orsha Artillery"
+		type=artillery
+		home=944
+	}
+	regiment = {
+		name="3rd St Petersburg Artillery"
+		type=artillery
+		home=994
+	}
+	regiment = {
+		name="1st Uglich Artillery"
+		type=artillery
+		home=991
+	}
+	regiment = {
+		name="4th St Petersburg Artillery"
+		type=artillery
+		home=994
+	}
+}
+
+army = {
+	name="45th Army"
+	location=1596
+	regiment = {
+		name="1st Uglich Infantry"
+		type=infantry
+		home=991
+	}
+	regiment = {
+		name="2nd Uglich Infantry"
+		type=infantry
+		home=991
+	}
+	regiment = {
+		name="1st Luga Infantry"
+		type=infantry
+		home=996
+	}
+	regiment = {
+		name="2nd Luga Infantry"
+		type=infantry
+		home=996
+	}
+	regiment = {
+		name="3rd Luga Infantry"
+		type=infantry
+		home=996
+	}
+	regiment = {
+		name="1st Kotlas Infantry"
+		type=infantry
+		home=990
+	}
+}
+
+army = {
+	name="Kuznetsk Tumen"
+	location=1077
+	regiment = {
+		name="1st Narym Infantry"
+		type=infantry
+		home=2683
+	}
+	regiment = {
+		name="1st Tambov Artillery"
+		type=artillery
+		home=1025
+	}
+	regiment = {
+		name="1st Krasnoyarsk Infantry"
+		type=infantry
+		home=1077
+	}
+	regiment = {
+		name="2nd Narym Infantry"
+		type=infantry
+		home=2683
+	}
+	regiment = {
+		name="2nd Tambov Infantry"
+		type=infantry
+		home=1025
+	}
+	regiment = {
+		name="1st Uriankhai Infantry"
+		type=infantry
+		home=1469
+	}
+	regiment = {
+		name="1st Kuznetsk Infantry"
+		type=infantry
+		home=2698
+	}
+	regiment = {
+		name="1st Krasnoyarsk Artillery"
+		type=artillery
+		home=1077
+	}
+	regiment = {
+		name="1st Tula Artillery"
+		type=artillery
+		home=1011
+	}
+	regiment = {
+		name="2nd Krasnoyarsk Artillery"
+		type=artillery
+		home=1077
+	}
+}
+
+army = {
+	name="Agan Tumen"
+	location=2684
+	regiment = {
+		name="1st Yeniseysk Artillery"
+		type=artillery
+		home=1070
+	}
+	regiment = {
+		name="1st Minusk Artillery"
+		type=artillery
+		home=2691
+	}
+	regiment = {
+		name="2nd Minusk Artillery"
+		type=artillery
+		home=2691
+	}
+	regiment = {
+		name="1st Belgorod Artillery"
+		type=artillery
+		home=1018
+	}
+}
+

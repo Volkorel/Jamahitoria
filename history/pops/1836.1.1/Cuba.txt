@@ -1,0 +1,1249 @@
+44 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 303
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 127
+	}
+
+	farmers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 91
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = norse_pagan_reformed
+		size= 264
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 299
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 33
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 66
+	}
+
+}
+2209 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 16131
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 7233
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 10803
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 841
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 777
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 78
+	}
+
+	slaves=
+	{
+		culture = tatar
+		religion = catholic
+		size= 22040
+	}
+
+	soldiers=
+	{
+		culture = dinajidad
+		religion = catholic
+		size= 2150
+	}
+
+	farmers=
+	{
+		culture = dinajidad
+		religion = catholic
+		size= 11337
+	}
+
+	artisans=
+	{
+		culture = dinajidad
+		religion = catholic
+		size= 10153
+	}
+
+	aristocrats=
+	{
+		culture = dinajidad
+		religion = catholic
+		size= 1826
+	}
+
+	clergymen=
+	{
+		culture = dinajidad
+		religion = catholic
+		size= 942
+	}
+
+	bureaucrats=
+	{
+		culture = dinajidad
+		religion = catholic
+		size= 260
+	}
+
+	officers=
+	{
+		culture = dinajidad
+		religion = catholic
+		size= 173
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 88
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = noreligion
+		size= 1295
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = noreligion
+		size= 126
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = noreligion
+		size= 136
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = noreligion
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = noreligion
+		size= 4
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = noreligion
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = noreligion
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = noreligion
+		size= 1142
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = jewish
+		size= 237
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 242
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 6
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 44
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = jewish
+		size= 5519
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 538
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 1285
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 119
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 33
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 231
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 3944
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 3341
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 326
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 2743
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 255
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 71
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 494
+	}
+
+}
+2210 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 11851
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 881
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 6412
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = catholic
+		size= 17116
+	}
+
+	soldiers=
+	{
+		culture = trattoloyan
+		religion = catholic
+		size= 1273
+	}
+
+	farmers=
+	{
+		culture = trattoloyan
+		religion = catholic
+		size= 4914
+	}
+
+	artisans=
+	{
+		culture = trattoloyan
+		religion = catholic
+		size= 3497
+	}
+
+	clergymen=
+	{
+		culture = trattoloyan
+		religion = catholic
+		size= 505
+	}
+
+	aristocrats=
+	{
+		culture = trattoloyan
+		religion = catholic
+		size= 870
+	}
+
+	bureaucrats=
+	{
+		culture = trattoloyan
+		religion = catholic
+		size= 123
+	}
+
+	officers=
+	{
+		culture = trattoloyan
+		religion = catholic
+		size= 93
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 463
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 216
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 31
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = noreligion
+		size= 811
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = noreligion
+		size= 60
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = noreligion
+		size= 42
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = noreligion
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = noreligion
+		size= 1
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = noreligion
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = noreligion
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = noreligion
+		size= 379
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = jewish
+		size= 149
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 74
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 3
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 19
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = jewish
+		size= 3381
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 251
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 389
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 14
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 97
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 1263
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 2168
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 161
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 848
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 122
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 211
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = protestant
+		size= 1229
+	}
+
+	soldiers=
+	{
+		culture = trattoloyan
+		religion = protestant
+		size= 91
+	}
+
+	artisans=
+	{
+		culture = trattoloyan
+		religion = protestant
+		size= 205
+	}
+
+	clergymen=
+	{
+		culture = trattoloyan
+		religion = protestant
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = trattoloyan
+		religion = protestant
+		size= 7
+	}
+
+	officers=
+	{
+		culture = trattoloyan
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = trattoloyan
+		religion = protestant
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = trattoloyan
+		religion = protestant
+		size= 367
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = norse_pagan_reformed
+		size= 3867
+	}
+
+	soldiers=
+	{
+		culture = trattoloyan
+		religion = norse_pagan_reformed
+		size= 287
+	}
+
+	artisans=
+	{
+		culture = trattoloyan
+		religion = norse_pagan_reformed
+		size= 882
+	}
+
+	clergymen=
+	{
+		culture = trattoloyan
+		religion = norse_pagan_reformed
+		size= 127
+	}
+
+	bureaucrats=
+	{
+		culture = trattoloyan
+		religion = norse_pagan_reformed
+		size= 31
+	}
+
+	officers=
+	{
+		culture = trattoloyan
+		religion = norse_pagan_reformed
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = trattoloyan
+		religion = norse_pagan_reformed
+		size= 220
+	}
+
+	farmers=
+	{
+		culture = trattoloyan
+		religion = norse_pagan_reformed
+		size= 809
+	}
+
+}
+2211 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 9878
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 658
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3770
+	}
+
+	slaves=
+	{
+		culture = tatar
+		religion = catholic
+		size= 11564
+	}
+
+	farmers=
+	{
+		culture = dinajidad
+		religion = catholic
+		size= 1652
+	}
+
+	soldiers=
+	{
+		culture = dinajidad
+		religion = catholic
+		size= 770
+	}
+
+	artisans=
+	{
+		culture = dinajidad
+		religion = catholic
+		size= 2273
+	}
+
+	aristocrats=
+	{
+		culture = dinajidad
+		religion = catholic
+		size= 565
+	}
+
+	clergymen=
+	{
+		culture = dinajidad
+		religion = catholic
+		size= 327
+	}
+
+	bureaucrats=
+	{
+		culture = dinajidad
+		religion = catholic
+		size= 60
+	}
+
+	officers=
+	{
+		culture = dinajidad
+		religion = catholic
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 958
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = norse_pagan_reformed
+		size= 4090
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 273
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 527
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 131
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 76
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 13
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 13
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 4440
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 296
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 1106
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 160
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 29
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 275
+	}
+
+	farmers=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 95
+	}
+
+}
+2212 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 5388
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 91
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3596
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = norse_pagan_reformed
+		size= 6237
+	}
+
+	farmers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 3747
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 105
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 314
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 28
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 7590
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 128
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 980
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 318
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 88
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 308
+	}
+
+	farmers=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 3352
+	}
+
+}

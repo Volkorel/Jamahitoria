@@ -1,0 +1,7 @@
+owner=X02
+controller=X00
+add_core=UKR
+add_core=X00
+add_core=X02
+trade_goods = cattle
+life_rating = 35

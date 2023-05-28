@@ -1,0 +1,8 @@
+owner=JAR
+controller=JAR
+add_core=IDO
+add_core=JAR
+add_core=LUA
+trade_goods = fruit
+life_rating = 32
+fort = 1

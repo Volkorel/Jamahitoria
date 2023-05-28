@@ -1,0 +1,9 @@
+owner=MAZ
+controller=X23
+add_core=MAZ
+add_core=POL
+add_core=WSF
+add_core=X23
+add_core=X28
+trade_goods = fruit
+life_rating = 35

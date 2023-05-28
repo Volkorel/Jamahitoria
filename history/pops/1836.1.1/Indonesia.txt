@@ -1,0 +1,5487 @@
+1398 = {
+	slaves=
+	{
+		culture = malay
+		religion = shiite
+		size= 3640
+	}
+
+	soldiers=
+	{
+		culture = malay
+		religion = shiite
+		size= 575
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = shiite
+		size= 1149
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = shiite
+		size= 216
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 14
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = shiite
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 241
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = shiite
+		size= 22876
+	}
+
+}
+1399 = {
+	slaves=
+	{
+		culture = malay
+		religion = hindu
+		size= 15514
+	}
+
+	soldiers=
+	{
+		culture = malay
+		religion = hindu
+		size= 1398
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = hindu
+		size= 5593
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = hindu
+		size= 909
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = hindu
+		size= 252
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = hindu
+		size= 112
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = hindu
+		size= 1762
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = hindu
+		size= 114289
+	}
+
+}
+1400 = {
+	soldiers=
+	{
+		culture = malay
+		religion = shiite
+		size= 446
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = shiite
+		size= 821
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = shiite
+		size= 154
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 11
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = shiite
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 173
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = shiite
+		size= 20682
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = sunni
+		size= 70
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = sunni
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = sunni
+		size= 1
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = sunni
+		size= 15
+	}
+
+}
+1401 = {
+	slaves=
+	{
+		culture = malay
+		religion = shiite
+		size= 6451
+	}
+
+	soldiers=
+	{
+		culture = malay
+		religion = shiite
+		size= 2149
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = shiite
+		size= 1535
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = shiite
+		size= 287
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 19
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = shiite
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 323
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = shiite
+		size= 27538
+	}
+
+}
+1402 = {
+	soldiers=
+	{
+		culture = malay
+		religion = shiite
+		size= 2266
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = shiite
+		size= 985
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = shiite
+		size= 185
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 12
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = shiite
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 207
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = shiite
+		size= 20916
+	}
+
+}
+1403 = {
+	slaves=
+	{
+		culture = malay
+		religion = hindu
+		size= 10342
+	}
+
+	soldiers=
+	{
+		culture = malay
+		religion = hindu
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = hindu
+		size= 19996
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = hindu
+		size= 928
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = hindu
+		size= 257
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = hindu
+		size= 229
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = hindu
+		size= 1800
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = hindu
+		size= 102043
+	}
+
+}
+1404 = {
+	soldiers=
+	{
+		culture = malay
+		religion = hindu
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = hindu
+		size= 1115
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = hindu
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = hindu
+		size= 29
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = hindu
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = hindu
+		size= 201
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = hindu
+		size= 2233
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 2105
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 1312
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 236
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 93
+	}
+
+}
+1405 = {
+	slaves=
+	{
+		culture = javan
+		religion = sunni
+		size= 185
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = sunni
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = sunni
+		size= 3464
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = sunni
+		size= 161
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = sunni
+		size= 64
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = sunni
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = sunni
+		size= 311
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = sunni
+		size= 19566
+	}
+
+	slaves=
+	{
+		culture = javan
+		religion = shiite
+		size= 20
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = shiite
+		size= 112
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = shiite
+		size= 873
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = shiite
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = shiite
+		size= 16
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = shiite
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = shiite
+		size= 79
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = shiite
+		size= 1887
+	}
+
+}
+1406 = {
+	soldiers=
+	{
+		culture = malay
+		religion = shiite
+		size= 3161
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = shiite
+		size= 4810
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = shiite
+		size= 258
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 59
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = shiite
+		size= 82
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 288
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = shiite
+		size= 25695
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = sunni
+		size= 480
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = sunni
+		size= 365
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = sunni
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = sunni
+		size= 4
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = sunni
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = sunni
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = sunni
+		size= 4324
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = shiite
+		size= 259
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = shiite
+		size= 760
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = shiite
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = shiite
+		size= 9
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = shiite
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = shiite
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = shiite
+		size= 1692
+	}
+
+}
+1407 = {
+	soldiers=
+	{
+		culture = javan
+		religion = sunni
+		size= 522
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = sunni
+		size= 746
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = sunni
+		size= 121
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = sunni
+		size= 49
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = sunni
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = sunni
+		size= 157
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = sunni
+		size= 17031
+	}
+
+	soldiers=
+	{
+		culture = malay
+		religion = hindu
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = hindu
+		size= 793
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = hindu
+		size= 129
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = hindu
+		size= 52
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = hindu
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = hindu
+		size= 167
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = hindu
+		size= 11416
+	}
+
+}
+1408 = {
+	slaves=
+	{
+		culture = malay
+		religion = hindu
+		size= 2638
+	}
+
+	soldiers=
+	{
+		culture = malay
+		religion = hindu
+		size= 558
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = hindu
+		size= 399
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = hindu
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = hindu
+		size= 17
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = hindu
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = hindu
+		size= 168
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = hindu
+		size= 16076
+	}
+
+	slaves=
+	{
+		culture = malay
+		religion = shiite
+		size= 840
+	}
+
+	soldiers=
+	{
+		culture = malay
+		religion = shiite
+		size= 178
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = shiite
+		size= 537
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = shiite
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 22
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = shiite
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = shiite
+		size= 4440
+	}
+
+	slaves=
+	{
+		culture = malay
+		religion = theravada
+		size= 3972
+	}
+
+	soldiers=
+	{
+		culture = malay
+		religion = theravada
+		size= 841
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = theravada
+		size= 1317
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = theravada
+		size= 213
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = theravada
+		size= 56
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = theravada
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = theravada
+		size= 553
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = theravada
+		size= 23008
+	}
+
+}
+1409 = {
+	slaves=
+	{
+		culture = malay
+		religion = hindu
+		size= 9954
+	}
+
+	soldiers=
+	{
+		culture = malay
+		religion = hindu
+		size= 38233
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = hindu
+		size= 5375
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = hindu
+		size= 873
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = hindu
+		size= 349
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = hindu
+		size= 108
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = hindu
+		size= 1129
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = hindu
+		size= 78361
+	}
+
+}
+1410 = {
+	soldiers=
+	{
+		culture = malay
+		religion = hindu
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = hindu
+		size= 1185
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = hindu
+		size= 193
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = hindu
+		size= 83
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = hindu
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = hindu
+		size= 373
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = hindu
+		size= 23642
+	}
+
+}
+1411 = {
+	soldiers=
+	{
+		culture = malay
+		religion = hindu
+		size= 120
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = hindu
+		size= 11851
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 2974
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 2353
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 210
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 108
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 46
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 48
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = hindu
+		size= 1
+	}
+
+}
+1413 = {
+	slaves=
+	{
+		culture = javan
+		religion = hindu
+		size= 60587
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = hindu
+		size= 31952
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = hindu
+		size= 79879
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = hindu
+		size= 4279
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 285
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = hindu
+		size= 913
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 7189
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = hindu
+		size= 385479
+	}
+
+}
+1414 = {
+	soldiers=
+	{
+		culture = javan
+		religion = hindu
+		size= 17440
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = hindu
+		size= 26538
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = hindu
+		size= 1422
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 170
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = hindu
+		size= 455
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 2388
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = hindu
+		size= 141151
+	}
+
+}
+1415 = {
+	soldiers=
+	{
+		culture = javan
+		religion = hindu
+		size= 9080
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = hindu
+		size= 22186
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = hindu
+		size= 1189
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 206
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = hindu
+		size= 460
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 1997
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = hindu
+		size= 162263
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = sunni
+		size= 707
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = sunni
+		size= 2892
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = sunni
+		size= 155
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = sunni
+		size= 27
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = sunni
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = sunni
+		size= 260
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = sunni
+		size= 11270
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = shiite
+		size= 1050
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = shiite
+		size= 7902
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = shiite
+		size= 423
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = shiite
+		size= 73
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = shiite
+		size= 164
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = shiite
+		size= 711
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = shiite
+		size= 12495
+	}
+
+}
+1416 = {
+	soldiers=
+	{
+		culture = javan
+		religion = hindu
+		size= 3490
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = hindu
+		size= 623
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = hindu
+		size= 117
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 8
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = hindu
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 131
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = hindu
+		size= 57930
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = sunni
+		size= 1820
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = sunni
+		size= 1273
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = sunni
+		size= 239
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = sunni
+		size= 16
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = sunni
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = sunni
+		size= 267
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = sunni
+		size= 28830
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = shiite
+		size= 2500
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = shiite
+		size= 3682
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = shiite
+		size= 690
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = shiite
+		size= 46
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = shiite
+		size= 147
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = shiite
+		size= 773
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = shiite
+		size= 36811
+	}
+
+}
+1417 = {
+	soldiers=
+	{
+		culture = javan
+		religion = hindu
+		size= 4980
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = hindu
+		size= 4274
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = hindu
+		size= 199
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 64
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = hindu
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 385
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = hindu
+		size= 124607
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = sunni
+		size= 1713
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = sunni
+		size= 8388
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = sunni
+		size= 389
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = sunni
+		size= 126
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = sunni
+		size= 119
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = sunni
+		size= 754
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = sunni
+		size= 34832
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = shiite
+		size= 4048
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = shiite
+		size= 27980
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = shiite
+		size= 1299
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = shiite
+		size= 419
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = shiite
+		size= 399
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = shiite
+		size= 2518
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = shiite
+		size= 72748
+	}
+
+}
+1418 = {
+	soldiers=
+	{
+		culture = javan
+		religion = hindu
+		size= 12532
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = hindu
+		size= 4768
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = hindu
+		size= 255
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 31
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = hindu
+		size= 81
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 572
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = hindu
+		size= 117980
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = sunni
+		size= 5740
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = sunni
+		size= 9134
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = sunni
+		size= 489
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = sunni
+		size= 59
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = sunni
+		size= 156
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = sunni
+		size= 1096
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = sunni
+		size= 45710
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = shiite
+		size= 7854
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = shiite
+		size= 25853
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = shiite
+		size= 1385
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = shiite
+		size= 166
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = shiite
+		size= 443
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = shiite
+		size= 3102
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = shiite
+		size= 46560
+	}
+
+}
+1419 = {
+	soldiers=
+	{
+		culture = javan
+		religion = hindu
+		size= 1132
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = hindu
+		size= 1414
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = hindu
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 9
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = hindu
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 170
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = hindu
+		size= 37589
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = sunni
+		size= 800
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = sunni
+		size= 3414
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = sunni
+		size= 183
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = sunni
+		size= 22
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = sunni
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = sunni
+		size= 410
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = sunni
+		size= 23686
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = shiite
+		size= 594
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = shiite
+		size= 7799
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = shiite
+		size= 418
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = shiite
+		size= 50
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = shiite
+		size= 117
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = shiite
+		size= 935
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = shiite
+		size= 11305
+	}
+
+}
+1420 = {
+	slaves=
+	{
+		culture = javan
+		religion = hindu
+		size= 5095
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = hindu
+		size= 8317
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = hindu
+		size= 2849
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = hindu
+		size= 152
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 26
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = hindu
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 342
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = hindu
+		size= 74231
+	}
+
+	slaves=
+	{
+		culture = javan
+		religion = sunni
+		size= 2942
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = sunni
+		size= 4803
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = sunni
+		size= 7134
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = sunni
+		size= 382
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = sunni
+		size= 66
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = sunni
+		size= 123
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = sunni
+		size= 856
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = sunni
+		size= 35938
+	}
+
+	slaves=
+	{
+		culture = javan
+		religion = shiite
+		size= 2350
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = shiite
+		size= 3837
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = shiite
+		size= 15822
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = shiite
+		size= 848
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = shiite
+		size= 147
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = shiite
+		size= 271
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = shiite
+		size= 1898
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = shiite
+		size= 16539
+	}
+
+}
+1421 = {
+	soldiers=
+	{
+		culture = javan
+		religion = hindu
+		size= 3335
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = hindu
+		size= 2084
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = hindu
+		size= 112
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 7
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = hindu
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = hindu
+		size= 53866
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = sunni
+		size= 1542
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = sunni
+		size= 4012
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = sunni
+		size= 215
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = sunni
+		size= 14
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = sunni
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = sunni
+		size= 241
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = sunni
+		size= 21471
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = shiite
+		size= 2250
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = shiite
+		size= 11721
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = shiite
+		size= 628
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = shiite
+		size= 42
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = shiite
+		size= 134
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = shiite
+		size= 703
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = shiite
+		size= 24695
+	}
+
+}
+1422 = {
+	slaves=
+	{
+		culture = bornean
+		religion = hindu
+		size= 2974
+	}
+
+	soldiers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 258
+	}
+
+	artisans=
+	{
+		culture = bornean
+		religion = hindu
+		size= 3609
+	}
+
+	clergymen=
+	{
+		culture = bornean
+		religion = hindu
+		size= 167
+	}
+
+	bureaucrats=
+	{
+		culture = bornean
+		religion = hindu
+		size= 67
+	}
+
+	officers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = bornean
+		religion = hindu
+		size= 217
+	}
+
+	farmers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 18466
+	}
+
+}
+1423 = {
+	soldiers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 1290
+	}
+
+	artisans=
+	{
+		culture = bornean
+		religion = hindu
+		size= 6446
+	}
+
+	clergymen=
+	{
+		culture = bornean
+		religion = hindu
+		size= 346
+	}
+
+	bureaucrats=
+	{
+		culture = bornean
+		religion = hindu
+		size= 41
+	}
+
+	officers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 96
+	}
+
+	aristocrats=
+	{
+		culture = bornean
+		religion = hindu
+		size= 387
+	}
+
+	farmers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 37435
+	}
+
+}
+1424 = {
+	soldiers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 450
+	}
+
+	artisans=
+	{
+		culture = bornean
+		religion = hindu
+		size= 2253
+	}
+
+	clergymen=
+	{
+		culture = bornean
+		religion = hindu
+		size= 120
+	}
+
+	bureaucrats=
+	{
+		culture = bornean
+		religion = hindu
+		size= 14
+	}
+
+	officers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = bornean
+		religion = hindu
+		size= 136
+	}
+
+	farmers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 13077
+	}
+
+}
+1425 = {
+	slaves=
+	{
+		culture = bornean
+		religion = hindu
+		size= 1940
+	}
+
+	soldiers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 653
+	}
+
+	artisans=
+	{
+		culture = bornean
+		religion = hindu
+		size= 3261
+	}
+
+	clergymen=
+	{
+		culture = bornean
+		religion = hindu
+		size= 174
+	}
+
+	bureaucrats=
+	{
+		culture = bornean
+		religion = hindu
+		size= 40
+	}
+
+	officers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = bornean
+		religion = hindu
+		size= 197
+	}
+
+	farmers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 16972
+	}
+
+}
+1426 = {
+	soldiers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 761
+	}
+
+	artisans=
+	{
+		culture = bornean
+		religion = hindu
+		size= 1249
+	}
+
+	clergymen=
+	{
+		culture = bornean
+		religion = hindu
+		size= 116
+	}
+
+	bureaucrats=
+	{
+		culture = bornean
+		religion = hindu
+		size= 16
+	}
+
+	officers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = bornean
+		religion = hindu
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 14151
+	}
+
+	soldiers=
+	{
+		culture = bornean
+		religion = mahayana
+		size= 116
+	}
+
+	artisans=
+	{
+		culture = bornean
+		religion = mahayana
+		size= 503
+	}
+
+	clergymen=
+	{
+		culture = bornean
+		religion = mahayana
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = bornean
+		religion = mahayana
+		size= 6
+	}
+
+	officers=
+	{
+		culture = bornean
+		religion = mahayana
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = bornean
+		religion = mahayana
+		size= 90
+	}
+
+	farmers=
+	{
+		culture = bornean
+		religion = mahayana
+		size= 1744
+	}
+
+	soldiers=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 526
+	}
+
+	artisans=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 2517
+	}
+
+	clergymen=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 233
+	}
+
+	bureaucrats=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 31
+	}
+
+	officers=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 453
+	}
+
+	farmers=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 7635
+	}
+
+	soldiers=
+	{
+		culture = bornean
+		religion = shiite
+		size= 429
+	}
+
+	artisans=
+	{
+		culture = bornean
+		religion = shiite
+		size= 1306
+	}
+
+	clergymen=
+	{
+		culture = bornean
+		religion = shiite
+		size= 121
+	}
+
+	bureaucrats=
+	{
+		culture = bornean
+		religion = shiite
+		size= 16
+	}
+
+	officers=
+	{
+		culture = bornean
+		religion = shiite
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = bornean
+		religion = shiite
+		size= 235
+	}
+
+	farmers=
+	{
+		culture = bornean
+		religion = shiite
+		size= 7202
+	}
+
+}
+1427 = {
+	slaves=
+	{
+		culture = bornean
+		religion = hindu
+		size= 2858
+	}
+
+	soldiers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 372
+	}
+
+	artisans=
+	{
+		culture = bornean
+		religion = hindu
+		size= 1490
+	}
+
+	clergymen=
+	{
+		culture = bornean
+		religion = hindu
+		size= 242
+	}
+
+	bureaucrats=
+	{
+		culture = bornean
+		religion = hindu
+		size= 119
+	}
+
+	officers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = bornean
+		religion = hindu
+		size= 469
+	}
+
+	farmers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 31664
+	}
+
+}
+1428 = {
+	slaves=
+	{
+		culture = bornean
+		religion = hindu
+		size= 1905
+	}
+
+	soldiers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 162
+	}
+
+	artisans=
+	{
+		culture = bornean
+		religion = hindu
+		size= 648
+	}
+
+	clergymen=
+	{
+		culture = bornean
+		religion = hindu
+		size= 105
+	}
+
+	bureaucrats=
+	{
+		culture = bornean
+		religion = hindu
+		size= 52
+	}
+
+	officers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = bornean
+		religion = hindu
+		size= 204
+	}
+
+	farmers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 13104
+	}
+
+}
+1429 = {
+	slaves=
+	{
+		culture = bornean
+		religion = hindu
+		size= 4957
+	}
+
+	soldiers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = bornean
+		religion = hindu
+		size= 4462
+	}
+
+	clergymen=
+	{
+		culture = bornean
+		religion = hindu
+		size= 207
+	}
+
+	bureaucrats=
+	{
+		culture = bornean
+		religion = hindu
+		size= 83
+	}
+
+	officers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = bornean
+		religion = hindu
+		size= 267
+	}
+
+	farmers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 20843
+	}
+
+}
+1430 = {
+	slaves=
+	{
+		culture = moluccan
+		religion = animist
+		size= 3529
+	}
+
+	soldiers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 106
+	}
+
+	artisans=
+	{
+		culture = moluccan
+		religion = animist
+		size= 212
+	}
+
+	clergymen=
+	{
+		culture = moluccan
+		religion = animist
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 14
+	}
+
+	officers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 6679
+	}
+
+	slaves=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 1395
+	}
+
+	soldiers=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 42
+	}
+
+	artisans=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 381
+	}
+
+	clergymen=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 25
+	}
+
+	officers=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 2209
+	}
+
+}
+1431 = {
+	slaves=
+	{
+		culture = moluccan
+		religion = animist
+		size= 2472
+	}
+
+	soldiers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 830
+	}
+
+	artisans=
+	{
+		culture = moluccan
+		religion = animist
+		size= 1816
+	}
+
+	clergymen=
+	{
+		culture = moluccan
+		religion = animist
+		size= 169
+	}
+
+	bureaucrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 18
+	}
+
+	officers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 163
+	}
+
+	farmers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 24178
+	}
+
+	slaves=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 585
+	}
+
+	soldiers=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 196
+	}
+
+	artisans=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 2550
+	}
+
+	clergymen=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 236
+	}
+
+	bureaucrats=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 25
+	}
+
+	officers=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 229
+	}
+
+	farmers=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 3172
+	}
+
+	slaves=
+	{
+		culture = moluccan
+		religion = sunni
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = moluccan
+		religion = sunni
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = moluccan
+		religion = sunni
+		size= 789
+	}
+
+	clergymen=
+	{
+		culture = moluccan
+		religion = sunni
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = moluccan
+		religion = sunni
+		size= 8
+	}
+
+	officers=
+	{
+		culture = moluccan
+		religion = sunni
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = moluccan
+		religion = sunni
+		size= 71
+	}
+
+}
+1432 = {
+	slaves=
+	{
+		culture = moluccan
+		religion = animist
+		size= 6075
+	}
+
+	soldiers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 583
+	}
+
+	artisans=
+	{
+		culture = moluccan
+		religion = animist
+		size= 3004
+	}
+
+	clergymen=
+	{
+		culture = moluccan
+		religion = animist
+		size= 160
+	}
+
+	bureaucrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 28
+	}
+
+	officers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 541
+	}
+
+	farmers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 18712
+	}
+
+	slaves=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 544
+	}
+
+	soldiers=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 52
+	}
+
+	artisans=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 1438
+	}
+
+	clergymen=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 13
+	}
+
+	officers=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 259
+	}
+
+	farmers=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 217
+	}
+
+}
+1433 = {
+	slaves=
+	{
+		culture = moluccan
+		religion = animist
+		size= 7984
+	}
+
+	soldiers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 1872
+	}
+
+	artisans=
+	{
+		culture = moluccan
+		religion = animist
+		size= 9361
+	}
+
+	clergymen=
+	{
+		culture = moluccan
+		religion = animist
+		size= 434
+	}
+
+	bureaucrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 187
+	}
+
+	officers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 107
+	}
+
+	aristocrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 842
+	}
+
+	farmers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 46079
+	}
+
+}
+1434 = {
+	slaves=
+	{
+		culture = moluccan
+		religion = animist
+		size= 2907
+	}
+
+	soldiers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 678
+	}
+
+	artisans=
+	{
+		culture = moluccan
+		religion = animist
+		size= 1696
+	}
+
+	clergymen=
+	{
+		culture = moluccan
+		religion = animist
+		size= 157
+	}
+
+	bureaucrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 44
+	}
+
+	officers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 153
+	}
+
+	farmers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 18570
+	}
+
+	slaves=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 117
+	}
+
+	soldiers=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 1832
+	}
+
+	clergymen=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 170
+	}
+
+	bureaucrats=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 47
+	}
+
+	officers=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 165
+	}
+
+}
+1435 = {
+	slaves=
+	{
+		culture = moluccan
+		religion = animist
+		size= 3048
+	}
+
+	soldiers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 711
+	}
+
+	artisans=
+	{
+		culture = moluccan
+		religion = animist
+		size= 3557
+	}
+
+	clergymen=
+	{
+		culture = moluccan
+		religion = animist
+		size= 165
+	}
+
+	bureaucrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 71
+	}
+
+	officers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 320
+	}
+
+	farmers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 17491
+	}
+
+}
+1436 = {
+	soldiers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 484
+	}
+
+	artisans=
+	{
+		culture = moluccan
+		religion = animist
+		size= 1109
+	}
+
+	clergymen=
+	{
+		culture = moluccan
+		religion = animist
+		size= 103
+	}
+
+	bureaucrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 28
+	}
+
+	officers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 8690
+	}
+
+	soldiers=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 77
+	}
+
+	artisans=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 601
+	}
+
+	clergymen=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 15
+	}
+
+	officers=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = moluccan
+		religion = shiite
+		size= 867
+	}
+
+}
+1437 = {
+	soldiers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 664
+	}
+
+	artisans=
+	{
+		culture = moluccan
+		religion = animist
+		size= 1660
+	}
+
+	clergymen=
+	{
+		culture = moluccan
+		religion = animist
+		size= 89
+	}
+
+	bureaucrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 6
+	}
+
+	officers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 9317
+	}
+
+}
+1438 = {
+	slaves=
+	{
+		culture = javan
+		religion = hindu
+		size= 19690
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = hindu
+		size= 8781
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = hindu
+		size= 6272
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = hindu
+		size= 1176
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 78
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = hindu
+		size= 251
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 1317
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = hindu
+		size= 119242
+	}
+
+}
+1439 = {
+	slaves=
+	{
+		culture = javan
+		religion = animist
+		size= 1983
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = animist
+		size= 1499
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = animist
+		size= 7495
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = animist
+		size= 348
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = animist
+		size= 150
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = animist
+		size= 86
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = animist
+		size= 1349
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = animist
+		size= 40625
+	}
+
+}
+1440 = {
+	soldiers=
+	{
+		culture = javan
+		religion = animist
+		size= 468
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = animist
+		size= 46320
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 8537
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 7729
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 768
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 396
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 141
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 171
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 48
+	}
+
+}
+1441 = {
+	soldiers=
+	{
+		culture = javan
+		religion = animist
+		size= 1049
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = animist
+		size= 36404
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = catholic
+		size= 329
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = catholic
+		size= 9444
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = catholic
+		size= 1967
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = catholic
+		size= 412
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = catholic
+		size= 320
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = catholic
+		size= 98
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = catholic
+		size= 78
+	}
+
+}
+1442 = {
+	soldiers=
+	{
+		culture = javan
+		religion = animist
+		size= 651
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = animist
+		size= 1628
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = animist
+		size= 76
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = animist
+		size= 23
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = animist
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = animist
+		size= 146
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = animist
+		size= 20709
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = hindu
+		size= 749
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = hindu
+		size= 5372
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = hindu
+		size= 249
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 77
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = hindu
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = hindu
+		size= 484
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = hindu
+		size= 19756
+	}
+
+}
+1443 = {
+	soldiers=
+	{
+		culture = javan
+		religion = animist
+		size= 118
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = animist
+		size= 147
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = animist
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = animist
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = animist
+		size= 3913
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 697
+	}
+
+	clergymen=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 12
+	}
+
+	officers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 63
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 1136
+	}
+
+}
+1444 = {
+	soldiers=
+	{
+		culture = javan
+		religion = animist
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = animist
+		size= 1249
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = animist
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = animist
+		size= 25
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = animist
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = animist
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = animist
+		size= 7101
+	}
+
+}
+1445 = {
+	soldiers=
+	{
+		culture = javan
+		religion = animist
+		size= 121
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = animist
+		size= 151
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = animist
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = animist
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = animist
+		size= 4025
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 717
+	}
+
+	clergymen=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 13
+	}
+
+	officers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 65
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 1168
+	}
+
+}
+1446 = {
+	soldiers=
+	{
+		culture = javan
+		religion = animist
+		size= 440
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = animist
+		size= 550
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = animist
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = animist
+		size= 13
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = animist
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = animist
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = animist
+		size= 14619
+	}
+
+	soldiers=
+	{
+		culture = javan
+		religion = noreligion
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = noreligion
+		size= 561
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = noreligion
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = noreligion
+		size= 13
+	}
+
+	officers=
+	{
+		culture = javan
+		religion = noreligion
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = noreligion
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 184
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 2030
+	}
+
+	clergymen=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 46
+	}
+
+	officers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 183
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 4005
+	}
+
+}
+1447 = {
+	slaves=
+	{
+		culture = moluccan
+		religion = animist
+		size= 1829
+	}
+
+	soldiers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 771
+	}
+
+	artisans=
+	{
+		culture = moluccan
+		religion = animist
+		size= 2912
+	}
+
+	clergymen=
+	{
+		culture = moluccan
+		religion = animist
+		size= 135
+	}
+
+	bureaucrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 50
+	}
+
+	officers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 262
+	}
+
+	farmers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 21573
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 1160
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 1273
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 114
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 22
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 14
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = noreligion
+		size= 152
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 64
+	}
+
+}
+1448 = {
+	soldiers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 244
+	}
+
+	farmers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 7241
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 251
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 276
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 6
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = moluccan
+		religion = animist
+		size= 1012
+	}
+
+	clergymen=
+	{
+		culture = moluccan
+		religion = animist
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 26
+	}
+
+	officers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 91
+	}
+
+}
+1449 = {
+	soldiers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 1542
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 306
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 26
+	}
+
+	clergymen=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 4
+	}
+
+	officers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 367
+	}
+
+	artisans=
+	{
+		culture = moluccan
+		religion = animist
+		size= 2
+	}
+
+}
+1450 = {
+	soldiers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 286
+	}
+
+	artisans=
+	{
+		culture = moluccan
+		religion = animist
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 9931
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 1970
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 177
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 2269
+	}
+
+	clergymen=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 91
+	}
+
+	bureaucrats=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 28
+	}
+
+	officers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 22
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 107
+	}
+
+}
+1451 = {
+	soldiers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 138
+	}
+
+	artisans=
+	{
+		culture = moluccan
+		religion = animist
+		size= 353
+	}
+
+	clergymen=
+	{
+		culture = moluccan
+		religion = animist
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 8
+	}
+
+	officers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = moluccan
+		religion = animist
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = moluccan
+		religion = animist
+		size= 4363
+	}
+
+	artisans=
+	{
+		culture = moluccan
+		religion = noreligion
+		size= 49
+	}
+
+	clergymen=
+	{
+		culture = moluccan
+		religion = noreligion
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = moluccan
+		religion = noreligion
+		size= 1
+	}
+
+	officers=
+	{
+		culture = moluccan
+		religion = noreligion
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = moluccan
+		religion = noreligion
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 442
+	}
+
+	clergymen=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 10
+	}
+
+	officers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 40
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 652
+	}
+
+}
+1452 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 78
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1098
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 8
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 132
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 6471
+	}
+
+}
+1453 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 215
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2997
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 139
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 22
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 360
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 17652
+	}
+
+}
+1454 = {
+	slaves=
+	{
+		culture = melanesian
+		religion = animist
+		size= 3456
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 372
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 5201
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 242
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 37
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 624
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 27167
+	}
+
+}
+1560 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 298
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1194
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 194
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 30
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 502
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 27592
+	}
+
+}
+2576 = {
+	soldiers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 85
+	}
+
+	artisans=
+	{
+		culture = bornean
+		religion = hindu
+		size= 140
+	}
+
+	clergymen=
+	{
+		culture = bornean
+		religion = hindu
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = bornean
+		religion = hindu
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 1592
+	}
+
+	soldiers=
+	{
+		culture = bornean
+		religion = mahayana
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = bornean
+		religion = mahayana
+		size= 56
+	}
+
+	clergymen=
+	{
+		culture = bornean
+		religion = mahayana
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = bornean
+		religion = mahayana
+		size= 1
+	}
+
+	officers=
+	{
+		culture = bornean
+		religion = mahayana
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = bornean
+		religion = mahayana
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = bornean
+		religion = mahayana
+		size= 197
+	}
+
+	officers=
+	{
+		culture = bornean
+		religion = hindu
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 59
+	}
+
+	artisans=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 283
+	}
+
+	clergymen=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 4
+	}
+
+	officers=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 857
+	}
+
+	bureaucrats=
+	{
+		culture = bornean
+		religion = hindu
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = bornean
+		religion = shiite
+		size= 48
+	}
+
+	artisans=
+	{
+		culture = bornean
+		religion = shiite
+		size= 147
+	}
+
+	clergymen=
+	{
+		culture = bornean
+		religion = shiite
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = bornean
+		religion = shiite
+		size= 2
+	}
+
+	officers=
+	{
+		culture = bornean
+		religion = shiite
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = bornean
+		religion = shiite
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = bornean
+		religion = shiite
+		size= 809
+	}
+
+}
+2647 = {
+	soldiers=
+	{
+		culture = javan
+		religion = animist
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = animist
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = javan
+		religion = animist
+		size= 917
+	}
+
+	artisans=
+	{
+		culture = javan
+		religion = noreligion
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = javan
+		religion = noreligion
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = javan
+		religion = noreligion
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = javan
+		religion = noreligion
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 127
+	}
+
+	clergymen=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 3
+	}
+
+	officers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 252
+	}
+
+}

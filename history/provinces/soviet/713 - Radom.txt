@@ -1,0 +1,7 @@
+owner=X39
+controller=REB
+add_core=POL
+add_core=WSF
+add_core=X39
+trade_goods = coal
+life_rating = 35

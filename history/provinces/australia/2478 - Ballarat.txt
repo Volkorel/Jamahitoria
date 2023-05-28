@@ -1,0 +1,4 @@
+owner=X36
+controller=X36
+trade_goods = wool
+life_rating = 33

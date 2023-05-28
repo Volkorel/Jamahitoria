@@ -1,0 +1,272 @@
+1201 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 2757
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 4430
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 320
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 25
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 79
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 482
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 41132
+	}
+
+}
+1207 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = shiite
+		size= 6106
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = shiite
+		size= 2051
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = shiite
+		size= 1465
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = shiite
+		size= 238
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = shiite
+		size= 18
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = shiite
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = shiite
+		size= 308
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = shiite
+		size= 26388
+	}
+
+}
+1208 = {
+	slaves=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 1737
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 731
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 261
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 3
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 10208
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = shiite
+		size= 3239
+	}
+
+	soldiers=
+	{
+		culture = turkish
+		religion = shiite
+		size= 83
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = shiite
+		size= 320
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = shiite
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = shiite
+		size= 4
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = shiite
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = shiite
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = shiite
+		size= 748
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size= 913
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size= 148
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size= 11
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size= 192
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size= 14361
+	}
+
+}

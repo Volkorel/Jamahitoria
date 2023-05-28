@@ -1,0 +1,22 @@
+name = "Free Frysk-Malaccan Imperialist War"
+
+1720.9.1 = {
+	add_attacker = X06
+	add_attacker = LAN
+	add_attacker = USA
+	add_attacker = SAF
+	add_attacker = X57
+	add_attacker = X36
+	add_attacker = FLR
+	add_defender = MLC
+	add_defender = BRU
+	add_defender = PAT
+	add_defender = X31
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = X06
+		receiver = MLC
+		country = MLC
+	}
+}

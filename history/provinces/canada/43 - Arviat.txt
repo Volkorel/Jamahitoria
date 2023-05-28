@@ -1,0 +1,6 @@
+owner=X57
+controller=X57
+trade_goods = cotton
+life_rating = 35
+colonial=2
+fort = 1

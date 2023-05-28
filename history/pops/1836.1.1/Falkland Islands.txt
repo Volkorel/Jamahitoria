@@ -1,0 +1,23 @@
+2131 = {
+	farmers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 66
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+}

@@ -1,0 +1,9 @@
+owner=X31
+controller=X31
+add_core=ANN
+add_core=IDO
+add_core=X31
+trade_goods = grain
+life_rating = 34
+naval_base = 2
+fort = 1

@@ -1,0 +1,344 @@
+2197 = {
+	soldiers=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 356
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 12360
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 1000
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 32233
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 1940
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 315
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 407
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 96
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 101
+	}
+
+}
+2198 = {
+	soldiers=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 71
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 2472
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 196
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 6450
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 388
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 81
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 19
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 19
+	}
+
+}
+2199 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 3967
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 6985
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 468
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 98
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 75
+	}
+
+}
+2200 = {
+	slaves=
+	{
+		culture = afro_antillean
+		religion = animist
+		size= 60
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 270
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 665
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 20
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 362
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 93
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 398
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 721
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 2
+	}
+
+}

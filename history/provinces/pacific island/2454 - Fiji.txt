@@ -1,0 +1,6 @@
+owner=FJL
+controller=FJL
+add_core=FJL
+trade_goods = fish
+life_rating = 15
+naval_base = 2

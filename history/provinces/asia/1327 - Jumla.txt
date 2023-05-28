@@ -1,0 +1,7 @@
+owner=X51
+controller=X51
+add_core=HND
+add_core=X51
+trade_goods = wool
+life_rating = 25
+fort = 1

@@ -1,0 +1,7 @@
+owner=JAR
+controller=JAR
+add_core=IDO
+add_core=JAR
+trade_goods = fish
+life_rating = 35
+naval_base = 2

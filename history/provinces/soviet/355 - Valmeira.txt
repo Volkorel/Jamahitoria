@@ -1,0 +1,7 @@
+owner=X52
+controller=EST
+add_core=X52
+trade_goods = cattle
+life_rating = 35
+naval_base = 1
+fort = 1

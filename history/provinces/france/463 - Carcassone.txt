@@ -1,0 +1,12 @@
+owner=X42
+controller=TUL
+add_core=FRA
+add_core=GYN
+add_core=HLR
+add_core=OCC
+add_core=TUL
+add_core=X42
+trade_goods = grain
+life_rating = 31
+naval_base = 2
+fort = 1

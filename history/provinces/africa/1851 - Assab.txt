@@ -1,0 +1,8 @@
+owner=X46
+controller=X46
+add_core=X46
+trade_goods = fish
+life_rating = 31
+terrain = desert
+naval_base = 1
+fort = 1

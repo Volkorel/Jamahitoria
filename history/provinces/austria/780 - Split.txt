@@ -1,0 +1,14 @@
+owner=X04
+controller=X04
+add_core=GRE
+add_core=HRZ
+add_core=X04
+trade_goods = fish
+life_rating = 35
+naval_base = 1
+state_building=
+{
+	level=1
+	building = furniture_factory
+	upgrade = yes
+}

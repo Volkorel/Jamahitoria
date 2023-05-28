@@ -1,0 +1,4 @@
+owner=ZAF
+controller=X05
+trade_goods = fruit
+life_rating = 35

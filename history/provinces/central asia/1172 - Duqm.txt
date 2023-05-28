@@ -1,0 +1,9 @@
+owner=MHR
+controller=ARA
+add_core=ARA
+add_core=MHR
+trade_goods = fish
+life_rating = 20
+terrain = desert
+naval_base = 1
+fort = 1

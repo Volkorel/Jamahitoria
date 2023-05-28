@@ -1,0 +1,6 @@
+owner=BOU
+controller=BOU
+add_core=BOU
+add_core=HLR
+trade_goods = cattle
+life_rating = 31

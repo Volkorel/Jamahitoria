@@ -1,0 +1,8 @@
+owner=X05
+controller=X05
+add_core=ZAF
+trade_goods = fish
+life_rating = 15
+terrain = semidesert
+colonial=2
+naval_base = 2

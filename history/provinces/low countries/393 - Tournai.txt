@@ -1,0 +1,14 @@
+owner=X06
+controller=X06
+add_core=BEL
+add_core=FLA
+add_core=X06
+trade_goods = coal
+life_rating = 35
+terrain = mining_district
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

@@ -1,0 +1,7 @@
+owner=X31
+controller=X31
+add_core=KHA
+add_core=MGL
+add_core=X31
+trade_goods = grain
+life_rating = 32

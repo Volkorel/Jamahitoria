@@ -1,0 +1,7 @@
+owner=X41
+controller=X41
+trade_goods = fish
+life_rating = 15
+terrain = small_island
+colonial=2
+naval_base = 1

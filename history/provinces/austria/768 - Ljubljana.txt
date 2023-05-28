@@ -1,0 +1,8 @@
+owner=X35
+controller=X35
+add_core=SLO
+add_core=X35
+add_core=YUG
+trade_goods = grain
+life_rating = 35
+fort = 1

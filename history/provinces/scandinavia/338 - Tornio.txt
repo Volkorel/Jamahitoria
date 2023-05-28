@@ -1,0 +1,9 @@
+owner=X53
+controller=SWE
+add_core=SCA
+add_core=SMI
+add_core=X53
+trade_goods = iron
+life_rating = 10
+terrain = boreal
+fort = 1

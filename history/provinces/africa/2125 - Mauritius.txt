@@ -1,0 +1,5 @@
+owner=X36
+controller=X36
+trade_goods = fruit
+life_rating = 35
+terrain = mountain

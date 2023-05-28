@@ -1,0 +1,377 @@
+2234 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 205
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 20
+	}
+
+	craftsmen=
+	{
+		culture = carribean
+		religion = animist
+		size= 1805
+	}
+
+	craftsmen=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 1003
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = jewish
+		size= 719
+	}
+
+	clerks=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 85
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 13
+	}
+
+	capitalists=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 1
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = jewish
+		size= 60
+	}
+
+	craftsmen=
+	{
+		culture = yankee
+		religion = jewish
+		size= 5359
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = jewish
+		size= 108
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = jewish
+		size= 18
+	}
+
+	clerks=
+	{
+		culture = yankee
+		religion = jewish
+		size= 408
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = jewish
+		size= 5
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = jewish
+		size= 6
+	}
+
+	capitalists=
+	{
+		culture = yankee
+		religion = jewish
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = jewish
+		size= 68
+	}
+
+}
+2235 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 40
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 93
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 46
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 4
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = jewish
+		size= 139
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = jewish
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = jewish
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = jewish
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = jewish
+		size= 1
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = jewish
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = jewish
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = jewish
+		size= 238
+	}
+
+}
+2236 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 46
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 121
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 18
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = jewish
+		size= 106
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 43
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = jewish
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = jewish
+		size= 63
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = jewish
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = jewish
+		size= 1
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = jewish
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = jewish
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = jewish
+		size= 146
+	}
+
+}

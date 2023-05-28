@@ -1,0 +1,7 @@
+owner=X03
+controller=X03
+add_core=KAZ
+add_core=X43
+trade_goods = wool
+life_rating = 30
+colonial=2

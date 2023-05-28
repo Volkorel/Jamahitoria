@@ -1,0 +1,7936 @@
+2137 = {
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 400
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 6737
+	}
+
+	farmers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 9158
+	}
+
+	soldiers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 715
+	}
+
+	aristocrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 115
+	}
+
+	bureaucrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 27
+	}
+
+	officers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 27
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = totemism
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = totemism
+		size= 109
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = navajo
+		religion = totemism
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = navajo
+		religion = totemism
+		size= 203
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = navajo
+		religion = totemism
+		size= 13
+	}
+
+	clergymen=
+	{
+		culture = navajo
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = navajo
+		religion = totemism
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = navajo
+		religion = mahayana
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = navajo
+		religion = mahayana
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = navajo
+		religion = mahayana
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = navajo
+		religion = mahayana
+		size= 1
+	}
+
+	officers=
+	{
+		culture = navajo
+		religion = mahayana
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = navajo
+		religion = mahayana
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = navajo
+		religion = mahayana
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 42
+	}
+
+}
+2138 = {
+	soldiers=
+	{
+		culture = sonoran
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = animist
+		size= 409
+	}
+
+	farmers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 480
+	}
+
+	artisans=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 37
+	}
+
+	clergymen=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 1
+	}
+
+	officers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 1
+	}
+
+}
+2139 = {
+	soldiers=
+	{
+		culture = sonoran
+		religion = animist
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = animist
+		size= 295
+	}
+
+	farmers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 2081
+	}
+
+	artisans=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 144
+	}
+
+	clergymen=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 29
+	}
+
+	soldiers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 133
+	}
+
+	bureaucrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 5
+	}
+
+	officers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 879
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = totemism
+		size= 5
+	}
+
+}
+2140 = {
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 1053
+	}
+
+	farmers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 1490
+	}
+
+	artisans=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 110
+	}
+
+	clergymen=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 22
+	}
+
+	soldiers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 95
+	}
+
+	bureaucrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 4
+	}
+
+	officers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = totemism
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = navajo
+		religion = totemism
+		size= 33
+	}
+
+	soldiers=
+	{
+		culture = navajo
+		religion = totemism
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = navajo
+		religion = totemism
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = navajo
+		religion = mahayana
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = navajo
+		religion = mahayana
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 7
+	}
+
+}
+2141 = {
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 332
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 5698
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 78
+	}
+
+	soldiers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 274
+	}
+
+	farmers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 3961
+	}
+
+	artisans=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 614
+	}
+
+	aristocrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 58
+	}
+
+	clergymen=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 10
+	}
+
+	officers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = dinajidad
+		religion = catholic
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = dinajidad
+		religion = catholic
+		size= 156
+	}
+
+	soldiers=
+	{
+		culture = zapotec
+		religion = catholic
+		size= 86
+	}
+
+	farmers=
+	{
+		culture = zapotec
+		religion = catholic
+		size= 1413
+	}
+
+	artisans=
+	{
+		culture = zapotec
+		religion = catholic
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = zapotec
+		religion = catholic
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = zapotec
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = zapotec
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = zapotec
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = zapotec
+		religion = mahayana
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = zapotec
+		religion = mahayana
+		size= 72
+	}
+
+	clergymen=
+	{
+		culture = zapotec
+		religion = mahayana
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = zapotec
+		religion = mahayana
+		size= 1
+	}
+
+	officers=
+	{
+		culture = zapotec
+		religion = mahayana
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = zapotec
+		religion = mahayana
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = zapotec
+		religion = mahayana
+		size= 134
+	}
+
+	soldiers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 420
+	}
+
+	clergymen=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 39
+	}
+
+}
+2142 = {
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 320
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 57
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 11033
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = mahayana
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = mahayana
+		size= 60
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = mahayana
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = mahayana
+		size= 3
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = mahayana
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = mahayana
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = mahayana
+		size= 198
+	}
+
+	soldiers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 134
+	}
+
+	artisans=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 213
+	}
+
+	clergymen=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 11
+	}
+
+	officers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 4348
+	}
+
+	soldiers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 380
+	}
+
+	clergymen=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 19
+	}
+
+	officers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 644
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1041
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 121
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 48
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 4112
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 61
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 257
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 122
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 26
+	}
+
+}
+2143 = {
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 81
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1691
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 351
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = mahayana
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = mahayana
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = mahayana
+		size= 1
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = mahayana
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = mahayana
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = mahayana
+		size= 51
+	}
+
+	soldiers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 52
+	}
+
+	artisans=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 3
+	}
+
+	officers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 1037
+	}
+
+	soldiers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 13
+	}
+
+}
+2144 = {
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1134
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = mahayana
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = mahayana
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = mahayana
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = mahayana
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = mahayana
+		size= 21
+	}
+
+	soldiers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 22
+	}
+
+	clergymen=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 1
+	}
+
+	officers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 446
+	}
+
+	soldiers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 39
+	}
+
+	clergymen=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = catholic
+		size= 66
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 107
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 423
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 28
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 13
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 3
+	}
+
+}
+2145 = {
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 969
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 515
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 1597
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 319
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 29
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 90
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 236
+	}
+
+	farmers=
+	{
+		culture = dinajidad
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = east_asian_central_america_superregion_culture
+		religion = mahayana
+		size= 171
+	}
+
+	artisans=
+	{
+		culture = east_asian_central_america_superregion_culture
+		religion = mahayana
+		size= 21
+	}
+
+	soldiers=
+	{
+		culture = east_asian_central_america_superregion_culture
+		religion = mahayana
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = east_asian_central_america_superregion_culture
+		religion = mahayana
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = east_asian_central_america_superregion_culture
+		religion = mahayana
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = east_asian_central_america_superregion_culture
+		religion = catholic
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = east_asian_central_america_superregion_culture
+		religion = catholic
+		size= 26
+	}
+
+	clergymen=
+	{
+		culture = east_asian_central_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = east_asian_central_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = east_asian_central_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = east_asian_central_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = east_asian_central_america_superregion_culture
+		religion = catholic
+		size= 20
+	}
+
+}
+2147 = {
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1502
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = noreligion
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = noreligion
+		size= 108
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = noreligion
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = noreligion
+		size= 3
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = noreligion
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = noreligion
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = noreligion
+		size= 1752
+	}
+
+}
+2148 = {
+	soldiers=
+	{
+		culture = navajo
+		religion = totemism
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = navajo
+		religion = totemism
+		size= 328
+	}
+
+	farmers=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 835
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 301
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = totemism
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 220
+	}
+
+	artisans=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 61
+	}
+
+	clergymen=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 1
+	}
+
+	officers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 27
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = noreligion
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = noreligion
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = noreligion
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = noreligion
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = noreligion
+		size= 60
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 86
+	}
+
+	clergymen=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 2
+	}
+
+}
+2149 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = totemism
+		size= 43
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = totemism
+		size= 85
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = totemism
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = totemism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = totemism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = totemism
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = totemism
+		size= 4099
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = noreligion
+		size= 54
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = noreligion
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = noreligion
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = noreligion
+		size= 8
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = noreligion
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = noreligion
+		size= 63
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = noreligion
+		size= 4888
+	}
+
+}
+2150 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 83
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 2855
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = totemism
+		size= 230
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = totemism
+		size= 97
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = totemism
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = totemism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = totemism
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = totemism
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = totemism
+		size= 7838
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 57
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 152
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 64
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 1714
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 39
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 319
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 134
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 811
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 332
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 11344
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = animist
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = animist
+		size= 547
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = animist
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 109
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = animist
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 18
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = animist
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 94
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 191
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 5
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2947
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 41
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 374
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 157
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 800
+	}
+
+}
+2151 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 981
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = totemism
+		size= 79
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = totemism
+		size= 33
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = totemism
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = totemism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = totemism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = totemism
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = totemism
+		size= 2695
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 52
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 590
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 110
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 278
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 114
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 3899
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = animist
+		size= 189
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = animist
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = animist
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 32
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 66
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 1012
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 129
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 275
+	}
+
+}
+2152 = {
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 2283
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 82
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 94
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 5
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 8009
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 119
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 490
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 234
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 49
+	}
+
+}
+2153 = {
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 291
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 6133
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 455
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 8039
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 1546
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 288
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 464
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 111
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 60
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 80
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 3
+	}
+
+}
+2154 = {
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 199
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 4299
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 319
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 5628
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 1082
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 322
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 201
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 57
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 2
+	}
+
+}
+2155 = {
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 2915
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 98
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 112
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 6
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 9498
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 136
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 214
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 301
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 63
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 511
+	}
+
+}
+2156 = {
+	soldiers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 530
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 10997
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 408
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 1033
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 15164
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 2810
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 406
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 261
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 87
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 91
+	}
+
+}
+2157 = {
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 128
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 2781
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 2859
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 684
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 1033
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 98
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 128
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 27
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 22
+	}
+
+}
+2158 = {
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 815
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 16830
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 39024
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 7820
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 850
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 564
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 311
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 229
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 4446
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 227
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 24
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = animist
+		size= 710
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = animist
+		size= 14740
+	}
+
+}
+2159 = {
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 268
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 9245
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = animist
+		size= 384
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = animist
+		size= 12783
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 71
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = animist
+		size= 402
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = animist
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = animist
+		size= 84
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = animist
+		size= 10
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = animist
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 534
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 1197
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 195
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 251
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 16788
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 342
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 11719
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 99
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 21
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 416
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 435
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 71
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 11
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 91
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 13817
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 435
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 1195
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 194
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 251
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 13381
+	}
+
+}
+2160 = {
+	soldiers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 830
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 13
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 77
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 18800
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 61
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 182
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 1379
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 584
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 2433
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 176
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 38
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 227
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 12264
+	}
+
+}
+2161 = {
+	soldiers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 242
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 6
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 10711
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 404
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 592
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 97
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 7488
+	}
+
+}
+2162 = {
+	soldiers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 363
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 294
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 4
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 9088
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 308
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 524
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 8
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 98
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 7330
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 386
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 1755
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 127
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 28
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 328
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 7754
+	}
+
+	soldiers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 170
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 207
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 3
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 39
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 4154
+	}
+
+	soldiers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 98
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = catholic
+		size= 446
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = catholic
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = catholic
+		size= 83
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 1980
+	}
+
+}
+2163 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 113
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 2317
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = totemism
+		size= 266
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = totemism
+		size= 70
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = totemism
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = totemism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = totemism
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = totemism
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = totemism
+		size= 5390
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 107
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 129
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 2005
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 178
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 481
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 202
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 2875
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 265
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 115
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 3
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 5307
+	}
+
+}
+2164 = {
+	soldiers=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 83
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 45
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 1
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 2087
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 363
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 1244
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 113
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 2909
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 51
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 908
+	}
+
+}
+2165 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 470
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 230
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 3
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 9464
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 239
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 463
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 4396
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 714
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 67
+	}
+
+}
+2166 = {
+	soldiers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 904
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 645
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 105
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 17
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 271
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 30291
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 511
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 1830
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 298
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 46
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 97
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 769
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 14712
+	}
+
+	soldiers=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 505
+	}
+
+	artisans=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 180
+	}
+
+	clergymen=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 5
+	}
+
+	officers=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 17230
+	}
+
+	soldiers=
+	{
+		culture = tarascan
+		religion = catholic
+		size= 131
+	}
+
+	artisans=
+	{
+		culture = tarascan
+		religion = catholic
+		size= 274
+	}
+
+	clergymen=
+	{
+		culture = tarascan
+		religion = catholic
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = tarascan
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = tarascan
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = tarascan
+		religion = catholic
+		size= 115
+	}
+
+	farmers=
+	{
+		culture = tarascan
+		religion = catholic
+		size= 4109
+	}
+
+}
+2167 = {
+	soldiers=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 2131
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 926
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 150
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 194
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 42827
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = animist
+		size= 22
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 2787
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 4712
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 765
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 118
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 342
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 990
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 50853
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 1363
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 221
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 34
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 99
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 286
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 62011
+	}
+
+}
+2168 = {
+	soldiers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 504
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 82
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 12
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 23429
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 453
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 994
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 162
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 25
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 208
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 10342
+	}
+
+}
+2169 = {
+	soldiers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 398
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 10
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 84
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 18306
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 325
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 682
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 111
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 143
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 5748
+	}
+
+}
+2170 = {
+	soldiers=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 972
+	}
+
+	artisans=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 212
+	}
+
+	clergymen=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 5
+	}
+
+	officers=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = tarascan
+		religion = nahuatl
+		size= 19793
+	}
+
+	soldiers=
+	{
+		culture = tarascan
+		religion = catholic
+		size= 282
+	}
+
+	artisans=
+	{
+		culture = tarascan
+		religion = catholic
+		size= 333
+	}
+
+	clergymen=
+	{
+		culture = tarascan
+		religion = catholic
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = tarascan
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = tarascan
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = tarascan
+		religion = catholic
+		size= 140
+	}
+
+	farmers=
+	{
+		culture = tarascan
+		religion = catholic
+		size= 5278
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 648
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 1674
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 272
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 41
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 122
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 703
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 10625
+	}
+
+	soldiers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 458
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 199
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 5
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 84
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 9168
+	}
+
+	soldiers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 232
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = catholic
+		size= 401
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = catholic
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = catholic
+		size= 169
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 4144
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 565
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 92
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 14
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 237
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 23187
+	}
+
+}
+2171 = {
+	soldiers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 383
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 10
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 8280
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 234
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 718
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 117
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 18
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 151
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 7075
+	}
+
+}
+2172 = {
+	soldiers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 2007
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 326
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 50
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 125
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 421
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 93293
+	}
+
+	soldiers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 1009
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = catholic
+		size= 3098
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = catholic
+		size= 503
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = catholic
+		size= 77
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 194
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = catholic
+		size= 651
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 21735
+	}
+
+}
+2173 = {
+	soldiers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 1614
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 697
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 113
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 17
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 293
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 40837
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 1034
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 2306
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 374
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 58
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 144
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 969
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 23044
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 585
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 492
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 12
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 207
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 14416
+	}
+
+}
+2174 = {
+	soldiers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 894
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 639
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 16
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 134
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 30106
+	}
+
+	soldiers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 444
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = catholic
+		size= 1272
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = catholic
+		size= 207
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = catholic
+		size= 32
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 66
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = catholic
+		size= 267
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 13556
+	}
+
+}
+2175 = {
+	soldiers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 1449
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 630
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 103
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 16
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 264
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 28991
+	}
+
+	soldiers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 705
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = catholic
+		size= 1243
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = catholic
+		size= 202
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = catholic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 89
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = catholic
+		size= 522
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 12555
+	}
+
+}
+2176 = {
+	soldiers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 2715
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 1467
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 238
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 66
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 92
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 309
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 68482
+	}
+
+	soldiers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 1871
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = catholic
+		size= 3491
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = catholic
+		size= 568
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = catholic
+		size= 158
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 218
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = catholic
+		size= 733
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 43555
+	}
+
+}
+2177 = {
+	soldiers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 1227
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 1336
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 96
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 15
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 249
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 30206
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 118
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 3
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 2673
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 1575
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 5467
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 394
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 61
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 151
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 1021
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 33906
+	}
+
+	soldiers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 315
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 384
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 4
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 72
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 7712
+	}
+
+	soldiers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 259
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = catholic
+		size= 1014
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = catholic
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = catholic
+		size= 189
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 5425
+	}
+
+}
+2178 = {
+	soldiers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 488
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 263
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 7
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 12293
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 448
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 748
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 121
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 19
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 157
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 10576
+	}
+
+}
+2179 = {
+	soldiers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 543
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 89
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 13
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 114
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 25328
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 527
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 1296
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 211
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 32
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 272
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 16426
+	}
+
+}
+2180 = {
+	soldiers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 121
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 118
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 1
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 2356
+	}
+
+	soldiers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 81
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = catholic
+		size= 277
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = catholic
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = catholic
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = catholic
+		size= 1354
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 411
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 5
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 7598
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 298
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 994
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 93
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 4981
+	}
+
+}
+2181 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 115
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 4011
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 255
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 2571
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 52
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 444
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 93
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 1168
+	}
+
+}
+2182 = {
+	soldiers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 2
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = nahuatl
+		size= 2629
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 272
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 113
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 1936
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 81
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 18
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 3
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1661
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 53
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 41
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 1021
+	}
+
+}
+2183 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 833
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 136
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 21
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 174
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 36296
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 347
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 1328
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 215
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 69
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 279
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 10104
+	}
+
+}
+2184 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 389
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 14
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 82
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 17814
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 185
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 653
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 106
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 137
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 5471
+	}
+
+}
+2185 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 373
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 537
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 13
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 113
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 18532
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 63
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 383
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 79
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 2723
+	}
+
+}

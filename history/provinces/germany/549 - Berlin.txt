@@ -1,0 +1,5 @@
+owner=HAN
+controller=HAN
+add_core=HAN
+trade_goods = fruit
+life_rating = 45

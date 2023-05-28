@@ -1,0 +1,429 @@
+1166 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = shiite
+		size= 2083
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 743
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 646
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 105
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 24
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 136
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 12367
+	}
+
+}
+1169 = {
+	soldiers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 335
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 7
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 63
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 2244
+	}
+
+}
+1170 = {
+	soldiers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 314
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 614
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 10
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 57
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 5771
+	}
+
+}
+1171 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = shiite
+		size= 1138
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 177
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 252
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 10
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 4577
+	}
+
+}
+1172 = {
+	soldiers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 717
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 8
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 3274
+	}
+
+}
+1174 = {
+	soldiers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 294
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 895
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 10
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 5086
+	}
+
+}
+2640 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = shiite
+		size= 102
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 66
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 2
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 1365
+	}
+
+}
+2664 = {
+	soldiers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 55
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 107
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 2
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 995
+	}
+
+}

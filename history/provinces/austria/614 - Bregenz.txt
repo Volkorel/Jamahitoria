@@ -1,0 +1,7 @@
+owner=LOM
+controller=LOM
+add_core=HLR
+add_core=LOM
+add_core=SWI
+trade_goods = timber
+life_rating = 35

@@ -1,0 +1,7 @@
+owner=SIN
+controller=BNG
+add_core=HND
+add_core=SIN
+trade_goods = cotton
+life_rating = 32
+fort = 1

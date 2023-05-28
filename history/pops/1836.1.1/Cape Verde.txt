@@ -1,0 +1,58 @@
+1876 = {
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 3960
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 527
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 13457
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = catholic
+		size= 756
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = catholic
+		size= 122
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = catholic
+		size= 158
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = catholic
+		size= 45
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 30
+	}
+
+}

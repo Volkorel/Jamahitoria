@@ -1,0 +1,228 @@
+1326 = {
+	slaves=
+	{
+		culture = nepali
+		religion = hindu
+		size= 7999
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 3992
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = hindu
+		size= 9980
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = hindu
+		size= 463
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 64
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 114
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 1198
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 47476
+	}
+
+	slaves=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 6719
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 3353
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 8383
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 389
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 54
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 96
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 1006
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 39880
+	}
+
+}
+1327 = {
+	slaves=
+	{
+		culture = nepali
+		religion = hindu
+		size= 15494
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 5263
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = hindu
+		size= 13157
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = hindu
+		size= 611
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 85
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 150
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 1579
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 57641
+	}
+
+	slaves=
+	{
+		culture = avadhi
+		religion = shiite
+		size= 1992
+	}
+
+	soldiers=
+	{
+		culture = avadhi
+		religion = shiite
+		size= 677
+	}
+
+	artisans=
+	{
+		culture = avadhi
+		religion = shiite
+		size= 1692
+	}
+
+	clergymen=
+	{
+		culture = avadhi
+		religion = shiite
+		size= 79
+	}
+
+	bureaucrats=
+	{
+		culture = avadhi
+		religion = shiite
+		size= 11
+	}
+
+	officers=
+	{
+		culture = avadhi
+		religion = shiite
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = avadhi
+		religion = shiite
+		size= 203
+	}
+
+	farmers=
+	{
+		culture = avadhi
+		religion = shiite
+		size= 7410
+	}
+
+}

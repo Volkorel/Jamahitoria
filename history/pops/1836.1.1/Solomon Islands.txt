@@ -1,0 +1,186 @@
+2534 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 115
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 115
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 5462
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = shinto
+		size= 99
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = shinto
+		size= 312
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = shinto
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = shinto
+		size= 12
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = shinto
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = shinto
+		size= 98
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = shinto
+		size= 4346
+	}
+
+}
+2536 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 43
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 557
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = shinto
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = shinto
+		size= 138
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = shinto
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = shinto
+		size= 1
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = shinto
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = shinto
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = shinto
+		size= 507
+	}
+
+}

@@ -1,0 +1,7 @@
+owner=JAR
+controller=JAR
+add_core=IDO
+add_core=JAR
+add_core=LUA
+trade_goods = cattle
+life_rating = 35

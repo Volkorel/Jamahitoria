@@ -1,0 +1,6 @@
+owner=JAR
+controller=JAR
+add_core=IDO
+add_core=JAR
+trade_goods = silk
+life_rating = 34

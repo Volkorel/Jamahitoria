@@ -1,0 +1,7 @@
+owner=X51
+controller=SIN
+add_core=PER
+add_core=X51
+trade_goods = cattle
+life_rating = 35
+fort = 1

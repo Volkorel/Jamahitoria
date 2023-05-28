@@ -1,0 +1,8 @@
+owner=PIS
+controller=PIS
+add_core=ITA
+add_core=PIS
+trade_goods = fish
+life_rating = 35
+naval_base = 2
+fort = 1

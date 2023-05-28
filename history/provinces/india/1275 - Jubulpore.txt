@@ -1,0 +1,5 @@
+owner=SIN
+controller=SIN
+add_core=SIN
+trade_goods = dye
+life_rating = 32

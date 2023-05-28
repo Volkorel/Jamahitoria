@@ -1,0 +1,6 @@
+owner=X37
+controller=X03
+add_core=PCH
+add_core=X37
+trade_goods = grain
+life_rating = 35

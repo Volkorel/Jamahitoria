@@ -1,0 +1,5 @@
+owner=KSJ
+controller=KSJ
+add_core=KSJ
+trade_goods = tropical_wood
+life_rating = 10

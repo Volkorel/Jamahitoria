@@ -1,0 +1,8 @@
+owner=PAT
+controller=MLC
+add_core=MLC
+add_core=MLY
+add_core=PAT
+trade_goods = timber
+life_rating = 35
+fort = 1

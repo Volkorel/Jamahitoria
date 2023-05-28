@@ -1,0 +1,7 @@
+owner=JAP
+controller=JAP
+add_core=CHI
+add_core=JAP
+add_core=SUM
+trade_goods = tea
+life_rating = 32

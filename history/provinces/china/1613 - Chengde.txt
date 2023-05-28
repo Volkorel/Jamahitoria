@@ -1,0 +1,10 @@
+owner=SUM
+controller=X18
+add_core=CHI
+add_core=JAP
+add_core=SUM
+add_core=X18
+trade_goods = grain
+life_rating = 32
+naval_base = 2
+fort = 1

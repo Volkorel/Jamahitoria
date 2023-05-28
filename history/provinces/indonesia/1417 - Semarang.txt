@@ -1,0 +1,6 @@
+owner=MLC
+controller=X06
+add_core=JAV
+trade_goods = fruit
+life_rating = 35
+naval_base = 2

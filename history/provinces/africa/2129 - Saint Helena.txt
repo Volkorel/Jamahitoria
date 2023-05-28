@@ -1,0 +1,6 @@
+owner=X36
+controller=X36
+trade_goods = fish
+life_rating = 20
+terrain = small_island
+colonial=2

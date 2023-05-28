@@ -1,0 +1,8 @@
+owner=X41
+controller=X41
+add_core=HLR
+add_core=ITA
+add_core=X41
+trade_goods = grain
+life_rating = 33
+naval_base = 2

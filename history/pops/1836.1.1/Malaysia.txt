@@ -1,0 +1,1197 @@
+1384 = {
+	soldiers=
+	{
+		culture = malay
+		religion = shiite
+		size= 68
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = shiite
+		size= 238
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = shiite
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 4
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = shiite
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = shiite
+		size= 6469
+	}
+
+	soldiers=
+	{
+		culture = malay
+		religion = noreligion
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = noreligion
+		size= 299
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = noreligion
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = noreligion
+		size= 5
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = noreligion
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = noreligion
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = noreligion
+		size= 515
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 751
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 12
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = noreligion
+		size= 634
+	}
+
+}
+1385 = {
+	soldiers=
+	{
+		culture = malay
+		religion = shiite
+		size= 1613
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = shiite
+		size= 4034
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = shiite
+		size= 216
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 61
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = shiite
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 242
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = shiite
+		size= 22599
+	}
+
+}
+1386 = {
+	soldiers=
+	{
+		culture = malay
+		religion = shiite
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = shiite
+		size= 1981
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = shiite
+		size= 212
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 7
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = shiite
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 119
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = shiite
+		size= 1475
+	}
+
+}
+1387 = {
+	soldiers=
+	{
+		culture = malay
+		religion = shiite
+		size= 344
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = shiite
+		size= 688
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = shiite
+		size= 129
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 9
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = shiite
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 144
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = shiite
+		size= 15872
+	}
+
+}
+1388 = {
+	soldiers=
+	{
+		culture = malay
+		religion = shiite
+		size= 16533
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = shiite
+		size= 870
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = shiite
+		size= 163
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 11
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = shiite
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 183
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = shiite
+		size= 3951
+	}
+
+}
+1389 = {
+	soldiers=
+	{
+		culture = malay
+		religion = shiite
+		size= 587
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = shiite
+		size= 1173
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = shiite
+		size= 220
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 15
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = shiite
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 246
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = shiite
+		size= 27066
+	}
+
+}
+1390 = {
+	slaves=
+	{
+		culture = malay
+		religion = shiite
+		size= 76
+	}
+
+	soldiers=
+	{
+		culture = malay
+		religion = shiite
+		size= 97
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = shiite
+		size= 147
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = shiite
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 1
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = shiite
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = shiite
+		size= 1758
+	}
+
+	slaves=
+	{
+		culture = malay
+		religion = mahayana
+		size= 243
+	}
+
+	soldiers=
+	{
+		culture = malay
+		religion = mahayana
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = mahayana
+		size= 1088
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = mahayana
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = mahayana
+		size= 4
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = mahayana
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = mahayana
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = mahayana
+		size= 4160
+	}
+
+}
+1391 = {
+	slaves=
+	{
+		culture = malay
+		religion = shiite
+		size= 2652
+	}
+
+	soldiers=
+	{
+		culture = malay
+		religion = shiite
+		size= 2119
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = shiite
+		size= 3225
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = shiite
+		size= 150
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 30
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = shiite
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 291
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = shiite
+		size= 37546
+	}
+
+	slaves=
+	{
+		culture = malay
+		religion = mahayana
+		size= 393
+	}
+
+	soldiers=
+	{
+		culture = malay
+		religion = mahayana
+		size= 314
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = mahayana
+		size= 4179
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = mahayana
+		size= 194
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = mahayana
+		size= 38
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = mahayana
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = mahayana
+		size= 376
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = mahayana
+		size= 1797
+	}
+
+}
+1393 = {
+	slaves=
+	{
+		culture = bornean
+		religion = shiite
+		size= 508
+	}
+
+	soldiers=
+	{
+		culture = bornean
+		religion = shiite
+		size= 173
+	}
+
+	artisans=
+	{
+		culture = bornean
+		religion = shiite
+		size= 247
+	}
+
+	clergymen=
+	{
+		culture = bornean
+		religion = shiite
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = bornean
+		religion = shiite
+		size= 11
+	}
+
+	officers=
+	{
+		culture = bornean
+		religion = shiite
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = bornean
+		religion = shiite
+		size= 78
+	}
+
+	farmers=
+	{
+		culture = bornean
+		religion = shiite
+		size= 5106
+	}
+
+}
+1394 = {
+	slaves=
+	{
+		culture = bornean
+		religion = shiite
+		size= 3064
+	}
+
+	soldiers=
+	{
+		culture = bornean
+		religion = shiite
+		size= 226
+	}
+
+	artisans=
+	{
+		culture = bornean
+		religion = shiite
+		size= 3161
+	}
+
+	clergymen=
+	{
+		culture = bornean
+		religion = shiite
+		size= 169
+	}
+
+	bureaucrats=
+	{
+		culture = bornean
+		religion = shiite
+		size= 11
+	}
+
+	officers=
+	{
+		culture = bornean
+		religion = shiite
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = bornean
+		religion = shiite
+		size= 190
+	}
+
+	farmers=
+	{
+		culture = bornean
+		religion = shiite
+		size= 15725
+	}
+
+}
+1395 = {
+	slaves=
+	{
+		culture = bornean
+		religion = shiite
+		size= 2038
+	}
+
+	soldiers=
+	{
+		culture = bornean
+		religion = shiite
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = bornean
+		religion = shiite
+		size= 1569
+	}
+
+	clergymen=
+	{
+		culture = bornean
+		religion = shiite
+		size= 146
+	}
+
+	bureaucrats=
+	{
+		culture = bornean
+		religion = shiite
+		size= 30
+	}
+
+	officers=
+	{
+		culture = bornean
+		religion = shiite
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = bornean
+		religion = shiite
+		size= 141
+	}
+
+	farmers=
+	{
+		culture = bornean
+		religion = shiite
+		size= 6226
+	}
+
+}
+1396 = {
+	slaves=
+	{
+		culture = bornean
+		religion = shiite
+		size= 1427
+	}
+
+	soldiers=
+	{
+		culture = bornean
+		religion = shiite
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = bornean
+		religion = shiite
+		size= 233
+	}
+
+	clergymen=
+	{
+		culture = bornean
+		religion = shiite
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = bornean
+		religion = shiite
+		size= 2
+	}
+
+	officers=
+	{
+		culture = bornean
+		religion = shiite
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = bornean
+		religion = shiite
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = bornean
+		religion = shiite
+		size= 3936
+	}
+
+	slaves=
+	{
+		culture = bornean
+		religion = sikh
+		size= 1143
+	}
+
+	soldiers=
+	{
+		culture = bornean
+		religion = sikh
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = bornean
+		religion = sikh
+		size= 607
+	}
+
+	clergymen=
+	{
+		culture = bornean
+		religion = sikh
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = bornean
+		religion = sikh
+		size= 6
+	}
+
+	officers=
+	{
+		culture = bornean
+		religion = sikh
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = bornean
+		religion = sikh
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = bornean
+		religion = sikh
+		size= 2477
+	}
+
+	slaves=
+	{
+		culture = bornean
+		religion = shinto
+		size= 397
+	}
+
+	soldiers=
+	{
+		culture = bornean
+		religion = shinto
+		size= 37
+	}
+
+	artisans=
+	{
+		culture = bornean
+		religion = shinto
+		size= 1099
+	}
+
+	clergymen=
+	{
+		culture = bornean
+		religion = shinto
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = bornean
+		religion = shinto
+		size= 10
+	}
+
+	officers=
+	{
+		culture = bornean
+		religion = shinto
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = bornean
+		religion = shinto
+		size= 66
+	}
+
+	farmers=
+	{
+		culture = bornean
+		religion = shinto
+		size= 183
+	}
+
+}
+1397 = {
+	slaves=
+	{
+		culture = bornean
+		religion = shiite
+		size= 1391
+	}
+
+	soldiers=
+	{
+		culture = bornean
+		religion = shiite
+		size= 93
+	}
+
+	artisans=
+	{
+		culture = bornean
+		religion = shiite
+		size= 162
+	}
+
+	clergymen=
+	{
+		culture = bornean
+		religion = shiite
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = bornean
+		religion = shiite
+		size= 2
+	}
+
+	officers=
+	{
+		culture = bornean
+		religion = shiite
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = bornean
+		religion = shiite
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = bornean
+		religion = shiite
+		size= 2970
+	}
+
+	slaves=
+	{
+		culture = bornean
+		religion = sikh
+		size= 1493
+	}
+
+	soldiers=
+	{
+		culture = bornean
+		religion = sikh
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = bornean
+		religion = sikh
+		size= 511
+	}
+
+	clergymen=
+	{
+		culture = bornean
+		religion = sikh
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = bornean
+		religion = sikh
+		size= 5
+	}
+
+	officers=
+	{
+		culture = bornean
+		religion = sikh
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = bornean
+		religion = sikh
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = bornean
+		religion = sikh
+		size= 2808
+	}
+
+	slaves=
+	{
+		culture = bornean
+		religion = shinto
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = bornean
+		religion = shinto
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = bornean
+		religion = shinto
+		size= 677
+	}
+
+	clergymen=
+	{
+		culture = bornean
+		religion = shinto
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = bornean
+		religion = shinto
+		size= 6
+	}
+
+	officers=
+	{
+		culture = bornean
+		religion = shinto
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = bornean
+		religion = shinto
+		size= 41
+	}
+
+}
+2575 = {
+	slaves=
+	{
+		culture = malay
+		religion = shiite
+		size= 301
+	}
+
+	soldiers=
+	{
+		culture = malay
+		religion = shiite
+		size= 1824
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = shiite
+		size= 1303
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = shiite
+		size= 244
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 29
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = shiite
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = shiite
+		size= 274
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = shiite
+		size= 28535
+	}
+
+}

@@ -1,0 +1,9 @@
+owner=GYN
+controller=GYN
+add_core=FRA
+add_core=GYN
+add_core=HLR
+add_core=OCC
+trade_goods = cattle
+life_rating = 31
+fort = 1

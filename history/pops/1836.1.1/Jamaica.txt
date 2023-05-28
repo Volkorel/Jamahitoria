@@ -1,0 +1,256 @@
+2217 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 15445
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 164
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 811
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = norse_pagan_reformed
+		size= 76184
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 807
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 13637
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 4364
+	}
+
+	clergymen=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 632
+	}
+
+	bureaucrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 214
+	}
+
+	officers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 126
+	}
+
+}
+2218 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 90
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = trattoloyan
+		religion = catholic
+		size= 16
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = catholic
+		size= 127
+	}
+
+	soldiers=
+	{
+		culture = trattoloyan
+		religion = catholic
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = trattoloyan
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = trattoloyan
+		religion = catholic
+		size= 3
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = noreligion
+		size= 6
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = jewish
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = jewish
+		size= 26
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = jewish
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = protestant
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = trattoloyan
+		religion = protestant
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = norse_pagan_reformed
+		size= 30
+	}
+
+	soldiers=
+	{
+		culture = trattoloyan
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = trattoloyan
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = trattoloyan
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = trattoloyan
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+}

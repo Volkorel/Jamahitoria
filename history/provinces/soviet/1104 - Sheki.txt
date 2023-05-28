@@ -1,0 +1,7 @@
+owner=PER
+controller=X04
+add_core=GEO
+add_core=PER
+trade_goods = grain
+life_rating = 35
+fort = 1

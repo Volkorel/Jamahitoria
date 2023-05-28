@@ -1,0 +1,6 @@
+owner=X59
+controller=X59
+add_core=X59
+trade_goods = coal
+life_rating = 31
+naval_base = 1

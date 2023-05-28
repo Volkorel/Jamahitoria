@@ -1,0 +1,14 @@
+owner=X52
+controller=X52
+add_core=SCA
+add_core=SWE
+add_core=X52
+trade_goods = grain
+life_rating = 40
+naval_base = 2
+state_building=
+{
+	level=1
+	building = small_arms_factory
+	upgrade = yes
+}

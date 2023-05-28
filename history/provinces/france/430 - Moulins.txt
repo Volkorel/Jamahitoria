@@ -1,0 +1,7 @@
+owner=BOU
+controller=BOU
+add_core=BOU
+add_core=HLR
+trade_goods = coal
+life_rating = 31
+fort = 1

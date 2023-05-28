@@ -1,0 +1,7 @@
+owner=X06
+controller=X06
+add_core=NET
+add_core=X06
+trade_goods = coal
+life_rating = 35
+terrain = mining_district

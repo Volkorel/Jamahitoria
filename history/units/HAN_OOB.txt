@@ -1,0 +1,1103 @@
+#Sphere of Influence
+
+ADU = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ANN = {
+	value = 0
+	level = 2
+}
+APA = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 33
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AVI = {
+	value = 44
+	level = 2
+}
+BEY = {
+	value = 0
+	level = 2
+}
+BMN = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOU = {
+	value = 25
+	level = 2
+}
+BRG = {
+	value = -61
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 35
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 131
+	influence_value = 20
+	level = 3
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FZA = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+GYN = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HRZ = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+HSI = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JAR = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 0
+	level = 2
+}
+KIT = {
+	value = 0
+	level = 2
+}
+KNI = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = -10
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = -87
+	level = 2
+}
+LOR = {
+	value = 89
+	influence_value = 9
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+LUC = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+MDS = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MGD = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MTA = {
+	value = 34
+	level = 2
+}
+NAP = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+ORL = {
+	value = 0
+	level = 2
+}
+PAD = {
+	value = 10
+	level = 2
+}
+PAL = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+PAP = {
+	value = 258
+	influence_value = 2
+	level = 4
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PGA = {
+	value = 16
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PIS = {
+	value = 219
+	military_access = yes
+	influence_value = 92
+	level = 5
+}
+PRO = {
+	value = 2
+	level = 2
+}
+PTG = {
+	value = 0
+	level = 2
+}
+QIN = {
+	value = 0
+	level = 2
+}
+SAF = {
+	value = 0
+	level = 2
+}
+SER = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 44
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SRD = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUM = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 40
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TUL = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 35
+	level = 2
+}
+X00 = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = -2
+	level = 2
+}
+X03 = {
+	value = -44
+	level = 2
+}
+X04 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = -3
+	level = 2
+}
+X07 = {
+	value = 40
+	level = 2
+}
+X08 = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+X15 = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+X16 = {
+	value = 102
+	influence_value = 13
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 151
+	influence_value = 25
+	level = 3
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+X26 = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X27 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X28 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X29 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X30 = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X32 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+X36 = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X38 = {
+	value = 17
+	level = 2
+}
+X39 = {
+	value = 134
+	influence_value = 21
+	level = 3
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 56
+	influence_value = 1
+	level = 2
+}
+X42 = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+X43 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+X45 = {
+	value = 0
+	level = 2
+}
+X46 = {
+	value = 0
+	level = 2
+}
+X47 = {
+	value = 0
+	level = 2
+}
+X48 = {
+	value = 0
+	level = 2
+}
+X49 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X50 = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+X51 = {
+	value = 0
+	level = 2
+}
+X52 = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+X53 = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+X54 = {
+	value = 0
+	level = 2
+}
+X55 = {
+	value = 0
+	level = 2
+}
+X56 = {
+	value = 0
+	level = 2
+}
+X57 = {
+	value = 0
+	level = 2
+}
+X58 = {
+	value = 0
+	level = 2
+}
+X59 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+ZAF = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Adolf Friedrich IV"
+	date="1704.12.18"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Gottfried Minden"
+	date="1698.6.9"
+	type=land
+	personality="disciplined"
+	background="generals_aide"
+}
+
+leader = {
+	name="Eduard August Werden"
+	date="1708.2.5"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Herbert Aller"
+	date="1709.3.30"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Wilhelm August Werden"
+	date="1714.11.16"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Markus Salzgitter"
+	date="1718.1.4"
+	type=sea
+	personality="inspiring"
+	background="aristocrat"
+}
+
+leader = {
+	name="Jakob Kapp"
+	date="1718.1.10"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Clemens Kapp"
+	date="1718.1.13"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Markus Wernigerode"
+	date="1721.1.30"
+	type=sea
+	personality="gallant"
+	background="drillmaster"
+}
+
+
+#Armies
+army = {
+	name="Armee von Weimar"
+	location=407
+	regiment = {
+		name="1st Lübeck Artillery"
+		type=artillery
+		home=530
+	}
+	regiment = {
+		name="1st Kiel Artillery"
+		type=artillery
+		home=369
+	}
+	regiment = {
+		name="2nd Lübeck Artillery"
+		type=artillery
+		home=530
+	}
+	regiment = {
+		name="3rd Hanover Artillery"
+		type=artillery
+		home=534
+	}
+	regiment = {
+		name="1st Prague Artillery"
+		type=artillery
+		home=625
+	}
+	regiment = {
+		name="2nd Göttingen Artillery"
+		type=artillery
+		home=537
+	}
+	regiment = {
+		name="2nd Prague Artillery"
+		type=artillery
+		home=625
+	}
+	regiment = {
+		name="3rd Göttingen Artillery"
+		type=artillery
+		home=537
+	}
+	regiment = {
+		name="1st Schwerin Artillery"
+		type=artillery
+		home=544
+	}
+	regiment = {
+		name="1st Chemnitz Artillery"
+		type=artillery
+		home=560
+	}
+	regiment = {
+		name="1st Nuremberg Artillery"
+		type=artillery
+		home=595
+	}
+	regiment = {
+		name="3rd Prague Artillery"
+		type=artillery
+		home=625
+	}
+	regiment = {
+		name="1st Brno Artillery"
+		type=artillery
+		home=631
+	}
+	regiment = {
+		name="2nd Nuremberg Artillery"
+		type=artillery
+		home=595
+	}
+	regiment = {
+		name="3rd Kiel Artillery"
+		type=artillery
+		home=369
+	}
+	regiment = {
+		name="4th Hanover Artillery"
+		type=artillery
+		home=534
+	}
+	regiment = {
+		name="5th Hanover Artillery"
+		type=artillery
+		home=534
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2732
+	ship = {
+		name="Hannover"
+		type=frigate
+	}
+	ship = {
+		name="2nd Schwerin Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2721
+	ship = {
+		name="Victoria"
+		type=frigate
+	}
+	ship = {
+		name="König Georg"
+		type=frigate
+	}
+	ship = {
+		name="Askanian"
+		type=frigate
+	}
+	ship = {
+		name="1st Kolberg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Stettin Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=530
+	ship = {
+		name="Welf"
+		type=manowar
+	}
+	ship = {
+		name="Heinrich der Löwe"
+		type=manowar
+	}
+	ship = {
+		name="Ernst August"
+		type=manowar
+	}
+	ship = {
+		name="Emden"
+		type=manowar
+	}
+	ship = {
+		name="Wittekind"
+		type=manowar
+	}
+	ship = {
+		name="Stade"
+		type=manowar
+	}
+	ship = {
+		name="Lüneburg"
+		type=manowar
+	}
+	ship = {
+		name="Hildesheim"
+		type=manowar
+	}
+	ship = {
+		name="Osnabrück"
+		type=manowar
+	}
+	ship = {
+		name="Aurich"
+		type=frigate
+	}
+	ship = {
+		name="1st Bremen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Stettin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Stettin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Stralsund Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Kolberg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Kolberg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Stettin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cagliari Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Stralsund Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Stralsund Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Cagliari Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Lübeck Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Copenhagen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Stettin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Kolberg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Nice Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Copenhagen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Stralsund Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Stettin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Cagliari Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Stade Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Stralsund Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Greifswald Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Lübeck Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Stralsund Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Lübeck Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Stettin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Stralsund Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Nice Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Schwerin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd La Rochelle Clipper Transport"
+		type=clipper_transport
+	}
+}
+

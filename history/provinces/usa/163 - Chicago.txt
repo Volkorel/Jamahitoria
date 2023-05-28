@@ -1,0 +1,7 @@
+owner=X36
+controller=X36
+trade_goods = coal
+life_rating = 35
+terrain = mining_district
+colonial=2
+fort = 1

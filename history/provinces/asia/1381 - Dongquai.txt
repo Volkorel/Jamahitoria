@@ -1,0 +1,6 @@
+owner=JAR
+controller=SIA
+add_core=IDO
+add_core=JAR
+trade_goods = wool
+life_rating = 34

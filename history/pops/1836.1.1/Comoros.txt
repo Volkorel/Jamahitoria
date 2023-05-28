@@ -1,0 +1,116 @@
+2123 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = shiite
+		size= 271
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 258
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 542
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 88
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 14
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 228
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 12138
+	}
+
+}
+2124 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = shiite
+		size= 241
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 33
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 1
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 509
+	}
+
+}

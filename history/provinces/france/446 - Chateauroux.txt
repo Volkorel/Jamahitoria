@@ -1,0 +1,8 @@
+owner=BOU
+controller=BOU
+add_core=BOU
+add_core=FRA
+add_core=HLR
+trade_goods = grain
+life_rating = 32
+fort = 1

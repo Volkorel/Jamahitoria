@@ -1,0 +1,423 @@
+1879 = {
+	slaves=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 4214
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 492
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 983
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 160
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 34
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 206
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 43044
+	}
+
+	slaves=
+	{
+		culture = wolof
+		religion = catholic
+		size= 1186
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = catholic
+		size= 138
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = catholic
+		size= 1537
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = catholic
+		size= 250
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = catholic
+		size= 54
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = catholic
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = catholic
+		size= 323
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = catholic
+		size= 10297
+	}
+
+}
+1880 = {
+	slaves=
+	{
+		culture = wolof
+		religion = sunni
+		size= 5634
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 1280
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = sunni
+		size= 16770
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = sunni
+		size= 779
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = sunni
+		size= 120
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 156
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = sunni
+		size= 1342
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 101913
+	}
+
+	slaves=
+	{
+		culture = wolof
+		religion = shiite
+		size= 308
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = shiite
+		size= 70
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = shiite
+		size= 2127
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = shiite
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = shiite
+		size= 15
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = shiite
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = shiite
+		size= 170
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = shiite
+		size= 4177
+	}
+
+}
+1881 = {
+	slaves=
+	{
+		culture = mande
+		religion = sunni
+		size= 9778
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 2026
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 2894
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 470
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 65
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = sunni
+		size= 116
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 1418
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 55591
+	}
+
+}
+1882 = {
+	slaves=
+	{
+		culture = mande
+		religion = sunni
+		size= 4400
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 1760
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 2515
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 409
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 57
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = sunni
+		size= 101
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 1232
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 52389
+	}
+
+}
+1883 = {
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 800
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 400
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 1650
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 425
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 12725
+	}
+
+	aristocrats=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 24550
+	}
+
+	slaves=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 5000
+	}
+
+}

@@ -1,0 +1,9 @@
+owner=BNG
+controller=BNG
+add_core=ARK
+add_core=BNG
+add_core=BUR
+add_core=IDO
+trade_goods = fish
+life_rating = 35
+naval_base = 1

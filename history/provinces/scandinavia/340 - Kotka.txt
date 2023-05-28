@@ -1,0 +1,14 @@
+owner=X03
+controller=X03
+add_core=FIN
+add_core=SCA
+add_core=X03
+trade_goods = timber
+life_rating = 35
+naval_base = 2
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

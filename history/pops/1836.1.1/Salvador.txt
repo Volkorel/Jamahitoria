@@ -1,0 +1,200 @@
+2191 = {
+	soldiers=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 668
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 477
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 12
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 22398
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 1204
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 2197
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 357
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 55
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 115
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 923
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 38157
+	}
+
+}
+2192 = {
+	soldiers=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 443
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 316
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 8
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = mayan
+		size= 14856
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 799
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 1457
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 237
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 36
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 77
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 612
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 25306
+	}
+
+}

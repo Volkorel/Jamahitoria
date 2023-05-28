@@ -1,0 +1,6 @@
+owner=PEU
+controller=CEQ
+add_core=PEU
+trade_goods = cattle
+life_rating = 31
+terrain = savanna

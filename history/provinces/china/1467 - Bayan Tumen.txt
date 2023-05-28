@@ -1,0 +1,10 @@
+owner=CHG
+controller=X18
+add_core=CHG
+add_core=KHA
+add_core=MGL
+add_core=SUM
+add_core=X18
+trade_goods = cattle
+life_rating = 32
+fort = 1

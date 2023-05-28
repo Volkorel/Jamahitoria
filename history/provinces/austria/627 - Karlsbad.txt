@@ -1,0 +1,7 @@
+owner=HAN
+controller=HAN
+add_core=CZE
+add_core=HAN
+add_core=WSF
+trade_goods = iron
+life_rating = 35

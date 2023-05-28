@@ -1,0 +1,9 @@
+owner=TUL
+controller=TUL
+add_core=FRA
+add_core=HLR
+add_core=OCC
+add_core=TUL
+add_core=X42
+trade_goods = cattle
+life_rating = 31

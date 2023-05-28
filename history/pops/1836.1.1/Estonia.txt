@@ -1,0 +1,542 @@
+349 = {
+	soldiers=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 973
+	}
+
+	craftsmen=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 5001
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 1927
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 152
+	}
+
+	clerks=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 151
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 50
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 28
+	}
+
+	capitalists=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 674
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 18763
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 618
+	}
+
+	craftsmen=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 3169
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 4368
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 343
+	}
+
+	clerks=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 342
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 114
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 63
+	}
+
+	capitalists=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 1528
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 6873
+	}
+
+}
+350 = {
+	soldiers=
+	{
+		culture = estonian
+		religion = norse_pagan_reformed
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = norse_pagan_reformed
+		size= 2189
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = norse_pagan_reformed
+		size= 203
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = norse_pagan_reformed
+		size= 28
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = norse_pagan_reformed
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = norse_pagan_reformed
+		size= 788
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = norse_pagan_reformed
+		size= 20806
+	}
+
+	soldiers=
+	{
+		culture = estonian
+		religion = noreligion
+		size= 524
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = noreligion
+		size= 4809
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = noreligion
+		size= 447
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = noreligion
+		size= 62
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = noreligion
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = noreligion
+		size= 1731
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = noreligion
+		size= 11086
+	}
+
+}
+351 = {
+	soldiers=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 565
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 1069
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 27
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 385
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 13113
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 358
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 2424
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 225
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 62
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 873
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 5703
+	}
+
+}
+352 = {
+	soldiers=
+	{
+		culture = estonian
+		religion = norse_pagan_reformed
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = norse_pagan_reformed
+		size= 1859
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = norse_pagan_reformed
+		size= 173
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = norse_pagan_reformed
+		size= 24
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = norse_pagan_reformed
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = norse_pagan_reformed
+		size= 669
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = norse_pagan_reformed
+		size= 22772
+	}
+
+	soldiers=
+	{
+		culture = estonian
+		religion = noreligion
+		size= 445
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = noreligion
+		size= 4083
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = noreligion
+		size= 379
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = noreligion
+		size= 52
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = noreligion
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = noreligion
+		size= 1470
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = noreligion
+		size= 9412
+	}
+
+}
+353 = {
+	soldiers=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 103
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 293
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 10
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 64
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = norse_pagan_reformed
+		size= 3195
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 74
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 3
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = noreligion
+		size= 284
+	}
+
+}

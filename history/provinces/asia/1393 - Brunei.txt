@@ -1,0 +1,7 @@
+owner=X06
+controller=X06
+add_core=BRU
+add_core=MLY
+trade_goods = fish
+life_rating = 31
+colonial=2

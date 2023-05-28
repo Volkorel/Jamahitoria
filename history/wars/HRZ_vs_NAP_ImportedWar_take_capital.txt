@@ -1,0 +1,13 @@
+name = "Human-Acerra Imperialist War"
+
+1720.9.4 = {
+	add_attacker = HRZ
+	add_defender = NAP
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = HRZ
+		receiver = NAP
+		country = NAP
+	}
+}

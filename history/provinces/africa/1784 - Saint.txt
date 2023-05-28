@@ -1,0 +1,7 @@
+owner=X05
+controller=X05
+add_core=ZAF
+trade_goods = cotton
+life_rating = 35
+terrain = semidesert
+colonial=2

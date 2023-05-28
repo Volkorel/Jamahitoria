@@ -1,0 +1,7 @@
+owner=X59
+controller=X59
+add_core=LSK
+add_core=X59
+trade_goods = fish
+life_rating = 31
+terrain = new_world_montane_tundra

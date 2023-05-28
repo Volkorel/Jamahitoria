@@ -1,0 +1,6469 @@
+political_decisions = {
+	return_core_on = {
+		picture = return_cores_img
+		alert = no
+		potential = {
+			OR = {
+				has_country_flag = government_decisions_on
+				ai = yes
+			}
+			OR = {
+				num_of_vassals_no_substates = 1
+				is_greater_power = yes
+			}
+			NOT = {
+				has_country_flag = return_cores_decision
+				has_country_flag = return_core_disabled 
+			}
+			any_owned_province = { NOT = { is_core = THIS } any_core = { OR = { in_sphere = THIS vassal_of = THIS } } } 
+		}
+		allow = { civilized = yes ai = no }
+		effect = { set_country_flag = return_cores_decision } 
+	}
+	return_core_off = { 
+		picture = return_cores_img
+		alert = no 
+		potential = {
+			has_country_flag = return_cores_decision 
+			NOT = { has_country_flag = return_core_disabled_forever } 
+		}
+		allow = { ai = no }
+		effect = { clr_country_flag = return_cores_decision } 
+	}
+	return_core_disabled = {
+		picture = return_cores_img
+		alert = no
+		potential = {
+			OR = {
+				has_country_flag = government_decisions_on
+				ai = yes
+			}
+			has_country_flag = return_cores_decision 
+			NOT = { has_country_flag = return_core_disabled }
+		}
+		allow = { ai = no }
+		effect = { clr_country_flag = return_cores_decision set_country_flag = return_core_disabled } 
+	}
+
+	return_cores_ADU = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			ADU = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = ADU
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ADU = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = ADU value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = ADU
+				}
+				secede_province = ADU
+			}
+		}
+	}
+
+	return_cores_AFG = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			AFG = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = AFG
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			AFG = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = AFG value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = AFG
+				}
+				secede_province = AFG
+			}
+		}
+	}
+
+	return_cores_ALB = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			ALB = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = ALB
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ALB = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = ALB value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = ALB
+				}
+				secede_province = ALB
+			}
+		}
+	}
+
+	return_cores_ANN = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			ANN = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = ANN
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ANN = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = ANN value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = ANN
+				}
+				secede_province = ANN
+			}
+		}
+	}
+
+	return_cores_APA = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			APA = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = APA
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			APA = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = APA value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = APA
+				}
+				secede_province = APA
+			}
+		}
+	}
+
+	return_cores_ARA = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			ARA = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = ARA
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ARA = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = ARA value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = ARA
+				}
+				secede_province = ARA
+			}
+		}
+	}
+
+	return_cores_ARG = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			ARG = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = ARG
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ARG = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = ARG value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = ARG
+				}
+				secede_province = ARG
+			}
+		}
+	}
+
+	return_cores_ARK = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			ARK = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = ARK
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ARK = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = ARK value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = ARK
+				}
+				secede_province = ARK
+			}
+		}
+	}
+
+	return_cores_ARN = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			ARN = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = ARN
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ARN = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = ARN value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = ARN
+				}
+				secede_province = ARN
+			}
+		}
+	}
+
+	return_cores_ATJ = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			ATJ = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = ATJ
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ATJ = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = ATJ value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = ATJ
+				}
+				secede_province = ATJ
+			}
+		}
+	}
+
+	return_cores_AVI = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			AVI = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = AVI
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			AVI = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = AVI value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = AVI
+				}
+				secede_province = AVI
+			}
+		}
+	}
+
+	return_cores_BEY = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			BEY = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = BEY
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BEY = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = BEY value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = BEY
+				}
+				secede_province = BEY
+			}
+		}
+	}
+
+	return_cores_BMN = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			BMN = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = BMN
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BMN = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = BMN value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = BMN
+				}
+				secede_province = BMN
+			}
+		}
+	}
+
+	return_cores_BNG = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			BNG = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = BNG
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BNG = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = BNG value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = BNG
+				}
+				secede_province = BNG
+			}
+		}
+	}
+
+	return_cores_BOU = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			BOU = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = BOU
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BOU = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = BOU value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = BOU
+				}
+				secede_province = BOU
+			}
+		}
+	}
+
+	return_cores_BRG = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			BRG = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = BRG
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BRG = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = BRG value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = BRG
+				}
+				secede_province = BRG
+			}
+		}
+	}
+
+	return_cores_BRT = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			BRT = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = BRT
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BRT = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = BRT value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = BRT
+				}
+				secede_province = BRT
+			}
+		}
+	}
+
+	return_cores_BRU = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			BRU = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = BRU
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BRU = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = BRU value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = BRU
+				}
+				secede_province = BRU
+			}
+		}
+	}
+
+	return_cores_BRZ = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			BRZ = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = BRZ
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BRZ = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = BRZ value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = BRZ
+				}
+				secede_province = BRZ
+			}
+		}
+	}
+
+	return_cores_BTU = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			BTU = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = BTU
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BTU = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = BTU value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = BTU
+				}
+				secede_province = BTU
+			}
+		}
+	}
+
+	return_cores_BUL = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			BUL = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = BUL
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			BUL = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = BUL value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = BUL
+				}
+				secede_province = BUL
+			}
+		}
+	}
+
+	return_cores_CAL = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			CAL = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = CAL
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CAL = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = CAL value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = CAL
+				}
+				secede_province = CAL
+			}
+		}
+	}
+
+	return_cores_CAM = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			CAM = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = CAM
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CAM = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = CAM value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = CAM
+				}
+				secede_province = CAM
+			}
+		}
+	}
+
+	return_cores_CEQ = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			CEQ = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = CEQ
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CEQ = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = CEQ value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = CEQ
+				}
+				secede_province = CEQ
+			}
+		}
+	}
+
+	return_cores_CHG = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			CHG = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = CHG
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CHG = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = CHG value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = CHG
+				}
+				secede_province = CHG
+			}
+		}
+	}
+
+	return_cores_CKW = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			CKW = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = CKW
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CKW = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = CKW value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = CKW
+				}
+				secede_province = CKW
+			}
+		}
+	}
+
+	return_cores_CLM = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			CLM = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = CLM
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CLM = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = CLM value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = CLM
+				}
+				secede_province = CLM
+			}
+		}
+	}
+
+	return_cores_CRI = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			CRI = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = CRI
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			CRI = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = CRI value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = CRI
+				}
+				secede_province = CRI
+			}
+		}
+	}
+
+	return_cores_ENG = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			ENG = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = ENG
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ENG = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = ENG value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = ENG
+				}
+				secede_province = ENG
+			}
+		}
+	}
+
+	return_cores_EST = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			EST = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = EST
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			EST = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = EST value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = EST
+				}
+				secede_province = EST
+			}
+		}
+	}
+
+	return_cores_FER = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			FER = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = FER
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			FER = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = FER value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = FER
+				}
+				secede_province = FER
+			}
+		}
+	}
+
+	return_cores_FJL = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			FJL = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = FJL
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			FJL = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = FJL value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = FJL
+				}
+				secede_province = FJL
+			}
+		}
+	}
+
+	return_cores_FJV = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			FJV = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = FJV
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			FJV = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = FJV value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = FJV
+				}
+				secede_province = FJV
+			}
+		}
+	}
+
+	return_cores_FJW = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			FJW = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = FJW
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			FJW = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = FJW value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = FJW
+				}
+				secede_province = FJW
+			}
+		}
+	}
+
+	return_cores_FLR = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			FLR = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = FLR
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			FLR = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = FLR value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = FLR
+				}
+				secede_province = FLR
+			}
+		}
+	}
+
+	return_cores_FRA = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			FRA = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = FRA
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			FRA = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = FRA value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = FRA
+				}
+				secede_province = FRA
+			}
+		}
+	}
+
+	return_cores_FZA = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			FZA = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = FZA
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			FZA = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = FZA value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = FZA
+				}
+				secede_province = FZA
+			}
+		}
+	}
+
+	return_cores_GUJ = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			GUJ = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = GUJ
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			GUJ = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = GUJ value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = GUJ
+				}
+				secede_province = GUJ
+			}
+		}
+	}
+
+	return_cores_GYN = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			GYN = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = GYN
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			GYN = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = GYN value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = GYN
+				}
+				secede_province = GYN
+			}
+		}
+	}
+
+	return_cores_HAN = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			HAN = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = HAN
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			HAN = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = HAN value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = HAN
+				}
+				secede_province = HAN
+			}
+		}
+	}
+
+	return_cores_HRZ = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			HRZ = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = HRZ
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			HRZ = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = HRZ value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = HRZ
+				}
+				secede_province = HRZ
+			}
+		}
+	}
+
+	return_cores_HSI = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			HSI = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = HSI
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			HSI = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = HSI value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = HSI
+				}
+				secede_province = HSI
+			}
+		}
+	}
+
+	return_cores_HWH = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			HWH = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = HWH
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			HWH = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = HWH value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = HWH
+				}
+				secede_province = HWH
+			}
+		}
+	}
+
+	return_cores_HWK = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			HWK = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = HWK
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			HWK = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = HWK value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = HWK
+				}
+				secede_province = HWK
+			}
+		}
+	}
+
+	return_cores_HWM = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			HWM = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = HWM
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			HWM = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = HWM value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = HWM
+				}
+				secede_province = HWM
+			}
+		}
+	}
+
+	return_cores_HWO = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			HWO = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = HWO
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			HWO = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = HWO value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = HWO
+				}
+				secede_province = HWO
+			}
+		}
+	}
+
+	return_cores_IRE = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			IRE = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = IRE
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			IRE = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = IRE value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = IRE
+				}
+				secede_province = IRE
+			}
+		}
+	}
+
+	return_cores_JAP = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			JAP = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = JAP
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			JAP = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = JAP value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = JAP
+				}
+				secede_province = JAP
+			}
+		}
+	}
+
+	return_cores_JAR = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			JAR = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = JAR
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			JAR = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = JAR value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = JAR
+				}
+				secede_province = JAR
+			}
+		}
+	}
+
+	return_cores_KHO = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			KHO = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = KHO
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KHO = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = KHO value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = KHO
+				}
+				secede_province = KHO
+			}
+		}
+	}
+
+	return_cores_KIE = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			KIE = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = KIE
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KIE = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = KIE value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = KIE
+				}
+				secede_province = KIE
+			}
+		}
+	}
+
+	return_cores_KIT = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			KIT = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = KIT
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KIT = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = KIT value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = KIT
+				}
+				secede_province = KIT
+			}
+		}
+	}
+
+	return_cores_KNI = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			KNI = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = KNI
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KNI = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = KNI value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = KNI
+				}
+				secede_province = KNI
+			}
+		}
+	}
+
+	return_cores_KON = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			KON = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = KON
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KON = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = KON value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = KON
+				}
+				secede_province = KON
+			}
+		}
+	}
+
+	return_cores_KOR = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			KOR = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = KOR
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KOR = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = KOR value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = KOR
+				}
+				secede_province = KOR
+			}
+		}
+	}
+
+	return_cores_KSJ = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			KSJ = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = KSJ
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KSJ = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = KSJ value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = KSJ
+				}
+				secede_province = KSJ
+			}
+		}
+	}
+
+	return_cores_KWN = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			KWN = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = KWN
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KWN = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = KWN value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = KWN
+				}
+				secede_province = KWN
+			}
+		}
+	}
+
+	return_cores_LAN = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			LAN = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = LAN
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			LAN = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = LAN value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = LAN
+				}
+				secede_province = LAN
+			}
+		}
+	}
+
+	return_cores_LNA = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			LNA = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = LNA
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			LNA = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = LNA value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = LNA
+				}
+				secede_province = LNA
+			}
+		}
+	}
+
+	return_cores_LOM = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			LOM = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = LOM
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			LOM = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = LOM value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = LOM
+				}
+				secede_province = LOM
+			}
+		}
+	}
+
+	return_cores_LOR = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			LOR = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = LOR
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			LOR = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = LOR value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = LOR
+				}
+				secede_province = LOR
+			}
+		}
+	}
+
+	return_cores_LSK = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			LSK = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = LSK
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			LSK = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = LSK value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = LSK
+				}
+				secede_province = LSK
+			}
+		}
+	}
+
+	return_cores_LUB = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			LUB = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = LUB
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			LUB = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = LUB value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = LUB
+				}
+				secede_province = LUB
+			}
+		}
+	}
+
+	return_cores_LUC = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			LUC = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = LUC
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			LUC = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = LUC value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = LUC
+				}
+				secede_province = LUC
+			}
+		}
+	}
+
+	return_cores_LXA = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			LXA = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = LXA
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			LXA = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = LXA value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = LXA
+				}
+				secede_province = LXA
+			}
+		}
+	}
+
+	return_cores_MAZ = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			MAZ = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = MAZ
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MAZ = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = MAZ value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = MAZ
+				}
+				secede_province = MAZ
+			}
+		}
+	}
+
+	return_cores_MDS = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			MDS = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = MDS
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MDS = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = MDS value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = MDS
+				}
+				secede_province = MDS
+			}
+		}
+	}
+
+	return_cores_MEX = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			MEX = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = MEX
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MEX = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = MEX value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = MEX
+				}
+				secede_province = MEX
+			}
+		}
+	}
+
+	return_cores_MGD = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			MGD = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = MGD
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MGD = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = MGD value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = MGD
+				}
+				secede_province = MGD
+			}
+		}
+	}
+
+	return_cores_MHR = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			MHR = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = MHR
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MHR = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = MHR value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = MHR
+				}
+				secede_province = MHR
+			}
+		}
+	}
+
+	return_cores_MLC = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			MLC = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = MLC
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MLC = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = MLC value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = MLC
+				}
+				secede_province = MLC
+			}
+		}
+	}
+
+	return_cores_MNA = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			MNA = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = MNA
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MNA = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = MNA value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = MNA
+				}
+				secede_province = MNA
+			}
+		}
+	}
+
+	return_cores_MTA = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			MTA = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = MTA
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			MTA = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = MTA value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = MTA
+				}
+				secede_province = MTA
+			}
+		}
+	}
+
+	return_cores_NZL = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			NZL = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = NZL
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			NZL = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = NZL value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = NZL
+				}
+				secede_province = NZL
+			}
+		}
+	}
+
+	return_cores_ORL = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			ORL = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = ORL
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ORL = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = ORL value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = ORL
+				}
+				secede_province = ORL
+			}
+		}
+	}
+
+	return_cores_PAD = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			PAD = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = PAD
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PAD = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = PAD value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = PAD
+				}
+				secede_province = PAD
+			}
+		}
+	}
+
+	return_cores_PAL = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			PAL = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = PAL
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PAL = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = PAL value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = PAL
+				}
+				secede_province = PAL
+			}
+		}
+	}
+
+	return_cores_PAP = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			PAP = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = PAP
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PAP = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = PAP value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = PAP
+				}
+				secede_province = PAP
+			}
+		}
+	}
+
+	return_cores_PAT = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			PAT = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = PAT
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PAT = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = PAT value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = PAT
+				}
+				secede_province = PAT
+			}
+		}
+	}
+
+	return_cores_PER = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			PER = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = PER
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PER = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = PER value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = PER
+				}
+				secede_province = PER
+			}
+		}
+	}
+
+	return_cores_PEU = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			PEU = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = PEU
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PEU = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = PEU value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = PEU
+				}
+				secede_province = PEU
+			}
+		}
+	}
+
+	return_cores_PGA = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			PGA = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = PGA
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PGA = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = PGA value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = PGA
+				}
+				secede_province = PGA
+			}
+		}
+	}
+
+	return_cores_PHG = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			PHG = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = PHG
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PHG = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = PHG value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = PHG
+				}
+				secede_province = PHG
+			}
+		}
+	}
+
+	return_cores_PIS = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			PIS = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = PIS
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PIS = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = PIS value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = PIS
+				}
+				secede_province = PIS
+			}
+		}
+	}
+
+	return_cores_PRO = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			PRO = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = PRO
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PRO = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = PRO value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = PRO
+				}
+				secede_province = PRO
+			}
+		}
+	}
+
+	return_cores_PTG = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			PTG = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = PTG
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			PTG = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = PTG value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = PTG
+				}
+				secede_province = PTG
+			}
+		}
+	}
+
+	return_cores_QIN = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			QIN = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = QIN
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			QIN = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = QIN value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = QIN
+				}
+				secede_province = QIN
+			}
+		}
+	}
+
+	return_cores_SAF = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			SAF = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = SAF
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SAF = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = SAF value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = SAF
+				}
+				secede_province = SAF
+			}
+		}
+	}
+
+	return_cores_SER = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			SER = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = SER
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SER = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = SER value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = SER
+				}
+				secede_province = SER
+			}
+		}
+	}
+
+	return_cores_SIA = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			SIA = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = SIA
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SIA = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = SIA value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = SIA
+				}
+				secede_province = SIA
+			}
+		}
+	}
+
+	return_cores_SIN = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			SIN = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = SIN
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SIN = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = SIN value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = SIN
+				}
+				secede_province = SIN
+			}
+		}
+	}
+
+	return_cores_SLV = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			SLV = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = SLV
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SLV = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = SLV value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = SLV
+				}
+				secede_province = SLV
+			}
+		}
+	}
+
+	return_cores_SMO = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			SMO = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = SMO
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SMO = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = SMO value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = SMO
+				}
+				secede_province = SMO
+			}
+		}
+	}
+
+	return_cores_SNA = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			SNA = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = SNA
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SNA = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = SNA value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = SNA
+				}
+				secede_province = SNA
+			}
+		}
+	}
+
+	return_cores_SRD = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			SRD = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = SRD
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SRD = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = SRD value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = SRD
+				}
+				secede_province = SRD
+			}
+		}
+	}
+
+	return_cores_SUL = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			SUL = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = SUL
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SUL = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = SUL value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = SUL
+				}
+				secede_province = SUL
+			}
+		}
+	}
+
+	return_cores_SUM = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			SUM = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = SUM
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SUM = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = SUM value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = SUM
+				}
+				secede_province = SUM
+			}
+		}
+	}
+
+	return_cores_SVY = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			SVY = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = SVY
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SVY = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = SVY value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = SVY
+				}
+				secede_province = SVY
+			}
+		}
+	}
+
+	return_cores_SWA = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			SWA = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = SWA
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SWA = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = SWA value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = SWA
+				}
+				secede_province = SWA
+			}
+		}
+	}
+
+	return_cores_SWE = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			SWE = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = SWE
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			SWE = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = SWE value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = SWE
+				}
+				secede_province = SWE
+			}
+		}
+	}
+
+	return_cores_TGA = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			TGA = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = TGA
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			TGA = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = TGA value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = TGA
+				}
+				secede_province = TGA
+			}
+		}
+	}
+
+	return_cores_TUL = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			TUL = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = TUL
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			TUL = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = TUL value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = TUL
+				}
+				secede_province = TUL
+			}
+		}
+	}
+
+	return_cores_TUN = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			TUN = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = TUN
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			TUN = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = TUN value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = TUN
+				}
+				secede_province = TUN
+			}
+		}
+	}
+
+	return_cores_USA = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			USA = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = USA
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			USA = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = USA value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = USA
+				}
+				secede_province = USA
+			}
+		}
+	}
+
+	return_cores_VEN = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			VEN = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = VEN
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			VEN = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = VEN value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = VEN
+				}
+				secede_province = VEN
+			}
+		}
+	}
+
+	return_cores_WAL = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			WAL = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = WAL
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			WAL = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = WAL value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = WAL
+				}
+				secede_province = WAL
+			}
+		}
+	}
+
+	return_cores_WSI = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			WSI = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = WSI
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			WSI = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = WSI value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = WSI
+				}
+				secede_province = WSI
+			}
+		}
+	}
+
+	return_cores_X00 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X00 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X00
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X00 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X00 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X00
+				}
+				secede_province = X00
+			}
+		}
+	}
+
+	return_cores_X01 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X01 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X01
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X01 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X01 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X01
+				}
+				secede_province = X01
+			}
+		}
+	}
+
+	return_cores_X02 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X02 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X02
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X02 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X02 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X02
+				}
+				secede_province = X02
+			}
+		}
+	}
+
+	return_cores_X03 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X03 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X03
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X03 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X03 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X03
+				}
+				secede_province = X03
+			}
+		}
+	}
+
+	return_cores_X04 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X04 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X04
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X04 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X04 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X04
+				}
+				secede_province = X04
+			}
+		}
+	}
+
+	return_cores_X05 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X05 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X05
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X05 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X05 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X05
+				}
+				secede_province = X05
+			}
+		}
+	}
+
+	return_cores_X06 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X06 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X06
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X06 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X06 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X06
+				}
+				secede_province = X06
+			}
+		}
+	}
+
+	return_cores_X07 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X07 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X07
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X07 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X07 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X07
+				}
+				secede_province = X07
+			}
+		}
+	}
+
+	return_cores_X08 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X08 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X08
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X08 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X08 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X08
+				}
+				secede_province = X08
+			}
+		}
+	}
+
+	return_cores_X09 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X09 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X09
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X09 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X09 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X09
+				}
+				secede_province = X09
+			}
+		}
+	}
+
+	return_cores_X10 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X10 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X10
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X10 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X10 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X10
+				}
+				secede_province = X10
+			}
+		}
+	}
+
+	return_cores_X11 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X11 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X11
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X11 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X11 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X11
+				}
+				secede_province = X11
+			}
+		}
+	}
+
+	return_cores_X12 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X12 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X12
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X12 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X12 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X12
+				}
+				secede_province = X12
+			}
+		}
+	}
+
+	return_cores_X13 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X13 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X13
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X13 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X13 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X13
+				}
+				secede_province = X13
+			}
+		}
+	}
+
+	return_cores_X14 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X14 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X14
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X14 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X14 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X14
+				}
+				secede_province = X14
+			}
+		}
+	}
+
+	return_cores_X15 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X15 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X15
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X15 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X15 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X15
+				}
+				secede_province = X15
+			}
+		}
+	}
+
+	return_cores_X16 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X16 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X16
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X16 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X16 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X16
+				}
+				secede_province = X16
+			}
+		}
+	}
+
+	return_cores_X17 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X17 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X17
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X17 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X17 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X17
+				}
+				secede_province = X17
+			}
+		}
+	}
+
+	return_cores_X18 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X18 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X18
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X18 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X18 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X18
+				}
+				secede_province = X18
+			}
+		}
+	}
+
+	return_cores_X19 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X19 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X19
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X19 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X19 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X19
+				}
+				secede_province = X19
+			}
+		}
+	}
+
+	return_cores_X20 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X20 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X20
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X20 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X20 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X20
+				}
+				secede_province = X20
+			}
+		}
+	}
+
+	return_cores_X21 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X21 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X21
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X21 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X21 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X21
+				}
+				secede_province = X21
+			}
+		}
+	}
+
+	return_cores_X22 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X22 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X22
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X22 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X22 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X22
+				}
+				secede_province = X22
+			}
+		}
+	}
+
+	return_cores_X23 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X23 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X23
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X23 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X23 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X23
+				}
+				secede_province = X23
+			}
+		}
+	}
+
+	return_cores_X24 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X24 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X24
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X24 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X24 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X24
+				}
+				secede_province = X24
+			}
+		}
+	}
+
+	return_cores_X25 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X25 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X25
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X25 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X25 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X25
+				}
+				secede_province = X25
+			}
+		}
+	}
+
+	return_cores_X26 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X26 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X26
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X26 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X26 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X26
+				}
+				secede_province = X26
+			}
+		}
+	}
+
+	return_cores_X27 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X27 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X27
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X27 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X27 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X27
+				}
+				secede_province = X27
+			}
+		}
+	}
+
+	return_cores_X28 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X28 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X28
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X28 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X28 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X28
+				}
+				secede_province = X28
+			}
+		}
+	}
+
+	return_cores_X29 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X29 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X29
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X29 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X29 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X29
+				}
+				secede_province = X29
+			}
+		}
+	}
+
+	return_cores_X30 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X30 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X30
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X30 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X30 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X30
+				}
+				secede_province = X30
+			}
+		}
+	}
+
+	return_cores_X31 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X31 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X31
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X31 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X31 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X31
+				}
+				secede_province = X31
+			}
+		}
+	}
+
+	return_cores_X32 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X32 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X32
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X32 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X32 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X32
+				}
+				secede_province = X32
+			}
+		}
+	}
+
+	return_cores_X33 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X33 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X33
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X33 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X33 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X33
+				}
+				secede_province = X33
+			}
+		}
+	}
+
+	return_cores_X34 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X34 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X34
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X34 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X34 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X34
+				}
+				secede_province = X34
+			}
+		}
+	}
+
+	return_cores_X35 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X35 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X35
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X35 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X35 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X35
+				}
+				secede_province = X35
+			}
+		}
+	}
+
+	return_cores_X36 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X36 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X36
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X36 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X36 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X36
+				}
+				secede_province = X36
+			}
+		}
+	}
+
+	return_cores_X37 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X37 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X37
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X37 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X37 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X37
+				}
+				secede_province = X37
+			}
+		}
+	}
+
+	return_cores_X38 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X38 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X38
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X38 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X38 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X38
+				}
+				secede_province = X38
+			}
+		}
+	}
+
+	return_cores_X39 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X39 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X39
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X39 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X39 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X39
+				}
+				secede_province = X39
+			}
+		}
+	}
+
+	return_cores_X40 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X40 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X40
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X40 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X40 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X40
+				}
+				secede_province = X40
+			}
+		}
+	}
+
+	return_cores_X41 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X41 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X41
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X41 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X41 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X41
+				}
+				secede_province = X41
+			}
+		}
+	}
+
+	return_cores_X42 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X42 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X42
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X42 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X42 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X42
+				}
+				secede_province = X42
+			}
+		}
+	}
+
+	return_cores_X43 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X43 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X43
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X43 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X43 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X43
+				}
+				secede_province = X43
+			}
+		}
+	}
+
+	return_cores_X44 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X44 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X44
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X44 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X44 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X44
+				}
+				secede_province = X44
+			}
+		}
+	}
+
+	return_cores_X45 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X45 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X45
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X45 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X45 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X45
+				}
+				secede_province = X45
+			}
+		}
+	}
+
+	return_cores_X46 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X46 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X46
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X46 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X46 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X46
+				}
+				secede_province = X46
+			}
+		}
+	}
+
+	return_cores_X47 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X47 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X47
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X47 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X47 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X47
+				}
+				secede_province = X47
+			}
+		}
+	}
+
+	return_cores_X48 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X48 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X48
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X48 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X48 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X48
+				}
+				secede_province = X48
+			}
+		}
+	}
+
+	return_cores_X49 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X49 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X49
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X49 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X49 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X49
+				}
+				secede_province = X49
+			}
+		}
+	}
+
+	return_cores_X50 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X50 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X50
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X50 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X50 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X50
+				}
+				secede_province = X50
+			}
+		}
+	}
+
+	return_cores_X51 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X51 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X51
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X51 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X51 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X51
+				}
+				secede_province = X51
+			}
+		}
+	}
+
+	return_cores_X52 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X52 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X52
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X52 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X52 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X52
+				}
+				secede_province = X52
+			}
+		}
+	}
+
+	return_cores_X53 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X53 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X53
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X53 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X53 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X53
+				}
+				secede_province = X53
+			}
+		}
+	}
+
+	return_cores_X54 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X54 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X54
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X54 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X54 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X54
+				}
+				secede_province = X54
+			}
+		}
+	}
+
+	return_cores_X55 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X55 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X55
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X55 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X55 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X55
+				}
+				secede_province = X55
+			}
+		}
+	}
+
+	return_cores_X56 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X56 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X56
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X56 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X56 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X56
+				}
+				secede_province = X56
+			}
+		}
+	}
+
+	return_cores_X57 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X57 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X57
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X57 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X57 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X57
+				}
+				secede_province = X57
+			}
+		}
+	}
+
+	return_cores_X58 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X58 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X58
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X58 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X58 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X58
+				}
+				secede_province = X58
+			}
+		}
+	}
+
+	return_cores_X59 = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			X59 = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = X59
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			X59 = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = X59 value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = X59
+				}
+				secede_province = X59
+			}
+		}
+	}
+
+	return_cores_YEM = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			YEM = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = YEM
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			YEM = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = YEM value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = YEM
+				}
+				secede_province = YEM
+			}
+		}
+	}
+
+	return_cores_ZAF = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			ZAF = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = ZAF
+				NOT = { is_core = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			ZAF = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = ZAF value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = ZAF
+				}
+				secede_province = ZAF
+			}
+		}
+	}
+}

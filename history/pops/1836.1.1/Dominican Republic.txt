@@ -1,0 +1,214 @@
+2214 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 9386
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 224
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 12775
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = norse_pagan_reformed
+		size= 36855
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 30805
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 15439
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 4940
+	}
+
+	clergymen=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 715
+	}
+
+	bureaucrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 196
+	}
+
+	officers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 142
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 872
+	}
+
+}
+2216 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 4184
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 107
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 6434
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = norse_pagan_reformed
+		size= 8765
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 9204
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 4086
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 490
+	}
+
+	clergymen=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 190
+	}
+
+	bureaucrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 52
+	}
+
+	officers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 36
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 221
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = noreligion
+		size= 7278
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 187
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 3173
+	}
+
+	clergymen=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 147
+	}
+
+	bureaucrats=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 41
+	}
+
+	officers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 381
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 7422
+	}
+
+}

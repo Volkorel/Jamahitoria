@@ -1,0 +1,8 @@
+owner=X44
+controller=X44
+add_core=KHA
+add_core=MGL
+add_core=X44
+trade_goods = grain
+life_rating = 30
+fort = 1

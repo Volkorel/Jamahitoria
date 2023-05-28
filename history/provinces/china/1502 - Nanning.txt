@@ -1,0 +1,7 @@
+owner=X31
+controller=X31
+add_core=CHI
+add_core=X31
+trade_goods = fish
+life_rating = 32
+fort = 1

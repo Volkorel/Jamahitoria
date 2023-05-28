@@ -1,0 +1,135 @@
+2222 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 7233
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 154
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 8013
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = norse_pagan_reformed
+		size= 5533
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 4316
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 1902
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 456
+	}
+
+	clergymen=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 88
+	}
+
+	bureaucrats=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 24
+	}
+
+	officers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 18
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = norse_pagan_reformed
+		size= 114
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = noreligion
+		size= 30079
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 640
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 10868
+	}
+
+	clergymen=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 505
+	}
+
+	bureaucrats=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 140
+	}
+
+	officers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 101
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 2608
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 19100
+	}
+
+}

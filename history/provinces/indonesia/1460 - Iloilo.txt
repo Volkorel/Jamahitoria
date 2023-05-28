@@ -1,0 +1,8 @@
+owner=BRT
+controller=BRT
+add_core=MGD
+add_core=PHL
+trade_goods = fruit
+life_rating = 35
+colonial=2
+naval_base = 2

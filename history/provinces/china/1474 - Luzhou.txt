@@ -1,0 +1,7 @@
+owner=X31
+controller=JAP
+add_core=CHI
+add_core=JAP
+add_core=X31
+trade_goods = cattle
+life_rating = 32

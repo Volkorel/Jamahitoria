@@ -1,0 +1,5 @@
+owner=X36
+controller=X36
+add_core=FLR
+trade_goods = sulphur
+life_rating = 35

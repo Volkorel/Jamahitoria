@@ -1,0 +1,9 @@
+owner=BRG
+controller=BRG
+add_core=BRG
+add_core=FRA
+add_core=HLR
+add_core=OCC
+trade_goods = coal
+life_rating = 31
+fort = 1

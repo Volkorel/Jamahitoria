@@ -1,0 +1,1404 @@
+1181 = {
+	soldiers=
+	{
+		culture = kazak
+		religion = shiite
+		size= 357
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = shiite
+		size= 376
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = shiite
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = shiite
+		size= 13
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = shiite
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = shiite
+		size= 92
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = shiite
+		size= 8478
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 158
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 6
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 39
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 3569
+	}
+
+}
+1182 = {
+	soldiers=
+	{
+		culture = pecheneg
+		religion = shiite
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = pecheneg
+		religion = shiite
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = pecheneg
+		religion = shiite
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = pecheneg
+		religion = shiite
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = pecheneg
+		religion = shiite
+		size= 248
+	}
+
+	soldiers=
+	{
+		culture = pecheneg
+		religion = pre_schism
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = pecheneg
+		religion = pre_schism
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = pecheneg
+		religion = pre_schism
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = pecheneg
+		religion = pre_schism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = pecheneg
+		religion = pre_schism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = pecheneg
+		religion = pre_schism
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = pecheneg
+		religion = pre_schism
+		size= 173
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = shiite
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = shiite
+		size= 13
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = shiite
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = shiite
+		size= 1
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = shiite
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = shiite
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = shiite
+		size= 614
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = pre_schism
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = pre_schism
+		size= 34
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = pre_schism
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = pre_schism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = pre_schism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = pre_schism
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = pre_schism
+		size= 440
+	}
+
+	soldiers=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 113
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 81
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 4
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 1793
+	}
+
+	soldiers=
+	{
+		culture = pecheneg
+		religion = tengri_pagan_reformed
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = pecheneg
+		religion = tengri_pagan_reformed
+		size= 28
+	}
+
+	clergymen=
+	{
+		culture = pecheneg
+		religion = tengri_pagan_reformed
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = pecheneg
+		religion = tengri_pagan_reformed
+		size= 2
+	}
+
+	officers=
+	{
+		culture = pecheneg
+		religion = tengri_pagan_reformed
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = pecheneg
+		religion = tengri_pagan_reformed
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = pecheneg
+		religion = tengri_pagan_reformed
+		size= 632
+	}
+
+}
+1183 = {
+	soldiers=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 90
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 180
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 9
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 4145
+	}
+
+}
+1184 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 64
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 144
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 2
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 2971
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = druze
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = druze
+		size= 148
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = druze
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = druze
+		size= 2
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = druze
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = druze
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 380
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 1707
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 27
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 159
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 16550
+	}
+
+}
+1185 = {
+	slaves=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 5147
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 258
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 2325
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 168
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 49
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 217
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 17653
+	}
+
+}
+1186 = {
+	slaves=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 7214
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 1674
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 4184
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 389
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 57
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 293
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 16026
+	}
+
+}
+1187 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 1134
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 810
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 132
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 20
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 170
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 17939
+	}
+
+}
+1188 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = sunni
+		size= 1021
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = sunni
+		size= 1276
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = sunni
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = sunni
+		size= 18
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = sunni
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = sunni
+		size= 90
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = sunni
+		size= 15752
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = shiite
+		size= 508
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = shiite
+		size= 2546
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = shiite
+		size= 118
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = shiite
+		size= 35
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = shiite
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = shiite
+		size= 179
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = shiite
+		size= 5651
+	}
+
+}
+1193 = {
+	soldiers=
+	{
+		culture = kazak
+		religion = shiite
+		size= 473
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = shiite
+		size= 945
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = shiite
+		size= 154
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = shiite
+		size= 24
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = shiite
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = shiite
+		size= 198
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = shiite
+		size= 21800
+	}
+
+}
+1194 = {
+	soldiers=
+	{
+		culture = kazak
+		religion = shiite
+		size= 209
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = shiite
+		size= 298
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = shiite
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = shiite
+		size= 14
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = shiite
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = shiite
+		size= 63
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = shiite
+		size= 6816
+	}
+
+}
+1197 = {
+	slaves=
+	{
+		culture = kazak
+		religion = shiite
+		size= 5998
+	}
+
+	soldiers=
+	{
+		culture = kazak
+		religion = shiite
+		size= 969
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = shiite
+		size= 4588
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = shiite
+		size= 332
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = shiite
+		size= 97
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = shiite
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = shiite
+		size= 429
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = shiite
+		size= 38503
+	}
+
+}
+2606 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 338
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 613
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 16
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 128
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 15665
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = hurufi
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = hurufi
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = hurufi
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = hurufi
+		size= 2
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = hurufi
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = hurufi
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = hurufi
+		size= 205
+	}
+
+}
+2610 = {
+	soldiers=
+	{
+		culture = pecheneg
+		religion = tengri_pagan_reformed
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = pecheneg
+		religion = tengri_pagan_reformed
+		size= 99
+	}
+
+	clergymen=
+	{
+		culture = pecheneg
+		religion = tengri_pagan_reformed
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = pecheneg
+		religion = tengri_pagan_reformed
+		size= 2
+	}
+
+	officers=
+	{
+		culture = pecheneg
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = pecheneg
+		religion = tengri_pagan_reformed
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = pecheneg
+		religion = tengri_pagan_reformed
+		size= 940
+	}
+
+	soldiers=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 178
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 66
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 1692
+	}
+
+}
+2611 = {
+	soldiers=
+	{
+		culture = kazak
+		religion = shiite
+		size= 76
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = shiite
+		size= 152
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = shiite
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = shiite
+		size= 5
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = shiite
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = shiite
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = shiite
+		size= 3506
+	}
+
+	soldiers=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 33
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 751
+	}
+
+}
+2612 = {
+	soldiers=
+	{
+		culture = kazak
+		religion = shiite
+		size= 317
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = shiite
+		size= 635
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = shiite
+		size= 103
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = shiite
+		size= 16
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = shiite
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = shiite
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = shiite
+		size= 14649
+	}
+
+}
+2702 = {
+	soldiers=
+	{
+		culture = kazak
+		religion = shiite
+		size= 123
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = shiite
+		size= 245
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = shiite
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = shiite
+		size= 12
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = shiite
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = shiite
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = shiite
+		size= 5647
+	}
+
+}
