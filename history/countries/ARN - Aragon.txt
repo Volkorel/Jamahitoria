@@ -1,6 +1,7 @@
 capital = 2210
-primary_culture = trattoloyan
-culture = carribean
+primary_culture = langobard
+culture = beltramian
+culture = trattoloyan
 culture = zzz_religion_catholic
 religion = catholic
 government = prussian_constitutionalism

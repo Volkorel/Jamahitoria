@@ -1,9 +1,7 @@
 capital = 1003
-primary_culture = dummy
-culture = dummy
+primary_culture = holmgardr
 culture = russian
-culture = zzz_religion_norse_pagan_reformed
-religion = norse_pagan_reformed
+religion = laeradr
 government = bourgeois_dictatorship
 plurality = 0
 nationalvalue = nv_liberty

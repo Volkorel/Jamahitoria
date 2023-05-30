@@ -260,35 +260,35 @@
 	clergymen=
 	{
 		culture = greek
-		religion = catholic
+		religion = promotheus
 		size= 898
 	}
 
 	bureaucrats=
 	{
 		culture = greek
-		religion = catholic
+		religion = promotheus
 		size= 430
 	}
 
 	officers=
 	{
 		culture = greek
-		religion = catholic
+		religion = promotheus
 		size= 307
 	}
 
 	aristocrats=
 	{
 		culture = greek
-		religion = catholic
+		religion = promotheus
 		size= 1505
 	}
 
 	farmers=
 	{
 		culture = greek
-		religion = catholic
+		religion = promotheus
 		size= 90641
 	}
 
@@ -325,21 +325,21 @@
 	soldiers=
 	{
 		culture = greek
-		religion = catholic
+		religion = promotheus
 		size= 4893
 	}
 
 	artisans=
 	{
 		culture = greek
-		religion = catholic
+		religion = promotheus
 		size= 4786
 	}
 
 	clergymen=
 	{
 		culture = greek
-		religion = catholic
+		religion = promotheus
 		size= 346
 	}
 
@@ -383,21 +383,21 @@
 	soldiers=
 	{
 		culture = greek
-		religion = catholic
+		religion = promotheus
 		size= 7476
 	}
 
 	artisans=
 	{
 		culture = greek
-		religion = catholic
+		religion = promotheus
 		size= 7313
 	}
 
 	clergymen=
 	{
 		culture = greek
-		religion = catholic
+		religion = promotheus
 		size= 528
 	}
 

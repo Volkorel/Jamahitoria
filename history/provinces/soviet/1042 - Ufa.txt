@@ -1,5 +1,6 @@
-owner=X37
-controller=X37
+owner=X03
+controller=X03
+add_core = X03
 add_core=X37
 trade_goods = iron
 life_rating = 35

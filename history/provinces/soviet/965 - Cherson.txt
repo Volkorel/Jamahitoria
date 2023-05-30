@@ -1,7 +1,6 @@
-owner=X19
-controller=X19
-add_core=HUN
-add_core=X01
+owner=X01
+controller=X01
+add_core = X01
 add_core=X02
 add_core=X19
 trade_goods = fish

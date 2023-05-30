@@ -323,70 +323,70 @@
 	soldiers=
 	{
 		culture = finnish
-		religion = noreligion
+		religion = laeradr
 		size= 605
 	}
 
 	craftsmen=
 	{
 		culture = finnish
-		religion = noreligion
+		religion = laeradr
 		size= 1685
 	}
 
 	artisans=
 	{
 		culture = finnish
-		religion = noreligion
+		religion = laeradr
 		size= 919
 	}
 
 	clergymen=
 	{
 		culture = finnish
-		religion = noreligion
+		religion = laeradr
 		size= 66
 	}
 
 	clerks=
 	{
 		culture = finnish
-		religion = noreligion
+		religion = laeradr
 		size= 96
 	}
 
 	bureaucrats=
 	{
 		culture = finnish
-		religion = noreligion
+		religion = laeradr
 		size= 14
 	}
 
 	officers=
 	{
 		culture = finnish
-		religion = noreligion
+		religion = laeradr
 		size= 21
 	}
 
 	capitalists=
 	{
 		culture = finnish
-		religion = noreligion
+		religion = laeradr
 		size= 37
 	}
 
 	aristocrats=
 	{
 		culture = finnish
-		religion = noreligion
+		religion = laeradr
 		size= 86
 	}
 
 	farmers=
 	{
 		culture = finnish
-		religion = noreligion
+		religion = laeradr
 		size= 7266
 	}
 

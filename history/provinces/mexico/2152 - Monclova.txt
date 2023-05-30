@@ -1,5 +1,6 @@
-owner=MEX
-controller=MEX
+owner=X57
+controller=X57
+add_core=X57
 add_core=MEX
 trade_goods = dye
 life_rating = 32

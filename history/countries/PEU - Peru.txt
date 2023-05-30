@@ -1,7 +1,5 @@
 capital = 2301
 primary_culture = nouvellien
-culture = aimara
-culture = quechua
 culture = zzz_religion_catholic
 religion = catholic
 government = absolute_monarchy

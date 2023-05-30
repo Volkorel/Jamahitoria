@@ -1,5 +1,6 @@
-owner=CLM
-controller=CLM
+owner=X56
+controller=X56
+add_core=X56
 trade_goods = cotton
 life_rating = 35
 terrain = new_world_plains

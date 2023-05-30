@@ -496,14 +496,6 @@ barbarian = {
 		last_names = { "Adler" "Adrabaecampi" "Baemoi" "Batin" "Daimler" "Dengler" "Eberle" "Elser" "Ensselin" "Groner" "Hegelin" "Heinkelin" "Holderelin" "Idanha" "Kepler" "Kiesinger" "Laemmle" "Lugo" "Marcomanni" "Naristi" "Ourense" "Racatria" "Rommelin" "Sudini" "Suiones" "Tui" "Viseu" "Wekerle" }
 		
 	}
-	vandal = {
-		color = { 100 150 100 }
-		
-		first_names = { "Abbo" "Aega" "Agobard" "Allowin" "Arnulf" "Asselin" "Berno" "Berthaire" "Bruno" "Cassyon" "Cheldric" "Childebrand" "Clodomir" "Clotaire" "Corbinian" "Dodo" "Ebroin" "Ebrulf" "Emme" "Evroult" "Faro" "Gerold" "Grifo" "Grimbald" "Hartmut" "Helinand" "Hildebold" "Hildeprand" "Humbert" "Imbert" "Jocelin" "Lambert" "Lanfranc" "Lebuin" "Letard" "Liudhard" "Liudolf" "Lul" "Mansuet" "Omer" "Reginar" "Reol" "Richomer" "Rothad" "Sergi" "Sicho" "Vedast" "Werinbert" "Willibrord" "Zwentibold" }
-		
-		last_names = { "Aega" "Agilbert" "Artaud" "Bandeson" "Berchar" "Bernard" "Birin" "Blank" "Brun" "Bruno" "Burkhart" "Charibert" "Charivi" "Childebert" "Childeric" "Chlodobert" "Chlodowig" "Emme" "Grimald" "Landric" "Lothar" "Lul" "Radeburg" "Razo" "Rodbert" "Sergi" "Theudebald" "Theudebert" "Theuderic" "Werinbert" "Wighard" }
-		
-	}
 	
 }
 
@@ -519,7 +511,14 @@ beneluxian = {
 		last_names = { "van der Aa" "van Assendelft" "Boetge" "Boumeester" "van Bronkhorst" "Batenburg" "Bentinck" "Boreel" "Brandt" "van Brederode" "Brouwer" "Buyskes" "van Braam Houckgeest" "van der Capellen" "Chassé" "Cochius" "Coops" "de Casembroot" "Cleerens" "Coehoorn" "Coen" "de Constant Rebecque" "Crijnssen" "van Culemborg" "Duycker" "de Eerens" "de Kock" "Deijkerhoff" "den Beer Poortugael" "Daendels" "van Diemen" "van der Does" "van Duivenvoorde" "Ellis" "Engels" "Engelvaart" "van Egmont" "Evertzen" "Fabius" "Gregory" "van Galen" "de Grouwe" "van Geen" "van Ham" "van Haren" "van Heemskerck" "van Heutsz" "Cort-Heyligers" "de Houtman" "van Huchtenbroek" "van Ilpendam" "Janssens" "Köhler" "Kool" "Kruys" "Kater" "van Keppel" "Kortenaer" "List" "Lucas" "Michiels" "van Marnix" "Martena" "de Moor" "Melvill van Carnbee" "Nepveu" "Nachtegaal" "van Nieuwenaar" "van Noort" "Ongerboer" "van Pallandt" "Rijk" "Röell" "van Raephorst" "van Rechteren" "Reijersen" "van Renesse" "van Riebeeck" "de Rijk" "van Rossum" "Sabron" "Schimmelpenninck van der Oye" "van Saksen-Weimar" "van Spilbergen" "Staal" "Stokhuyzen" "Schouten" "Schenk" "Spiegel" "Steltman" "Stuyvesant" "Tasman" "van Troyen" "Trip" "van Dambenoy" "van den Bosch" "van der Heijden" "van Hoensbroeck" "van Oranje-Nassau" "van Swieten" "van Vredenburch" "Verspijck" "Vetter" "Weitzel" "Van Utenhove" "van Walbeeck" "van Wassenaer" "van der Werff" "van Wesembeke" "van Wingle" "van der Wijck" "van Wijngaarden" "de Winter" "Wolterbeek" }
 		
 	}
-
+	morado = {
+		color = { 70 94 88 }
+		
+		first_names = { "Anno" "Bernard" "Baltasar" "Campegius" "Dodo" "Eggerik" "Eilhard" "Eeltsje" "Enno" "Edzard" "Edo" "Freark" "Franciscus" "Gysbert" "Gerlof" "Hendrik" "Jancko" "Jacobus" "Joast" "Jehan" "Joaris" "Kristiaan" "Karel" "Keno" "Loadewyk" "Magnus" "Marten" "Michiel" "Meinwerk" "Nicolaas" "Okko" "Oluf" "Pier" "Rudolf" "Theunis" "Tsalling" "Tsjibbe" "Tileman" "Tako" "Ulrik" "Ulfrik" "Ucko" "Uniko" "Ubbo" "Worp" "Widzel" "Wigbolt" "Wijard" "Wybrand" "Ygo" }
+		
+		last_names = { "van der Aa" "van Assendelft" "Boetge" "Boumeester" "van Bronkhorst" "Batenburg" "Bentinck" "Boreel" "Brandt" "van Brederode" "Brouwer" "Buyskes" "van Braam Houckgeest" "van der Capellen" "Chassé" "Cochius" "Coops" "de Casembroot" "Cleerens" "Coehoorn" "Coen" "de Constant Rebecque" "Crijnssen" "van Culemborg" "Duycker" "de Eerens" "de Kock" "Deijkerhoff" "den Beer Poortugael" "Daendels" "van Diemen" "van der Does" "van Duivenvoorde" "Ellis" "Engels" "Engelvaart" "van Egmont" "Evertzen" "Fabius" "Gregory" "van Galen" "de Grouwe" "van Geen" "van Ham" "van Haren" "van Heemskerck" "van Heutsz" "Cort-Heyligers" "de Houtman" "van Huchtenbroek" "van Ilpendam" "Janssens" "Köhler" "Kool" "Kruys" "Kater" "van Keppel" "Kortenaer" "List" "Lucas" "Michiels" "van Marnix" "Martena" "de Moor" "Melvill van Carnbee" "Nepveu" "Nachtegaal" "van Nieuwenaar" "van Noort" "Ongerboer" "van Pallandt" "Rijk" "Röell" "van Raephorst" "van Rechteren" "Reijersen" "van Renesse" "van Riebeeck" "de Rijk" "van Rossum" "Sabron" "Schimmelpenninck van der Oye" "van Saksen-Weimar" "van Spilbergen" "Staal" "Stokhuyzen" "Schouten" "Schenk" "Spiegel" "Steltman" "Stuyvesant" "Tasman" "van Troyen" "Trip" "van Dambenoy" "van den Bosch" "van der Heijden" "van Hoensbroeck" "van Oranje-Nassau" "van Swieten" "van Vredenburch" "Verspijck" "Vetter" "Weitzel" "Van Utenhove" "van Walbeeck" "van Wassenaer" "van der Werff" "van Wesembeke" "van Wingle" "van der Wijck" "van Wijngaarden" "de Winter" "Wolterbeek" }
+		
+	}
 	dutch = {
 		color = { 230 130 50 }
 		
@@ -1449,9 +1448,9 @@ east_asian = {
 		
 	}
 	east_asian_north_america_superregion_culture = {
-		color = { 180 101 210 }
+		color = { 216 141 67 }
 		radicalism = 10
-		
+		union = CAL
 		first_names = { "Zhanji" "Zhanjun" "Zhanyong" "Zhanyin" "Zhanshan" "Zhangang" "Zhan'ao" "Zhankai" "Zhanyan" "Jianrui" "Jianlin" "Jianti" "Jianchun" "Jianze" "Jianjun" "Jianzhi" "Jianpei" "Jianji" "Youji" "Youtang" "Youwan" "Youlun" "Youbing" "Youyun" "Youheng" "You'kai" "Houzhao" "Houwei" "Houxi" "Houcong" "Zaiji" "Zairui" "Zaihou" "Yiling" "Yijun" "Yiliu" "Changluo" "Changxu" "Changxun" "Changzhi" "Changhao" "Changrun" "Changyin" "Changbo" "Youxiao" "Youxue" "Youmo" "Youjian" "Youyi" "Youshan" "Ciran" "Ciyu" "Cijiong" "Cilang" "Ciheng" "Cizhao" "Cihuan" "Cican" "Shangbing" "Shanglie" "Shangyi" "Shanghong" "Zhijun" "Zhibao" "Gongxi" "Gongjian" "Gongtang" "Gongming" "Jixi" "Jiye" "Jihuang" "Jihuan" "Jixuan" "Meigui" "Meiyuan" "Zhongxuan" "Zhongduo" "Qiyuan" "Qiying" "Qirong" "Youdun" "Zishi" "Linmei" "Cijue" "Ciwei" "Cikai" "Youhua" "Linyuan" "Qisheng" "Biao" "Shuang" "Gang" "Su" "Zhen" "Bo" "Zi" "Chun" "Bo" "Gui" "Xuntan" "Xunquan" "Ying" "Zhanyan" "Zhi" "Quan" "Chenhao" "Bian" "Hui" "Song" "Mo" "Yin" "Jing" "Dong" "Nan" "Shouqian" "Xiongying" "Yuntong" "Yunjian" "Wengui" "Wenkui" "Gaoxu" "Gaosui" "Houyu" "ZhanYong" "Zhanshan" "Yousi" "Jianchun" "Jianshu" "Jianzhi" "Yourong" "Houjue" "Zailun" "Zaiji" "Changfang" "Changxu" "Changxun" "Changzhi" "Changrun" "Cilang" "Cihuan" "Guan" "Keqin" "Fu" "Dounan" "Chengzu" "Zixiang" "Bingyi" "Guan" "Zongren" "Yuan" "Fu" "Xingui" "Zonglian" "Ji" "Xiang" "Yu" "Quan" "Zhong" "Ji" "Xizheng" "Jian" "Shao'en" "Jiusi" "Song" "Chun" "Youxue" "Zugan" "Yingfang" "Kekuan" "Mo" "Juren" "Qing" "Qinshun" "Duan" "Zhencheng" "Bao" "Li" "Xiao" "Xian" "Tang" "Boyuan" "Chunyao" "Xianzhang" "Liang" "Ruoshui" "Shouyi" "De" "Ti" "Hongxian" "Shihuai" "Shixi" "Yizan" "Huali" "Zhide" "Yuanxi" "Xixue" "Weizhen" "Han" "Boheng" "Mian" "Zongyi" "Kai" "Meng" "Hong" "Du" "Danian" "Tai" "Minzheng" "Mengyang" "Jingming" "Zhenqing" "Gong" "Shanfu" "Shen" "Zhengming" "Zuo" "Weiqi" "Shenzhong" "Panlong" "Youguang" "Weizhen" "Shisheng" "Qichang" "Hongdao" "Nanying" "Shaozong" "Peng" "Wenshi" "Liangxiang" "Wannian" "Zongyan" "Tingkui" "Bangzuo" "Ruxiu" "Guochang" "Huanchun" "Xianming" "Shengdou" "Zhaochen" "Shimei" "Guoxi" "Shangzhen" "Daoxing" "Tingbiao" "Yunrang" "Wan" "Jin" "Ding" "Wuchang" "Chengzhang" "Jiefu" "Wenyong" "Shiming" "Chonghua" "Sanfeng" "Wanyan" "Dayong" "Zhongwen" "Kexue" "Yuanjie" "Rucai" "Kexi" "Zhongming" "Jinxing" "Yan" "Yingxiang" "Zongmin" "Zhanji" "Zhanjun" "Zhanyong" "Zhanyin" "Zhanshan" "Zhangang" "Zhan'ao" "Zhankai" "Zhanyan" "Jianrui" "Jianlin" "Jianti" "Jianchun" "Jianze" "Jianjun" "Jianzhi" "Jianpei" "Jianji" "Youji" "Youtang" "Youwan" "Youlun" "Youbing" "Youyun" "Youheng" "You'kai" "Houzhao" "Houwei" "Houxi" "Houcong" "Zaiji" "Zairui" "Zaihou" "Yiling" "Yijun" "Yiliu" "Changluo" "Changxu" "Changxun" "Changzhi" "Changhao" "Changrun" "Changyin" "Changbo" "Youxiao" "Youxue" "Youmo" "Youjian" "Youyi" "Youshan" "Ciran" "Ciyu" "Cijiong" "Cilang" "Ciheng" "Cizhao" "Cihuan" "Cican" "Shangbing" "Shanglie" "Shangyi" "Shanghong" "Zhijun" "Zhibao" "Gongxi" "Gongjian" "Gongtang" "Gongming" "Jixi" "Jiye" "Jihuang" "Jihuan" "Jixuan" "Meigui" "Meiyuan" "Zhongxuan" "Zhongduo" "Qiyuan" "Qiying" "Qirong" "Youdun" "Zishi" "Linmei" "Cijue" "Ciwei" "Cikai" "Youhua" "Linyuan" "Qisheng" "Biao" "Shuang" "Gang" "Su" "Zhen" "Bo" "Zi" "Chun" "Bo" "Gui" "Xuntan" "Xunquan" "Ying" "Zhanyan" "Zhi" "Quan" "Chenhao" "Bian" "Hui" "Song" "Mo" "Yin" "Jing" "Dong" "Nan" "Shouqian" "Xiongying" "Yuntong" "Yunjian" "Wengui" "Wenkui" "Gaoxu" "Gaosui" "Houyu" "ZhanYong" "Zhanshan" "Yousi" "Jianchun" "Jianshu" "Jianzhi" "Yourong" "Houjue" "Zailun" "Zaiji" "Changfang" "Changxu" "Changxun" "Changzhi" "Changrun" "Cilang" "Cihuan" "Guan" "Keqin" "Fu" "Dounan" "Chengzu" "Zixiang" "Bingyi" "Guan" "Zongren" "Yuan" "Fu" "Xingui" "Zonglian" "Ji" "Xiang" "Yu" "Quan" "Zhong" "Ji" "Xizheng" "Jian" "Shao'en" "Jiusi" "Song" "Chun" "Youxue" "Zugan" "Yingfang" "Kekuan" "Mo" "Juren" "Qing" "Qinshun" "Duan" "Zhencheng" "Bao" "Li" "Xiao" "Xian" "Tang" "Boyuan" "Chunyao" "Xianzhang" "Liang" "Ruoshui" "Shouyi" "De" "Ti" "Hongxian" "Shihuai" "Shixi" "Yizan" "Huali" "Zhide" "Yuanxi" "Xixue" "Weizhen" "Han" "Boheng" "Mian" "Zongyi" "Kai" "Meng" "Hong" "Du" "Danian" "Tai" "Minzheng" "Mengyang" "Jingming" "Zhenqing" "Gong" "Shanfu" "Shen" "Zhengming" "Zuo" "Weiqi" "Shenzhong" "Panlong" "Youguang" "Weizhen" "Shisheng" "Qichang" "Hongdao" "Nanying" "Shaozong" "Peng" "Wenshi" "Liangxiang" "Wannian" "Zongyan" "Tingkui" "Bangzuo" "Ruxiu" "Guochang" "Huanchun" "Xianming" "Shengdou" "Zhaochen" "Shimei" "Guoxi" "Shangzhen" "Daoxing" "Tingbiao" "Yunrang" "Wan" "Jin" "Ding" "Wuchang" "Chengzhang" "Jiefu" "Wenyong" "Shiming" "Chonghua" "Sanfeng" "Wanyan" "Dayong" "Zhongwen" "Kexue" "Yuanjie" "Rucai" "Kexi" "Zhongming" "Jinxing" "Yan" "Yingxiang" "Zongmin" }
 		
 		last_names = { }
@@ -2502,6 +2501,22 @@ italian = {
 		last_names = { "Albhi" "Aleard" "Amistada" "Balda" "Degan" "Gadoald" "Gairulf" "Gisulph" "Gotefred" "Gualenghi" "Haimon" "Haistulf" "Hardman" "Harjowalda" "Hauptwolf" "Nok" "Ragin" "Rambold" "Reginmund" "Ridbald" "Rudonis" "Sala" "Schirald" "Schiriwaite" "Sigebald" "Teudald" "Tierwysch" "Wala" "Walfrit" "Zazza" }
 		
 	}
+	vandal = {
+		color = { 100 150 100 }
+		
+		first_names = { "Abbo" "Aega" "Agobard" "Allowin" "Arnulf" "Asselin" "Berno" "Berthaire" "Bruno" "Cassyon" "Cheldric" "Childebrand" "Clodomir" "Clotaire" "Corbinian" "Dodo" "Ebroin" "Ebrulf" "Emme" "Evroult" "Faro" "Gerold" "Grifo" "Grimbald" "Hartmut" "Helinand" "Hildebold" "Hildeprand" "Humbert" "Imbert" "Jocelin" "Lambert" "Lanfranc" "Lebuin" "Letard" "Liudhard" "Liudolf" "Lul" "Mansuet" "Omer" "Reginar" "Reol" "Richomer" "Rothad" "Sergi" "Sicho" "Vedast" "Werinbert" "Willibrord" "Zwentibold" }
+		
+		last_names = { "Aega" "Agilbert" "Artaud" "Bandeson" "Berchar" "Bernard" "Birin" "Blank" "Brun" "Bruno" "Burkhart" "Charibert" "Charivi" "Childebert" "Childeric" "Chlodobert" "Chlodowig" "Emme" "Grimald" "Landric" "Lothar" "Lul" "Radeburg" "Razo" "Rodbert" "Sergi" "Theudebald" "Theudebert" "Theuderic" "Werinbert" "Wighard" }
+		
+	}
+	langobard = {
+		color = { 128 158 79 }
+		
+		first_names = { "Abbo" "Aega" "Agobard" "Allowin" "Arnulf" "Asselin" "Berno" "Berthaire" "Bruno" "Cassyon" "Cheldric" "Childebrand" "Clodomir" "Clotaire" "Corbinian" "Dodo" "Ebroin" "Ebrulf" "Emme" "Evroult" "Faro" "Gerold" "Grifo" "Grimbald" "Hartmut" "Helinand" "Hildebold" "Hildeprand" "Humbert" "Imbert" "Jocelin" "Lambert" "Lanfranc" "Lebuin" "Letard" "Liudhard" "Liudolf" "Lul" "Mansuet" "Omer" "Reginar" "Reol" "Richomer" "Rothad" "Sergi" "Sicho" "Vedast" "Werinbert" "Willibrord" "Zwentibold" }
+		
+		last_names = { "Aega" "Agilbert" "Artaud" "Bandeson" "Berchar" "Bernard" "Birin" "Blank" "Brun" "Bruno" "Burkhart" "Charibert" "Charivi" "Childebert" "Childeric" "Chlodobert" "Chlodowig" "Emme" "Grimald" "Landric" "Lothar" "Lul" "Radeburg" "Razo" "Rodbert" "Sergi" "Theudebald" "Theudebert" "Theuderic" "Werinbert" "Wighard" }
+		
+	}
 	maltese = {
 		color = { 100 150 120 }
 		
@@ -2723,14 +2738,6 @@ latin_american_cultures = {
 		last_names = { "Almonte" "Álvarez" "Arista" "Barragán" "Bocanegra" "Bravo" "Bustamante" "Canalizo" "Carranza" "Caserta" "Cervantes" "Corona" "Corra" "de Ampudia" "de Cos" "de Itúrbide" "Díaz" "Echeverría" "Escandón" "Escobedo" "Fagoaga" "Fernández del Valle" "Flores" "Gómez" "González" "Guerrero" "Huerta" "Kosterlitzky" "López de Santa Ana" "Lozada" "Martínez del Río" "Mejía" "Miramón" "Múzquiz" "Obregón" "Pedraza" "Pimentel" "Reyes" "Rincón Gallardo" "Robles" "Ruíz" "Salas" "Sánchez" "Sarmaniego del Castillo" "Vázquez de la Cadena" "Villa" "Woll" "Zapata" "Zaragoza" "Zuloaga" }
 		
 	}
-	morado = {
-		color = { 70 94 88 }
-		
-		first_names = { "Adolfo" "Agustín" "Alejandro" "Andrés" "Aníbal" "Antonio" "Bartolomé" "Bernardo" "David" "Diego" "Domingo" "Eduardo" "Emiliano" "Emilio" "Enrique" "Esteban" "Eusebio" "Federico" "Felipe" "Francisco" "Germán" "Hernando" "Hilarión" "Ignacio" "Isidoro" "Ismael" "Jorge" "José" "José Miguel" "Juan" "Juan Antonio" "Juan Francisco" "Justo" "Ladislao" "Luis" "Manuel" "Mariano" "Miguel" "Narciso" "Nicolás" "Pablo" "Patricio" "Pedro" "Ramón" "Rufino" "Ruperto" "Santiago" "Sebastián" "Severino" "Tomás" }
-		
-		last_names = { "Abaroa" "Ágreda" "Altamirano" "Arteaga" "Ballivián" "Baquedano" "Belzú" "Blanche" "Blanco" "Bulnes" "Cabrera" "Calvo" "Campero" "Castilla" "Corrico" "Daza" "de la Cruz" "de Santa Cruz" "de Velasco" "de Vidal" "Echenique" "Errázuriz" "Fernández" "Figueroa" "Franco" "Freire" "Gamarra" "Gorostiaga" "Grau" "Guilarte" "La Mar" "Latorre" "Lynch" "Melgarejo" "Monje" "Montero" "Montes" "Montt" "Orbegoso" "Pezet" "Rebolledo" "Ruíz-Tagle" "Salaverry" "Santa María" "Siles" "Sotomayor" "Toro" "Valencia" "Zañartu" "Zapata" }
-		
-	}
 	north_andean = {
 		color = { 146 156 116 }
 		
@@ -2843,14 +2850,6 @@ levantine = {
 		first_names = { "Adamantios" "Aléxandros" "Anastásios" "Andréas" "Antónios" "Aristídis" "Athanásios" "Avgóstinos" "Venizélos" "Charálampos" "Charílaos" "Dimítrios" "Diomídis" "Elefthérios" "Emmanouíl" "Epameínontas" "Evripídis" "Gennaíos" "Geórgios" "Ilías" "Ionnis" "Kítsos" "Konstantínos" "Kyriákos" "Kyriakoúlis" "Leonídas" "Makários" "Márkos" "Míchael" "Militiadis" "Nikólaos" "Odysséas" "Óthon" "Panagiótis" "Pavlos" "Pétros" "Sofoklís" "Sotíris" "Spyridíon" "Spýros" "Stáïkos" "Stéfanos" "Stylianós" "Themistoklís" "Theódoros" "Tharývoulos" "Tzannís" "Vásos" "Víktor" "Zinóvios" }
 		
 		last_names = { "Charalámpis" "Christákis-Zográfos" "Daglis" "Dousmanis" "Foúmis" "Gonatás" "Chatzianéstis" "Kallérgis" "Kanáris" "Katsimiros" "Kolokotrónis" "Kondýlis" "Kountouriótis" "Kriezís" "Makriiánnis" "Mános" "Mavrokordátos" "Mavrovouniótis" "Metaxás" "Moúskos" "Níder" "Othonaíos" "Paláskas" "Pan'galos" "Papadiamantópoulos" "Papadópoulos" "Papágos" "Papoúlas" "Parakevópoulos" "Plapoútas" "Plastíras" "Sapountzákis" "Saráfis" "Smolénskis" "Sofoúlis" "Soútsos" "Spyromílios" "Staïkópoulos" "Stanotas" "tis Elládas" "Trikoúpis" "Tsakalótos" "Tsolákoglou" "Typáldos-Alfonsátos" "Tzavélas" "Vássos" "Venizélos" "Voúlgaris" "Zaïmis" "Zymvrakákis" }
-		
-	}
-	maghreb_arabic = {
-		color = { 204 229 102 }
-		
-		first_names = { "Masuna" "Mastigas" "Garmul" "Kusaila" "Lider" "Maximus" "Masguinas" "Abakada" "Adam" "Aderbal" "Admer" "Adrir" "Adum" "Afaghis" "Afalawas" "Afalku" "Afer" "Afulay" "Agafay" "Agama" "Agdada" "Agdun" "Agellid" "Aggur" "Aghali" "Aghecher" "Aghilas" "Agwillul" "Ahamatu" "Ajeddig" "Akaday" "Akateiaji" "Akli" "Akorakor" "Aksel" "Aksil" "Akutla" "Akzer" "Alyamas" "Amawal" "Amayas" "Ambay" "Amdegh" "Amellal" "Amennay" "Ameska" "Amessan" "Amin" "Amma" "Ammuc" "Amray" "Amri" "Anaba" "Annaber" "Antalas" "Anwa" "Aras" "Asad" "Asaru" "Asirem" "Aszellay" "Atissi" "Awdia" "Awgustin" "Awinagh" "Awlagh" "Awzal" "Aylal" "Ayt'ere" "Az'regh" "Azenkwed" "Azrur" "Badda" "Badis" "Bagay" "Barakat" "Beddis" "Berkan" "Br'ir'uc" "Bukkus" "Buwayh" "Buxtuc" "Capussa" "Cucung" "Dali" "Firmus" "Frawsen" "Gaia" "Galussa" "Gauda" "Gaya" "Ghanim" "Ghaysan" "Ghumer" "Gildun" "Gulusa" "Hiba" "Hiempsal" "Himmi" "Hotha" "Iccaam" "Ifni" "Ifser" "Ighlaf" "Igider" "Igmi" "Iher" "Iken" "Ilyas" "Immeghar" "Immel" "Irgen" "Isli" "Issam" "It'ij" "Itber" "Itri" "Ixfensen" "Ixzi" "Izri" "Kadidu" "Karidenna" "Kawsen" "Kenan" "Keraja" "Khanchla" "Khenchela" "Khidr" "Kussil" "Lacumaces" "Laweye" "Lewnis" "Luki" "Madidu" "Magsen" "Mahtar" "Masgaba" "Masgava" "Masinissa" "Masmud" "Masnsen" "Massinissa" "Massiva" "Massnsen" "Mastan" "Mastanabal" "Matiya" "Maysar" "Maziba" "Mazigh" "Medjan" "Mellal" "Mennad" "Menzu" "Meq'wran" "Mez'yan" "Mezwar" "Micipsa" "Misagenes" "Misibsen" "Mukhtar" "N'Guna" "Nasr" "Nazar" "Niptasan" "Nizamaddin" "Ptolemee" "Qutaiba" "Salomon" "Sammer" "Seghada" "Sekla" "Sifaks" "Sifal" "Sisso" "Stembanos" "Suggut" "Tabat" "Tacfin" "Taffounnout" "Tahir" "Takfarinas" "Tanan" "Tegama" "Thabitah" "Tifan" "Tiljad" "Ugdada" "Ugwistan" "Uqess'un" "Uregh" "Urtilian" "Urz'ig" "Uzmir" "Uzza" "Wahab" "Watt'as" "Xamida" "Yabdas" "Yaghmurasen" "Yattuy" "Yeften" "Yeh'lem" "Yiliyen" "Yuba" "Yugerten" "Yugurthen" "Youkhanna" "Yunes" "Yusuf" "Yuva" "Z'effun" "Zalelsan" "Zer'wal" "Zigza" "Ziri" }
-		
-		last_names = { "Altavid" "Massyli" "Mauretania" "Byzacena" "Sitifensis" "Numidia" "Gaetuli" "Garamantes" }
 		
 	}
 	magnagreek = {
@@ -4309,7 +4308,7 @@ scandinavian = {
 		
 	}
 	vinlander = {
-		color = { 76 73 172 }
+		color = { 165 43 18 }
 		
 		first_names = { "Agnar" "Ásgeir" "Björn" "Eidur" "Einar" "Emil" "Geir" "Gudmund" "Gunnar" "Hannes" "Hermann" "Jón" "Kristján" "Magnús" "Ólafur" "Pétur" "Sigurdur" "Stefán" "Sveinn" "Tryggvi" }
 		
@@ -4762,7 +4761,7 @@ southern_african = {
 		
 	}
 	nguni = {
-		color = { 165 43 18 }
+		color = { 76 73 172 }
 		
 		first_names = { "Kinjikitile" "Fambaltate" "Songea" "Ebabruma" "Mputa" "Mbemchapa" "Atepa" "Matola" "Magobi" "Rjoroza" "Wasesse" "Rinyizea" "Chapwanya" "Chakoma" "Kapola" "Kapungu" "Kindunda" "Kinjalla" "Kiwanga" "Mahengu" "Mburu" "Mhavanginonya" "Namkina" "Ngosingosi" "Schabruma" "Sentambandu" "Uawula" "Ulanga" }
 		

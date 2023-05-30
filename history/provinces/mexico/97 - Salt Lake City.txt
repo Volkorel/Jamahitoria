@@ -1,5 +1,6 @@
-owner=MEX
-controller=MEX
+owner=CAL
+controller=CAL
+add_core=CAL
 trade_goods = coal
 life_rating = 35
 colonial=2

@@ -1,9 +1,9 @@
 capital = 2165
 primary_culture = french_canadian
-culture = nahua
+culture = antartique
 culture = zzz_religion_catholic
 religion = catholic
-government = absolute_monarchy
+government = democracy
 plurality = 0
 nationalvalue = nv_productivity
 literacy = 0.230511

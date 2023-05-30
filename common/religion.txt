@@ -95,12 +95,9 @@ christian = {
 		icon = 64
 		color = { 0.8 0.3 0 }
 	}
-}
-
-dummy_g = {
-	dummy_religion = {
-		icon = 72
-		color = { 1 1 1 }
+	promotheus = {
+		icon = 73
+		color = { 0.84 0.77 0.29 }
 	}
 }
 
@@ -163,6 +160,10 @@ euro_pagan = {
 	norse_pagan_reformed = {
 		icon = 15
 		color = { 0.75 0.75 0.75 }
+	}
+	laeradr = {
+		icon = 72
+		color = { 0.5 0.6 0.7 }
 	}
 	slavic_pagan_reformed = {
 		icon = 20
@@ -236,10 +237,7 @@ mena_pagan = {
 		icon = 62
 		color = { 0.3 0.2 0.1 }
 	}
-	megalithic = {
-		icon = 73
-		color = { 0.43 0.13 0.07 }
-	}
+
 	mithraism = {
 		icon = 68
 		color = { 0.82 0 0 }

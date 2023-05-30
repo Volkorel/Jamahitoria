@@ -159,7 +159,7 @@
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = totemism
 		size= 11
 	}
@@ -231,7 +231,7 @@
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = totemism
 		size= 2
 	}
@@ -383,49 +383,49 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 55
 	}
 
 	soldiers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 47
 	}
 
 	artisans=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 100
 	}
 
 	clergymen=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 8
 	}
 
 	officers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 9
 	}
 
 	farmers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 793
 	}
 
@@ -488,7 +488,7 @@
 	bureaucrats=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
@@ -532,56 +532,56 @@
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = laeradr
 		size= 2180
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 7398
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1259
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 274
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 91
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 42
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 17
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 224
 	}
 
@@ -603,57 +603,57 @@
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = totemism
 		size= 55
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 1902
 	}
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 123
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 51
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 20
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 21
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 3
 	}
 
 	officers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 3
 	}
 
@@ -675,49 +675,49 @@
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 339
 	}
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 23
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 18
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 4
 	}
 
 	officers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = totemism
 		size= 8
 	}
@@ -731,63 +731,63 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = totemism
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = totemism
 		size= 1
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = shinto
 		size= 13
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = shinto
 		size= 14
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = shinto
 		size= 2
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = shinto
 		size= 1
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = shinto
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = shinto
 		size= 8
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = shinto
 		size= 246
 	}
@@ -817,7 +817,7 @@
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = totemism
 		size= 3
 	}
@@ -852,50 +852,50 @@
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 42
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 17
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 7
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 1
 	}
 
 	officers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 602
 	}
 
@@ -903,78 +903,78 @@
 81 = {
 	soldiers=
 	{
-		culture = penutian
-		religion = totemism
+		culture = vinlander
+		religion = laeradr
 		size= 8
 	}
 
 	farmers=
 	{
-		culture = penutian
-		religion = totemism
+		culture = vinlander
+		religion = laeradr
 		size= 1052
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
-		size= 522
+		culture = korean
+		religion = mahayana
+		size= 52255
 	}
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
-		size= 104
+		culture = korean
+		religion = mahayana
+		size= 1045
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
-		size= 44
+		culture = korean
+		religion = mahayana
+		size= 445
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
-		size= 16
+		culture = korean
+		religion = mahayana
+		size= 1655
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
-		size= 1033
+		culture = korean
+		religion = mahayana
+		size= 10335
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
-		size= 2
+		culture = korean
+		religion = mahayana
+		size= 255
 	}
 
 	officers=
 	{
-		culture = noculture
-		religion = noreligion
-		size= 2
+		culture = korean
+		religion = mahayana
+		size= 255
 	}
 
 	artisans=
 	{
-		culture = penutian
-		religion = totemism
+		culture = vinlander
+		religion = laeradr
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = penutian
-		religion = totemism
+		culture = vinlander
+		religion = laeradr
 		size= 2
 	}
 
@@ -1068,50 +1068,50 @@
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 529
 	}
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 34
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 14
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 6
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 1
 	}
 
 	officers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 1
 	}
 
@@ -1135,49 +1135,49 @@
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 398
+		size= 5398
 	}
 
 	artisans=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 61
+		size= 651
 	}
 
 	clergymen=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 9
+		size= 159
 	}
 
 	aristocrats=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 16
+		size= 2516
 	}
 
 	soldiers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 48
+		size= 6148
 	}
 
 	bureaucrats=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 1
+		size= 109
 	}
 
 	officers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 1
+		size= 1250
 	}
 
 	soldiers=
@@ -1249,49 +1249,49 @@
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 691
+		size= 6291
 	}
 
 	artisans=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 39
+		size= 329
 	}
 
 	soldiers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 44
+		size= 424
 	}
 
 	clergymen=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 6
+		size= 62
 	}
 
 	bureaucrats=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 1
+		size= 122
 	}
 
 	officers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 1
+		size= 122
 	}
 
 	aristocrats=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 7
+		size= 722
 	}
 
 }
@@ -1321,49 +1321,49 @@
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 112
+		size= 1122
 	}
 
 	aristocrats=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 48
+		size= 482
 	}
 
 	soldiers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 202
+		size= 2022
 	}
 
 	clergymen=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 17
+		size= 1722
 	}
 
 	bureaucrats=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 6
+		size= 622
 	}
 
 	officers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 6
+		size= 622
 	}
 
 	farmers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 1841
+		size= 18412
 	}
 
 	farmers=
@@ -1393,49 +1393,49 @@
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 1165
+		size= 11652
 	}
 
 	artisans=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 67
+		size= 672
 	}
 
 	clergymen=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 11
+		size= 112
 	}
 
 	aristocrats=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 14
+		size= 142
 	}
 
 	soldiers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 74
+		size= 742
 	}
 
 	bureaucrats=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 2
+		size= 224
 	}
 
 	officers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 2
+		size= 222
 	}
 
 }
@@ -1456,7 +1456,7 @@
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = totemism
 		size= 19
 	}
@@ -1465,35 +1465,35 @@
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 120
+		size= 12022
 	}
 
 	soldiers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 85
+		size= 8522
 	}
 
 	clergymen=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 15
+		size= 152
 	}
 
 	aristocrats=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 19
+		size= 192
 	}
 
 	farmers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 705
+		size= 7052
 	}
 
 	soldiers=
@@ -1514,14 +1514,14 @@
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 2
+		size= 224
 	}
 
 	officers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 2
+		size= 224
 	}
 
 	farmers=
@@ -1619,14 +1619,14 @@
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = totemism
 		size= 63
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = totemism
 		size= 3
 	}
@@ -1635,49 +1635,49 @@
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 1741
+		size= 97341
 	}
 
 	artisans=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 113
+		size= 1132
 	}
 
 	clergymen=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 18
+		size= 184
 	}
 
 	aristocrats=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 23
+		size= 2344
 	}
 
 	soldiers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 110
+		size= 11044
 	}
 
 	bureaucrats=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 4
+		size= 444
 	}
 
 	officers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 4
+		size= 244
 	}
 
 }
@@ -1698,7 +1698,7 @@
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = totemism
 		size= 25
 	}
@@ -1707,49 +1707,49 @@
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 1906
+		size= 199026
 	}
 
 	artisans=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 114
+		size= 11245
 	}
 
 	clergymen=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 18
+		size= 1822
 	}
 
 	aristocrats=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 23
+		size= 2324
 	}
 
 	soldiers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 121
+		size= 12144
 	}
 
 	bureaucrats=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 4
+		size= 444
 	}
 
 	officers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 4
+		size= 444
 	}
 
 }
@@ -1791,50 +1791,50 @@
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 67
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 28
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 1036
 	}
 
@@ -1991,50 +1991,50 @@
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 105
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 17
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 45
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 18
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 1631
 	}
 
@@ -2159,7 +2159,7 @@
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = totemism
 		size= 27
 	}
@@ -2168,49 +2168,49 @@
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 912
+		size= 97412
 	}
 
 	artisans=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 84
+		size= 8424
 	}
 
 	aristocrats=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 17
+		size= 1712
 	}
 
 	soldiers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 102
+		size= 10255
 	}
 
 	clergymen=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 13
+		size= 13255
 	}
 
 	bureaucrats=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 3
+		size= 324
 	}
 
 	officers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 4
+		size= 444
 	}
 
 	soldiers=
@@ -2229,7 +2229,7 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = totemism
 		size= 2
 	}
@@ -2330,42 +2330,42 @@
 	soldiers=
 	{
 		culture = sonoran
-		religion = noreligion
+		religion = laeradr
 		size= 4
 	}
 
 	artisans=
 	{
 		culture = sonoran
-		religion = noreligion
+		religion = laeradr
 		size= 19
 	}
 
 	clergymen=
 	{
 		culture = sonoran
-		religion = noreligion
+		religion = laeradr
 		size= 1
 	}
 
 	bureaucrats=
 	{
 		culture = sonoran
-		religion = noreligion
+		religion = laeradr
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = sonoran
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = sonoran
-		religion = noreligion
+		religion = laeradr
 		size= 133
 	}
 
@@ -2378,7 +2378,7 @@
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = totemism
 		size= 88
 	}
@@ -2387,49 +2387,49 @@
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 1172
+		size= 722172
 	}
 
 	artisans=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 245
+		size= 224445
 	}
 
 	aristocrats=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 23
+		size= 6613
 	}
 
 	clergymen=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 17
+		size= 1722
 	}
 
 	soldiers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 39
+		size= 392444
 	}
 
 	bureaucrats=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 5
+		size= 12500
 	}
 
 	officers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 4
+		size= 4245
 	}
 
 	soldiers=
@@ -2448,7 +2448,7 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = totemism
 		size= 2
 	}
@@ -2480,53 +2480,60 @@
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 1529
+		size= 133529
 	}
 
 	artisans=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 116
+		size= 111236
 	}
 
 	clergymen=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 18
+		size= 12138
 	}
 
 	aristocrats=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 25
+		size= 21255
 	}
 
 	soldiers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 97
+		size= 92157
 	}
 
 	bureaucrats=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 3
+		size= 3215
 	}
 
 	officers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 3
+		size= 31256
 	}
 
 }
 103 = {
+	farmers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 2118
+	}
+
 }
 104 = {
 	soldiers=
@@ -2547,42 +2554,42 @@
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 230
+		size= 1760978
 	}
 
 	artisans=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 14
+		size= 144225
 	}
 
 	soldiers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 25
+		size= 25221
 	}
 
 	clergymen=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 2
+		size= 22214
 	}
 
 	officers=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 1
+		size= 11223
 	}
 
 	aristocrats=
 	{
 		culture = east_asian_north_america_superregion_culture
 		religion = mahayana
-		size= 4
+		size= 4252
 	}
 
 }
@@ -2646,35 +2653,35 @@
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 144
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 10
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
@@ -2688,35 +2695,35 @@
 	soldiers=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 1
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 8
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 112
 	}
 
@@ -2832,50 +2839,50 @@
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 114
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 48
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 21
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 3
 	}
 
 	officers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 1908
 	}
 
@@ -2939,50 +2946,50 @@
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 84
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 36
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 1033
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 403
 	}
 
@@ -3151,50 +3158,50 @@
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 57
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 12
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 10
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 1
 	}
 
 	officers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 947
 	}
 
@@ -3300,43 +3307,43 @@
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 27
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 6
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 454
 	}
 
@@ -3386,50 +3393,50 @@
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 208
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 25
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 11
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 878
 	}
 
@@ -3442,49 +3449,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 66
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 8
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 299
 	}
@@ -3528,50 +3535,50 @@
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 90
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 16
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 38
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 16
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 1538
 	}
 
@@ -3705,49 +3712,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 87
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 37
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 17
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1554
 	}
@@ -3826,49 +3833,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 78
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 26
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 32
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1033
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 403
 	}
@@ -3940,49 +3947,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 77
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 25
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 33
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 15
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1343
 	}
@@ -4033,49 +4040,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 83
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 28
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 36
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 17
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1484
 	}
@@ -4175,49 +4182,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 71
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 30
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 14
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1244
 	}
@@ -4382,50 +4389,50 @@
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 88
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 29
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 37
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 16
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 1488
 	}
 
@@ -4482,50 +4489,50 @@
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 38
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 16
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 7
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 1
 	}
 
 	officers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 655
 	}
 
@@ -4631,50 +4638,50 @@
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 58
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 25
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 931
 	}
 
@@ -4718,49 +4725,49 @@
 	soldiers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 13
 	}
 
 	artisans=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 63
 	}
 
 	clergymen=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 10
 	}
 
 	bureaucrats=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 1
 	}
 
 	officers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 27
 	}
 
 	farmers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 1060
 	}
 
@@ -4824,50 +4831,50 @@
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 75
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 30
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 14
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 1218
 	}
 
@@ -4911,14 +4918,14 @@
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 39
 	}
 
@@ -4931,43 +4938,43 @@
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 11
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 2
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 2
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 186
 	}
 
@@ -5004,35 +5011,35 @@
 	soldiers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
 	artisans=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 10
 	}
 
 	clergymen=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 4
 	}
 
 	farmers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 164
 	}
 
@@ -5090,56 +5097,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 26
 	}
 
 	soldiers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 43
 	}
 
 	artisans=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 189
 	}
 
 	clergymen=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 13
 	}
 
 	bureaucrats=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 3
 	}
 
 	officers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 4
 	}
 
 	aristocrats=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 35
 	}
 
 	farmers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 1198
 	}
 
@@ -5183,56 +5190,56 @@
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1727
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 127
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 53
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 21
 	}
 
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = laeradr
 		size= 30
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 19
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 3
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 3
 	}
 
@@ -5283,56 +5290,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 301
 	}
 
 	soldiers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 17
 	}
 
 	artisans=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 197
 	}
 
 	clergymen=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 14
 	}
 
 	bureaucrats=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
 	officers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 19
 	}
 
 	farmers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 1099
 	}
 
@@ -5369,56 +5376,56 @@
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 877
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 68
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 11
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 13
 	}
 
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = laeradr
 		size= 93
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 10
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 3
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
@@ -5467,56 +5474,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 145
 	}
 
 	soldiers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 16
 	}
 
 	artisans=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 85
 	}
 
 	clergymen=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 14
 	}
 
 	bureaucrats=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 4
 	}
 
 	officers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 18
 	}
 
 	farmers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 1332
 	}
 
@@ -5546,42 +5553,42 @@
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 174
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 30
 	}
 
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 5
 	}
 
@@ -5609,42 +5616,42 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 3
 	}
 
 	soldiers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 3
 	}
 
 	artisans=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 32
 	}
 
 	clergymen=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 5
 	}
 
 	farmers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 218
 	}
 
@@ -5737,49 +5744,49 @@
 	soldiers=
 	{
 		culture = dakota
-		religion = noreligion
+		religion = laeradr
 		size= 11
 	}
 
 	artisans=
 	{
 		culture = dakota
-		religion = noreligion
+		religion = laeradr
 		size= 57
 	}
 
 	clergymen=
 	{
 		culture = dakota
-		religion = noreligion
+		religion = laeradr
 		size= 9
 	}
 
 	bureaucrats=
 	{
 		culture = dakota
-		religion = noreligion
+		religion = laeradr
 		size= 3
 	}
 
 	officers=
 	{
 		culture = dakota
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = dakota
-		religion = noreligion
+		religion = laeradr
 		size= 12
 	}
 
 	farmers=
 	{
 		culture = dakota
-		religion = noreligion
+		religion = laeradr
 		size= 986
 	}
 
@@ -5879,49 +5886,49 @@
 	soldiers=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 3
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 19
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 3
 	}
 
 	bureaucrats=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 1
 	}
 
 	officers=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 4
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 275
 	}
 
@@ -5993,56 +6000,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 136
 	}
 
 	soldiers=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 13
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 158
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 11
 	}
 
 	bureaucrats=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
 	officers=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 15
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 987
 	}
 
@@ -6070,42 +6077,42 @@
 	soldiers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 3
 	}
 
 	artisans=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 31
 	}
 
 	clergymen=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
 	bureaucrats=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 3
 	}
 
 	farmers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 196
 	}
 
@@ -6156,49 +6163,49 @@
 	soldiers=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 7
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 88
 	}
 
 	clergymen=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 7
 	}
 
 	bureaucrats=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 1
 	}
 
 	officers=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 8
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 616
 	}
 
@@ -6219,40 +6226,95 @@
 	soldiers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 1
 	}
 
 	artisans=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 17
 	}
 
 	clergymen=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 124
 	}
 
 }
 139 = {
+	farmers=
+	{
+		culture = beltramian
+		religion = catholic
+		size= 2350
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = catholic
+		size= 3900
+	}
+
+	artisans=
+	{
+		culture = beltramian
+		religion = catholic
+		size= 370
+	}
+
+	aristocrats=
+	{
+		culture = beltramian
+		religion = catholic
+		size= 155
+	}
+
+	clergymen=
+	{
+		culture = beltramian
+		religion = catholic
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = beltramian
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = beltramian
+		religion = catholic
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = beltramian
+		religion = catholic
+		size= 67
+	}
 	slaves=
 	{
 		culture = native_american_minor
@@ -6283,56 +6345,56 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = catholic
 		size= 1033
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = catholic
 		size= 9379
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = catholic
 		size= 1403
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = catholic
 		size= 947
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = catholic
 		size= 244
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = catholic
 		size= 108
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = catholic
 		size= 52
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = jewish
 		size= 100
 	}
@@ -6417,63 +6479,6 @@
 		religion = totemism
 		size= 1010
 	}
-
-	farmers=
-	{
-		culture = beltramian
-		religion = catholic
-		size= 2350
-	}
-
-	slaves=
-	{
-		culture = afro_italian
-		religion = catholic
-		size= 3900
-	}
-
-	artisans=
-	{
-		culture = beltramian
-		religion = catholic
-		size= 370
-	}
-
-	aristocrats=
-	{
-		culture = beltramian
-		religion = catholic
-		size= 155
-	}
-
-	clergymen=
-	{
-		culture = beltramian
-		religion = catholic
-		size= 60
-	}
-
-	bureaucrats=
-	{
-		culture = beltramian
-		religion = catholic
-		size= 9
-	}
-
-	officers=
-	{
-		culture = beltramian
-		religion = catholic
-		size= 11
-	}
-
-	soldiers=
-	{
-		culture = beltramian
-		religion = catholic
-		size= 67
-	}
-
 }
 142 = {
 	slaves=
@@ -6535,56 +6540,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 964
 	}
 
 	soldiers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 18
 	}
 
 	artisans=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 369
 	}
 
 	clergymen=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 17
 	}
 
 	bureaucrats=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 4
 	}
 
 	officers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 103
 	}
 
 	farmers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 285
 	}
 
@@ -6698,56 +6703,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 2255
 	}
 
 	soldiers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 79
 	}
 
 	artisans=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 431
 	}
 
 	clergymen=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 69
 	}
 
 	bureaucrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 11
 	}
 
 	officers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 14
 	}
 
 	aristocrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 181
 	}
 
 	farmers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 4870
 	}
 
@@ -6805,49 +6810,49 @@
 	soldiers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 22
 	}
 
 	artisans=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 117
 	}
 
 	clergymen=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 19
 	}
 
 	bureaucrats=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 3
 	}
 
 	officers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 4
 	}
 
 	aristocrats=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 49
 	}
 
 	farmers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 1968
 	}
 
@@ -6905,49 +6910,49 @@
 	soldiers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 22
 	}
 
 	artisans=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 115
 	}
 
 	clergymen=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 19
 	}
 
 	bureaucrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 3
 	}
 
 	officers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 4
 	}
 
 	aristocrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 48
 	}
 
 	farmers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 1959
 	}
 
@@ -7012,56 +7017,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 1610
 	}
 
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 262
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 1400
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 228
 	}
 
 	bureaucrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 35
 	}
 
 	officers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 46
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 588
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 21988
 	}
 
@@ -7119,49 +7124,49 @@
 	soldiers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 28
 	}
 
 	artisans=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 151
 	}
 
 	clergymen=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 25
 	}
 
 	bureaucrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 4
 	}
 
 	officers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 5
 	}
 
 	aristocrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 63
 	}
 
 	farmers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 2530
 	}
 
@@ -7226,56 +7231,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 1960
 	}
 
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 65
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 320
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 52
 	}
 
 	bureaucrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 8
 	}
 
 	officers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 134
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 3983
 	}
 
@@ -7340,56 +7345,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 1684
 	}
 
 	soldiers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 79
 	}
 
 	artisans=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 422
 	}
 
 	clergymen=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 69
 	}
 
 	bureaucrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 11
 	}
 
 	officers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 14
 	}
 
 	aristocrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 177
 	}
 
 	farmers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 5401
 	}
 
@@ -7454,56 +7459,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 564
 	}
 
 	soldiers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 29
 	}
 
 	artisans=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 155
 	}
 
 	clergymen=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 23
 	}
 
 	bureaucrats=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 4
 	}
 
 	officers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 6
 	}
 
 	aristocrats=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 72
 	}
 
 	farmers=
 	{
 		culture = caddoan
-		religion = noreligion
+		religion = laeradr
 		size= 2323
 	}
 
@@ -7559,49 +7564,49 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 42
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 220
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 33
 	}
 
 	bureaucrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 6
 	}
 
 	officers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 8
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 102
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 3403
 	}
 
@@ -7638,49 +7643,49 @@
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1186
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 74
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 30
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 11
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 13
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
@@ -7743,49 +7748,49 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 8
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 44
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 7
 	}
 
 	bureaucrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 1
 	}
 
 	officers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 18
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 762
 	}
 
@@ -7829,49 +7834,49 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 11
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 61
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 10
 	}
 
 	bureaucrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
 	officers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 25
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 1058
 	}
 
@@ -7956,49 +7961,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 153
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 50
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 65
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 30
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2717
 	}
@@ -8070,49 +8075,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 76
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 25
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 32
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 15
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1358
 	}
@@ -8177,49 +8182,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 87
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 36
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 18
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1617
 	}
@@ -8277,49 +8282,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 78
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 26
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 32
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1033
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 411
 	}
@@ -8377,49 +8382,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 80
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 26
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 34
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 16
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1528
 	}
@@ -8484,42 +8489,42 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 38
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 8
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 6
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 15
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 715
 	}
@@ -8640,49 +8645,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 151
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 49
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 63
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 30
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2739
 	}
@@ -8733,49 +8738,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 43
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 18
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 9
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 7
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 794
 	}
@@ -8826,49 +8831,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 76
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 25
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 32
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 15
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1371
 	}
@@ -8968,49 +8973,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 77
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 25
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 32
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 15
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1404
 	}
@@ -9075,49 +9080,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1673
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 271
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 702
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 7233
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 42
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 54
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 22618
 	}
@@ -9175,49 +9180,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 412
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 135
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 11
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 173
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 81
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 7338
 	}
@@ -9324,49 +9329,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 328
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 54
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 9
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 138
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 65
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 5895
 	}
@@ -9425,49 +9430,49 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 29
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 679
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 76
 	}
 
 	bureaucrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 43
 	}
 
 	officers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 31
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 404
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 14081
 	}
 
@@ -9567,49 +9572,49 @@
 	soldiers=
 	{
 		culture = dakota
-		religion = noreligion
+		religion = laeradr
 		size= 31
 	}
 
 	artisans=
 	{
 		culture = dakota
-		religion = noreligion
+		religion = laeradr
 		size= 163
 	}
 
 	clergymen=
 	{
 		culture = dakota
-		religion = noreligion
+		religion = laeradr
 		size= 26
 	}
 
 	bureaucrats=
 	{
 		culture = dakota
-		religion = noreligion
+		religion = laeradr
 		size= 4
 	}
 
 	officers=
 	{
 		culture = dakota
-		religion = noreligion
+		religion = laeradr
 		size= 5
 	}
 
 	aristocrats=
 	{
 		culture = dakota
-		religion = noreligion
+		religion = laeradr
 		size= 68
 	}
 
 	farmers=
 	{
 		culture = dakota
-		religion = noreligion
+		religion = laeradr
 		size= 2821
 	}
 
@@ -9630,49 +9635,49 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 23
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 113
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 18
 	}
 
 	bureaucrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 3
 	}
 
 	officers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 4
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 47
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 2076
 	}
 
@@ -9786,56 +9791,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 686
 	}
 
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 117
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 572
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 93
 	}
 
 	bureaucrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 14
 	}
 
 	officers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 19
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 240
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 9922
 	}
 
@@ -9941,49 +9946,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2723
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 443
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 68
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 88
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1144
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 556
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 50883
 	}
@@ -10077,56 +10082,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 1269
 	}
 
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 311
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 1533
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 249
 	}
 
 	bureaucrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 38
 	}
 
 	officers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 50
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 644
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 27003
 	}
 
@@ -10169,49 +10174,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 416
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 135
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 11
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 174
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 4133
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 3552
 	}
@@ -10276,49 +10281,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1192
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 194
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 30
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 38
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 501
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1033
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 21471
 	}
@@ -10376,49 +10381,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 830
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 270
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 21
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 27
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 523
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1033
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 14468
 	}
@@ -10462,49 +10467,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 228
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 75
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 96
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 47
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 7
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 4228
 	}
@@ -10597,49 +10602,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 122
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 20
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 51
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 879
 	}
@@ -10690,49 +10695,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 124
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 40
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 52
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1033
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1321
 	}
@@ -10783,49 +10788,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 64
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 21
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 26
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 13
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1204
 	}
@@ -11088,49 +11093,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1214
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 394
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 30
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 39
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 510
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 248
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 22497
 	}
@@ -11293,49 +11298,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1737
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 282
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 44
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 56
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 729
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 355
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 32444
 	}
@@ -11435,49 +11440,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1015
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 330
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 26
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 33
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 426
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 207
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 18814
 	}
@@ -11647,35 +11652,35 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2798
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 909
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 70
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 91
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1175
 	}
@@ -11689,14 +11694,14 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1033
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 49069
 	}
@@ -11761,35 +11766,35 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1512
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 491
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 37
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 49
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 635
 	}
@@ -11803,14 +11808,14 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1033
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 26524
 	}
@@ -11925,56 +11930,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 6996
 	}
 
 	soldiers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 496
 	}
 
 	artisans=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 1298
 	}
 
 	clergymen=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 211
 	}
 
 	bureaucrats=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 97
 	}
 
 	officers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 42
 	}
 
 	aristocrats=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 318
 	}
 
 	farmers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 15344
 	}
 
@@ -12088,56 +12093,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 7157
 	}
 
 	soldiers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 484
 	}
 
 	artisans=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 1175
 	}
 
 	clergymen=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 191
 	}
 
 	bureaucrats=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 59
 	}
 
 	officers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 38
 	}
 
 	aristocrats=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 247
 	}
 
 	farmers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 14836
 	}
 
@@ -12223,112 +12228,112 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 4652
 	}
 
 	soldiers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 644
 	}
 
 	artisans=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 1561
 	}
 
 	clergymen=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 254
 	}
 
 	bureaucrats=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 117
 	}
 
 	officers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 51
 	}
 
 	aristocrats=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 382
 	}
 
 	farmers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 24554
 	}
 
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = laeradr
 		size= 3487
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 18422
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 479
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1309
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 320
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 212
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 98
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 42
 	}
 
@@ -12393,56 +12398,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 4391
 	}
 
 	soldiers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 66
 	}
 
 	artisans=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 357
 	}
 
 	clergymen=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 58
 	}
 
 	bureaucrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 9
 	}
 
 	officers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 12
 	}
 
 	aristocrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 150
 	}
 
 	farmers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 4007
 	}
 
@@ -12498,49 +12503,49 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 82
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 426
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 69
 	}
 
 	bureaucrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 11
 	}
 
 	officers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 14
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 179
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 4989
 	}
 
@@ -12605,56 +12610,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 9646
 	}
 
 	soldiers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 2536
 	}
 
 	artisans=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 5013
 	}
 
 	clergymen=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 361
 	}
 
 	bureaucrats=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 133
 	}
 
 	officers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 117
 	}
 
 	aristocrats=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 468
 	}
 
 	farmers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 29810
 	}
 
@@ -12710,49 +12715,49 @@
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 1032
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 2242
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 162
 	}
 
 	bureaucrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 60
 	}
 
 	officers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 52
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 209
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 11884
 	}
 
@@ -12817,56 +12822,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 4699
 	}
 
 	soldiers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 188
 	}
 
 	artisans=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 1019
 	}
 
 	clergymen=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 166
 	}
 
 	bureaucrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 25
 	}
 
 	officers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 33
 	}
 
 	aristocrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 428
 	}
 
 	farmers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 12239
 	}
 
@@ -12931,56 +12936,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 5463
 	}
 
 	soldiers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 396
 	}
 
 	artisans=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 963
 	}
 
 	clergymen=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 157
 	}
 
 	bureaucrats=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 58
 	}
 
 	officers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 31
 	}
 
 	aristocrats=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 202
 	}
 
 	farmers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 12532
 	}
 
@@ -13045,56 +13050,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 3533
 	}
 
 	soldiers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 367
 	}
 
 	artisans=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 991
 	}
 
 	clergymen=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 161
 	}
 
 	bureaucrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 59
 	}
 
 	officers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 32
 	}
 
 	aristocrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 208
 	}
 
 	farmers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 13022
 	}
 
@@ -13159,56 +13164,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 3836
 	}
 
 	soldiers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 88
 	}
 
 	artisans=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 542
 	}
 
 	clergymen=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 88
 	}
 
 	bureaucrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 14
 	}
 
 	officers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 17
 	}
 
 	aristocrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 228
 	}
 
 	farmers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 3929
 	}
 
@@ -13273,56 +13278,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 2323
 	}
 
 	soldiers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 117
 	}
 
 	artisans=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 815
 	}
 
 	clergymen=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 38
 	}
 
 	bureaucrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 8
 	}
 
 	officers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 12
 	}
 
 	aristocrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 196
 	}
 
 	farmers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 656
 	}
 
@@ -13387,56 +13392,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 4813
 	}
 
 	soldiers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 91
 	}
 
 	artisans=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 566
 	}
 
 	clergymen=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 92
 	}
 
 	bureaucrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 14
 	}
 
 	officers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 18
 	}
 
 	aristocrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 238
 	}
 
 	farmers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 3249
 	}
 
@@ -13501,56 +13506,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 12419
 	}
 
 	soldiers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 1943
 	}
 
 	artisans=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 4617
 	}
 
 	clergymen=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 334
 	}
 
 	bureaucrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 123
 	}
 
 	officers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 108
 	}
 
 	aristocrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 432
 	}
 
 	farmers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 14720
 	}
 
@@ -13615,56 +13620,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 11163
 	}
 
 	soldiers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 589
 	}
 
 	artisans=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 3291
 	}
 
 	clergymen=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 238
 	}
 
 	bureaucrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 103
 	}
 
 	officers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 48
 	}
 
 	aristocrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 717
 	}
 
 	farmers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 13282
 	}
 
@@ -13885,56 +13890,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 1441
 	}
 
 	soldiers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 77
 	}
 
 	artisans=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 160
 	}
 
 	clergymen=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 26
 	}
 
 	bureaucrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 8
 	}
 
 	officers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 8
 	}
 
 	aristocrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 34
 	}
 
 	farmers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 1014
 	}
 
@@ -14013,56 +14018,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 1709
 	}
 
 	soldiers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 1033
 	}
 
 	artisans=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 241
 	}
 
 	clergymen=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 39
 	}
 
 	bureaucrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 6
 	}
 
 	officers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 18
 	}
 
 	aristocrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 51
 	}
 
 	farmers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 1885
 	}
 
@@ -14273,49 +14278,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = catholic
 		size= 12
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = catholic
 		size= 24
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = catholic
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = catholic
 		size= 1
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = catholic
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = catholic
 		size= 298
 	}
@@ -14381,56 +14386,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 13485
 	}
 
 	soldiers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 1939
 	}
 
 	artisans=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 4116
 	}
 
 	clergymen=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 297
 	}
 
 	bureaucrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 110
 	}
 
 	officers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 96
 	}
 
 	aristocrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 768
 	}
 
 	farmers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 13809
 	}
 
@@ -14495,56 +14500,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 1884
 	}
 
 	soldiers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 290
 	}
 
 	artisans=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 722
 	}
 
 	clergymen=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 52
 	}
 
 	bureaucrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 16
 	}
 
 	officers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 16
 	}
 
 	aristocrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 135
 	}
 
 	farmers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 2067
 	}
 
@@ -14609,56 +14614,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 10402
 	}
 
 	soldiers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 495
 	}
 
 	artisans=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 1425
 	}
 
 	clergymen=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 231
 	}
 
 	bureaucrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 71
 	}
 
 	officers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 46
 	}
 
 	aristocrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 299
 	}
 
 	farmers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 11798
 	}
 
@@ -14723,112 +14728,112 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 17479
 	}
 
 	soldiers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 1688
 	}
 
 	artisans=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 3146
 	}
 
 	clergymen=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 238
 	}
 
 	bureaucrats=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 110
 	}
 
 	officers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 77
 	}
 
 	aristocrats=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 717
 	}
 
 	farmers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 6549
 	}
 
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = laeradr
 		size= 8646
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 3387
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 833
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1603
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 364
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 121
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 55
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 39
 	}
 
@@ -14872,56 +14877,56 @@
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = laeradr
 		size= 9231
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1022
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 5390
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 2135
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 464
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 154
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 70
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 50
 	}
 
@@ -14963,56 +14968,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 18894
 	}
 
 	soldiers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 724
 	}
 
 	artisans=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 1413
 	}
 
 	clergymen=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 102
 	}
 
 	bureaucrats=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 47
 	}
 
 	officers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 33
 	}
 
 	aristocrats=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 308
 	}
 
 	farmers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 3765
 	}
 
@@ -15054,49 +15059,49 @@
 	soldiers=
 	{
 		culture = cherokee
-		religion = noreligion
+		religion = laeradr
 		size= 1367
 	}
 
 	artisans=
 	{
 		culture = cherokee
-		religion = noreligion
+		religion = laeradr
 		size= 2879
 	}
 
 	clergymen=
 	{
 		culture = cherokee
-		religion = noreligion
+		religion = laeradr
 		size= 208
 	}
 
 	bureaucrats=
 	{
 		culture = cherokee
-		religion = noreligion
+		religion = laeradr
 		size= 96
 	}
 
 	officers=
 	{
 		culture = cherokee
-		religion = noreligion
+		religion = laeradr
 		size= 67
 	}
 
 	aristocrats=
 	{
 		culture = cherokee
-		religion = noreligion
+		religion = laeradr
 		size= 627
 	}
 
 	farmers=
 	{
 		culture = cherokee
-		religion = noreligion
+		religion = laeradr
 		size= 6819
 	}
 
@@ -15147,56 +15152,56 @@
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = laeradr
 		size= 6476
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 11912
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 435
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 2486
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 541
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 179
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 115
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 35
 	}
 
@@ -15254,56 +15259,56 @@
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = laeradr
 		size= 7642
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1667
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 16215
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 3537
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 769
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 255
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 118
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 82
 	}
 
@@ -15417,105 +15422,105 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 9769
 	}
 
 	soldiers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 241
 	}
 
 	artisans=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 1316
 	}
 
 	clergymen=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 95
 	}
 
 	bureaucrats=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 44
 	}
 
 	officers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 19
 	}
 
 	aristocrats=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 287
 	}
 
 	farmers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 4741
 	}
 
 	soldiers=
 	{
 		culture = cherokee
-		religion = noreligion
+		religion = laeradr
 		size= 202
 	}
 
 	artisans=
 	{
 		culture = cherokee
-		religion = noreligion
+		religion = laeradr
 		size= 1116
 	}
 
 	clergymen=
 	{
 		culture = cherokee
-		religion = noreligion
+		religion = laeradr
 		size= 81
 	}
 
 	bureaucrats=
 	{
 		culture = cherokee
-		religion = noreligion
+		religion = laeradr
 		size= 37
 	}
 
 	officers=
 	{
 		culture = cherokee
-		religion = noreligion
+		religion = laeradr
 		size= 16
 	}
 
 	aristocrats=
 	{
 		culture = cherokee
-		religion = noreligion
+		religion = laeradr
 		size= 243
 	}
 
 	farmers=
 	{
 		culture = cherokee
-		religion = noreligion
+		religion = laeradr
 		size= 3936
 	}
 
@@ -15629,112 +15634,112 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 5989
 	}
 
 	soldiers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 876
 	}
 
 	artisans=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 758
 	}
 
 	clergymen=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 123
 	}
 
 	bureaucrats=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 57
 	}
 
 	officers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 40
 	}
 
 	aristocrats=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 186
 	}
 
 	farmers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 7608
 	}
 
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = laeradr
 		size= 7270
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 9287
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1063
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 965
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 157
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 236
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 72
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 50
 	}
 
@@ -15764,56 +15769,56 @@
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = laeradr
 		size= 10941
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1628
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 14327
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1559
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 253
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 381
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 147
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 81
 	}
 
@@ -15939,56 +15944,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 8482
 	}
 
 	soldiers=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 1262
 	}
 
 	artisans=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 1198
 	}
 
 	clergymen=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 195
 	}
 
 	bureaucrats=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 114
 	}
 
 	officers=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 63
 	}
 
 	aristocrats=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 294
 	}
 
 	farmers=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 10928
 	}
 
@@ -16102,56 +16107,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 6935
 	}
 
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 214
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 531
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 86
 	}
 
 	bureaucrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 40
 	}
 
 	officers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 17
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 130
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 2765
 	}
 
@@ -16195,56 +16200,56 @@
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = laeradr
 		size= 11224
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 9089
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1299
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1149
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 186
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 281
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 86
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 59
 	}
 
@@ -16330,56 +16335,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 6756
 	}
 
 	soldiers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 898
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 840
 	}
 
 	clergymen=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 137
 	}
 
 	bureaucrats=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 50
 	}
 
 	officers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 44
 	}
 
 	aristocrats=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 206
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 7100
 	}
 
@@ -16444,56 +16449,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 4260
 	}
 
 	soldiers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 194
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 1137
 	}
 
 	clergymen=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 82
 	}
 
 	bureaucrats=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 25
 	}
 
 	officers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 16
 	}
 
 	aristocrats=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 248
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 3736
 	}
 
@@ -16558,56 +16563,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 9580
 	}
 
 	soldiers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 424
 	}
 
 	artisans=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 2318
 	}
 
 	clergymen=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 167
 	}
 
 	bureaucrats=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 52
 	}
 
 	officers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 33
 	}
 
 	aristocrats=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 252
 	}
 
 	farmers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 8387
 	}
 
@@ -16637,56 +16642,56 @@
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = laeradr
 		size= 2724
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 15908
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 2722
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 295
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 196
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 102
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 50
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 850
 	}
 
@@ -16765,112 +16770,112 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 402
 	}
 
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 134
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 360
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 59
 	}
 
 	bureaucrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 27
 	}
 
 	officers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 12
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 88
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 5603
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 5594
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 352
 	}
 
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = laeradr
 		size= 394
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 86
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 57
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 26
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 11
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 131
 	}
 
@@ -16900,56 +16905,56 @@
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 19932
 	}
 
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = laeradr
 		size= 14968
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 825
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 4651
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1013
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 335
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 155
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 66
 	}
 
@@ -17007,56 +17012,56 @@
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = laeradr
 		size= 11291
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 13611
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1735
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 3629
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 790
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 261
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 120
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 84
 	}
 
@@ -17170,56 +17175,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 1891
 	}
 
 	soldiers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 214
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 531
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 86
 	}
 
 	bureaucrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 40
 	}
 
 	officers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 17
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 130
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 7809
 	}
 
@@ -17263,56 +17268,56 @@
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = laeradr
 		size= 5240
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1227
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 7923
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1821
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 262
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 198
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 68
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 50
 	}
 
@@ -17356,56 +17361,56 @@
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 70467
 	}
 
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = laeradr
 		size= 6072
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1796
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 9717
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 726
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1111
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 339
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 146
 	}
 
@@ -17505,49 +17510,49 @@
 	soldiers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 839
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 1771
 	}
 
 	clergymen=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 128
 	}
 
 	bureaucrats=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 67
 	}
 
 	officers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 41
 	}
 
 	aristocrats=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 386
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 11752
 	}
 
@@ -17575,49 +17580,49 @@
 	soldiers=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 580
 	}
 
 	artisans=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 1216
 	}
 
 	clergymen=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 88
 	}
 
 	bureaucrats=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 46
 	}
 
 	officers=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 28
 	}
 
 	aristocrats=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 265
 	}
 
 	farmers=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 8126
 	}
 
@@ -17675,49 +17680,49 @@
 	soldiers=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 1502
 	}
 
 	artisans=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 1406
 	}
 
 	clergymen=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 228
 	}
 
 	bureaucrats=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 84
 	}
 
 	officers=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 74
 	}
 
 	aristocrats=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 689
 	}
 
 	farmers=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 22835
 	}
 
@@ -17824,98 +17829,98 @@
 	soldiers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 489
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 2864
 	}
 
 	clergymen=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 207
 	}
 
 	bureaucrats=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 95
 	}
 
 	officers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 41
 	}
 
 	aristocrats=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 312
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 20466
 	}
 
 	soldiers=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 434
 	}
 
 	artisans=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 2299
 	}
 
 	clergymen=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 166
 	}
 
 	bureaucrats=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 77
 	}
 
 	officers=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 33
 	}
 
 	aristocrats=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 250
 	}
 
 	farmers=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 18448
 	}
 
@@ -17980,56 +17985,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 1816
 	}
 
 	soldiers=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 733
 	}
 
 	artisans=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 1917
 	}
 
 	clergymen=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 312
 	}
 
 	bureaucrats=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 115
 	}
 
 	officers=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 62
 	}
 
 	aristocrats=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 939
 	}
 
 	farmers=
 	{
 		culture = iroquoian
-		religion = noreligion
+		religion = laeradr
 		size= 30753
 	}
 
@@ -18110,56 +18115,56 @@
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = laeradr
 		size= 3080
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 599
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 22656
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 3264
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 235
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 355
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 108
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 47
 	}
 
@@ -18182,49 +18187,49 @@
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1185
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 18576
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1028
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 251
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 167
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 76
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 53
 	}
 
@@ -18247,49 +18252,49 @@
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 15886
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1013
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 880
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 215
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 142
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 65
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 46
 	}
 
@@ -18319,56 +18324,56 @@
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = laeradr
 		size= 4276
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 8493
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 128159
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 6788
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1783
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1173
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 690
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 382
 	}
 
@@ -18405,49 +18410,49 @@
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 18662
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1196
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1025
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 250
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 166
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 97
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 53
 	}
 
@@ -18505,49 +18510,49 @@
 	soldiers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 1045
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 5933
 	}
 
 	clergymen=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 428
 	}
 
 	bureaucrats=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 198
 	}
 
 	officers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 86
 	}
 
 	aristocrats=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 1292
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 43278
 	}
 
@@ -18943,49 +18948,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 329
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 107
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 138
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 71
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 8
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 6453
 	}
@@ -19051,56 +19056,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 1350
 	}
 
 	soldiers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 2834
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 2505
 	}
 
 	clergymen=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 407
 	}
 
 	bureaucrats=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 125
 	}
 
 	officers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 132
 	}
 
 	aristocrats=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 614
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 42643
 	}
 
@@ -19130,56 +19135,56 @@
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 18429
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 1023
 	}
 
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = laeradr
 		size= 808
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 419
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 214
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 166
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 86
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 33
 	}
 
@@ -19237,49 +19242,49 @@
 	soldiers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 4149
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 3627
 	}
 
 	clergymen=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 589
 	}
 
 	bureaucrats=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 290
 	}
 
 	officers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 190
 	}
 
 	aristocrats=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 889
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 64350
 	}
 
@@ -19337,49 +19342,49 @@
 	soldiers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 1823
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 1206
 	}
 
 	clergymen=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 196
 	}
 
 	bureaucrats=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 97
 	}
 
 	officers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 75
 	}
 
 	aristocrats=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 296
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 20944
 	}
 
@@ -19458,98 +19463,98 @@
 	soldiers=
 	{
 		culture = british_north_america_superregion_culture
-		religion = noreligion
+		religion = laeradr
 		size= 261
 	}
 
 	artisans=
 	{
 		culture = british_north_america_superregion_culture
-		religion = noreligion
+		religion = laeradr
 		size= 552
 	}
 
 	clergymen=
 	{
 		culture = british_north_america_superregion_culture
-		religion = noreligion
+		religion = laeradr
 		size= 40
 	}
 
 	bureaucrats=
 	{
 		culture = british_north_america_superregion_culture
-		religion = noreligion
+		religion = laeradr
 		size= 21
 	}
 
 	officers=
 	{
 		culture = british_north_america_superregion_culture
-		religion = noreligion
+		religion = laeradr
 		size= 13
 	}
 
 	aristocrats=
 	{
 		culture = british_north_america_superregion_culture
-		religion = noreligion
+		religion = laeradr
 		size= 60
 	}
 
 	farmers=
 	{
 		culture = british_north_america_superregion_culture
-		religion = noreligion
+		religion = laeradr
 		size= 3721
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 5799
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 781
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 85
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 56
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 29
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 17
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 393
 	}
 
@@ -19584,49 +19589,49 @@
 	soldiers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 165
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 328
 	}
 
 	clergymen=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 24
 	}
 
 	bureaucrats=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 12
 	}
 
 	officers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 8
 	}
 
 	aristocrats=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 36
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 2374
 	}
 
@@ -19683,49 +19688,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 9922
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 461
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 156
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 149
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1587
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 16533
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 32795
 	}
@@ -19784,97 +19789,97 @@
 	soldiers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 162
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 2804
 	}
 
 	clergymen=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 130
 	}
 
 	bureaucrats=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 36
 	}
 
 	officers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 26
 	}
 
 	aristocrats=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 393
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 12656
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 5796
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 270
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 75
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 54
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 812
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 351
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 28129
 	}
@@ -19933,97 +19938,97 @@
 	soldiers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 170
 	}
 
 	artisans=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 1643
 	}
 
 	clergymen=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 76
 	}
 
 	bureaucrats=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 21
 	}
 
 	officers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 20
 	}
 
 	aristocrats=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 230
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
-		religion = noreligion
+		religion = laeradr
 		size= 6770
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 6265
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 291
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 81
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 77
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 878
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 4133
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 27049
 	}
@@ -20046,49 +20051,49 @@
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 20976
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 6327
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 759
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 293
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 98
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 95
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 10333
 	}
@@ -20181,49 +20186,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1197
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 55
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 16
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 18
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 144
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 4133
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1956
 	}
@@ -20282,56 +20287,56 @@
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 2384
 	}
 
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = laeradr
 		size= 3794
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 427
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 899
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 195
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 64
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 29
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = laeradr
 		size= 20
 	}
 
@@ -20396,56 +20401,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 7906
 	}
 
 	soldiers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 362
 	}
 
 	artisans=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 2241
 	}
 
 	clergymen=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 162
 	}
 
 	bureaucrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 60
 	}
 
 	officers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 32
 	}
 
 	aristocrats=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 488
 	}
 
 	farmers=
 	{
 		culture = muskogean
-		religion = noreligion
+		religion = laeradr
 		size= 6819
 	}
 
@@ -20538,56 +20543,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = noreligion
+		religion = laeradr
 		size= 6630
 	}
 
 	soldiers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 1049
 	}
 
 	artisans=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 2051
 	}
 
 	clergymen=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 148
 	}
 
 	bureaucrats=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 55
 	}
 
 	officers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 47
 	}
 
 	aristocrats=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 447
 	}
 
 	farmers=
 	{
 		culture = siouan
-		religion = noreligion
+		religion = laeradr
 		size= 9868
 	}
 
@@ -20615,49 +20620,49 @@
 	soldiers=
 	{
 		culture = cherokee
-		religion = noreligion
+		religion = laeradr
 		size= 325
 	}
 
 	artisans=
 	{
 		culture = cherokee
-		religion = noreligion
+		religion = laeradr
 		size= 679
 	}
 
 	clergymen=
 	{
 		culture = cherokee
-		religion = noreligion
+		religion = laeradr
 		size= 49
 	}
 
 	bureaucrats=
 	{
 		culture = cherokee
-		religion = noreligion
+		religion = laeradr
 		size= 18
 	}
 
 	officers=
 	{
 		culture = cherokee
-		religion = noreligion
+		religion = laeradr
 		size= 16
 	}
 
 	aristocrats=
 	{
 		culture = cherokee
-		religion = noreligion
+		religion = laeradr
 		size= 148
 	}
 
 	farmers=
 	{
 		culture = cherokee
-		religion = noreligion
+		religion = laeradr
 		size= 3003
 	}
 
@@ -20918,7 +20923,7 @@
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = totemism
 		size= 10
 	}
@@ -20982,21 +20987,21 @@
 	soldiers=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 1
 	}
 
 	artisans=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 3
 	}
 
 	farmers=
 	{
 		culture = na_dene
-		religion = noreligion
+		religion = laeradr
 		size= 14
 	}
 

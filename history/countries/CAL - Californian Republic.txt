@@ -1,14 +1,13 @@
-capital = 84
+capital = 104
 primary_culture = east_asian_north_america_superregion_culture
-culture = sonoran
 culture = yue
-culture = zzz_religion_mahayana
 religion = mahayana
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_autocracy
 literacy = 0.0616323
 
+civilized = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

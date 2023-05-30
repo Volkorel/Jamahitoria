@@ -1,6 +1,5 @@
-owner=X19
-controller=X19
-add_core=HUN
+owner=X01
+controller=X01
 add_core=X01
 add_core=X02
 trade_goods = coal

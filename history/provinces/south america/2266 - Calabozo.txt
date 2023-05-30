@@ -1,5 +1,5 @@
 owner=CLM
-controller=X56
+controller=CLM
 add_core=CLM
 trade_goods = grain
 life_rating = 31

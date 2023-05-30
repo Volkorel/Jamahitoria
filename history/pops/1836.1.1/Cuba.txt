@@ -374,49 +374,49 @@
 
 	soldiers=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = jewish
 		size= 538
 	}
 
 	artisans=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = jewish
 		size= 1285
 	}
 
 	clergymen=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = jewish
 		size= 119
 	}
 
 	bureaucrats=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = jewish
 		size= 33
 	}
 
 	officers=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = jewish
 		size= 22
 	}
 
 	aristocrats=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = jewish
 		size= 231
 	}
 
 	farmers=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = jewish
 		size= 3944
 	}
@@ -430,42 +430,42 @@
 
 	soldiers=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = catholic
 		size= 326
 	}
 
 	artisans=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = catholic
 		size= 2743
 	}
 
 	clergymen=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = catholic
 		size= 255
 	}
 
 	bureaucrats=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = catholic
 		size= 71
 	}
 
 	officers=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = catholic
 		size= 47
 	}
 
 	aristocrats=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = catholic
 		size= 494
 	}
@@ -502,49 +502,49 @@
 
 	soldiers=
 	{
-		culture = trattoloyan
+		culture = langobard
 		religion = catholic
 		size= 1273
 	}
 
 	farmers=
 	{
-		culture = trattoloyan
+		culture = langobard
 		religion = catholic
 		size= 4914
 	}
 
 	artisans=
 	{
-		culture = trattoloyan
+		culture = langobard
 		religion = catholic
 		size= 3497
 	}
 
 	clergymen=
 	{
-		culture = trattoloyan
+		culture = langobard
 		religion = catholic
 		size= 505
 	}
 
 	aristocrats=
 	{
-		culture = trattoloyan
+		culture = langobard
 		religion = catholic
 		size= 870
 	}
 
 	bureaucrats=
 	{
-		culture = trattoloyan
+		culture = langobard
 		religion = catholic
 		size= 123
 	}
 
 	officers=
 	{
-		culture = trattoloyan
+		culture = langobard
 		religion = catholic
 		size= 93
 	}
@@ -712,49 +712,49 @@
 
 	soldiers=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = jewish
 		size= 251
 	}
 
 	artisans=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = jewish
 		size= 389
 	}
 
 	clergymen=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = jewish
 		size= 56
 	}
 
 	bureaucrats=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = jewish
 		size= 14
 	}
 
 	officers=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = jewish
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = jewish
 		size= 97
 	}
 
 	farmers=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = jewish
 		size= 1263
 	}
@@ -768,42 +768,42 @@
 
 	soldiers=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = catholic
 		size= 161
 	}
 
 	artisans=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = catholic
 		size= 848
 	}
 
 	clergymen=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = catholic
 		size= 122
 	}
 
 	bureaucrats=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = catholic
 		size= 30
 	}
 
 	officers=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = catholic
 		size= 23
 	}
 
 	aristocrats=
 	{
-		culture = meashighcaw
+		culture = langobard
 		religion = catholic
 		size= 211
 	}
@@ -817,49 +817,49 @@
 
 	soldiers=
 	{
-		culture = trattoloyan
+		culture = langobard
 		religion = protestant
 		size= 91
 	}
 
 	artisans=
 	{
-		culture = trattoloyan
+		culture = langobard
 		religion = protestant
 		size= 205
 	}
 
 	clergymen=
 	{
-		culture = trattoloyan
+		culture = langobard
 		religion = protestant
 		size= 30
 	}
 
 	bureaucrats=
 	{
-		culture = trattoloyan
+		culture = langobard
 		religion = protestant
 		size= 7
 	}
 
 	officers=
 	{
-		culture = trattoloyan
+		culture = langobard
 		religion = protestant
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = trattoloyan
+		culture = langobard
 		religion = protestant
 		size= 51
 	}
 
 	farmers=
 	{
-		culture = trattoloyan
+		culture = langobard
 		religion = protestant
 		size= 367
 	}
@@ -873,49 +873,49 @@
 
 	soldiers=
 	{
-		culture = trattoloyan
+		culture = langobard
 		religion = norse_pagan_reformed
 		size= 287
 	}
 
 	artisans=
 	{
-		culture = trattoloyan
+		culture = langobard
 		religion = norse_pagan_reformed
 		size= 882
 	}
 
 	clergymen=
 	{
-		culture = trattoloyan
+		culture = langobard
 		religion = norse_pagan_reformed
 		size= 127
 	}
 
 	bureaucrats=
 	{
-		culture = trattoloyan
+		culture = langobard
 		religion = norse_pagan_reformed
 		size= 31
 	}
 
 	officers=
 	{
-		culture = trattoloyan
+		culture = langobard
 		religion = norse_pagan_reformed
 		size= 24
 	}
 
 	aristocrats=
 	{
-		culture = trattoloyan
+		culture = langobard
 		religion = norse_pagan_reformed
 		size= 220
 	}
 
 	farmers=
 	{
-		culture = trattoloyan
+		culture = langobard
 		religion = norse_pagan_reformed
 		size= 809
 	}

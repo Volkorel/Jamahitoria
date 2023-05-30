@@ -497,49 +497,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 332
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1627
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 117
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 33
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 30
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 177
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 6417
 	}
@@ -834,49 +834,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 56
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 276
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 20
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 6
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 30
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1090
 	}
@@ -920,35 +920,35 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 10
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 45
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 184
 	}
@@ -1048,49 +1048,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 55
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 124
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 20
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 26
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1222
 	}
@@ -1150,49 +1150,49 @@
 989 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 7233
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 7130
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1159
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 250
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 232
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1497
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 160744
 	}
@@ -1201,49 +1201,49 @@
 990 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 314
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 22
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 58
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2061
 	}
@@ -1301,49 +1301,49 @@
 991 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 7233
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 9444
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 682
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 105
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 178
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 882
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 86411
 	}
@@ -1352,49 +1352,49 @@
 992 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 6846
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 3701
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 601
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 130
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 232
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 777
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 80229
 	}
@@ -1452,49 +1452,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 130
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 562
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 91
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 20
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 18
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 118
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 5559
 	}
@@ -1503,99 +1503,99 @@
 994 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 28933
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 16638
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1135
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 412
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 543
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2014
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 170686
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 558
 	}
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 3553
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 243
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 88
 	}
 
 	officers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 116
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 431
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 1019
 	}
 
@@ -1654,99 +1654,99 @@
 996 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 10333
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2315
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 376
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 57
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 98
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 486
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 54663
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 74
 	}
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 495
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 81
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 12
 	}
 
 	officers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 21
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 104
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 1148
 	}
 
@@ -1754,49 +1754,49 @@
 997 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 3923
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 6304
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 455
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 98
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 147
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1177
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 57943
 	}
@@ -1805,49 +1805,49 @@
 998 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 6395
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 15146
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1093
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 168
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 287
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2827
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 142374
 	}
@@ -1856,140 +1856,140 @@
 999 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1518
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1441
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 104
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 16
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 27
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 269
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 36557
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 7
 	}
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 364
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 26
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 4
 	}
 
 	officers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 68
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 402
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2758
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 199
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 31
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 52
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 515
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 6627
 	}
@@ -2096,49 +2096,49 @@
 1000 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2737
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2881
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 468
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 101
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 122
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 605
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 65123
 	}
@@ -2147,49 +2147,49 @@
 1001 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2864
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 6784
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 490
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 76
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 128
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1478
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 63568
 	}
@@ -2296,98 +2296,98 @@
 1003 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 3821
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2329
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 144
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 47
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 65
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 230
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 45512
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1406
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 4044
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 250
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 82
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 114
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 400
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 12797
 	}
@@ -2444,42 +2444,42 @@
 	soldiers=
 	{
 		culture = russian
-		religion = noreligion
+		religion = laeradr
 		size= 88
 	}
 
 	artisans=
 	{
 		culture = russian
-		religion = noreligion
+		religion = laeradr
 		size= 1283
 	}
 
 	clergymen=
 	{
 		culture = russian
-		religion = noreligion
+		religion = laeradr
 		size= 80
 	}
 
 	bureaucrats=
 	{
 		culture = russian
-		religion = noreligion
+		religion = laeradr
 		size= 26
 	}
 
 	officers=
 	{
 		culture = russian
-		religion = noreligion
+		religion = laeradr
 		size= 36
 	}
 
 	aristocrats=
 	{
 		culture = russian
-		religion = noreligion
+		religion = laeradr
 		size= 127
 	}
 
@@ -2489,40 +2489,53 @@
 	{
 		culture = russian
 		religion = norse_pagan_reformed
-		size= 2390
+		size= 1005
 	}
-
+	soldiers=
+	{
+		culture = holmgardr
+		religion = norse_pagan_reformed
+		size= 1195
+	}
 	artisans=
 	{
 		culture = russian
 		religion = norse_pagan_reformed
-		size= 3841
+		size= 1907
 	}
-
+	artisans=
+	{
+		culture = holmgardr
+		religion = norse_pagan_reformed
+		size= 1920
+	}
 	clergymen=
 	{
-		culture = russian
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 277
 	}
-
 	bureaucrats=
 	{
-		culture = russian
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 43
 	}
-
 	officers=
 	{
 		culture = russian
 		religion = norse_pagan_reformed
-		size= 90
+		size= 25
 	}
-
+	officers=
+	{
+		culture = holmgardr
+		religion = norse_pagan_reformed
+		size= 77
+	}
 	aristocrats=
 	{
-		culture = russian
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 358
 	}
@@ -2538,49 +2551,49 @@
 1005 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 6223
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 3364
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 547
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 118
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 210
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 706
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 72924
 	}
@@ -2589,49 +2602,49 @@
 1006 = {
 	soldiers=
 	{
-		culture = russian
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 3568
 	}
 
 	artisans=
 	{
-		culture = russian
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1816
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 270
 	}
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 67
 	}
 
 	officers=
 	{
-		culture = russian
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 82
 	}
 
 	aristocrats=
 	{
-		culture = russian
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 404
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 89548
 	}
@@ -4821,49 +4834,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 10333
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 3580
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 259
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 40
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 68
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 668
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 24832
 	}
@@ -8693,126 +8706,126 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 15
 	}
 
 	craftsmen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 985
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 57
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	clerks=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 93
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	capitalists=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 36
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 13
 	}
 
 	craftsmen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 816
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 126
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 9
 	}
 
 	clerks=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 205
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	capitalists=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 80
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 12
 	}
@@ -8898,42 +8911,42 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 296
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2421
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 71
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 20
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 110
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2071
 	}
@@ -8982,42 +8995,42 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 526
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 16
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 25
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 91
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1076
 	}
@@ -9259,42 +9272,42 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 12
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 56
 	}
@@ -9543,49 +9556,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 250
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1465
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 106
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 16
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 34
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 274
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2328
 	}
@@ -9685,49 +9698,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 31
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 209
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 34
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 5
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 44
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1224
 	}
@@ -9771,98 +9784,98 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 25
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 6
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 133
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 48
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 8
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 328
 	}
@@ -9913,147 +9926,147 @@
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 44
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 7
 	}
 
 	officers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 9
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 13
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 168
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 76
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 86
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 14
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 18
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1151
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 80
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 201
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 33
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 5
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 42
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1048
 	}
@@ -10418,98 +10431,98 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2843
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 107
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 21
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 44
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 148
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 286
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2544
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 775
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 5579
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 210
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 42
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 87
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 289
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 6785
 	}
@@ -10567,98 +10580,98 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 139
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 22
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 29
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 62
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 906
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 122
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 264
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 43
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 7
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 56
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1681
 	}
@@ -10716,91 +10729,91 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 448
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 55
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 8
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 16
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 29
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 59
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 651
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1743
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 209
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 30
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 60
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 113
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 4184
 	}
@@ -10898,7 +10911,7 @@
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 332
 	}
@@ -11098,49 +11111,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 821
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 133
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 31
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 27
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 258
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 66
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 5555
 	}
@@ -12617,56 +12630,56 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 40
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 5
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 24
 	}
@@ -12796,105 +12809,105 @@
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 4
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 17
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 7
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 8
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 112
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 8
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 20
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 3
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 105
 	}
@@ -14004,49 +14017,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 62
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 10
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 13
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 5
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 425
 	}
@@ -14083,84 +14096,84 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 54
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 20
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 137
 	}
@@ -14416,49 +14429,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 126
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 21
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 8
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 40
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 853
 	}
@@ -14539,84 +14552,84 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 35
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 7
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 228
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 6
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 65
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 10
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 13
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 434
 	}
@@ -14852,57 +14865,57 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 25
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 30
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 2
 	}
 
@@ -15490,49 +15503,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1726
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 280
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 65
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 90
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 544
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 391
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 11463
 	}
@@ -15590,49 +15603,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 203
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 33
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 8
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 63
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 46
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1340
 	}
@@ -15676,98 +15689,98 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 42
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 9
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 229
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 7
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 82
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 13
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 3
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 17
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 558
 	}
@@ -15925,49 +15938,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 34
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 227
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 37
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 6
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 48
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1325
 	}
@@ -16090,98 +16103,98 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 49
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 8
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 15
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 252
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 8
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 95
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 15
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 4
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 30
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 647
 	}
@@ -16225,98 +16238,98 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 32
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 7
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 15
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 213
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 29
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 62
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 10
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 13
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 396
 	}
@@ -16383,56 +16396,56 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 6
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 93
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 10
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 46
 	}
@@ -16532,49 +16545,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 82
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 225
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 37
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 6
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 94
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1014
 	}
@@ -16597,35 +16610,35 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 42
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 19
 	}
@@ -16639,21 +16652,21 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1
 	}
@@ -16760,98 +16773,98 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 267
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 988
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 71
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 11
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 92
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 5579
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 221
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2185
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 158
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 24
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 41
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 204
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2990
 	}
@@ -16946,42 +16959,42 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 19
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 195
 	}
@@ -17025,35 +17038,35 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 8
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 39
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 157
 	}
@@ -17132,49 +17145,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 22
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 213
 	}
@@ -17232,35 +17245,35 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 6
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 28
 	}
@@ -17318,147 +17331,147 @@
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 125
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 21
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 3
 	}
 
 	officers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 27
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 57
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 75
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 240
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 39
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 6
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 50
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 3312
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 81
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 568
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 92
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 14
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 18
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 119
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 3179
 	}
@@ -17488,91 +17501,91 @@
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 7
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 53
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 10
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 55
 	}
@@ -17632,49 +17645,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 22
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 32
 	}
@@ -17718,84 +17731,84 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 29
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 6
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 196
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 55
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 12
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 371
 	}
@@ -18081,49 +18094,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 114
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 767
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 125
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 19
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 25
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 161
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 4480
 	}
@@ -18160,35 +18173,35 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 23
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 91
 	}
@@ -18281,49 +18294,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 28
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 63
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 10
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 13
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 605
 	}
@@ -18381,148 +18394,148 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 137
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 22
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 28
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 90
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = norse_pagan_reformed
 		size= 1360
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 124
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 289
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 47
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 8
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 16
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 61
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = holmgardr
 		religion = jewish
 		size= 1676
 	}
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 32
 	}
 
 	clergymen=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 6
 	}
 
 	officers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 7
 	}
 
 	soldiers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 7
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = holmgardr
+		religion = laeradr
 		size= 91
 	}
 

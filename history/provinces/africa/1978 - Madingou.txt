@@ -1,5 +1,5 @@
-owner=IRE
-controller=IRE
+owner=KON
+controller=KON
 add_core=KON
 trade_goods = grain
 life_rating = 31

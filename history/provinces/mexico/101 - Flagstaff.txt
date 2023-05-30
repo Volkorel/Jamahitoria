@@ -1,6 +1,5 @@
-owner=MEX
-controller=X57
+owner=CAL
+controller=CAL
 add_core=CAL
-add_core=MEX
 trade_goods = iron
 life_rating = 35

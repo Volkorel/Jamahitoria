@@ -1,11 +1,7 @@
 capital = 222
 primary_culture = nieuwereld
-culture = dixie
-culture = eastern_algonquian
-culture = texan
-culture = yankee
-culture = zzz_religion_shamanist
-religion = shamanist
+culture = frisian
+religion = meinwerkist
 government = democracy
 plurality = 0
 nationalvalue = nv_equality

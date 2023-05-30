@@ -1,10 +1,7 @@
 capital = 137
 primary_culture = nieuwereld
-culture = caddoan
-culture = mayan
-culture = na_dene
-culture = zzz_religion_shamanist
-religion = shamanist
+culture = frisian
+religion = meinwerkist
 government = presidential_dictatorship
 plurality = 0
 nationalvalue = nv_productivity
