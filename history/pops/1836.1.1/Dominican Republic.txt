@@ -29,49 +29,49 @@
 
 	farmers=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = norse_pagan_reformed
 		size= 30805
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = norse_pagan_reformed
 		size= 15439
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = norse_pagan_reformed
 		size= 4940
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = norse_pagan_reformed
 		size= 715
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = norse_pagan_reformed
 		size= 196
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = norse_pagan_reformed
 		size= 142
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = norse_pagan_reformed
 		size= 872
 	}
@@ -108,49 +108,49 @@
 
 	farmers=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = norse_pagan_reformed
 		size= 9204
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = norse_pagan_reformed
 		size= 4086
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = norse_pagan_reformed
 		size= 490
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = norse_pagan_reformed
 		size= 190
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = norse_pagan_reformed
 		size= 52
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = norse_pagan_reformed
 		size= 36
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = norse_pagan_reformed
 		size= 221
 	}
@@ -164,49 +164,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = noreligion
 		size= 187
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = noreligion
 		size= 3173
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = noreligion
 		size= 147
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = noreligion
 		size= 41
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = noreligion
 		size= 29
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = noreligion
 		size= 381
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = noreligion
 		size= 7422
 	}

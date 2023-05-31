@@ -1,10 +1,9 @@
 capital = 75
-primary_culture = dummy
-culture = african_minor
-culture = dummy
-culture = noculture
-culture = zzz_religion_shamanist
-religion = shamanist
+primary_culture = vinlander
+culture = sydlig
+culture = svart
+culture = bundsfoervant
+religion = laeradr
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

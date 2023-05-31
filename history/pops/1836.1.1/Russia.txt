@@ -7283,142 +7283,57 @@
 1047 = {
 	soldiers=
 	{
-		culture = tatar
-		religion = pre_schism
-		size= 1855
+		culture = greek
+		religion = catholic
+		size= 1055
 	}
 
 	artisans=
 	{
-		culture = tatar
-		religion = pre_schism
+		culture = greek
+		religion = catholic
 		size= 488
 	}
 
 	clergymen=
 	{
-		culture = tatar
-		religion = pre_schism
+		culture = greek
+		religion = catholic
 		size= 79
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
-		religion = pre_schism
+		culture = greek
+		religion = catholic
 		size= 24
 	}
 
 	officers=
 	{
-		culture = tatar
-		religion = pre_schism
+		culture = greek
+		religion = catholic
 		size= 15
 	}
 
 	aristocrats=
 	{
-		culture = tatar
-		religion = pre_schism
-		size= 120
+		culture = greek
+		religion = catholic
+		size= 19120
 	}
 
 	farmers=
 	{
-		culture = tatar
-		religion = pre_schism
-		size= 45212
-	}
-
-	soldiers=
-	{
-		culture = tatar
-		religion = protestant
-		size= 1
-	}
-
-	artisans=
-	{
-		culture = tatar
-		religion = protestant
-		size= 488
-	}
-
-	clergymen=
-	{
-		culture = tatar
-		religion = protestant
-		size= 79
-	}
-
-	bureaucrats=
-	{
-		culture = tatar
-		religion = protestant
-		size= 24
-	}
-
-	officers=
-	{
-		culture = tatar
-		religion = protestant
-		size= 15
-	}
-
-	aristocrats=
-	{
-		culture = tatar
-		religion = protestant
-		size= 120
-	}
-
-	soldiers=
-	{
-		culture = tatar
+		culture = greek
 		religion = catholic
-		size= 82
+		size= 4212
 	}
-
-	artisans=
+	slaves=
 	{
-		culture = tatar
-		religion = catholic
-		size= 1062
-	}
-
-	clergymen=
-	{
-		culture = tatar
-		religion = catholic
-		size= 173
-	}
-
-	bureaucrats=
-	{
-		culture = tatar
-		religion = catholic
-		size= 53
-	}
-
-	officers=
-	{
-		culture = tatar
-		religion = catholic
-		size= 32
-	}
-
-	aristocrats=
-	{
-		culture = tatar
-		religion = catholic
-		size= 260
-	}
-
-	farmers=
-	{
-		culture = tatar
-		religion = catholic
-		size= 473
+		culture = holmgardr
+		religion = laeradr
+		size= 36000
 	}
 
 }

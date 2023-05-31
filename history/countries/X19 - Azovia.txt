@@ -1,5 +1,5 @@
 capital = 1047
-primary_culture = tatar
+primary_culture = greek
 culture = hungarian
 culture = zzz_religion_catholic
 religion = catholic

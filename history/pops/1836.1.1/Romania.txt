@@ -1,49 +1,49 @@
 647 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 8678
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 6533
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 2381
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 191
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 553
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 1603
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 168772
 	}
@@ -80,49 +80,49 @@
 651 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 5036
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 1716
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 1327
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 112
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 324
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 938
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 95082
 	}
@@ -296,42 +296,42 @@
 654 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 348
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 3233
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 191
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 81
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 465
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 38162
 	}
@@ -712,49 +712,49 @@
 660 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 1552
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 7462
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 284
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 59
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 124
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 744
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 46614
 	}
@@ -791,49 +791,49 @@
 661 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 551
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 5057
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 323
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 117
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 85
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 820
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 55947
 	}
@@ -2240,49 +2240,49 @@
 2533 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 2285
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 11126
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 454
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 85
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 179
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 1073
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 65842
 	}

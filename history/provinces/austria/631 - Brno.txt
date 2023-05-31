@@ -1,5 +1,6 @@
-owner=HAN
+owner=X05
 controller=X05
+add_core=X05
 add_core=CZE
 add_core=HAN
 add_core=WSF

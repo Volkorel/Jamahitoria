@@ -415,98 +415,98 @@
 637 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = csango
 		religion = catholic
 		size= 2927
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = csango
 		religion = catholic
 		size= 7111
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = csango
 		religion = catholic
 		size= 1060
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = csango
 		religion = catholic
 		size= 122
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = csango
 		religion = catholic
 		size= 183
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = csango
 		religion = catholic
 		size= 1707
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = csango
 		religion = catholic
 		size= 99643
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = csango
 		religion = protestant
 		size= 329
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = csango
 		religion = protestant
 		size= 2672
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = csango
 		religion = protestant
 		size= 398
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = csango
 		religion = protestant
 		size= 46
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = csango
 		religion = protestant
 		size= 69
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = csango
 		religion = protestant
 		size= 641
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = csango
 		religion = protestant
 		size= 7595
 	}
@@ -515,98 +515,98 @@
 638 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = csango
 		religion = catholic
 		size= 869
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = csango
 		religion = catholic
 		size= 1765
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = csango
 		religion = catholic
 		size= 288
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = csango
 		religion = catholic
 		size= 39
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = csango
 		religion = catholic
 		size= 58
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = csango
 		religion = catholic
 		size= 542
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = csango
 		religion = catholic
 		size= 31218
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = csango
 		religion = protestant
 		size= 98
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = csango
 		religion = protestant
 		size= 663
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = csango
 		religion = protestant
 		size= 108
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = csango
 		religion = protestant
 		size= 15
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = csango
 		religion = protestant
 		size= 22
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = csango
 		religion = protestant
 		size= 204
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = csango
 		religion = protestant
 		size= 2379
 	}

@@ -14133,42 +14133,42 @@
 	{
 		culture = native_american_minor
 		religion = totemism
-		size= 210
+		size= 2104
 	}
 
 	soldiers=
 	{
-		culture = muskogean
-		religion = totemism
-		size= 32
+		culture = neokosmi
+		religion = catholic
+		size= 32244
 	}
 
 	artisans=
 	{
-		culture = muskogean
-		religion = totemism
-		size= 23
+		culture = neokosmi
+		religion = catholic
+		size= 23244
 	}
 
 	clergymen=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = neokosmi
+		religion = catholic
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = neokosmi
+		religion = catholic
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = muskogean
-		religion = totemism
-		size= 851
+		culture = neokosmi
+		religion = catholic
+		size= 85124
 	}
 
 	slaves=
@@ -14180,14 +14180,14 @@
 
 	soldiers=
 	{
-		culture = muskogean
+		culture = neokosmi
 		religion = catholic
 		size= 41
 	}
 
 	artisans=
 	{
-		culture = muskogean
+		culture = neokosmi
 		religion = catholic
 		size= 83
 	}
@@ -14201,9 +14201,9 @@
 
 	bureaucrats=
 	{
-		culture = muskogean
+		culture = neokosmi
 		religion = catholic
-		size= 4
+		size= 4255
 	}
 
 	officers=
@@ -14278,32 +14278,24 @@
 
 	soldiers=
 	{
-		culture = vinlander
+		culture = neokosmi
 		religion = catholic
 		size= 12
 	}
 
 	artisans=
 	{
-		culture = vinlander
+		culture = neokosmi
 		religion = catholic
 		size= 24
 	}
 
 	clergymen=
 	{
-		culture = vinlander
+		culture = neokosmi
 		religion = catholic
 		size= 4
 	}
-
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 1
-	}
-
 	officers=
 	{
 		culture = vinlander
@@ -14313,14 +14305,14 @@
 
 	aristocrats=
 	{
-		culture = vinlander
+		culture = neokosmi
 		religion = catholic
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = vinlander
+		culture = neokosmi
 		religion = catholic
 		size= 298
 	}

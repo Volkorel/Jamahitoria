@@ -8,49 +8,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = norse_pagan_reformed
 		size= 243
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = norse_pagan_reformed
 		size= 8783
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = norse_pagan_reformed
 		size= 979
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = norse_pagan_reformed
 		size= 411
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = norse_pagan_reformed
 		size= 317
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = norse_pagan_reformed
 		size= 34
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = bundsfoervant
 		religion = norse_pagan_reformed
 		size= 32
 	}

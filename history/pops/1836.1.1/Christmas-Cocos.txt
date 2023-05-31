@@ -8,7 +8,7 @@
 
 	farmers=
 	{
-		culture = noculture
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 9
 	}

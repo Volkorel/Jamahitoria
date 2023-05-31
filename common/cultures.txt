@@ -2073,14 +2073,6 @@ hungarian_culture_group = {
 		last_names = { "Andrássy" "Apponyi" "Aulich" "Bacher" "Baross" "Batthyány" "Beöthy" "Bothmer" "Damjanich" "Dessewffy" "Egressy" "Erényi Ullmann" "Farkas" "Frakasházi Fischer" "Goldziher" "Gungl" "Hauszmann" "Heller" "Horthy" "Izsó" "Joseffy" "Katona" "Kaufman" "Kéler" "Kiss" "Knezich" "Kogutowicz" "Lahner" "Lázár" "Leiningen-Westerburg" "Lichtenstein" "Liszt" "Mikszáth" "Molnár" "Nagy-Sándor" "Österreicher" "Ottinger" "Perczel" "Poeltenberg" "Reményi" "Rohr" "Schweidel" "Széchenyi" "Szemere" "Szlávic" "Tersztyansky" "Török" "Varga" "Vécsey" "von Benedek" }
 		
 	}
-	hungarian = {
-		color = { 180 255 120 }
-		
-		first_names = { "Alajos" "Albert" "Álmos" "Anasztáz" "András" "Arisztid" "Aurél" "Béla" "Benedek" "Béni" "Bertalan" "Dániel" "Dávid" "Edvárd" "Éliás" "Erno" "Ferencz" "Gábor" "Gábriel" "Gáspár" "György" "Gyula" "Ignác" "Imre" "István" "Izidor" "János" "József" "József Manes" "Kálmán" "Károly" "Katalin" "Kelemen" "Krisztian" "Lajos" "László" "Manó" "Mihály" "Mór" "Myklós" "Ödön" "Ottó" "Péter" "Rafael" "Sándor" "Simon" "Tivadar" "Vilmos" "Virág" "Zsigmond" }
-		
-		last_names = { "Andrássy" "Apponyi" "Aulich" "Bacher" "Baross" "Batthyány" "Beöthy" "Bothmer" "Damjanich" "Dessewffy" "Egressy" "Erényi Ullmann" "Farkas" "Frakasházi Fischer" "Goldziher" "Gungl" "Hauszmann" "Heller" "Horthy" "Izsó" "Joseffy" "Katona" "Kaufman" "Kéler" "Kiss" "Knezich" "Kogutowicz" "Lahner" "Lázár" "Leiningen-Westerburg" "Lichtenstein" "Liszt" "Mikszáth" "Molnár" "Nagy-Sándor" "Österreicher" "Ottinger" "Perczel" "Poeltenberg" "Reményi" "Rohr" "Schweidel" "Széchenyi" "Szemere" "Szlávic" "Tersztyansky" "Török" "Varga" "Vécsey" "von Benedek" }
-		
-	}
 	kulfoldi = {
 		color = { 138 133 121 }
 		
@@ -2089,8 +2081,59 @@ hungarian_culture_group = {
 		last_names = { "Andrássy" "Apponyi" "Aulich" "Bacher" "Baross" "Batthyány" "Beöthy" "Bothmer" "Damjanich" "Dessewffy" "Egressy" "Erényi Ullmann" "Farkas" "Frakasházi Fischer" "Goldziher" "Gungl" "Hauszmann" "Heller" "Horthy" "Izsó" "Joseffy" "Katona" "Kaufman" "Kéler" "Kiss" "Knezich" "Kogutowicz" "Lahner" "Lázár" "Leiningen-Westerburg" "Lichtenstein" "Liszt" "Mikszáth" "Molnár" "Nagy-Sándor" "Österreicher" "Ottinger" "Perczel" "Poeltenberg" "Reményi" "Rohr" "Schweidel" "Széchenyi" "Szemere" "Szlávic" "Tersztyansky" "Török" "Varga" "Vécsey" "von Benedek" }
 		
 	}
+	avar = {
+		color = { 175 82 82 }
+		
+		first_names = { "Alajos" "Albert" "Álmos" "Anasztáz" "András" "Arisztid" "Aurél" "Béla" "Benedek" "Béni" "Bertalan" "Dániel" "Dávid" "Edvárd" "Éliás" "Erno" "Ferencz" "Gábor" "Gábriel" "Gáspár" "György" "Gyula" "Ignác" "Imre" "István" "Izidor" "János" "József" "József Manes" "Kálmán" "Károly" "Katalin" "Kelemen" "Krisztian" "Lajos" "László" "Manó" "Mihály" "Mór" "Myklós" "Ödön" "Ottó" "Péter" "Rafael" "Sándor" "Simon" "Tivadar" "Vilmos" "Virág" "Zsigmond" }
+		
+		last_names = { "Andrássy" "Apponyi" "Aulich" "Bacher" "Baross" "Batthyány" "Beöthy" "Bothmer" "Damjanich" "Dessewffy" "Egressy" "Erényi Ullmann" "Farkas" "Frakasházi Fischer" "Goldziher" "Gungl" "Hauszmann" "Heller" "Horthy" "Izsó" "Joseffy" "Katona" "Kaufman" "Kéler" "Kiss" "Knezich" "Kogutowicz" "Lahner" "Lázár" "Leiningen-Westerburg" "Lichtenstein" "Liszt" "Mikszáth" "Molnár" "Nagy-Sándor" "Österreicher" "Ottinger" "Perczel" "Poeltenberg" "Reményi" "Rohr" "Schweidel" "Széchenyi" "Szemere" "Szlávic" "Tersztyansky" "Török" "Varga" "Vécsey" "von Benedek" }
+		
+	}
+	carpathian_andes_superregion_culture = {
+		color = { 17 39 15 }
+		radicalism = 10
+		
+		first_names = { "Ahmad" "Ali" "Magomed" "Magomedkhan" "Magomet" "Muhamad" "Muhamadkhan" "Muhammad" "Murad" "Nurmagomed" "Nurmuhamad" "Ramazan" "Rasul" "Ruslan" "Shamil" "Sultan" }
+		
+		last_names = { "Sabir" "Akhasir" "Kazarig" "Kidar" "Ghidatli" "Gumbekh" "Kharoda" "Ghunib" "Yandalal" "Tsumadal" "Tsuntab" }
+		
+	}
+	carpathian_central_america_superregion_culture = {
+		color = { 106 63 18 }
+		radicalism = 10
+		
+		first_names = { "Ahmad" "Ali" "Magomed" "Magomedkhan" "Magomet" "Muhamad" "Muhamadkhan" "Muhammad" "Murad" "Nurmagomed" "Nurmuhamad" "Ramazan" "Rasul" "Ruslan" "Shamil" "Sultan" }
+		
+		last_names = { "Sabir" "Akhasir" "Kazarig" "Kidar" "Ghidatli" "Gumbekh" "Kharoda" "Ghunib" "Yandalal" "Tsumadal" "Tsuntab" }
+		
+	}
+	carpathian_north_america_superregion_culture = {
+		color = { 133 240 250 }
+		radicalism = 10
+		
+		first_names = { "Ahmad" "Ali" "Magomed" "Magomedkhan" "Magomet" "Muhamad" "Muhamadkhan" "Muhammad" "Murad" "Nurmagomed" "Nurmuhamad" "Ramazan" "Rasul" "Ruslan" "Shamil" "Sultan" }
+		
+		last_names = { "Sabir" "Akhasir" "Kazarig" "Kidar" "Ghidatli" "Gumbekh" "Kharoda" "Ghunib" "Yandalal" "Tsumadal" "Tsuntab" }
+		
+	}
+	dinajidad = {
+		color = { 115 114 130 }
+		
+		first_names = { "Abbas" "Abolghasem" "Abdolhossein" "Abdolsamad" "Abdolazim" "Ahmad" "Ali" "Bahram" "Ebrahim" "Esmail" "Fath Ali" "Fazlollah" "Hamzeh" "Hasan" "Hossein" "Kamran" "Karim" "Lotf Ali" "Mahmoud" "Massoud" "Mohammad" "Moin ed-Din" "Mozzafer ed-Din" "Murad" "Muhsin" "Naser ed-Din" "Nosret" "Reza" }
+		
+		last_names = { "Airom" "Ansari" "Ayrum" "Buzarjomehri" "Davallu" "Esfahani" "Farhani" "Jahanbani" "Kashani" "Khan" "Khuzai" "Meshhedi" "Nakhchevani" "Pesyan" "Rokni" "Shafaei" "Shahbakhti" "Shirazi" "Tabrizi" "Tahmasebi" "Zahedi" }
+		
+	}
 	szekely = {
 		color = { 141 142 108 }
+		
+		first_names = { "Alajos" "Albert" "Álmos" "Anasztáz" "András" "Arisztid" "Aurél" "Béla" "Benedek" "Béni" "Bertalan" "Dániel" "Dávid" "Edvárd" "Éliás" "Erno" "Ferencz" "Gábor" "Gábriel" "Gáspár" "György" "Gyula" "Ignác" "Imre" "István" "Izidor" "János" "József" "József Manes" "Kálmán" "Károly" "Katalin" "Kelemen" "Krisztian" "Lajos" "László" "Manó" "Mihály" "Mór" "Myklós" "Ödön" "Ottó" "Péter" "Rafael" "Sándor" "Simon" "Tivadar" "Vilmos" "Virág" "Zsigmond" }
+		
+		last_names = { "Andrássy" "Apponyi" "Aulich" "Bacher" "Baross" "Batthyány" "Beöthy" "Bothmer" "Damjanich" "Dessewffy" "Egressy" "Erényi Ullmann" "Farkas" "Frakasházi Fischer" "Goldziher" "Gungl" "Hauszmann" "Heller" "Horthy" "Izsó" "Joseffy" "Katona" "Kaufman" "Kéler" "Kiss" "Knezich" "Kogutowicz" "Lahner" "Lázár" "Leiningen-Westerburg" "Lichtenstein" "Liszt" "Mikszáth" "Molnár" "Nagy-Sándor" "Österreicher" "Ottinger" "Perczel" "Poeltenberg" "Reményi" "Rohr" "Schweidel" "Széchenyi" "Szemere" "Szlávic" "Tersztyansky" "Török" "Varga" "Vécsey" "von Benedek" }
+		
+	}
+	csango = {
+		color = { 76 53 53 }
 		
 		first_names = { "Alajos" "Albert" "Álmos" "Anasztáz" "András" "Arisztid" "Aurél" "Béla" "Benedek" "Béni" "Bertalan" "Dániel" "Dávid" "Edvárd" "Éliás" "Erno" "Ferencz" "Gábor" "Gábriel" "Gáspár" "György" "Gyula" "Ignác" "Imre" "István" "Izidor" "János" "József" "József Manes" "Kálmán" "Károly" "Katalin" "Kelemen" "Krisztian" "Lajos" "László" "Manó" "Mihály" "Mór" "Myklós" "Ödön" "Ottó" "Péter" "Rafael" "Sándor" "Simon" "Tivadar" "Vilmos" "Virág" "Zsigmond" }
 		
@@ -2229,41 +2272,6 @@ iranian_turanian = {
 		last_names = { "Khan" }
 		
 	}
-	carpathian_andes_superregion_culture = {
-		color = { 17 39 15 }
-		radicalism = 10
-		
-		first_names = { "Ahmad" "Ali" "Magomed" "Magomedkhan" "Magomet" "Muhamad" "Muhamadkhan" "Muhammad" "Murad" "Nurmagomed" "Nurmuhamad" "Ramazan" "Rasul" "Ruslan" "Shamil" "Sultan" }
-		
-		last_names = { "Sabir" "Akhasir" "Kazarig" "Kidar" "Ghidatli" "Gumbekh" "Kharoda" "Ghunib" "Yandalal" "Tsumadal" "Tsuntab" }
-		
-	}
-	carpathian_central_america_superregion_culture = {
-		color = { 106 63 18 }
-		radicalism = 10
-		
-		first_names = { "Ahmad" "Ali" "Magomed" "Magomedkhan" "Magomet" "Muhamad" "Muhamadkhan" "Muhammad" "Murad" "Nurmagomed" "Nurmuhamad" "Ramazan" "Rasul" "Ruslan" "Shamil" "Sultan" }
-		
-		last_names = { "Sabir" "Akhasir" "Kazarig" "Kidar" "Ghidatli" "Gumbekh" "Kharoda" "Ghunib" "Yandalal" "Tsumadal" "Tsuntab" }
-		
-	}
-	carpathian_north_america_superregion_culture = {
-		color = { 133 240 250 }
-		radicalism = 10
-		
-		first_names = { "Ahmad" "Ali" "Magomed" "Magomedkhan" "Magomet" "Muhamad" "Muhamadkhan" "Muhammad" "Murad" "Nurmagomed" "Nurmuhamad" "Ramazan" "Rasul" "Ruslan" "Shamil" "Sultan" }
-		
-		last_names = { "Sabir" "Akhasir" "Kazarig" "Kidar" "Ghidatli" "Gumbekh" "Kharoda" "Ghunib" "Yandalal" "Tsumadal" "Tsuntab" }
-		
-	}
-	dinajidad = {
-		color = { 115 114 130 }
-		
-		first_names = { "Abbas" "Abolghasem" "Abdolhossein" "Abdolsamad" "Abdolazim" "Ahmad" "Ali" "Bahram" "Ebrahim" "Esmail" "Fath Ali" "Fazlollah" "Hamzeh" "Hasan" "Hossein" "Kamran" "Karim" "Lotf Ali" "Mahmoud" "Massoud" "Mohammad" "Moin ed-Din" "Mozzafer ed-Din" "Murad" "Muhsin" "Naser ed-Din" "Nosret" "Reza" }
-		
-		last_names = { "Airom" "Ansari" "Ayrum" "Buzarjomehri" "Davallu" "Esfahani" "Farhani" "Jahanbani" "Kashani" "Khan" "Khuzai" "Meshhedi" "Nakhchevani" "Pesyan" "Rokni" "Shafaei" "Shahbakhti" "Shirazi" "Tabrizi" "Tahmasebi" "Zahedi" }
-		
-	}
 	gypsy = {
 		color = { 16 102 163 }
 		radicalism = 15
@@ -2353,6 +2361,14 @@ iranian_turanian = {
 		first_names = { "Asaf" "Baqi" "Galiaskar" "Ismail" "Makhmut" "Musa" "Rustam" "Yusuf" }
 		
 		last_names = { "Amirkhanov" "Faysi" "Gizzat" "Ibragimov" "Kamal" "Khusainov" "Tinchurin" "Tukay" "Yanbayev" }
+		
+	}
+	hungarian = {
+		color = { 180 255 120 }
+		
+		first_names = { "Alajos" "Albert" "Álmos" "Anasztáz" "András" "Arisztid" "Aurél" "Béla" "Benedek" "Béni" "Bertalan" "Dániel" "Dávid" "Edvárd" "Éliás" "Erno" "Ferencz" "Gábor" "Gábriel" "Gáspár" "György" "Gyula" "Ignác" "Imre" "István" "Izidor" "János" "József" "József Manes" "Kálmán" "Károly" "Katalin" "Kelemen" "Krisztian" "Lajos" "László" "Manó" "Mihály" "Mór" "Myklós" "Ödön" "Ottó" "Péter" "Rafael" "Sándor" "Simon" "Tivadar" "Vilmos" "Virág" "Zsigmond" }
+		
+		last_names = { "Andrássy" "Apponyi" "Aulich" "Bacher" "Baross" "Batthyány" "Beöthy" "Bothmer" "Damjanich" "Dessewffy" "Egressy" "Erényi Ullmann" "Farkas" "Frakasházi Fischer" "Goldziher" "Gungl" "Hauszmann" "Heller" "Horthy" "Izsó" "Joseffy" "Katona" "Kaufman" "Kéler" "Kiss" "Knezich" "Kogutowicz" "Lahner" "Lázár" "Leiningen-Westerburg" "Lichtenstein" "Liszt" "Mikszáth" "Molnár" "Nagy-Sándor" "Österreicher" "Ottinger" "Perczel" "Poeltenberg" "Reményi" "Rohr" "Schweidel" "Széchenyi" "Szemere" "Szlávic" "Tersztyansky" "Török" "Varga" "Vécsey" "von Benedek" }
 		
 	}
 	tocharian = {
@@ -2852,6 +2868,14 @@ levantine = {
 		last_names = { "Charalámpis" "Christákis-Zográfos" "Daglis" "Dousmanis" "Foúmis" "Gonatás" "Chatzianéstis" "Kallérgis" "Kanáris" "Katsimiros" "Kolokotrónis" "Kondýlis" "Kountouriótis" "Kriezís" "Makriiánnis" "Mános" "Mavrokordátos" "Mavrovouniótis" "Metaxás" "Moúskos" "Níder" "Othonaíos" "Paláskas" "Pan'galos" "Papadiamantópoulos" "Papadópoulos" "Papágos" "Papoúlas" "Parakevópoulos" "Plapoútas" "Plastíras" "Sapountzákis" "Saráfis" "Smolénskis" "Sofoúlis" "Soútsos" "Spyromílios" "Staïkópoulos" "Stanotas" "tis Elládas" "Trikoúpis" "Tsakalótos" "Tsolákoglou" "Typáldos-Alfonsátos" "Tzavélas" "Vássos" "Venizélos" "Voúlgaris" "Zaïmis" "Zymvrakákis" }
 		
 	}
+	bulgarian = {
+		color = { 65 150 100 }
+		
+		first_names = { "Aleksandar" "Andrey" "Asen" "Atanas" "Atila" "Bogdan" "Bonco" "Boris" "Damyan" "Dimitar" "Dobri" "Ferdinand" "Georgi" "Hristo" "Ilya" "Ivan" "Kalin" "Kardam" "Kimon" "Kiril" "Kliment" "Konstantin" "Krastyu" "Leonid" "Mihail" "Nikifor" "Niloa" "Penco" "Petar" "Petko" "Petur" "Pravoslav" "Raco" "Radko" "Radoy" "Sava" "Simeon" "Sotir" "Stanislav" "Stanko" "Stefan" "Stiliyan" "Stoyu" "Teodosi" "Todor" "Trifon" "Valko" "Vasil" "Velizar" "Vulko" }
+		
+		last_names = { "Agura" "Balabanov" "Balkanski" "Battemberg" "Blaskov" "Boyadžiev" "Bradistilov" "Carakciev" "Daskalov" "Dikov" "Dimitriev" "Draganov" "Ficev" "Georgiev" "Hesapchiev" "Ilyev" "Ivanov" "Kirkov" "Kovacev" "Krayonski" "Kutincev" "Lazarov" "Lukov" "Marinkov" "Marinov" "Mutkorov" "Naydenov" "Nazlamov" "Nikiforov" "Nikolaev" "Pakov" "Petrov" "Radev" "Saksokoburggotski" "Savov" "Sirakov" "Solarov" "Stoyanov" "Tenev" "Todorov" "Tsaklev" "Valkov" "Valnarov" "Vasilev" "Vazov" "Velchev" "Zafirov" "Zhekov" "Zlatarev" "Zlatev" }
+		
+	}
 	magnagreek = {
 		color = { 100 200 50 }
 		radicalism = 10
@@ -2871,7 +2895,7 @@ levantine = {
 		
 	}
 	neokosmi = {
-		color = { 149 91 141 }
+		color = { 0 36 124 }
 		radicalism = 10
 		
 		first_names = { "Adamantios" "Aléxandros" "Anastásios" "Andréas" "Antónios" "Aristídis" "Athanásios" "Avgóstinos" "Venizélos" "Charálampos" "Charílaos" "Dimítrios" "Diomídis" "Elefthérios" "Emmanouíl" "Epameínontas" "Evripídis" "Gennaíos" "Geórgios" "Ilías" "Ionnis" "Kítsos" "Konstantínos" "Kyriákos" "Kyriakoúlis" "Leonídas" "Makários" "Márkos" "Míchael" "Militiadis" "Nikólaos" "Odysséas" "Óthon" "Panagiótis" "Pavlos" "Pétros" "Sofoklís" "Sotíris" "Spyridíon" "Spýros" "Stáïkos" "Stéfanos" "Stylianós" "Themistoklís" "Theódoros" "Tharývoulos" "Tzannís" "Vásos" "Víktor" "Zinóvios" }
@@ -4484,14 +4508,6 @@ south_slavic = {
 		first_names = { "Abdulvehhab" "Adnan" "Ahmed" "Ali" "Alija" "Asim" "Atif" "Beriz" "Džemal" "Džemaludin" "Elvir" "Enver" "Fikret" "Fuad" "Gazi" "Hakija" "Hamdija" "Hamid" "Haris" "Hasan" "Husein" "Irfan" "Isa" "Ivan" "Izet" "Jusuf" "Mehmed" "Meho" "Mirsad" "Muhamed" "Musa" "Mustafa" "Naser" "Osman" "Raif" "Rasim" "Refik" "Safet" "Safvet" "Šefer" "Sejad" "Semezdin" "Semir" "Skender" "Sokollu" "Sulejman" "Vedad" "Zija" "Zlatko" "Zuko" }
 		
 		last_names = { "Abdic" "Arapovic" "Basgic" "Belkic" "Bijedic" "Catic" "Cauševic" "Ceric" "Colakovic" "Dizdar" "Dizdarevic" "Džikic" "Džumhur" "Ekrem" "Gradašcevic" "Halilovic" "Husrev" "Ibiševic" "Ilhamija" "Imamovic" "Isakovic" "Izetbegovic" "Kodro" "Konjic" "Kulenovic" "Lagumdžija" "Ljajic" "Ljubicic" "Ljubijankic" "Mehmedinovic" "Muradbegovic" "Muzurovic" "Osmanagic" "Peco" "Plakalo" "Pozderac" "Prazina" "Rizvanbegovic" "Šabanadžovic" "Salihovic" "Sarajlic" "Selimovic" "Silajdžic" "Sokolovic" "Spaho" "Terzic" "Tihic" "Turajlic" "Tükcan" "Ugljanin" }
-		
-	}
-	bulgarian = {
-		color = { 65 150 100 }
-		
-		first_names = { "Aleksandar" "Andrey" "Asen" "Atanas" "Atila" "Bogdan" "Bonco" "Boris" "Damyan" "Dimitar" "Dobri" "Ferdinand" "Georgi" "Hristo" "Ilya" "Ivan" "Kalin" "Kardam" "Kimon" "Kiril" "Kliment" "Konstantin" "Krastyu" "Leonid" "Mihail" "Nikifor" "Niloa" "Penco" "Petar" "Petko" "Petur" "Pravoslav" "Raco" "Radko" "Radoy" "Sava" "Simeon" "Sotir" "Stanislav" "Stanko" "Stefan" "Stiliyan" "Stoyu" "Teodosi" "Todor" "Trifon" "Valko" "Vasil" "Velizar" "Vulko" }
-		
-		last_names = { "Agura" "Balabanov" "Balkanski" "Battemberg" "Blaskov" "Boyadžiev" "Bradistilov" "Carakciev" "Daskalov" "Dikov" "Dimitriev" "Draganov" "Ficev" "Georgiev" "Hesapchiev" "Ilyev" "Ivanov" "Kirkov" "Kovacev" "Krayonski" "Kutincev" "Lazarov" "Lukov" "Marinkov" "Marinov" "Mutkorov" "Naydenov" "Nazlamov" "Nikiforov" "Nikolaev" "Pakov" "Petrov" "Radev" "Saksokoburggotski" "Savov" "Sirakov" "Solarov" "Stoyanov" "Tenev" "Todorov" "Tsaklev" "Valkov" "Valnarov" "Vasilev" "Vazov" "Velchev" "Zafirov" "Zhekov" "Zlatarev" "Zlatev" }
 		
 	}
 	crni = {

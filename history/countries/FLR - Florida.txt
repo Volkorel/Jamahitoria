@@ -1,8 +1,7 @@
 capital = 200
-primary_culture = dummy
-culture = dummy
-culture = muskogean
-culture = native_american_minor
+primary_culture = neokosmi
+culture = greek
+culture = armenian
 culture = zzz_religion_catholic
 religion = catholic
 government = democracy

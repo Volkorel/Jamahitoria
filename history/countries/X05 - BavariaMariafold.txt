@@ -1,5 +1,5 @@
 capital = 641
-primary_culture = tatar
+primary_culture = avar
 culture = south_german
 culture = zzz_religion_catholic
 religion = catholic

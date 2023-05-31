@@ -1,49 +1,49 @@
 791 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 10333
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 3889
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 361
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 28
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 81
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 467
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 12616
 	}
@@ -604,49 +604,49 @@
 2538 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 7233
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 14089
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 1227
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 184
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 196
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 2472
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 75861
 	}

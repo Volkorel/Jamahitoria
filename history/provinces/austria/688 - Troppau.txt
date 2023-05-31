@@ -1,5 +1,6 @@
-owner=X05
-controller=X05
+owner=SLV
+controller=SLV
+add_core=SLV
 add_core=CZE
 add_core=WSF
 trade_goods = coal

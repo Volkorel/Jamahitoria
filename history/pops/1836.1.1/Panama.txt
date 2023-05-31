@@ -22,7 +22,7 @@
 
 	farmers=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 610
 	}
@@ -36,42 +36,42 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 117
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 49
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 18
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 24
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 3
 	}
@@ -108,49 +108,49 @@
 
 	farmers=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 6510
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 519
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 217
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 84
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 13
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 16
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 107
 	}
@@ -180,7 +180,7 @@
 
 	farmers=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 4298
 	}
@@ -194,42 +194,42 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 271
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 114
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 87
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 56
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 6
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 8
 	}
@@ -259,7 +259,7 @@
 
 	farmers=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 3524
 	}
@@ -273,42 +273,42 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 227
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 95
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 37
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 47
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 7
 	}
@@ -331,49 +331,49 @@
 
 	farmers=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 2139
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 112
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 47
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 18
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 23
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = svart
 		religion = norse_pagan_reformed
 		size= 3
 	}

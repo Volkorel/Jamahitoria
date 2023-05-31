@@ -1,6 +1,5 @@
 capital = 2200
-primary_culture = dummy
-culture = dinajidad
+primary_culture = dinajidad
 culture = french_canadian
 culture = nouvellien
 culture = zzz_religion_catholic

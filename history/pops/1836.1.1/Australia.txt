@@ -2432,49 +2432,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 793
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 74
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 10
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 127
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 43
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 3345
 	}
@@ -2548,49 +2548,49 @@
 
 	farmers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 1270
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 74
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 31
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 12
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 14
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 2
 	}
@@ -2671,49 +2671,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 67
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 28
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 1033
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 20
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 184
 	}
@@ -2736,42 +2736,42 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 18
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 306
 	}
@@ -2924,49 +2924,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 23
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 117
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 19
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 4
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 49
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 2113
 	}
@@ -3024,49 +3024,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 9
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 45
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 7
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 2
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 19
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 815
 	}
@@ -3110,35 +3110,35 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 3
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 15
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 270
 	}
@@ -3191,35 +3191,35 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 14
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 281
 	}
@@ -3235,35 +3235,35 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 15
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 310
 	}
@@ -3300,35 +3300,35 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 114
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = noreligion
 		size= 1
 	}
@@ -3437,49 +3437,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 26
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 11
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = sydlig
 		religion = norse_pagan_reformed
 		size= 450
 	}
