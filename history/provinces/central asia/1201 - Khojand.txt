@@ -1,6 +1,5 @@
-owner=SIN
-controller=SIN
-add_core=SIN
+owner=TKS
+controller=TKS
 add_core=TKS
 add_core=X43
 trade_goods = grain

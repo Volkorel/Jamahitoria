@@ -1,4 +1,4 @@
-owner=X31
+owner=JAP
 controller=JAP
 add_core=CHI
 add_core=JAP

@@ -1,5 +1,5 @@
 owner=JAP
-controller=SUM
+controller=JAP
 add_core=CHI
 add_core=JAP
 add_core=SUM

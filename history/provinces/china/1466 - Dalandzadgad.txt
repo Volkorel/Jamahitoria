@@ -1,5 +1,5 @@
 owner=X31
-controller=CHG
+controller=X31
 add_core=CHG
 add_core=KHA
 add_core=MGL

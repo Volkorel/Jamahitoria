@@ -1,4 +1,4 @@
-owner=CHG
+owner=X18
 controller=X18
 add_core=CHG
 add_core=KHA

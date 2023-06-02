@@ -1,5 +1,6 @@
-owner=CHG
-controller=CHG
+owner=X44
+controller=X44
+add_core=X44
 add_core=CHG
 add_core=KHA
 add_core=MGL

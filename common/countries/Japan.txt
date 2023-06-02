@@ -1,6 +1,5 @@
 graphical_culture = JapaneseGC
-color = { 194 53 60 }
-
+color = { 206 45 45 }
 party = {
 	name = "JAP_reactionary"
 	start_date = 1790.1.1

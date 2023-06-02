@@ -1,6 +1,7 @@
 capital = 1073
 primary_culture = japanese
 culture = manchu
+culture = dongren
 culture = yakut
 culture = zzz_religion_shinto
 religion = shinto

@@ -16863,7 +16863,7 @@
 	{
 		culture = min
 		religion = shinto
-		size= 1586
+		size= 5586
 	}
 
 	clergymen=
@@ -17003,42 +17003,42 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 5
+		size= 55
 	}
 
 	artisans=
 	{
 		culture = japanese
 		religion = shinto
-		size= 459
+		size= 959
 	}
 
 	clergymen=
 	{
 		culture = japanese
 		religion = shinto
-		size= 21
+		size= 81
 	}
 
 	bureaucrats=
 	{
 		culture = japanese
 		religion = shinto
-		size= 7
+		size= 98
 	}
 
 	officers=
 	{
 		culture = japanese
 		religion = shinto
-		size= 7
+		size= 117
 	}
 
 	aristocrats=
 	{
 		culture = japanese
 		religion = shinto
-		size= 41
+		size= 761
 	}
 
 }

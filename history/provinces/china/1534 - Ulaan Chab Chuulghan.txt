@@ -1,5 +1,5 @@
-owner=SUM
-controller=SUM
+owner=X18
+controller=X18
 add_core=KHA
 add_core=MGL
 add_core=SUM

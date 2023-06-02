@@ -1,7 +1,7 @@
 owner=X51
-controller=SIN
-add_core=PER
+controller=X51
 add_core=X51
+add_core=PER
 trade_goods = cattle
 life_rating = 35
 fort = 1

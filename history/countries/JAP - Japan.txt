@@ -2,6 +2,7 @@ capital = 1657
 primary_culture = japanese
 culture = beifaren
 culture = nanfaren
+culture = dongren
 culture = zzz_religion_shinto
 religion = shinto
 government = absolute_monarchy
