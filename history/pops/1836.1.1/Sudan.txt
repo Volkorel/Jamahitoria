@@ -1434,49 +1434,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = sudanese
 		religion = sunni
 		size= 298
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = sudanese
 		religion = sunni
 		size= 1191
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = sudanese
 		religion = sunni
 		size= 193
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = sudanese
 		religion = sunni
 		size= 45
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = sudanese
 		religion = sunni
 		size= 39
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = sudanese
 		religion = sunni
 		size= 250
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = sudanese
 		religion = sunni
 		size= 8192
 	}

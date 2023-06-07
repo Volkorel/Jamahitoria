@@ -233,49 +233,49 @@
 1684 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 22
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 16
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 1
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 739
 	}
@@ -463,49 +463,49 @@
 1687 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 553
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 790
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 128
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 30
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 41
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 332
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 17877
 	}
@@ -514,49 +514,49 @@
 1688 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 773
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 1105
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 180
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 41
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 58
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 232
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 25234
 	}
@@ -565,49 +565,49 @@
 1689 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 14
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 20
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 1
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 460
 	}
@@ -1513,49 +1513,49 @@
 2590 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 70
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 3
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 15
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = maghrebi
 		religion = sunni
 		size= 619
 	}

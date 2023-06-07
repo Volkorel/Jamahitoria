@@ -2,5 +2,6 @@ owner=SIN
 controller=SIN
 add_core=SIN
 add_core=TUR
+add_core=PER
 trade_goods = wool
 life_rating = 32

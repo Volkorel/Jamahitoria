@@ -1,6 +1,5 @@
 owner=X48
-controller=ARA
-add_core=IRQ
+controller=X48
 add_core=X48
 trade_goods = grain
 life_rating = 10

@@ -1,5 +1,5 @@
 owner=X51
-controller=X31
+controller=X51
 add_core=TIB
 add_core=X51
 trade_goods = wool

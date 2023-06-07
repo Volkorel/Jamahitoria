@@ -581,49 +581,49 @@
 484 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = catholic
 		size= 1478
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = catholic
 		size= 4752
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = catholic
 		size= 343
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = catholic
 		size= 79
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = catholic
 		size= 111
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = catholic
 		size= 1035
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = catholic
 		size= 45004
 	}
@@ -632,49 +632,49 @@
 485 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = catholic
 		size= 1364
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = catholic
 		size= 4383
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = catholic
 		size= 317
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = catholic
 		size= 73
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = catholic
 		size= 102
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = catholic
 		size= 409
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = catholic
 		size= 42053
 	}
@@ -732,49 +732,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = catholic
 		size= 263
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = catholic
 		size= 1054
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = catholic
 		size= 171
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = catholic
 		size= 37
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = catholic
 		size= 34
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = catholic
 		size= 221
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = catholic
 		size= 24565
 	}

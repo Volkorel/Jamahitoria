@@ -4010,49 +4010,49 @@
 759 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = langobard
 		religion = catholic
 		size= 4048
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = langobard
 		religion = catholic
 		size= 5783
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = langobard
 		religion = catholic
 		size= 940
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = langobard
 		religion = catholic
 		size= 275
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = langobard
 		religion = catholic
 		size= 304
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = langobard
 		religion = catholic
 		size= 1214
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = langobard
 		religion = catholic
 		size= 132005
 	}
@@ -4061,49 +4061,49 @@
 760 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = langobard
 		religion = catholic
 		size= 3336
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = langobard
 		religion = catholic
 		size= 3606
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = langobard
 		religion = catholic
 		size= 586
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = langobard
 		religion = catholic
 		size= 135
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = langobard
 		religion = catholic
 		size= 225
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = langobard
 		religion = catholic
 		size= 757
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = langobard
 		religion = catholic
 		size= 81506
 	}
@@ -4461,49 +4461,49 @@
 764 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = siqiliyyan
 		religion = sunni
 		size= 5197
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = siqiliyyan
 		religion = sunni
 		size= 7424
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = siqiliyyan
 		religion = sunni
 		size= 1206
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = siqiliyyan
 		religion = sunni
 		size= 278
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = siqiliyyan
 		religion = sunni
 		size= 390
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = siqiliyyan
 		religion = sunni
 		size= 1559
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = siqiliyyan
 		religion = sunni
 		size= 169540
 	}

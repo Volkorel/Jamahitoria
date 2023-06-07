@@ -1375,6 +1375,55 @@
 
 }
 87 = {
+	farmers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 722172
+	}
+
+	artisans=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 224445
+	}
+
+	aristocrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 6613
+	}
+
+	clergymen=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 1722
+	}
+
+	soldiers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 392444
+	}
+
+	bureaucrats=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 12500
+	}
+
+	officers=
+	{
+		culture = east_asian_north_america_superregion_culture
+		religion = mahayana
+		size= 4245
+	}
+
 	soldiers=
 	{
 		culture = sonoran
@@ -2382,56 +2431,6 @@
 		religion = totemism
 		size= 88
 	}
-
-	farmers=
-	{
-		culture = east_asian_north_america_superregion_culture
-		religion = mahayana
-		size= 722172
-	}
-
-	artisans=
-	{
-		culture = east_asian_north_america_superregion_culture
-		religion = mahayana
-		size= 224445
-	}
-
-	aristocrats=
-	{
-		culture = east_asian_north_america_superregion_culture
-		religion = mahayana
-		size= 6613
-	}
-
-	clergymen=
-	{
-		culture = east_asian_north_america_superregion_culture
-		religion = mahayana
-		size= 1722
-	}
-
-	soldiers=
-	{
-		culture = east_asian_north_america_superregion_culture
-		religion = mahayana
-		size= 392444
-	}
-
-	bureaucrats=
-	{
-		culture = east_asian_north_america_superregion_culture
-		religion = mahayana
-		size= 12500
-	}
-
-	officers=
-	{
-		culture = east_asian_north_america_superregion_culture
-		religion = mahayana
-		size= 4245
-	}
-
 	soldiers=
 	{
 		culture = pueblo

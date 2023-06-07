@@ -154,98 +154,98 @@
 521 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 1434
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 2305
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 333
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 46
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 54
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 323
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 46726
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = portuguese
 		religion = catholic
 		size= 1000
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = portuguese
 		religion = catholic
 		size= 5518
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = portuguese
 		religion = catholic
 		size= 797
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = portuguese
 		religion = catholic
 		size= 110
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = portuguese
 		religion = catholic
 		size= 129
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = portuguese
 		religion = catholic
 		size= 772
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = portuguese
 		religion = catholic
 		size= 27373
 	}
@@ -254,98 +254,98 @@
 522 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 436
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 312
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 101
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 17
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 16
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 98
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 14595
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = catholic
 		size= 532
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = portuguese
 		religion = catholic
 		size= 1072
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = portuguese
 		religion = catholic
 		size= 348
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = portuguese
 		religion = catholic
 		size= 59
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = portuguese
 		religion = catholic
 		size= 56
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = portuguese
 		religion = catholic
 		size= 338
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = portuguese
 		religion = catholic
 		size= 16601
 	}
@@ -501,49 +501,49 @@
 523 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = portuguese
 		religion = sunni
 		size= 1254
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 1792
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 291
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 67
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 94
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 753
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 40543
 	}
@@ -552,49 +552,49 @@
 524 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 1338
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 4300
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 311
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 72
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 100
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 936
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 40723
 	}
@@ -603,49 +603,49 @@
 525 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 1391
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 4472
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 323
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 94
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 104
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 974
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 42326
 	}
@@ -654,49 +654,49 @@
 526 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 1240
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 3987
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 288
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 66
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 93
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 868
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = andalucian
 		religion = sunni
 		size= 37754
 	}

@@ -352,49 +352,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 422
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 913
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 149
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 35
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 48
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 191
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 12677
 	}
@@ -466,49 +466,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 292
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 47
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 11
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 15
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 61
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 3725
 	}
@@ -580,49 +580,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 1413
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 7336
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 530
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 122
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 171
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 1369
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 35202
 	}
@@ -694,49 +694,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 150
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 1992
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 324
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 95
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 105
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 418
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 1817
 	}
@@ -808,49 +808,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 11
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 157
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 25
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 6
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 33
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = fezzan_arabic
 		religion = sunni
 		size= 95
 	}

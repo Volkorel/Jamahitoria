@@ -161,6 +161,14 @@ arab = {
 		last_names = { "al-Andalusi" "al-Dabbag" "al-Fadl" "al-Fath" "al-Isibili" "al-Kalai" "al-Mari" "al-Mayurqui" "al-Sabti" "al-Tulaytuli" "al-Valansi" "ibn Abd al-Aziz" "ibn Abd al-Haqq" "ibn Abd al-Rahman" "ibn Abd Allah" "ibn Abu l-Qasim" "ibn Ahmad" "ibn Ali" "ibn Garsiyya" "ibn Hasan" "ibn Ibrahim" "ibn Isa" "ibn Muhammad" "ibn Musa" "ibn Qasim" "ibn Sulayman" "ibn Umar" "ibn Uthman" "ibn Yahya" "ibn Yusuf" }
 		
 	}
+	siqiliyyan = {
+		color = { 60 120 0 }
+		
+		first_names = { "Abd al-Aziz" "Abd al-Haqq" "Abd al-Rahman" "Abd Allah" "Abu l-Qasim" "Ahmad" "Ali" "Asbag" "Faris" "Garsiyya" "Hajjaj" "Hakam" "Harith" "Hasan" "Ibrahim" "Isa" "Makki" "Marzuq" "Muhammad" "Musa" "Qasim" "Sayyid" "Shakir" "Sulayman" "Tamim" "Ubada" "Umar" "Uthman" "Yahya" "Yusuf" }
+		
+		last_names = { "al-Andalusi" "al-Dabbag" "al-Fadl" "al-Fath" "al-Isibili" "al-Kalai" "al-Mari" "al-Mayurqui" "al-Sabti" "al-Tulaytuli" "al-Valansi" "ibn Abd al-Aziz" "ibn Abd al-Haqq" "ibn Abd al-Rahman" "ibn Abd Allah" "ibn Abu l-Qasim" "ibn Ahmad" "ibn Ali" "ibn Garsiyya" "ibn Hasan" "ibn Ibrahim" "ibn Isa" "ibn Muhammad" "ibn Musa" "ibn Qasim" "ibn Sulayman" "ibn Umar" "ibn Uthman" "ibn Yahya" "ibn Yusuf" }
+		
+	}
 	bedouin = {
 		color = { 128 172 181 }
 		radicalism = 10
@@ -675,6 +683,14 @@ british = {
 	}
 	english = {
 		color = { 220 100 100 }
+		
+		first_names = { "Albert" "Alexander" "Alfred" "Archibald" "Arthur" "Augustus" "Benjamin" "Bernard" "Charles" "Colbert" "Colin" "Cyril" "David" "Donald" "Douglas" "Edmund" "Edwar" "Fairfax" "Ferdinand" "Francis" "Frederick" "Geoffrey" "George" "Graham" "Henrey" "Herbert" "Horatio" "Hubert" "Hugh" "Ian" "James" "Jeremy" "John" "Joseph" "Leopold" "Lester" "Louis" "Martin" "Nigel" "Oswald" "Percy" "Reginald" "Richard" "Robert" "Russell" "Stanley" "Thomas" "Wallace" "William" "Winston" "Zachary" }
+		
+		last_names = { "Allenby" "Battemberg" "Beatty" "Beresford" "Brown" "Buller" "Butler" "Campbell" "Cardigan" "Churchill" "Cochrane" "Cockburn" "de Robeck" "Dundas" "Fisher" "French" "Gough" "Grant" "Grenfell" "Haig" "Hamilton" "Hardinge" "Havelock" "Hope" "Jellicoe" "Kitchener" "Lyons" "Madden" "Milne" "Montgomery" "Moresby" "Mundy" "Napier" "Odoni" "of Hannover" "of Saxe-Coburg-Gotha" "Plummer" "Ragland" "Roberts" "Seaton" "Seymour" "Smith" "Smith-Dorrien" "Stewart" "Thesiger" "Tyron" "Tyrwhitt" "Williams" "Windsor" "Wolseley" "Wood" }
+		
+	}
+	angloirish = {
+		color = { 196 60 60 }
 		
 		first_names = { "Albert" "Alexander" "Alfred" "Archibald" "Arthur" "Augustus" "Benjamin" "Bernard" "Charles" "Colbert" "Colin" "Cyril" "David" "Donald" "Douglas" "Edmund" "Edwar" "Fairfax" "Ferdinand" "Francis" "Frederick" "Geoffrey" "George" "Graham" "Henrey" "Herbert" "Horatio" "Hubert" "Hugh" "Ian" "James" "Jeremy" "John" "Joseph" "Leopold" "Lester" "Louis" "Martin" "Nigel" "Oswald" "Percy" "Reginald" "Richard" "Robert" "Russell" "Stanley" "Thomas" "Wallace" "William" "Winston" "Zachary" }
 		
@@ -2160,6 +2176,15 @@ iberian = {
 	basque = {
 		color = { 220 170 30 }
 		radicalism = 15
+		
+		first_names = { "Agustín" "Aitor" "Alberto" "Ander" "Andoni" "Andrés" "Ángel" "Antonio" "Arturo" "Carlos" "Ceferino" "Cosme" "Cristobal" "Damián" "Endika" "Francisco Javier" "Ignacio" "Imanol" "Iñaki" "Jesús" "Jon" "José Antonio" "José María" "Joseba" "Josu" "Juan" "Julen" "Koldobika" "Luis" "Manuel" "Marino" "Miguel" "Paulino" "Pedro" "Rafael" "Ramiro" "Ramón" "Sabino" "Tomás" "Vicente" }
+		
+		last_names = { "Aguirre" "Ajuriaguerra" "Aldecoa" "Arana" "Aranzadi" "Arizmendiarrieta" "Armendáriz" "Aznar" "Balenciaga" "Berasategui" "Bilbao" "Campión" "Churruca" "de Amésquita" "de Azpilicueta" "de Erauso" "de Rentería" "de Ubisztongo" "Echagüe" "Echave" "Echegaray" "Echevarría" "Elorza" "Gaztañeta" "Ibarrola" "Ibárruri" "Irujo" "Lazcano" "Mendizabal" "Moneo" "Nárdiz" "Olano" "Olave" "Oyarzábal" "Rotaeche" "Uzcudun" "Zamárraga" "Zárate" "Zavala" "Zumalacárregui" }
+		
+	}
+	granjeros = {
+		color = { 216 187 41 }
+		radicalism = 35
 		
 		first_names = { "Agustín" "Aitor" "Alberto" "Ander" "Andoni" "Andrés" "Ángel" "Antonio" "Arturo" "Carlos" "Ceferino" "Cosme" "Cristobal" "Damián" "Endika" "Francisco Javier" "Ignacio" "Imanol" "Iñaki" "Jesús" "Jon" "José Antonio" "José María" "Joseba" "Josu" "Juan" "Julen" "Koldobika" "Luis" "Manuel" "Marino" "Miguel" "Paulino" "Pedro" "Rafael" "Ramiro" "Ramón" "Sabino" "Tomás" "Vicente" }
 		

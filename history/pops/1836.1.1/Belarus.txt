@@ -283,49 +283,49 @@
 936 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 746
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 65
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 14
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 6
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 19
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 36380
 	}

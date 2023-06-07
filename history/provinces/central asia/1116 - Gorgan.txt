@@ -1,7 +1,6 @@
-owner=SIN
-controller=SIN
-add_core=KHO
+owner=PER
+controller=PER
 add_core=PER
-add_core=SIN
+add_core=KHO
 trade_goods = wool
 life_rating = 35

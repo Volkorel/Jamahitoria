@@ -22,98 +22,98 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = inuit
 		religion = norse_pagan_reformed
 		size= 6
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = inuit
 		religion = norse_pagan_reformed
 		size= 25
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = inuit
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = inuit
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = inuit
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = inuit
 		religion = norse_pagan_reformed
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = inuit
 		religion = norse_pagan_reformed
 		size= 638
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = inuit
 		religion = noreligion
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = inuit
 		religion = noreligion
 		size= 20
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = inuit
 		religion = noreligion
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = inuit
 		religion = noreligion
 		size= 1
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = inuit
 		religion = noreligion
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = inuit
 		religion = noreligion
 		size= 9
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = inuit
 		religion = noreligion
 		size= 382
 	}
@@ -129,70 +129,70 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = inuit
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = inuit
 		religion = norse_pagan_reformed
 		size= 9
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = inuit
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = inuit
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = inuit
 		religion = norse_pagan_reformed
 		size= 212
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = inuit
 		religion = noreligion
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = inuit
 		religion = noreligion
 		size= 7
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = inuit
 		religion = noreligion
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = inuit
 		religion = noreligion
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = inuit
 		religion = noreligion
 		size= 132
 	}

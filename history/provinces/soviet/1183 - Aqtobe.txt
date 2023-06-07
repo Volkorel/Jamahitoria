@@ -1,5 +1,5 @@
-owner=X04
-controller=X04
+owner=X37
+controller=X37
 add_core=KAZ
 add_core=X43
 trade_goods = wool

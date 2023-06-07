@@ -4114,49 +4114,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 697
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 33
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 12
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 63
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 51
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 1136
 	}
@@ -4265,49 +4265,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 717
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 33
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 13
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 65
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 53
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 1168
 	}
@@ -4407,49 +4407,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 184
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 2030
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 94
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 46
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 23
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 183
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 4005
 	}
@@ -4686,49 +4686,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 306
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 26
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 13
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 17
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 4
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 367
 	}
@@ -4772,49 +4772,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 1970
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 177
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 2269
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 91
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 28
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 22
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 107
 	}
@@ -4907,49 +4907,49 @@
 
 	artisans=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 442
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 20
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 10
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 40
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 30
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 652
 	}
@@ -5437,49 +5437,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 12
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 127
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 3
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = frisian
 		religion = noreligion
 		size= 252
 	}

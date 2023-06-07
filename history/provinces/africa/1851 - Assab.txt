@@ -1,5 +1,6 @@
-owner=X46
-controller=X46
+owner=ARA
+controller=ARA
+add_core=ARA
 add_core=X46
 trade_goods = fish
 life_rating = 31

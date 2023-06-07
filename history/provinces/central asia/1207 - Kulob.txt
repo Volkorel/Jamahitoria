@@ -1,6 +1,7 @@
-owner=SIN
-controller=SIN
+owner=X32
+controller=X32
 add_core=SIN
+add_core=X32
 add_core=TKS
 trade_goods = grain
 life_rating = 35

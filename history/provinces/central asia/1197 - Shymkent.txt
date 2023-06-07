@@ -1,5 +1,5 @@
 owner=X43
-controller=SIN
+controller=X43
 add_core=KAZ
 add_core=X43
 trade_goods = grain

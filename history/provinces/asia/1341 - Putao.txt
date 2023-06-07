@@ -1,5 +1,5 @@
 owner=KWN
-controller=BNG
+controller=KWN
 add_core=IDO
 add_core=KCH
 add_core=KWN

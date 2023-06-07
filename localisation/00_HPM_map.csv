@@ -416,9 +416,10 @@ PROV2112;Emnambithi;;;;;;;;;;;;;;;;;;;;x;
 ORA_2103;Basutoland;;;;;;;;;;;;;;;;;;;;x;
 ZUL_2113;Zululand;;;;;;;;;;;;;;;;;;;;x;
 PROV1152;Jeddah;;;;;;;;;;;;x
-CAN_13;Columbia;;;;;;;;;;;;x
+CAN_13;Nidavellir;;;;;;;;;;;;x
 PROV13;New Westminster;;;;;;;;;;;;x
-PROV17;Stikine;;;;;;;;;;;;x
+PROV16;Nidavellir;;;;;;;;;;;;x
+PROV17;Trollfjellene;;;;;;;;;;;;x
 CAN_19;New Caledonia;;;;;;;;;;;;x
 PROV20;Okanagan;;;;;;;;;;;;x
 PROV21;Kootenay;;;;;;;;;;;;x
@@ -961,7 +962,7 @@ PROV3273;Baker Lake;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV3274;Schultz Lake;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV3275;Aberdeen Lake;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV3276;Clinton-Colden Lake;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV3277;Williston Lake;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV3277;Niflheim;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV3278;Lake Okeechobee;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV3279;Lake Tuz;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV3280;Sevan Lake;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,

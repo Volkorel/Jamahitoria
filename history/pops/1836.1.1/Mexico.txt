@@ -64,14 +64,14 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = sonoran
 		religion = totemism
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = sonoran
 		religion = totemism
 		size= 109
 	}
@@ -341,7 +341,7 @@
 
 	farmers=
 	{
-		culture = noculture
+		culture = sonoran
 		religion = totemism
 		size= 5
 	}
@@ -413,14 +413,14 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = sonoran
 		religion = totemism
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = sonoran
 		religion = totemism
 		size= 17
 	}
@@ -1918,14 +1918,14 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = sonoran
 		religion = totemism
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = sonoran
 		religion = totemism
 		size= 41
 	}

@@ -2846,49 +2846,49 @@
 898 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = assyrian
 		religion = pre_schism
 		size= 3342
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = assyrian
 		religion = pre_schism
 		size= 2387
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = assyrian
 		religion = pre_schism
 		size= 388
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = assyrian
 		religion = pre_schism
 		size= 143
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = assyrian
 		religion = pre_schism
 		size= 95
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = assyrian
 		religion = pre_schism
 		size= 501
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = assyrian
 		religion = pre_schism
 		size= 52816
 	}
@@ -2955,98 +2955,98 @@
 900 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = assyrian
 		religion = pre_schism
 		size= 1951
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = assyrian
 		religion = pre_schism
 		size= 2921
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = assyrian
 		religion = pre_schism
 		size= 211
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = assyrian
 		religion = pre_schism
 		size= 65
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = assyrian
 		religion = pre_schism
 		size= 51
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = assyrian
 		religion = pre_schism
 		size= 272
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = assyrian
 		religion = pre_schism
 		size= 29377
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = assyrian
 		religion = catholic
 		size= 256
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = assyrian
 		religion = catholic
 		size= 626
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = assyrian
 		religion = catholic
 		size= 45
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = assyrian
 		religion = catholic
 		size= 14
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = assyrian
 		religion = catholic
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = assyrian
 		religion = catholic
 		size= 58
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = assyrian
 		religion = catholic
 		size= 3559
 	}

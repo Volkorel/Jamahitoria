@@ -93,49 +93,49 @@
 	soldiers=
 	{
 		culture = morado
-		religion = noreligion
+		religion = meinwerkist
 		size= 556
 	}
 
 	artisans=
 	{
 		culture = morado
-		religion = noreligion
+		religion = meinwerkist
 		size= 1607
 	}
 
 	clergymen=
 	{
 		culture = morado
-		religion = noreligion
+		religion = meinwerkist
 		size= 261
 	}
 
 	bureaucrats=
 	{
 		culture = morado
-		religion = noreligion
+		religion = meinwerkist
 		size= 96
 	}
 
 	officers=
 	{
 		culture = morado
-		religion = noreligion
+		religion = meinwerkist
 		size= 52
 	}
 
 	aristocrats=
 	{
 		culture = morado
-		religion = noreligion
+		religion = meinwerkist
 		size= 450
 	}
 
 	farmers=
 	{
 		culture = morado
-		religion = noreligion
+		religion = meinwerkist
 		size= 24753
 	}
 
@@ -158,49 +158,49 @@
 	farmers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 1089
 	}
 
 	artisans=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 321
 	}
 
 	aristocrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 57
 	}
 
 	clergymen=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 15
 	}
 
 	soldiers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 14
 	}
 
 	bureaucrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 5
 	}
 
 	officers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 2
 	}
 
@@ -228,21 +228,21 @@
 	artisans=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 26
 	}
 
 	clergymen=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 5
 	}
 
@@ -285,99 +285,99 @@
 
 	artisans=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 286
 	}
 
 	clergymen=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 46
 	}
 
 	aristocrats=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 80
 	}
 
 	soldiers=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 50
 	}
 
 	bureaucrats=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 17
 	}
 
 	farmers=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 2150
 	}
 
 	officers=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 9
 	}
 
 	soldiers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 329
 	}
 
 	artisans=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 952
 	}
 
 	clergymen=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 155
 	}
 
 	bureaucrats=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 57
 	}
 
 	officers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 31
 	}
 
 	aristocrats=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 267
 	}
 
 	farmers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 14657
 	}
 
@@ -420,99 +420,99 @@
 
 	artisans=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 260
 	}
 
 	clergymen=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 42
 	}
 
 	aristocrats=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 73
 	}
 
 	soldiers=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 45
 	}
 
 	bureaucrats=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 15
 	}
 
 	farmers=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 1949
 	}
 
 	officers=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 8
 	}
 
 	soldiers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 298
 	}
 
 	artisans=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 862
 	}
 
 	clergymen=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 140
 	}
 
 	bureaucrats=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 52
 	}
 
 	officers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 28
 	}
 
 	aristocrats=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 241
 	}
 
 	farmers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 13280
 	}
 
@@ -534,148 +534,148 @@
 
 	farmers=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 520
 	}
 
 	soldiers=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 35
 	}
 
 	artisans=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 94
 	}
 
 	clergymen=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 8
 	}
 
 	bureaucrats=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 2
 	}
 
 	officers=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 1
 	}
 
 	soldiers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 67
 	}
 
 	artisans=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 149
 	}
 
 	clergymen=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 4
 	}
 
 	officers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 14
 	}
 
 	farmers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 949
 	}
 
 	soldiers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 191
 	}
 
 	artisans=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 551
 	}
 
 	clergymen=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 40
 	}
 
 	bureaucrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 15
 	}
 
 	officers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 13
 	}
 
 	aristocrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 51
 	}
 
 	farmers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 2551
 	}
 
@@ -697,99 +697,99 @@
 
 	soldiers=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 48
 	}
 
 	artisans=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 261
 	}
 
 	aristocrats=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 36
 	}
 
 	clergymen=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 4
 	}
 
 	officers=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 3
 	}
 
 	soldiers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 230
 	}
 
 	artisans=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 836
 	}
 
 	clergymen=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 39
 	}
 
 	bureaucrats=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 14
 	}
 
 	officers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 117
 	}
 
 	farmers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 2850
 	}
 
@@ -811,99 +811,99 @@
 
 	farmers=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 149
 	}
 
 	soldiers=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 17
 	}
 
 	artisans=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 113
 	}
 
 	aristocrats=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 10
 	}
 
 	clergymen=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 7
 	}
 
 	bureaucrats=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 2
 	}
 
 	officers=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 3
 	}
 
 	soldiers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 211
 	}
 
 	artisans=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 370
 	}
 
 	clergymen=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 27
 	}
 
 	bureaucrats=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 8
 	}
 
 	officers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 35
 	}
 
 	farmers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 2191
 	}
 
@@ -933,49 +933,49 @@
 	soldiers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 518
 	}
 
 	artisans=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 4982
 	}
 
 	farmers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 13474
 	}
 
 	aristocrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 448
 	}
 
 	clergymen=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 230
 	}
 
 	bureaucrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 100
 	}
 
 	officers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 56
 	}
 
@@ -1055,92 +1055,92 @@
 
 	artisans=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 471
 	}
 
 	clergymen=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 22
 	}
 
 	aristocrats=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 57
 	}
 
 	bureaucrats=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 7
 	}
 
 	officers=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 4
 	}
 
 	soldiers=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 3
 	}
 
 	soldiers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 152
 	}
 
 	artisans=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 1548
 	}
 
 	clergymen=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 72
 	}
 
 	bureaucrats=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 22
 	}
 
 	officers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 186
 	}
 
 	farmers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 5595
 	}
 
@@ -1183,92 +1183,92 @@
 
 	artisans=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 615
 	}
 
 	clergymen=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 29
 	}
 
 	aristocrats=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 74
 	}
 
 	bureaucrats=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 9
 	}
 
 	officers=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 5
 	}
 
 	soldiers=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 5
 	}
 
 	soldiers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 198
 	}
 
 	artisans=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 2022
 	}
 
 	clergymen=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 94
 	}
 
 	bureaucrats=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 29
 	}
 
 	officers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 243
 	}
 
 	farmers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 7308
 	}
 
@@ -1326,49 +1326,49 @@
 	soldiers=
 	{
 		culture = xhosa
-		religion = noreligion
+		religion = catholic
 		size= 593
 	}
 
 	artisans=
 	{
 		culture = xhosa
-		religion = noreligion
+		religion = catholic
 		size= 620
 	}
 
 	clergymen=
 	{
 		culture = xhosa
-		religion = noreligion
+		religion = catholic
 		size= 101
 	}
 
 	bureaucrats=
 	{
 		culture = xhosa
-		religion = noreligion
+		religion = catholic
 		size= 31
 	}
 
 	officers=
 	{
 		culture = xhosa
-		religion = noreligion
+		religion = catholic
 		size= 33
 	}
 
 	aristocrats=
 	{
 		culture = xhosa
-		religion = noreligion
+		religion = catholic
 		size= 130
 	}
 
 	farmers=
 	{
 		culture = xhosa
-		religion = noreligion
+		religion = catholic
 		size= 9079
 	}
 
@@ -1426,49 +1426,49 @@
 	soldiers=
 	{
 		culture = xhosa
-		religion = noreligion
+		religion = catholic
 		size= 593
 	}
 
 	artisans=
 	{
 		culture = xhosa
-		religion = noreligion
+		religion = catholic
 		size= 620
 	}
 
 	clergymen=
 	{
 		culture = xhosa
-		religion = noreligion
+		religion = catholic
 		size= 101
 	}
 
 	bureaucrats=
 	{
 		culture = xhosa
-		religion = noreligion
+		religion = catholic
 		size= 31
 	}
 
 	officers=
 	{
 		culture = xhosa
-		religion = noreligion
+		religion = catholic
 		size= 33
 	}
 
 	aristocrats=
 	{
 		culture = xhosa
-		religion = noreligion
+		religion = catholic
 		size= 130
 	}
 
 	farmers=
 	{
 		culture = xhosa
-		religion = noreligion
+		religion = catholic
 		size= 9079
 	}
 
@@ -1533,56 +1533,56 @@
 	slaves=
 	{
 		culture = nguni
-		religion = noreligion
+		religion = catholic
 		size= 694
 	}
 
 	soldiers=
 	{
 		culture = xhosa
-		religion = noreligion
+		religion = catholic
 		size= 1081
 	}
 
 	artisans=
 	{
 		culture = xhosa
-		religion = noreligion
+		religion = catholic
 		size= 1130
 	}
 
 	clergymen=
 	{
 		culture = xhosa
-		religion = noreligion
+		religion = catholic
 		size= 184
 	}
 
 	bureaucrats=
 	{
 		culture = xhosa
-		religion = noreligion
+		religion = catholic
 		size= 56
 	}
 
 	officers=
 	{
 		culture = xhosa
-		religion = noreligion
+		religion = catholic
 		size= 59
 	}
 
 	aristocrats=
 	{
 		culture = xhosa
-		religion = noreligion
+		religion = catholic
 		size= 237
 	}
 
 	farmers=
 	{
 		culture = xhosa
-		religion = noreligion
+		religion = catholic
 		size= 15857
 	}
 
@@ -1612,56 +1612,56 @@
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = catholic
 		size= 1271
 	}
 
 	soldiers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 850
 	}
 
 	farmers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 18606
 	}
 
 	artisans=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 1802
 	}
 
 	aristocrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 567
 	}
 
 	clergymen=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 293
 	}
 
 	bureaucrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 144
 	}
 
 	officers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 90
 	}
 
@@ -1691,56 +1691,56 @@
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = catholic
 		size= 904
 	}
 
 	farmers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 12003
 	}
 
 	artisans=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 1170
 	}
 
 	soldiers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 550
 	}
 
 	aristocrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 369
 	}
 
 	clergymen=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 190
 	}
 
 	bureaucrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 94
 	}
 
 	officers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 58
 	}
 
@@ -1770,56 +1770,56 @@
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = catholic
 		size= 698
 	}
 
 	farmers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 9521
 	}
 
 	artisans=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 927
 	}
 
 	soldiers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 436
 	}
 
 	aristocrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 292
 	}
 
 	clergymen=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 150
 	}
 
 	bureaucrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 74
 	}
 
 	officers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 46
 	}
 
@@ -1849,56 +1849,56 @@
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = catholic
 		size= 734
 	}
 
 	soldiers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 1260
 	}
 
 	farmers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 28616
 	}
 
 	artisans=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 2662
 	}
 
 	aristocrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 838
 	}
 
 	clergymen=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 433
 	}
 
 	bureaucrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 212
 	}
 
 	officers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 132
 	}
 
@@ -1963,105 +1963,105 @@
 	slaves=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 31
 	}
 
 	soldiers=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 17
 	}
 
 	artisans=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 513
 	}
 
 	clergymen=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 24
 	}
 
 	bureaucrats=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 10
 	}
 
 	officers=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 6
 	}
 
 	aristocrats=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 46
 	}
 
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = catholic
 		size= 651
 	}
 
 	soldiers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 357
 	}
 
 	artisans=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 2768
 	}
 
 	clergymen=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 129
 	}
 
 	bureaucrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 55
 	}
 
 	officers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 32
 	}
 
 	aristocrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 249
 	}
 
 	farmers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 8512
 	}
 
@@ -2126,105 +2126,105 @@
 	slaves=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 32
 	}
 
 	soldiers=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 14
 	}
 
 	artisans=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 432
 	}
 
 	clergymen=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 20
 	}
 
 	bureaucrats=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 9
 	}
 
 	officers=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 5
 	}
 
 	aristocrats=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 39
 	}
 
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = catholic
 		size= 669
 	}
 
 	soldiers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 301
 	}
 
 	artisans=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 2332
 	}
 
 	clergymen=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 108
 	}
 
 	bureaucrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 47
 	}
 
 	officers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 27
 	}
 
 	aristocrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 210
 	}
 
 	farmers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 7047
 	}
 
@@ -2289,105 +2289,105 @@
 	slaves=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 12
 	}
 
 	soldiers=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 17
 	}
 
 	artisans=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 517
 	}
 
 	clergymen=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 24
 	}
 
 	bureaucrats=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 10
 	}
 
 	officers=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 6
 	}
 
 	aristocrats=
 	{
 		culture = khoisan
-		religion = noreligion
+		religion = catholic
 		size= 46
 	}
 
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = catholic
 		size= 253
 	}
 
 	soldiers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 360
 	}
 
 	artisans=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 2788
 	}
 
 	clergymen=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 129
 	}
 
 	bureaucrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 56
 	}
 
 	officers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 32
 	}
 
 	aristocrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 251
 	}
 
 	farmers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 8974
 	}
 
@@ -2424,56 +2424,56 @@
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = catholic
 		size= 2953
 	}
 
 	soldiers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 1253
 	}
 
 	artisans=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 13846
 	}
 
 	farmers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 28507
 	}
 
 	aristocrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 1246
 	}
 
 	clergymen=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 642
 	}
 
 	bureaucrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 276
 	}
 
 	officers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 157
 	}
 
@@ -2503,56 +2503,56 @@
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = catholic
 		size= 1040
 	}
 
 	soldiers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 1105
 	}
 
 	farmers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 26495
 	}
 
 	artisans=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 11264
 	}
 
 	aristocrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 2027
 	}
 
 	clergymen=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 522
 	}
 
 	bureaucrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 192
 	}
 
 	officers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 129
 	}
 
@@ -2698,56 +2698,56 @@
 	farmers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 13129
 	}
 
 	artisans=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 1223
 	}
 
 	soldiers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 575
 	}
 
 	aristocrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 385
 	}
 
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = catholic
 		size= 366
 	}
 
 	clergymen=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 199
 	}
 
 	bureaucrats=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 98
 	}
 
 	officers=
 	{
 		culture = boer
-		religion = noreligion
+		religion = catholic
 		size= 61
 	}
 
@@ -2885,99 +2885,99 @@
 
 	soldiers=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 48
 	}
 
 	artisans=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 272
 	}
 
 	aristocrats=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 38
 	}
 
 	clergymen=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 12
 	}
 
 	bureaucrats=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 4
 	}
 
 	officers=
 	{
-		culture = morado
+		culture = granjeros
 		religion = catholic
 		size= 3
 	}
 
 	soldiers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 238
 	}
 
 	artisans=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 868
 	}
 
 	clergymen=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 40
 	}
 
 	bureaucrats=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 15
 	}
 
 	officers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 121
 	}
 
 	farmers=
 	{
-		culture = morado
-		religion = noreligion
+		culture = granjeros
+		religion = catholic
 		size= 2959
 	}
 

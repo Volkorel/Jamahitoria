@@ -1,49 +1,49 @@
 854 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = siqiliyyan
 		religion = sunni
 		size= 735
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = siqiliyyan
 		religion = sunni
 		size= 1050
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = siqiliyyan
 		religion = sunni
 		size= 171
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = siqiliyyan
 		religion = sunni
 		size= 50
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = siqiliyyan
 		religion = sunni
 		size= 55
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = siqiliyyan
 		religion = sunni
 		size= 221
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = siqiliyyan
 		religion = sunni
 		size= 23977
 	}

@@ -1,5 +1,6 @@
-owner=X06
-controller=X06
+owner=ORA
+controller=ORA
+add_core=ORA
 trade_goods = fruit
 life_rating = 35
 terrain = mining_district

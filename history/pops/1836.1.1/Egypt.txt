@@ -1464,70 +1464,70 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = misri
 		religion = sunni
 		size= 7
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = misri
 		religion = sunni
 		size= 9
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = misri
 		religion = sunni
 		size= 357
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = misri
 		religion = shiite
 		size= 6
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = misri
 		religion = shiite
 		size= 5
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = misri
 		religion = shiite
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = misri
 		religion = shiite
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = misri
 		religion = shiite
 		size= 315
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = misri
 		religion = sunni
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = misri
 		religion = sunni
 		size= 2
 	}

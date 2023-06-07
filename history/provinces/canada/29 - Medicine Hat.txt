@@ -1,5 +1,6 @@
-owner=SIN
-controller=PER
+owner=KHO
+controller=KHO
+add_core=KHO
 add_core=KAZ
 add_core=X43
 trade_goods = fruit

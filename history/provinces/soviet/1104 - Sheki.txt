@@ -1,6 +1,7 @@
-owner=PER
+owner=X04
 controller=X04
 add_core=GEO
+add_core=X04
 add_core=PER
 trade_goods = grain
 life_rating = 35

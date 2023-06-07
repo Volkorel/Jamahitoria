@@ -901,49 +901,49 @@
 263 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = angloirish
 		religion = catholic
 		size= 6630
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = angloirish
 		religion = catholic
 		size= 6486
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = angloirish
 		religion = catholic
 		size= 468
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = angloirish
 		religion = catholic
 		size= 144
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = angloirish
 		religion = catholic
 		size= 173
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = angloirish
 		religion = catholic
 		size= 2422
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = angloirish
 		religion = catholic
 		size= 127817
 	}

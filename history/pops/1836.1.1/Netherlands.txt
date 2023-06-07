@@ -1,242 +1,265 @@
 375 = {
 	soldiers=
 	{
-		culture = dutch
+		culture = frisian
 		religion = meinwerkist
-		size= 2865
+		size= 3019
 	}
 
 	craftsmen=
 	{
-		culture = dutch
+		culture = frisian
 		religion = meinwerkist
-		size= 7753
+		size= 8170
 	}
 
 	artisans=
 	{
-		culture = dutch
+		culture = frisian
 		religion = meinwerkist
-		size= 11452
+		size= 6976
 	}
-
-	clergymen=
-	{
-		culture = dutch
-		religion = meinwerkist
-		size= 565
-	}
-
-	clerks=
-	{
-		culture = dutch
-		religion = meinwerkist
-		size= 415
-	}
-
-	bureaucrats=
-	{
-		culture = dutch
-		religion = meinwerkist
-		size= 260
-	}
-
-	officers=
-	{
-		culture = dutch
-		religion = meinwerkist
-		size= 76
-	}
-
-	capitalists=
-	{
-		culture = dutch
-		religion = meinwerkist
-		size= 161
-	}
-
-	aristocrats=
-	{
-		culture = dutch
-		religion = meinwerkist
-		size= 1174
-	}
-
-	farmers=
-	{
-		culture = dutch
-		religion = meinwerkist
-		size= 81878
-	}
-
-	soldiers=
-	{
-		culture = dutch
-		religion = protestant
-		size= 154
-	}
-
-	craftsmen=
-	{
-		culture = dutch
-		religion = protestant
-		size= 417
-	}
-
 	artisans=
 	{
-		culture = dutch
-		religion = protestant
-		size= 2140
+		culture = english
+		religion = catholic
+		size= 3398
 	}
-
+	artisans=
+	{
+		culture = angloirish
+		religion = catholic
+		size= 3398
+	}
 	clergymen=
 	{
-		culture = dutch
-		religion = protestant
-		size= 106
+		culture = frisian
+		religion = meinwerkist
+		size= 121
 	}
-
+	clergymen=
+	{
+		culture = angloirish
+		religion = catholic
+		size= 300
+	}
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 250
+	}
 	clerks=
 	{
-		culture = dutch
-		religion = protestant
-		size= 78
+		culture = frisian
+		religion = meinwerkist
+		size= 231
+	}
+	clerks=
+	{
+		culture = angloirish
+		religion = catholic
+		size= 231
 	}
 
 	bureaucrats=
 	{
-		culture = dutch
-		religion = protestant
-		size= 49
+		culture = frisian
+		religion = meinwerkist
+		size= 309
 	}
 
 	officers=
 	{
-		culture = dutch
-		religion = protestant
+		culture = frisian
+		religion = meinwerkist
 		size= 15
 	}
 
 	capitalists=
 	{
-		culture = dutch
-		religion = protestant
-		size= 30
+		culture = frisian
+		religion = meinwerkist
+		size= 270
 	}
 
 	aristocrats=
 	{
 		culture = dutch
-		religion = protestant
-		size= 220
+		religion = catholic
+		size= 697
+	}
+	aristocrats=
+	{
+		culture = frisian
+		religion = meinwerkist
+		size= 697
 	}
 
 	farmers=
 	{
+		culture = frisian
+		religion = meinwerkist
+		size= 42053
+	}
+	farmers=
+	{
 		culture = dutch
-		religion = protestant
-		size= 2228
+		religion = catholic
+		size= 9053
+	}
+	farmers=
+	{
+		culture = flemish
+		religion = catholic
+		size= 9053
 	}
 
 }
 376 = {
 	soldiers=
 	{
-		culture = dutch
-		religion = catholic
-		size= 579
+		culture = frisian
+		religion = meinwerkist
+		size= 1574
 	}
-
-	artisans=
-	{
-		culture = dutch
-		religion = catholic
-		size= 1959
-	}
-
-	clergymen=
-	{
-		culture = dutch
-		religion = catholic
-		size= 90
-	}
-
-	bureaucrats=
-	{
-		culture = dutch
-		religion = catholic
-		size= 41
-	}
-
-	officers=
-	{
-		culture = dutch
-		religion = catholic
-		size= 12
-	}
-
-	aristocrats=
-	{
-		culture = dutch
-		religion = catholic
-		size= 196
-	}
-
-	farmers=
-	{
-		culture = dutch
-		religion = catholic
-		size= 58614
-	}
-
 	soldiers=
 	{
 		culture = dutch
 		religion = meinwerkist
-		size= 723
+		size= 150
 	}
-
+	soldiers=
+	{
+		culture = angloirish
+		religion = catholic
+		size= 700
+	}
+	artisans=
+	{
+		culture = frisian
+		religion = meinwerkist
+		size= 9500
+	}
+	artisans=
+	{
+		culture = angloirish
+		religion = catholic
+		size= 1250
+	}
 	artisans=
 	{
 		culture = dutch
 		religion = meinwerkist
-		size= 15652
+		size= 9875
 	}
-
+	clergymen=
+	{
+		culture = frisian
+		religion = meinwerkist
+		size= 811
+	}
 	clergymen=
 	{
 		culture = dutch
 		religion = meinwerkist
-		size= 721
+		size= 125
 	}
-
+	clergymen=
+	{
+		culture = dutch
+		religion = catholic
+		size= 125
+	}
+	clergymen=
+	{
+		culture = angloirish
+		religion = catholic
+		size= 50
+	}
+	bureaucrats=
+	{
+		culture = frisian
+		religion = meinwerkist
+		size= 389
+	}
 	bureaucrats=
 	{
 		culture = dutch
 		religion = meinwerkist
-		size= 324
+		size= 75
 	}
-
+	officers=
+	{
+		culture = frisian
+		religion = meinwerkist
+		size= 120
+	}
 	officers=
 	{
 		culture = dutch
 		religion = meinwerkist
-		size= 99
+		size= 65
 	}
-
+	aristocrats=
+	{
+		culture = frisian
+		religion = meinwerkist
+		size= 1680
+	}
 	aristocrats=
 	{
 		culture = dutch
 		religion = meinwerkist
-		size= 1569
+		size= 2670
 	}
-
+	farmers=
+	{
+		culture = frisian
+		religion = meinwerkist
+		size= 43000
+	}
 	farmers=
 	{
 		culture = dutch
 		religion = meinwerkist
-		size= 56208
+		size= 8000
+	}
+	farmers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 9000
+	}
+	farmers=
+	{
+		culture = angloirish
+		religion = catholic
+		size= 2200
+	}
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 2200
+	}
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 50
+	}
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 1250
+	}
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 791
 	}
 
 }

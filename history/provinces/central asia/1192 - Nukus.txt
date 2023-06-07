@@ -1,6 +1,5 @@
-owner=PER
-controller=PER
-add_core=PER
+owner=X43
+controller=X43
 add_core=TKS
 add_core=X43
 trade_goods = opium

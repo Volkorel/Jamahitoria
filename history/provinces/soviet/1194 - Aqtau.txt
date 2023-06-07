@@ -1,8 +1,8 @@
-owner=PER
-controller=PER
-add_core=KAZ
-add_core=PER
+owner=X43
+controller=X43
+add_core=TKS
 add_core=X43
+add_core=KAZ
 trade_goods = fish
 life_rating = 25
 terrain = semidesert

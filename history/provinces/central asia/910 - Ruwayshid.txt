@@ -1,6 +1,6 @@
-owner=X10
+owner=ARA
 controller=ARA
-add_core=IRQ
+add_core=ARA
 add_core=X10
 trade_goods = grain
 life_rating = 10

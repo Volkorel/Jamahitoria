@@ -1,6 +1,5 @@
 owner=X10
-controller=ARA
-add_core=IRQ
+controller=X10
 add_core=X10
 trade_goods = silk
 life_rating = 35

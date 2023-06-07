@@ -301,49 +301,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 369
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 2979
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 190
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 47
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 54
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 284
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 9996
 	}
@@ -450,49 +450,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 4169
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 17200
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 1248
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 490
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 429
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 2493
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 123299
 	}
@@ -501,49 +501,49 @@
 683 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 2380
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 5010
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 814
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 301
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 213
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 1052
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 115486
 	}
@@ -929,98 +929,98 @@
 691 = {
 	soldiers=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 1198
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 753
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 141
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 26
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 30
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 317
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 40345
 	}
 
 	soldiers=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = protestant
 		size= 69
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = protestant
 		size= 153
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = protestant
 		size= 29
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = protestant
 		size= 5
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = protestant
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = protestant
 		size= 64
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = protestant
 		size= 2142
 	}
@@ -1169,49 +1169,49 @@
 
 	soldiers=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 180
 	}
 
 	artisans=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 1048
 	}
 
 	clergymen=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 87
 	}
 
 	bureaucrats=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 16
 	}
 
 	officers=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 196
 	}
 
 	farmers=
 	{
-		culture = noculture
+		culture = byelorussian
 		religion = catholic
 		size= 4895
 	}
