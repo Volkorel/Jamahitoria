@@ -1,5 +1,5 @@
 owner=MLC
-controller=X06
+controller=FEK
 add_core=MLC
 add_core=MLY
 trade_goods = fruit

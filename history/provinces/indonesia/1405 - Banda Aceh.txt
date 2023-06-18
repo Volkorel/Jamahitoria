@@ -1,5 +1,6 @@
-owner=X06
-controller=X06
+owner=FEK
+controller=FEK
+add_core=FEK
 add_core=JAV
 add_core=MLC
 trade_goods = grain

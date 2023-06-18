@@ -1,5 +1,5 @@
 owner=MLC
-controller=X06
+controller=FEK
 add_core=JAV
 trade_goods = fruit
 life_rating = 35

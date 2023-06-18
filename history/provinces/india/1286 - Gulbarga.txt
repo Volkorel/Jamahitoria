@@ -1,4 +1,4 @@
-owner=SIN
+owner=BMN
 controller=BMN
 add_core=BMN
 add_core=HND

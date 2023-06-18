@@ -971,3 +971,76 @@ PROV3282;Lake Pyhäjärvi;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
 PROV3283;Lake Geneva;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV3284;Lake Constance;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV906;As-Suwayda;;;;;;;;;;;x
+north_america;North Eriksland;;;;;;;;;;;;;x;;;;
+south_america;South Eriksland;;;;;;;;;;;;;x;;;;
+DIPLOMACY_FILTER_NORTH_AMERICA;North Eriksland;;;;;;;;;;;;;x;;;;
+DIPLOMACY_FILTER_SOUTH_AMERICA;South Eriksland;;;;;;;;;;;;;x;;;;
+DIPLOMACY_FILTER_NORTH_AMERICA_TOOLTIP;List ?YNorth Erikslandr?W countries;Afficher les pays ?Yd'Am?rique du nord?W;?YNordamerikanische?W L?nder auflisten;;Mostrar pa?ses ?Ynorteamericanos?W;;;;;;;;;x;;;;
+DIPLOMACY_FILTER_SOUTH_AMERICA_TOOLTIP;List ?YSouth Erikslandr?W countries;Afficher les pays ?Yd'Am?rique du sud?W;?YS?damerikanische?W L?nder auflisten;;Mostrar pa?ses ?Ysudamericanos?W;;;;;;;;;x;;;;
+USA_139;Sigfridsland;;;;;;;;;;;x
+USA_170;Sudtrvatn;;;;;;;;;;;x
+USA_223;Rijpstrasted;;;;;;;;;;;;x
+USA_232;Nieuw Amsterdam;;;;;;;;;;;;x
+ENG_68;Trulandi;;;;;;;;;;;;x
+USA_247;Fjoldtiofan;;;;;;;;;;;;x
+PROV169;Ksenisson;;;;;;;;;;;;x
+PROV218;Fallandeflod;;;;;;;;;;;;x
+PROV184;Roosted;;;;;;;;;;;;x
+PROV244;Massachusted;;;;;;;;;;;;x
+PROV243;Wampanosted;;;;;;;;;;;;x
+PROV233;Nieuw Ljouwert;;;;;;;;;;;;x
+PROV234;Makansted;;;;;;;;;;;;x
+PROV245;Westenhuk;;;;;;;;;;;;x
+PROV241;Nipmuksted;;;;;;;;;;;;x
+PROV242;Narraganset;;;;;;;;;;;;x
+PROV229;Raritan;;;;;;;;;;;;x
+PROV230;Welfsted;;;;;;;;;;;;x
+PROV231;Hoesisikdit;;;;;;;;;;;;x
+PROV223;Meinwarksted;;;;;;;;;;;;x
+PROV224;Tsjerke;;;;;;;;;;;;x
+PROV222;Oranjested;;;;;;;;;;;;x
+PROV219;Conestago;;;;;;;;;;;;x
+PROV226;van Roorda Sted;;;;;;;;;;;;x
+PROV225;Kiestra Passaazje;;;;;;;;;;;;x
+PROV227;Honniasont;;;;;;;;;;;;x
+PROV205;Wassenaarsted;;;;;;;;;;;;x
+PROV204;Kusabosted;;;;;;;;;;;;x
+PROV210;Nantwigsted;;;;;;;;;;;;x
+PROV202;Kijku;;;;;;;;;;;;x
+PROV201;Nieuw Brussels;;;;;;;;;;;;x
+PROV74;Landbru;;;;;;;;;;;;x
+PROV75;Fyrirlata;;;;;;;;;;;;x
+PROV77;Temjaeyna;;;;;;;;;;;;x
+PROV62;Ostara;;;;;;;;;;;;x
+PROV2625;Skoll;;;;;;;;;;;;x
+PROV70;Solmund;;;;;;;;;;;;x
+PROV73;Ogard;;;;;;;;;;;;x
+PROV72;Truland;;;;;;;;;;;;x
+PROV71;Holmbygd;;;;;;;;;;;;x
+PROV68;Sigrfadhir;;;;;;;;;;;;x
+PROV69;Fjolnir;;;;;;;;;;;;x
+PROV250;Atridhir;;;;;;;;;;;;x
+PROV249;Yggr;;;;;;;;;;;;x
+PROV67;Sidgrani;;;;;;;;;;;;x
+PROV248;Dughirjafi;;;;;;;;;;;;x
+PROV247;Nijsteddam;;;;;;;;;;;;x
+PROV246;Londungr;;;;;;;;;;;;x
+PROV66;Alfadhirbygd;;;;;;;;;;;;x
+PROV14;Satoshima;;;;;;;;;;;;x
+PROV15;Mamiyajima;;;;;;;;;;;;x
+PROV2;Hashima;;;;;;;;;;;;x
+PROV1;Shikako;;;;;;;;;;;;x
+PROV4;Iyakoshima;;;;;;;;;;;;x
+PROV3;Tanaina;;;;;;;;;;;;x
+PROV5;Atatoshi;;;;;;;;;;;;x
+PROV2631;Kipnekushima;;;;;;;;;;;;x
+PROV2599;Yuppikushima;;;;;;;;;;;;x
+PROV2630;Tusitinako;;;;;;;;;;;;x
+PROV104;Tiantang;;;;;;;;;;;;x
+PROV84;Mengyao;;;;;;;;;;;;x
+PROV85;Wintong;;;;;;;;;;;;x
+PROV87;Lantang;;;;;;;;;;;;x
+PROV89;Pomohuitang;;;;;;;;;;;;x
+PROV90;Yutao;;;;;;;;;;;;x
+PROV88;Xingebi;;;;;;;;;;;;x
+PROV86;Shaui;;;;;;;;;;;;x

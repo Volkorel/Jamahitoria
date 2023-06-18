@@ -1,5 +1,5 @@
 owner=X57
-controller=X57
+controller=MEX
 add_core=X57
 add_core=MEX
 trade_goods = cotton

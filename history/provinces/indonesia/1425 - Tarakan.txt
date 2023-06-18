@@ -1,5 +1,5 @@
 owner=BRU
-controller=X06
+controller=FEK
 add_core=MLY
 trade_goods = wool
 life_rating = 31

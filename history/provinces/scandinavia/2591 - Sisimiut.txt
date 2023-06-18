@@ -1,6 +1,7 @@
-owner=BNG
-controller=BNG
-add_core=BNG
+owner=X06
+controller=X06
+add_core=X06
+add_core=BMN
 add_core=HND
 trade_goods = fish
 life_rating = 32

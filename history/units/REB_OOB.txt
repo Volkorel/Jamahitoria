@@ -1,6 +1,21 @@
-#Sphere of Influence
-
-
-#Leaders
-
-#Armies
+leader = {
+	name="Asi-Yahola"
+	date="1804.2.5"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+army = {
+    name = "Seminole Natives"
+	location = 199
+	regiment = {
+		name = "Escaped Slaves"
+		type = irregular
+		home = 199
+	}
+	regiment = {
+		name = "Seminoles"
+		type = irregular
+		home = 199
+	}
+}

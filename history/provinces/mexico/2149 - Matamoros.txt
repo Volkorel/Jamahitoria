@@ -1,5 +1,5 @@
 owner=X57
-controller=X57
+controller=MEX
 add_core=X57
 trade_goods = cattle
 life_rating = 31

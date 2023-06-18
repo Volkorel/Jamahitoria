@@ -1,5 +1,6 @@
-owner=X06
-controller=X06
+owner=FEK
+controller=FEK
+add_core=FEK
 add_core=MLC
 add_core=MLY
 trade_goods = tropical_wood

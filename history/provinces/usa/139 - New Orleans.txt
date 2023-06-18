@@ -1,4 +1,6 @@
 owner=X36
 controller=X36
+add_core=SEM
+add_core=ARN
 trade_goods = grain
 life_rating = 35

@@ -1,5 +1,5 @@
 owner=MLC
-controller=X06
+controller=FEK
 trade_goods = grain
 life_rating = 31
 fort = 1

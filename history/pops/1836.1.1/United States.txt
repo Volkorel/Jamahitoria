@@ -539,49 +539,49 @@
 	farmers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 7398
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 1259
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 274
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 91
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 42
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 17
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 224
 	}
 
@@ -11993,99 +11993,85 @@
 
 	soldiers=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 147
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 4941
 	}
 
 	artisans=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 55
 	}
 
 	soldiers=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 61
 	}
 
 	artisans=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 152
 	}
 
 	clergymen=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 25
 	}
 
 	aristocrats=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 32
 	}
 
 	farmers=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 1868
 	}
 
 	clergymen=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = siouan
-		religion = totemism
-		size= 7
-	}
-
-	officers=
-	{
-		culture = siouan
-		religion = totemism
-		size= 5
-	}
-
-	bureaucrats=
-	{
-		culture = central_algonquian
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 2
 	}
 
 	officers=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 1
 	}
 
@@ -12098,50 +12084,50 @@
 
 	soldiers=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 484
 	}
 
 	artisans=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 1175
 	}
 
 	clergymen=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 191
 	}
 
 	bureaucrats=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 59
 	}
 
 	officers=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 38
 	}
 
 	aristocrats=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 247
 	}
 
 	farmers=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 14836
 	}
 
@@ -12559,204 +12545,210 @@
 
 	soldiers=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 1140
 	}
 
 	artisans=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 897
 	}
 
 	clergymen=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 64
 	}
 
 	bureaucrats=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 24
 	}
 
 	officers=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 22
 	}
 
 	aristocrats=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 84
 	}
 
 	farmers=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 15451
 	}
 
 	slaves=
 	{
-		culture = native_american_minor
+		culture = siouan
 		religion = laeradr
-		size= 9646
+		size= 5646
+	}
+	slaves=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 5646
 	}
 
 	soldiers=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 2536
 	}
 
 	artisans=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 5013
 	}
 
 	clergymen=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 361
 	}
 
 	bureaucrats=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 133
 	}
 
 	officers=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 117
 	}
 
 	aristocrats=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 468
 	}
 
 	farmers=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 29810
 	}
 
 	soldiers=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 726
 	}
 
 	artisans=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 584
 	}
 
 	clergymen=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 42
 	}
 
 	bureaucrats=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 16
 	}
 
 	officers=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 54
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 9569
 	}
 
 	soldiers=
 	{
-		culture = central_algonquian
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 1032
 	}
 
 	artisans=
 	{
-		culture = central_algonquian
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 2242
 	}
 
 	clergymen=
 	{
-		culture = central_algonquian
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 162
 	}
 
 	bureaucrats=
 	{
-		culture = central_algonquian
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 60
 	}
 
 	officers=
 	{
-		culture = central_algonquian
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 52
 	}
 
 	aristocrats=
 	{
-		culture = central_algonquian
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 209
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 11884
 	}
 
@@ -12885,50 +12877,50 @@
 
 	soldiers=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 171
 	}
 
 	artisans=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 171
 	}
 
 	clergymen=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 28
 	}
 
 	bureaucrats=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 10
 	}
 
 	officers=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 36
 	}
 
 	farmers=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 5772
 	}
 
@@ -12941,50 +12933,50 @@
 
 	soldiers=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 396
 	}
 
 	artisans=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 963
 	}
 
 	clergymen=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 157
 	}
 
 	bureaucrats=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 58
 	}
 
 	officers=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 31
 	}
 
 	aristocrats=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 202
 	}
 
 	farmers=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 12532
 	}
 
@@ -12999,50 +12991,50 @@
 
 	soldiers=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 257
 	}
 
 	artisans=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 257
 	}
 
 	clergymen=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 42
 	}
 
 	bureaucrats=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 15
 	}
 
 	officers=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 54
 	}
 
 	farmers=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 9727
 	}
 
@@ -13055,50 +13047,50 @@
 
 	soldiers=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 367
 	}
 
 	artisans=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 991
 	}
 
 	clergymen=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 161
 	}
 
 	bureaucrats=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 59
 	}
 
 	officers=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 32
 	}
 
 	aristocrats=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 208
 	}
 
 	farmers=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 13022
 	}
 
@@ -13450,55 +13442,60 @@
 	{
 		culture = native_american_minor
 		religion = totemism
-		size= 11196
+		size= 6196
 	}
-
-	soldiers=
+	slaves=
 	{
 		culture = muskogean
 		religion = totemism
+		size= 6196
+	}
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
 		size= 1751
 	}
 
 	artisans=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 1320
 	}
 
 	clergymen=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 95
 	}
 
 	bureaucrats=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 36
 	}
 
 	officers=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 30
 	}
 
 	aristocrats=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 123
 	}
 
 	farmers=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 16730
 	}
 
@@ -13511,50 +13508,50 @@
 
 	soldiers=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 1943
 	}
 
 	artisans=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 4617
 	}
 
 	clergymen=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 334
 	}
 
 	bureaucrats=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 123
 	}
 
 	officers=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 108
 	}
 
 	aristocrats=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 432
 	}
 
 	farmers=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 14720
 	}
 
@@ -13569,50 +13566,50 @@
 
 	soldiers=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 274
 	}
 
 	artisans=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 590
 	}
 
 	clergymen=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 43
 	}
 
 	bureaucrats=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 19
 	}
 
 	officers=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 129
 	}
 
 	farmers=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 7851
 	}
 
@@ -13625,50 +13622,50 @@
 
 	soldiers=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 589
 	}
 
 	artisans=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 3291
 	}
 
 	clergymen=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 238
 	}
 
 	bureaucrats=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 103
 	}
 
 	officers=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 48
 	}
 
 	aristocrats=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 717
 	}
 
 	farmers=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 13282
 	}
 
@@ -14348,8 +14345,8 @@
 
 	bureaucrats=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 27
 	}
 
@@ -14362,15 +14359,15 @@
 
 	aristocrats=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 187
 	}
 
 	farmers=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 11017
 	}
 
@@ -14383,50 +14380,50 @@
 
 	soldiers=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 1939
 	}
 
 	artisans=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 4116
 	}
 
 	clergymen=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 297
 	}
 
 	bureaucrats=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 110
 	}
 
 	officers=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 96
 	}
 
 	aristocrats=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 768
 	}
 
 	farmers=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 13809
 	}
 
@@ -14441,50 +14438,50 @@
 
 	soldiers=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 318
 	}
 
 	artisans=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 256
 	}
 
 	clergymen=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 18
 	}
 
 	bureaucrats=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 5
 	}
 
 	officers=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 48
 	}
 
 	farmers=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 2963
 	}
 
@@ -14497,50 +14494,50 @@
 
 	soldiers=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 290
 	}
 
 	artisans=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 722
 	}
 
 	clergymen=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 52
 	}
 
 	bureaucrats=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 16
 	}
 
 	officers=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 16
 	}
 
 	aristocrats=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 135
 	}
 
 	farmers=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 2067
 	}
 
@@ -14555,50 +14552,50 @@
 
 	soldiers=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 435
 	}
 
 	artisans=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 435
 	}
 
 	clergymen=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 71
 	}
 
 	bureaucrats=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 21
 	}
 
 	officers=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 91
 	}
 
 	farmers=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 11541
 	}
 
@@ -14611,50 +14608,50 @@
 
 	soldiers=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 495
 	}
 
 	artisans=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 1425
 	}
 
 	clergymen=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 231
 	}
 
 	bureaucrats=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 71
 	}
 
 	officers=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 46
 	}
 
 	aristocrats=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 299
 	}
 
 	farmers=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 11798
 	}
 
@@ -14669,50 +14666,50 @@
 
 	soldiers=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 928
 	}
 
 	artisans=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 552
 	}
 
 	farmers=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 5277
 	}
 
 	aristocrats=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 125
 	}
 
 	clergymen=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 41
 	}
 
 	bureaucrats=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 18
 	}
 
 	officers=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = catholic
 		size= 14
 	}
 
@@ -14747,14 +14744,14 @@
 	bureaucrats=
 	{
 		culture = siouan
-		religion = laeradr
+		religion = meinwerkist
 		size= 110
 	}
 
 	officers=
 	{
 		culture = siouan
-		religion = laeradr
+		religion = meinwerkist
 		size= 77
 	}
 
@@ -14782,49 +14779,49 @@
 	farmers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = meinwerkist
 		size= 3387
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = meinwerkist
 		size= 833
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = meinwerkist
 		size= 1603
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = meinwerkist
 		size= 364
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = meinwerkist
 		size= 121
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = meinwerkist
 		size= 55
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = meinwerkist
 		size= 39
 	}
 
@@ -14875,49 +14872,49 @@
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = meinwerkist
 		size= 1022
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = meinwerkist
 		size= 5390
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = meinwerkist
 		size= 2135
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = meinwerkist
 		size= 464
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = meinwerkist
 		size= 154
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = meinwerkist
 		size= 70
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = meinwerkist
 		size= 50
 	}
 
@@ -14959,56 +14956,56 @@
 	slaves=
 	{
 		culture = native_american_minor
-		religion = laeradr
+		religion = meinwerkist
 		size= 18894
 	}
 
 	soldiers=
 	{
 		culture = siouan
-		religion = laeradr
+		religion = meinwerkist
 		size= 724
 	}
 
 	artisans=
 	{
 		culture = siouan
-		religion = laeradr
+		religion = meinwerkist
 		size= 1413
 	}
 
 	clergymen=
 	{
 		culture = siouan
-		religion = laeradr
+		religion = meinwerkist
 		size= 102
 	}
 
 	bureaucrats=
 	{
 		culture = siouan
-		religion = laeradr
+		religion = meinwerkist
 		size= 47
 	}
 
 	officers=
 	{
 		culture = siouan
-		religion = laeradr
+		religion = meinwerkist
 		size= 33
 	}
 
 	aristocrats=
 	{
 		culture = siouan
-		religion = laeradr
+		religion = meinwerkist
 		size= 308
 	}
 
 	farmers=
 	{
 		culture = siouan
-		religion = laeradr
+		religion = meinwerkist
 		size= 3765
 	}
 
@@ -15050,49 +15047,49 @@
 	soldiers=
 	{
 		culture = cherokee
-		religion = laeradr
+		religion = meinwerkist
 		size= 1367
 	}
 
 	artisans=
 	{
 		culture = cherokee
-		religion = laeradr
+		religion = meinwerkist
 		size= 2879
 	}
 
 	clergymen=
 	{
 		culture = cherokee
-		religion = laeradr
+		religion = meinwerkist
 		size= 208
 	}
 
 	bureaucrats=
 	{
 		culture = cherokee
-		religion = laeradr
+		religion = meinwerkist
 		size= 96
 	}
 
 	officers=
 	{
 		culture = cherokee
-		religion = laeradr
+		religion = meinwerkist
 		size= 67
 	}
 
 	aristocrats=
 	{
 		culture = cherokee
-		religion = laeradr
+		religion = meinwerkist
 		size= 627
 	}
 
 	farmers=
 	{
 		culture = cherokee
-		religion = laeradr
+		religion = meinwerkist
 		size= 6819
 	}
 
@@ -15150,49 +15147,49 @@
 	farmers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 11912
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 435
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 2486
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 541
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 179
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 115
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 35
 	}
 
@@ -15257,49 +15254,49 @@
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 1667
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 16215
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 3537
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 769
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 255
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 118
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 82
 	}
 
@@ -15314,22 +15311,22 @@
 
 	soldiers=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 154
 	}
 
 	artisans=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 234
 	}
 
 	farmers=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 3854
 	}
 
@@ -15468,50 +15465,50 @@
 
 	soldiers=
 	{
-		culture = cherokee
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 202
 	}
 
 	artisans=
 	{
-		culture = cherokee
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 1116
 	}
 
 	clergymen=
 	{
-		culture = cherokee
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 81
 	}
 
 	bureaucrats=
 	{
-		culture = cherokee
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 37
 	}
 
 	officers=
 	{
-		culture = cherokee
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 16
 	}
 
 	aristocrats=
 	{
-		culture = cherokee
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 243
 	}
 
 	farmers=
 	{
-		culture = cherokee
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 3936
 	}
 
@@ -15631,50 +15628,50 @@
 
 	soldiers=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 876
 	}
 
 	artisans=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 758
 	}
 
 	clergymen=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 123
 	}
 
 	bureaucrats=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 57
 	}
 
 	officers=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 40
 	}
 
 	aristocrats=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 186
 	}
 
 	farmers=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 7608
 	}
 
@@ -15688,49 +15685,49 @@
 	farmers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 9287
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 1063
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 965
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 157
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 236
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 72
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 50
 	}
 
@@ -15767,49 +15764,49 @@
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 1628
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 14327
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 1559
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 253
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 381
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 147
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 81
 	}
 
@@ -15941,50 +15938,50 @@
 
 	soldiers=
 	{
-		culture = iroquoian
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 1262
 	}
 
 	artisans=
 	{
-		culture = iroquoian
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 1198
 	}
 
 	clergymen=
 	{
-		culture = iroquoian
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 195
 	}
 
 	bureaucrats=
 	{
-		culture = iroquoian
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 114
 	}
 
 	officers=
 	{
-		culture = iroquoian
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 63
 	}
 
 	aristocrats=
 	{
-		culture = iroquoian
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 294
 	}
 
 	farmers=
 	{
-		culture = iroquoian
-		religion = laeradr
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 10928
 	}
 
@@ -16155,36 +16152,36 @@
 213 = {
 	slaves=
 	{
-		culture = native_american_minor
+		culture = iroquoian
 		religion = totemism
 		size= 2639
 	}
 
 	soldiers=
 	{
-		culture = eastern_algonquian
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 296
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 2441
 	}
 
 	soldiers=
 	{
-		culture = iroquoian
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = iroquoian
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 82
 	}
 
@@ -16198,49 +16195,49 @@
 	farmers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 9089
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 1299
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 1149
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 186
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 281
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 86
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = catholic
 		size= 59
 	}
 
@@ -16269,8 +16266,8 @@
 
 	farmers=
 	{
-		culture = eastern_algonquian
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 4702
 	}
 
@@ -16332,8 +16329,8 @@
 
 	soldiers=
 	{
-		culture = eastern_algonquian
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 898
 	}
 
@@ -16346,8 +16343,8 @@
 
 	clergymen=
 	{
-		culture = eastern_algonquian
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 137
 	}
 
@@ -16360,8 +16357,8 @@
 
 	officers=
 	{
-		culture = eastern_algonquian
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 44
 	}
 
@@ -16374,8 +16371,8 @@
 
 	farmers=
 	{
-		culture = eastern_algonquian
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 7100
 	}
 
@@ -16560,50 +16557,50 @@
 
 	soldiers=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 424
 	}
 
 	artisans=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 2318
 	}
 
 	clergymen=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 167
 	}
 
 	bureaucrats=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 52
 	}
 
 	officers=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 33
 	}
 
 	aristocrats=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 252
 	}
 
 	farmers=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 8387
 	}
 
@@ -20349,43 +20346,43 @@
 
 	artisans=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 615
 	}
 
 	clergymen=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 44
 	}
 
 	bureaucrats=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 17
 	}
 
 	officers=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 134
 	}
 
 	farmers=
 	{
-		culture = muskogean
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 6593
 	}
 
@@ -20398,50 +20395,50 @@
 
 	soldiers=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 362
 	}
 
 	artisans=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 2241
 	}
 
 	clergymen=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 162
 	}
 
 	bureaucrats=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 60
 	}
 
 	officers=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 32
 	}
 
 	aristocrats=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 488
 	}
 
 	farmers=
 	{
-		culture = muskogean
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 6819
 	}
 
@@ -20484,50 +20481,50 @@
 
 	artisans=
 	{
-		culture = cherokee
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 173
 	}
 
 	aristocrats=
 	{
-		culture = cherokee
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 37
 	}
 
 	farmers=
 	{
-		culture = cherokee
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 2276
 	}
 
 	clergymen=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 25
 	}
 
 	aristocrats=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 75
 	}
 
 	bureaucrats=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 10
 	}
 
 	officers=
 	{
-		culture = siouan
-		religion = totemism
+		culture = nieuwereld
+		religion = meinwerkist
 		size= 6
 	}
 
@@ -20540,50 +20537,50 @@
 
 	soldiers=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 1049
 	}
 
 	artisans=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 2051
 	}
 
 	clergymen=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 148
 	}
 
 	bureaucrats=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 55
 	}
 
 	officers=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 47
 	}
 
 	aristocrats=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 447
 	}
 
 	farmers=
 	{
-		culture = siouan
-		religion = laeradr
+		culture = nieuwereld
+		religion = catholic
 		size= 9868
 	}
 

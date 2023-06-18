@@ -184,6 +184,33 @@ From;To;Type;Through;Data;Comment
 17;6;impassable;0;0;scary mountain
 17;18;impassable;0;0;scary mountain
 
+114;92;impassable;0;0;scary mountain
+114;21;impassable;0;0;scary mountain
+114;111;impassable;0;0;scary mountain
+114;115;impassable;0;0;scary mountain
+114;113;impassable;0;0;scary mountain
+114;111;impassable;0;0;scary mountain
+
+93;92;impassable;0;0;scary mountain
+93;113;impassable;0;0;scary mountain
+93;112;impassable;0;0;scary mountain
+93;91;impassable;0;0;scary mountain
+93;110;impassable;0;0;scary mountain
+
+108;107;impassable;0;0;scary mountain
+108;91;impassable;0;0;scary mountain
+108;109;impassable;0;0;scary mountain
+108;112;impassable;0;0;scary mountain
+
+101;103;impassable;0;0;scary mountain
+101;100;impassable;0;0;scary mountain
+101;2148;impassable;0;0;scary mountain
+101;109;impassable;0;0;scary mountain
+101;107;impassable;0;0;scary mountain
+101;99;impassable;0;0;scary mountain
+101;96;impassable;0;0;scary mountain
+
+
 #Alps
 
 #727;735;impassable;0;0;Bergamo-Bozen

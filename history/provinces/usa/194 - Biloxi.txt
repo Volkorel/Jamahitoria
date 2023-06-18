@@ -1,5 +1,6 @@
 owner=X36
 controller=X36
+add_core=SEM
 trade_goods = cotton
 life_rating = 35
 colonial=2

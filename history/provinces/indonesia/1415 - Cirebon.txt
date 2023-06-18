@@ -1,5 +1,5 @@
 owner=BRU
-controller=X06
+controller=FEK
 add_core=JAV
 add_core=MLC
 trade_goods = coffee

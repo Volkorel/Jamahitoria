@@ -1,5 +1,6 @@
 owner=FLR
 controller=FLR
 add_core=FLR
+add_core=SEM
 trade_goods = cotton
 life_rating = 35
