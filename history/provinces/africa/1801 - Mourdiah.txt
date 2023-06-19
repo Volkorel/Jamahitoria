@@ -1,4 +1,4 @@
-trade_goods = wool
+trade_goods = grain
 life_rating = 20
-terrain = semidesert
-colonial=2
+#terrain = semidesert
+colonial = 1

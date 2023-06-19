@@ -2,6 +2,7 @@ name = "Free Frysk-Malaccan Imperialist War"
 
 1720.9.1 = {
 	add_attacker = X06
+	add_attacker = FEK
 	add_attacker = LAN
 	add_attacker = USA
 	add_attacker = SAF

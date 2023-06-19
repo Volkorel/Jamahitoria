@@ -1,5 +1,5 @@
 graphical_culture = ItalianGC
-color = { 255 247 0 }
+color = { 86 86 86 }
 
 party = {
 	name = "SIC_reactionary"

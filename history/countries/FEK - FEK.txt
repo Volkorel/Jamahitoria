@@ -9,6 +9,7 @@ nationalvalue = nv_liberty
 literacy = 0.25981
 
 civilized = yes
+is_releasable_vassal = no
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -20,7 +21,7 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # political reforms
-slavery=no_slavery
+slavery=yes_slavery
 vote_franschise=wealth_weighted_voting
 upper_house_composition=state_equal_weight
 voting_system=first_past_the_post
@@ -29,13 +30,13 @@ press_rights=censored_press
 trade_unions=all_trade_unions
 political_parties=non_secret_ballots
 
-ruling_party = X06_liberal
+ruling_party = FEK_reactionary
 upper_house = 
 {
 	fascist = 0
 	liberal = 4
-	conservative = 81
-	reactionary = 15
+	conservative = 15
+	reactionary = 81
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

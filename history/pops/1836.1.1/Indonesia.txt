@@ -64,49 +64,49 @@
 		size= 15514
 	}
 
-	soldiers=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 1398
 	}
 
-	artisans=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 5593
 	}
 
-	clergymen=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 909
 	}
 
-	bureaucrats=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 252
 	}
 
-	officers=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 112
 	}
 
-	aristocrats=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 1762
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
@@ -317,49 +317,49 @@
 		size= 10342
 	}
 
-	soldiers=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 7233
 	}
 
-	artisans=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 19996
 	}
 
-	clergymen=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 928
 	}
 
-	bureaucrats=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 257
 	}
 
-	officers=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 229
 	}
 
-	aristocrats=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 1800
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
@@ -368,100 +368,106 @@
 
 }
 1404 = {
+	slaves=
+	{
+		culture = javan
+		religion = sunni
+		size= 11885
+	}
 	soldiers=
 	{
-		culture = malay
-		religion = hindu
-		size= 10333
+		culture = frisian
+		religion = meinwerkist
+		size= 16333
 	}
 
 	artisans=
 	{
-		culture = malay
-		religion = hindu
-		size= 1115
+		culture = frisian
+		religion = meinwerkist
+		size= 7115
 	}
 
 	clergymen=
 	{
-		culture = malay
-		religion = hindu
-		size= 52
+		culture = frisian
+		religion = meinwerkist
+		size= 252
 	}
 
 	bureaucrats=
 	{
-		culture = malay
-		religion = hindu
-		size= 29
+		culture = frisian
+		religion = meinwerkist
+		size= 1529
 	}
 
 	officers=
 	{
-		culture = malay
-		religion = hindu
-		size= 13
+		culture = frisian
+		religion = meinwerkist
+		size= 153
 	}
 
 	aristocrats=
 	{
-		culture = malay
-		religion = hindu
-		size= 201
+		culture = frisian
+		religion = meinwerkist
+		size= 301
 	}
 
 	farmers=
 	{
-		culture = malay
-		religion = hindu
-		size= 2233
+		culture = frisian
+		religion = meinwerkist
+		size= 15233
 	}
 
 	farmers=
 	{
-		culture = catalan
+		culture = dutch
 		religion = catholic
-		size= 2105
+		size= 35105
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = dutch
 		religion = catholic
 		size= 1312
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = dutch
 		religion = catholic
 		size= 236
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = dutch
 		religion = catholic
 		size= 60
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = dutch
 		religion = catholic
 		size= 33
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = dutch
 		religion = catholic
 		size= 14
 	}
 
 	soldiers=
 	{
-		culture = catalan
+		culture = dutch
 		religion = catholic
 		size= 93
 	}
@@ -475,49 +481,49 @@
 		size= 185
 	}
 
-	soldiers=
+	slaves=
 	{
 		culture = javan
 		religion = sunni
 		size= 4133
 	}
 
-	artisans=
+	slaves=
 	{
 		culture = javan
 		religion = sunni
 		size= 3464
 	}
 
-	clergymen=
+	slaves=
 	{
 		culture = javan
 		religion = sunni
 		size= 161
 	}
 
-	bureaucrats=
+	slaves=
 	{
 		culture = javan
 		religion = sunni
 		size= 64
 	}
 
-	officers=
+	slaves=
 	{
 		culture = javan
 		religion = sunni
 		size= 49
 	}
 
-	aristocrats=
+	slaves=
 	{
 		culture = javan
 		religion = sunni
 		size= 311
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = javan
 		religion = sunni
@@ -531,49 +537,49 @@
 		size= 20
 	}
 
-	soldiers=
+	slaves=
 	{
 		culture = javan
 		religion = shiite
 		size= 112
 	}
 
-	artisans=
+	slaves=
 	{
 		culture = javan
 		religion = shiite
 		size= 873
 	}
 
-	clergymen=
+	slaves=
 	{
 		culture = javan
 		religion = shiite
 		size= 41
 	}
 
-	bureaucrats=
+	slaves=
 	{
 		culture = javan
 		religion = shiite
 		size= 16
 	}
 
-	officers=
+	slaves=
 	{
 		culture = javan
 		religion = shiite
 		size= 12
 	}
 
-	aristocrats=
+	slaves=
 	{
 		culture = javan
 		religion = shiite
 		size= 79
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = javan
 		religion = shiite
@@ -731,98 +737,98 @@
 
 }
 1407 = {
-	soldiers=
+	slaves=
 	{
 		culture = javan
 		religion = sunni
 		size= 522
 	}
 
-	artisans=
+	slaves=
 	{
 		culture = javan
 		religion = sunni
 		size= 746
 	}
 
-	clergymen=
+	slaves=
 	{
 		culture = javan
 		religion = sunni
 		size= 121
 	}
 
-	bureaucrats=
+	slaves=
 	{
 		culture = javan
 		religion = sunni
 		size= 49
 	}
 
-	officers=
+	slaves=
 	{
 		culture = javan
 		religion = sunni
 		size= 30
 	}
 
-	aristocrats=
+	slaves=
 	{
 		culture = javan
 		religion = sunni
 		size= 157
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = javan
 		religion = sunni
 		size= 17031
 	}
 
-	soldiers=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 7233
 	}
 
-	artisans=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 793
 	}
 
-	clergymen=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 129
 	}
 
-	bureaucrats=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 52
 	}
 
-	officers=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 32
 	}
 
-	aristocrats=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 167
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
@@ -1010,26 +1016,26 @@
 
 	soldiers=
 	{
-		culture = malay
-		religion = hindu
+		culture = frisian
+		religion = meinwerkist
 		size= 38233
 	}
 
-	artisans=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 5375
 	}
 
-	clergymen=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 873
 	}
 
-	bureaucrats=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
@@ -1038,12 +1044,12 @@
 
 	officers=
 	{
-		culture = malay
-		religion = hindu
+		culture = frisian
+		religion = meinwerkist
 		size= 108
 	}
 
-	aristocrats=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
@@ -1052,56 +1058,56 @@
 
 	farmers=
 	{
-		culture = malay
-		religion = hindu
+		culture = frisian
+		religion = meinwerkist
 		size= 78361
 	}
 
 }
 1410 = {
-	soldiers=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 4133
 	}
 
-	artisans=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 1185
 	}
 
-	clergymen=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 193
 	}
 
-	bureaucrats=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 83
 	}
 
-	officers=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 24
 	}
 
-	aristocrats=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 373
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
@@ -1110,14 +1116,14 @@
 
 }
 1411 = {
-	soldiers=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
 		size= 120
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
@@ -1127,53 +1133,53 @@
 	farmers=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 2974
 	}
 
 	artisans=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 2353
 	}
 
 	aristocrats=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 210
 	}
 
 	clergymen=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 108
 	}
 
 	bureaucrats=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 46
 	}
 
 	officers=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 12
 	}
 
 	soldiers=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 48
 	}
 
-	artisans=
+	slaves=
 	{
 		culture = malay
 		religion = hindu
@@ -2362,49 +2368,49 @@
 		size= 2974
 	}
 
-	soldiers=
+	slaves=
 	{
 		culture = bornean
 		religion = hindu
 		size= 258
 	}
 
-	artisans=
+	slaves=
 	{
 		culture = bornean
 		religion = hindu
 		size= 3609
 	}
 
-	clergymen=
+	slaves=
 	{
 		culture = bornean
 		religion = hindu
 		size= 167
 	}
 
-	bureaucrats=
+	slaves=
 	{
 		culture = bornean
 		religion = hindu
 		size= 67
 	}
 
-	officers=
+	slaves=
 	{
 		culture = bornean
 		religion = hindu
 		size= 21
 	}
 
-	aristocrats=
+	slaves=
 	{
 		culture = bornean
 		religion = hindu
 		size= 217
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = bornean
 		religion = hindu
@@ -2778,49 +2784,49 @@
 		size= 2858
 	}
 
-	soldiers=
+	slaves=
 	{
 		culture = bornean
 		religion = hindu
 		size= 372
 	}
 
-	artisans=
+	slaves=
 	{
 		culture = bornean
 		religion = hindu
 		size= 1490
 	}
 
-	clergymen=
+	slaves=
 	{
 		culture = bornean
 		religion = hindu
 		size= 242
 	}
 
-	bureaucrats=
+	slaves=
 	{
 		culture = bornean
 		religion = hindu
 		size= 119
 	}
 
-	officers=
+	slaves=
 	{
 		culture = bornean
 		religion = hindu
 		size= 30
 	}
 
-	aristocrats=
+	slaves=
 	{
 		culture = bornean
 		religion = hindu
 		size= 469
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = bornean
 		religion = hindu
@@ -2836,49 +2842,49 @@
 		size= 1905
 	}
 
-	soldiers=
+	slaves=
 	{
 		culture = bornean
 		religion = hindu
 		size= 162
 	}
 
-	artisans=
+	slaves=
 	{
 		culture = bornean
 		religion = hindu
 		size= 648
 	}
 
-	clergymen=
+	slaves=
 	{
 		culture = bornean
 		religion = hindu
 		size= 105
 	}
 
-	bureaucrats=
+	slaves=
 	{
 		culture = bornean
 		religion = hindu
 		size= 52
 	}
 
-	officers=
+	slaves=
 	{
 		culture = bornean
 		religion = hindu
 		size= 13
 	}
 
-	aristocrats=
+	slaves=
 	{
 		culture = bornean
 		religion = hindu
 		size= 204
 	}
 
-	farmers=
+	slaves=
 	{
 		culture = bornean
 		religion = hindu
@@ -3850,49 +3856,49 @@
 	artisans=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 8537
 	}
 
 	farmers=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 7729
 	}
 
 	aristocrats=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 768
 	}
 
 	clergymen=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 396
 	}
 
 	soldiers=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 141
 	}
 
 	bureaucrats=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 171
 	}
 
 	officers=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 48
 	}
 
@@ -4115,49 +4121,49 @@
 	artisans=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 697
 	}
 
 	clergymen=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 33
 	}
 
 	bureaucrats=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 12
 	}
 
 	officers=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 8
 	}
 
 	aristocrats=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 63
 	}
 
 	soldiers=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 51
 	}
 
 	farmers=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 1136
 	}
 
@@ -4266,49 +4272,49 @@
 	artisans=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 717
 	}
 
 	clergymen=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 33
 	}
 
 	bureaucrats=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 13
 	}
 
 	officers=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 8
 	}
 
 	aristocrats=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 65
 	}
 
 	soldiers=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 53
 	}
 
 	farmers=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 1168
 	}
 
@@ -4366,91 +4372,91 @@
 	soldiers=
 	{
 		culture = javan
-		religion = noreligion
+		religion = meinwerkist
 		size= 4
 	}
 
 	artisans=
 	{
 		culture = javan
-		religion = noreligion
+		religion = meinwerkist
 		size= 561
 	}
 
 	clergymen=
 	{
 		culture = javan
-		religion = noreligion
+		religion = meinwerkist
 		size= 26
 	}
 
 	bureaucrats=
 	{
 		culture = javan
-		religion = noreligion
+		religion = meinwerkist
 		size= 13
 	}
 
 	officers=
 	{
 		culture = javan
-		religion = noreligion
+		religion = meinwerkist
 		size= 6
 	}
 
 	aristocrats=
 	{
 		culture = javan
-		religion = noreligion
+		religion = meinwerkist
 		size= 50
 	}
 
 	soldiers=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 184
 	}
 
 	artisans=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 2030
 	}
 
 	clergymen=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 94
 	}
 
 	bureaucrats=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 46
 	}
 
 	officers=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 23
 	}
 
 	aristocrats=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 183
 	}
 
 	farmers=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 4005
 	}
 
@@ -4515,56 +4521,56 @@
 	farmers=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 1160
 	}
 
 	artisans=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 1273
 	}
 
 	aristocrats=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 114
 	}
 
 	clergymen=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 59
 	}
 
 	bureaucrats=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 22
 	}
 
 	officers=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 14
 	}
 
 	slaves=
 	{
 		culture = afro_norse
-		religion = noreligion
+		religion = meinwerkist
 		size= 152
 	}
 
 	soldiers=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 64
 	}
 
@@ -4587,49 +4593,49 @@
 	farmers=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 251
 	}
 
 	artisans=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 276
 	}
 
 	clergymen=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 25
 	}
 
 	aristocrats=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 24
 	}
 
 	bureaucrats=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 6
 	}
 
 	officers=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 3
 	}
 
 	soldiers=
 	{
 		culture = dutch
-		religion = noreligion
+		religion = meinwerkist
 		size= 13
 	}
 
@@ -4687,49 +4693,49 @@
 	artisans=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 306
 	}
 
 	aristocrats=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 26
 	}
 
 	clergymen=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 13
 	}
 
 	soldiers=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 17
 	}
 
 	bureaucrats=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 4
 	}
 
 	officers=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 2
 	}
 
 	farmers=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 367
 	}
 
@@ -4773,49 +4779,49 @@
 	artisans=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 1970
 	}
 
 	aristocrats=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 177
 	}
 
 	farmers=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 2269
 	}
 
 	clergymen=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 91
 	}
 
 	bureaucrats=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 28
 	}
 
 	officers=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 22
 	}
 
 	soldiers=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 107
 	}
 
@@ -4873,84 +4879,84 @@
 	artisans=
 	{
 		culture = moluccan
-		religion = noreligion
+		religion = meinwerkist
 		size= 49
 	}
 
 	clergymen=
 	{
 		culture = moluccan
-		religion = noreligion
+		religion = meinwerkist
 		size= 2
 	}
 
 	bureaucrats=
 	{
 		culture = moluccan
-		religion = noreligion
+		religion = meinwerkist
 		size= 1
 	}
 
 	officers=
 	{
 		culture = moluccan
-		religion = noreligion
+		religion = meinwerkist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = moluccan
-		religion = noreligion
+		religion = meinwerkist
 		size= 4
 	}
 
 	artisans=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 442
 	}
 
 	clergymen=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 20
 	}
 
 	bureaucrats=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 10
 	}
 
 	officers=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 5
 	}
 
 	aristocrats=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 40
 	}
 
 	soldiers=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 30
 	}
 
 	farmers=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 652
 	}
 
@@ -5410,77 +5416,77 @@
 	artisans=
 	{
 		culture = javan
-		religion = noreligion
+		religion = meinwerkist
 		size= 35
 	}
 
 	clergymen=
 	{
 		culture = javan
-		religion = noreligion
+		religion = meinwerkist
 		size= 2
 	}
 
 	bureaucrats=
 	{
 		culture = javan
-		religion = noreligion
+		religion = meinwerkist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = javan
-		religion = noreligion
+		religion = meinwerkist
 		size= 3
 	}
 
 	soldiers=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 12
 	}
 
 	artisans=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 127
 	}
 
 	clergymen=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 6
 	}
 
 	bureaucrats=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 3
 	}
 
 	officers=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 11
 	}
 
 	farmers=
 	{
 		culture = frisian
-		religion = noreligion
+		religion = meinwerkist
 		size= 252
 	}
 

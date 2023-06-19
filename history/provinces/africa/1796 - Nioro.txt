@@ -1,4 +1,6 @@
-trade_goods = cattle
-life_rating = 20
-terrain = semidesert
-colonial=2
+owner = SEG
+controller = SEG
+add_core = SEG
+trade_goods = fruit
+life_rating = 10
+#terrain = semidesert
