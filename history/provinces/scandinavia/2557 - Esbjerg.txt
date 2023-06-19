@@ -1,5 +1,5 @@
-owner=HAN
-controller=HAN
+owner=X54
+controller=X54
 add_core=X54
 trade_goods = fruit
 life_rating = 35

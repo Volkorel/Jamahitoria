@@ -1,5 +1,6 @@
-owner=X23
-controller=X23
+owner=X03
+controller=X03
+add_core=X03
 add_core=LIT
 add_core=UBD
 add_core=X23

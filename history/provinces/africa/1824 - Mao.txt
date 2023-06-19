@@ -1,5 +1,5 @@
 owner=TUN
-controller=ARA
+controller=TUN
 trade_goods = cattle
 life_rating = 5
 terrain = semidesert

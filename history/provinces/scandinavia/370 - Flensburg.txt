@@ -1,6 +1,6 @@
-owner=HAN
-controller=HAN
-add_core=HLR
+owner=X54
+controller=X54
+add_core=X54
 trade_goods = cattle
 life_rating = 35
 colonial=2

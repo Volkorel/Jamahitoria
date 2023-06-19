@@ -1,5 +1,6 @@
-owner=X23
-controller=X23
+owner=X03
+controller=X03
+add_core=X03
 add_core=X23
 trade_goods = grain
 life_rating = 35

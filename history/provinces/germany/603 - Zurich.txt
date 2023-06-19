@@ -1,5 +1,6 @@
-owner=BRG
-controller=BRG
+owner=LOM
+controller=LOM
+add_core=LOM
 add_core=BRG
 add_core=HLR
 add_core=SWI

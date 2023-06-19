@@ -1,5 +1,6 @@
-owner=KIE
-controller=KIE
+owner=X03
+controller=X03
+add_core=X03
 add_core=BYE
 add_core=KIE
 trade_goods = cattle

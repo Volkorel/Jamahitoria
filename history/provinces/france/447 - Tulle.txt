@@ -1,6 +1,7 @@
 owner=GYN
 controller=GYN
 add_core=GYN
+add_core=FRA
 add_core=HLR
 trade_goods = fruit
 life_rating = 31

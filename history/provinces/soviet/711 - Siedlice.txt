@@ -1,5 +1,6 @@
-owner=X00
-controller=X00
+owner=X03
+controller=X03
+add_core=X03
 add_core=UKR
 add_core=X00
 trade_goods = cattle

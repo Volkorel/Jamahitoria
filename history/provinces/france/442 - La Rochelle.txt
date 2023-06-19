@@ -1,6 +1,7 @@
-owner=PRO
-controller=PRO
+owner=GYN
+controller=GYN
 add_core=GYN
+add_core=FRA
 add_core=HLR
 add_core=PRO
 trade_goods = fish

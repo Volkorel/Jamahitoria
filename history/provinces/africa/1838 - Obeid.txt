@@ -1,6 +1,6 @@
-owner=TUN
-controller=ARA
-add_core=TUN
+owner=EGY
+controller=EGY
+add_core=EGY
 trade_goods = cattle
 life_rating = 31
 terrain = semidesert

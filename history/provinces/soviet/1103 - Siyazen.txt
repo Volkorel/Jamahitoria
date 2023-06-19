@@ -1,5 +1,6 @@
-owner=PER
-controller=PER
+owner=X03
+controller=X03
+add_core=X03
 add_core=PER
 trade_goods = fruit
 life_rating = 35

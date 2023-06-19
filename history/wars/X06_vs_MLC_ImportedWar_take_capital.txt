@@ -15,8 +15,30 @@ name = "Free Frysk-Malaccan Imperialist War"
 
 	war_goal = {
 		casus_belli = acquire_state
-		actor = X06
+		actor = FEK
 		receiver = MLC
 		country = MLC
+		state_province_id = 1408
+	}
+	war_goal = {
+		casus_belli = acquire_state
+		actor = FEK
+		receiver = MLC
+		country = MLC
+		state_province_id = 1414
+	}
+	war_goal = {
+		casus_belli = acquire_state
+		actor = FEK
+		receiver = MLC
+		country = MLC
+		state_province_id = 1398
+	}
+	war_goal = {
+		casus_belli = acquire_state
+		actor = FEK
+		receiver = MLC
+		country = MLC
+		state_province_id = 1406
 	}
 }

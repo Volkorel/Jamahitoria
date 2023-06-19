@@ -1,4 +1,5 @@
-owner=TUN
-controller=TUN
+owner=SIC
+controller=SIC
+add_core=SIC
 trade_goods = sulphur
 life_rating = 40

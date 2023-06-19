@@ -1,5 +1,6 @@
-owner=BRG
-controller=BRG
+owner=X41
+controller=X41
+add_core=X41
 add_core=BRG
 add_core=FRA
 add_core=HLR

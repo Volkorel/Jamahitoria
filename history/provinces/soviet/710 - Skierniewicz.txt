@@ -1,5 +1,6 @@
-owner=MAZ
-controller=X23
+owner=HAN
+controller=HAN
+add_core=HAN
 add_core=MAZ
 add_core=POL
 add_core=WSF

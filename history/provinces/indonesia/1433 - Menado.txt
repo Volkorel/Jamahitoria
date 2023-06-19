@@ -1,5 +1,6 @@
-owner=X06
-controller=X06
+owner=FEK
+controller=FEK
+add_core=FEK
 trade_goods = dye
 life_rating = 32
 colonial=2

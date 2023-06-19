@@ -1,5 +1,5 @@
-owner=X53
-controller=SWE
+owner=X03
+controller=X03
 add_core=SCA
 add_core=SMI
 add_core=X53

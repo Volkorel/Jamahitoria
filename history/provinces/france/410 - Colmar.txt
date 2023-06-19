@@ -1,5 +1,5 @@
 owner=LOR
-controller=BRG
+controller=LOR
 add_core=GER
 add_core=HLR
 add_core=LOR

@@ -1,5 +1,6 @@
-owner=HAN
-controller=HAN
+owner=X54
+controller=X54
+add_core=X54
 add_core=GER
 add_core=HAN
 trade_goods = cattle

@@ -1,6 +1,7 @@
-owner=ADU
-controller=ADU
+owner=ANA
+controller=ANA
 add_core=ADU
+add_core=ANA
 add_core=SPA
 trade_goods = grain
 life_rating = 35

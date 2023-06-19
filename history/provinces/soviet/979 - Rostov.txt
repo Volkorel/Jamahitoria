@@ -1,6 +1,7 @@
-owner=X01
-controller=X01
-add_core = X01
+owner=X03
+controller=X03
+add_core=X03
+add_core=X01
 add_core=X19
 trade_goods = coal
 life_rating = 40

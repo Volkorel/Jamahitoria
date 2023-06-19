@@ -1,6 +1,5 @@
-owner=HAN
-controller=HAN
-add_core=HAN
+owner=X54
+controller=X54
 add_core=X54
 trade_goods = grain
 life_rating = 35

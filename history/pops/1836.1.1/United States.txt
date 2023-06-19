@@ -13960,6 +13960,8 @@
 		culture = native_american_minor
 		religion = totemism
 		size= 1879
+		militancy = 9
+		rebel_type = separatist_rebels
 	}
 
 	soldiers=
@@ -13967,6 +13969,8 @@
 		culture = muskogean
 		religion = totemism
 		size= 1033
+		militancy = 9
+		rebel_type = separatist_rebels
 	}
 
 	artisans=
@@ -14016,6 +14020,8 @@
 		culture = native_american_minor
 		religion = laeradr
 		size= 1709
+		militancy = 9
+		rebel_type = separatist_rebels
 	}
 
 	soldiers=
@@ -14023,6 +14029,8 @@
 		culture = muskogean
 		religion = laeradr
 		size= 1033
+		militancy = 9
+		rebel_type = separatist_rebels
 	}
 
 	artisans=

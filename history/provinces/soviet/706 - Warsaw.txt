@@ -1,5 +1,6 @@
-owner=X39
-controller=X39
+owner=X03
+controller=X03
+add_core=X03
 add_core=MAZ
 add_core=POL
 add_core=WSF

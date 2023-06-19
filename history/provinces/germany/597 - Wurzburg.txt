@@ -1,5 +1,6 @@
-owner=PAL
-controller=PAL
+owner=HAN
+controller=HAN
+add_core=HAN
 add_core=GER
 add_core=PAL
 trade_goods = fruit

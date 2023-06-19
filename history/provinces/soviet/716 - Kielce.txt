@@ -1,5 +1,6 @@
-owner=X28
-controller=X28
+owner=X00
+controller=X00
+add_core=X00
 add_core=MAZ
 add_core=POL
 add_core=WSF

@@ -1,5 +1,5 @@
-owner=PAD
-controller=PAD
+owner=X54
+controller=X54
 add_core=HLR
 add_core=X54
 trade_goods = fish

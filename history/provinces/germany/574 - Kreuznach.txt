@@ -1,5 +1,6 @@
-owner=PAL
-controller=PAL
+owner=LOR
+controller=LOR
+add_core=LOR
 add_core=GER
 add_core=PAL
 trade_goods = iron
