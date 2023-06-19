@@ -1,2 +1,6 @@
-trade_goods = grain
+owner = JAL
+controller = JAL
+add_core = JAL
+trade_goods = fish
 life_rating = 10
+colonial = 1

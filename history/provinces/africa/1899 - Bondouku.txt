@@ -1,4 +1,6 @@
-
-trade_goods = fruit
+owner = KNG
+controller = KNG
+add_core = KNG
+trade_goods = coffee
 life_rating = 35
-colonial=2
+#terrain = 

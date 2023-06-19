@@ -1,2 +1,7 @@
+owner = JAL
+controller = JAL
+add_core = JAL
 trade_goods = tropical_wood
 life_rating = 10
+#terrain =
+colonial = 1

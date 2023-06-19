@@ -1,6 +1,6 @@
-add_core=ZAF
-trade_goods = fruit
+owner = WOL
+controller = WOL
+add_core = WOL
+trade_goods = grain
 life_rating = 35
-terrain = semidesert
-colonial=2
-naval_base = 1
+#terrain = semidesert

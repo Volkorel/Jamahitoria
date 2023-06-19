@@ -1,4 +1,6 @@
-add_core=ZAF
-trade_goods = grain
+owner = JAL
+controller = JAL
+add_core = JAL
+trade_goods = fruit
 life_rating = 35
-colonial=2
+#terrain = 
