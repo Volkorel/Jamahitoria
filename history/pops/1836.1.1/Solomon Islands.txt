@@ -1,96 +1,96 @@
 2534 = {
-	soldiers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 115
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 115
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 19
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 4
 	}
 
-	officers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 36
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 5462
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = melanesian
 		religion = shinto
 		size= 99
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = melanesian
 		religion = shinto
 		size= 312
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = melanesian
 		religion = shinto
 		size= 51
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = shinto
 		size= 12
 	}
 
-	officers=
+	tribals=
 	{
 		culture = melanesian
 		religion = shinto
 		size= 10
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = shinto
 		size= 98
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = melanesian
 		religion = shinto
@@ -99,84 +99,84 @@
 
 }
 2536 = {
-	soldiers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 6
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 43
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 5
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 557
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = melanesian
 		religion = shinto
 		size= 7
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = melanesian
 		religion = shinto
 		size= 138
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = melanesian
 		religion = shinto
 		size= 6
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = shinto
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = melanesian
 		religion = shinto
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = shinto
 		size= 17
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = melanesian
 		religion = shinto

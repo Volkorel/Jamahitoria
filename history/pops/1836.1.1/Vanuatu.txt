@@ -1,96 +1,96 @@
 2535 = {
-	soldiers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 29
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 200
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 9
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 24
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 2594
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = melanesian
 		religion = shinto
 		size= 32
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = melanesian
 		religion = shinto
 		size= 643
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = melanesian
 		religion = shinto
 		size= 30
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = shinto
 		size= 5
 	}
 
-	officers=
+	tribals=
 	{
 		culture = melanesian
 		religion = shinto
 		size= 6
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = shinto
 		size= 77
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = melanesian
 		religion = shinto

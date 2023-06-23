@@ -1,96 +1,96 @@
 658 = {
-	soldiers=
+	tribals=
 	{
 		culture = hawaiian
 		religion = animist
 		size= 220
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = hawaiian
 		religion = animist
 		size= 521
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = hawaiian
 		religion = animist
 		size= 75
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = hawaiian
 		religion = animist
 		size= 5
 	}
 
-	officers=
+	tribals=
 	{
 		culture = hawaiian
 		religion = animist
 		size= 7
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = hawaiian
 		religion = animist
 		size= 97
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = hawaiian
 		religion = animist
 		size= 4861
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 770
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 1822
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 263
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 18
 	}
 
-	officers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 24
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 340
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -99,14 +99,14 @@
 
 }
 801 = {
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 16
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -164,14 +164,14 @@
 
 }
 2336 = {
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -222,63 +222,63 @@
 
 }
 2526 = {
-	soldiers=
+	tribals=
 	{
 		culture = hawaiian
 		religion = animist
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = hawaiian
 		religion = animist
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = hawaiian
 		religion = animist
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = hawaiian
 		religion = animist
 		size= 28
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 4
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 10
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 98
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 2
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -287,49 +287,49 @@
 
 }
 2540 = {
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 86
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 278
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 40
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 5
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 35
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -338,14 +338,14 @@
 
 }
 2541 = {
-	soldiers=
+	tribals=
 	{
 		culture = micronesian
 		religion = animist
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = micronesian
 		religion = animist
@@ -396,35 +396,35 @@
 
 }
 2542 = {
-	soldiers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 12
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 63
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 9
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 24
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
@@ -433,14 +433,14 @@
 
 }
 2543 = {
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 281
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -496,35 +496,35 @@
 		size= 2
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 173
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 56
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 8
 	}
 
-	officers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 9
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -533,14 +533,14 @@
 
 }
 2544 = {
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 45
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -582,35 +582,35 @@
 		size= 104
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 28
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 9
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -619,14 +619,14 @@
 
 }
 2545 = {
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 5
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -684,14 +684,14 @@
 
 }
 2546 = {
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 12
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -726,21 +726,21 @@
 		size= 25
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 7
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -749,14 +749,14 @@
 
 }
 2547 = {
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 7
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -784,21 +784,21 @@
 		size= 16
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 4
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -807,42 +807,42 @@
 
 }
 2548 = {
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 13
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 43
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 6
 	}
 
-	officers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 5
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -851,35 +851,35 @@
 
 }
 2551 = {
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 28
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 6
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -937,14 +937,14 @@
 
 }
 2552 = {
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -974,35 +974,35 @@
 
 }
 2553 = {
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 33
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 7
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -1060,7 +1060,7 @@
 
 }
 2623 = {
-	farmers=
+	tribals=
 	{
 		culture = hawaiian
 		religion = animist
@@ -1069,28 +1069,28 @@
 
 	artisans=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = noculture
-		religion = noreligion
+		culture = vinlander
+		religion = laeradr
 		size= 16
 	}
 
 }
 3249 = {
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -1104,7 +1104,7 @@
 		size= 4
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -1113,14 +1113,14 @@
 
 }
 3319 = {
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -1150,14 +1150,14 @@
 
 }
 3320 = {
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -1187,14 +1187,14 @@
 
 }
 3321 = {
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -1224,14 +1224,14 @@
 
 }
 3322 = {
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist

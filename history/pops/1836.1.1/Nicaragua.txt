@@ -129,14 +129,14 @@
 
 }
 2199 = {
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 40
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
@@ -278,14 +278,14 @@
 		size= 93
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist

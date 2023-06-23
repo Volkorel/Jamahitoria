@@ -20,98 +20,98 @@
 		size= 1
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = inuit
 		religion = norse_pagan_reformed
 		size= 6
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = inuit
 		religion = norse_pagan_reformed
 		size= 25
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = inuit
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = inuit
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = inuit
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = inuit
 		religion = norse_pagan_reformed
 		size= 10
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = inuit
 		religion = norse_pagan_reformed
 		size= 638
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = inuit
 		religion = noreligion
 		size= 4
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = inuit
 		religion = noreligion
 		size= 20
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = inuit
 		religion = noreligion
 		size= 3
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = inuit
 		religion = noreligion
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = inuit
 		religion = noreligion
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = inuit
 		religion = noreligion
 		size= 9
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = inuit
 		religion = noreligion
@@ -127,70 +127,70 @@
 		size= 31
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = inuit
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = inuit
 		religion = norse_pagan_reformed
 		size= 9
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = inuit
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = inuit
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = inuit
 		religion = norse_pagan_reformed
 		size= 212
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = inuit
 		religion = noreligion
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = inuit
 		religion = noreligion
 		size= 7
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = inuit
 		religion = noreligion
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = inuit
 		religion = noreligion
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = inuit
 		religion = noreligion

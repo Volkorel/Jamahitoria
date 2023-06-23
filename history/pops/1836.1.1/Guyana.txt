@@ -1,12 +1,12 @@
 1979 = {
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 6
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -99,14 +99,14 @@
 		size= 3319
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 97
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -220,14 +220,14 @@
 
 }
 2242 = {
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 13
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -292,7 +292,7 @@
 		size= 1805
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist

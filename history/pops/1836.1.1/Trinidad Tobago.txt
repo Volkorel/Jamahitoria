@@ -6,21 +6,21 @@
 		size= 2071
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 64
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 15
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -34,49 +34,49 @@
 		size= 244
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 8
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 30
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 7
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 1
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -90,42 +90,42 @@
 		size= 430
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = protestant
 		size= 13
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = guajiro
 		religion = protestant
 		size= 61
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = guajiro
 		religion = protestant
 		size= 3
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = guajiro
 		religion = protestant
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = guajiro
 		religion = protestant
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = guajiro
 		religion = protestant
@@ -239,7 +239,7 @@
 		size= 757
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -253,21 +253,21 @@
 		size= 90
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 2
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 5
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -281,28 +281,28 @@
 		size= 157
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = protestant
 		size= 5
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = guajiro
 		religion = protestant
 		size= 21
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = guajiro
 		religion = protestant
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = guajiro
 		religion = protestant

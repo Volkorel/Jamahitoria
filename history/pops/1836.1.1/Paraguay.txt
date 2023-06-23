@@ -1,19 +1,19 @@
 2337 = {
-	soldiers=
+	tribals=
 	{
 		culture = chacoan
 		religion = animist
 		size= 20
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chacoan
 		religion = animist
 		size= 687
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -71,14 +71,14 @@
 
 }
 2338 = {
-	soldiers=
+	tribals=
 	{
 		culture = chacoan
 		religion = animist
 		size= 27
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chacoan
 		religion = animist
@@ -143,14 +143,14 @@
 		size= 4336
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 1972
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -215,98 +215,98 @@
 
 }
 2340 = {
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 302
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 10157
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 215
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 35
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 45
 	}
 
-	officers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 11
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 5
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = catholic
 		size= 155
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = guarani
 		religion = catholic
 		size= 437
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = guarani
 		religion = catholic
 		size= 71
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = guarani
 		religion = catholic
 		size= 11
 	}
 
-	officers=
+	tribals=
 	{
 		culture = guarani
 		religion = catholic
 		size= 23
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = guarani
 		religion = catholic
 		size= 92
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = catholic
@@ -315,14 +315,14 @@
 
 }
 2341 = {
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 415
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -387,14 +387,14 @@
 		size= 1043
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 264
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -459,14 +459,14 @@
 
 }
 2343 = {
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 56
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist

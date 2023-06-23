@@ -1,12 +1,12 @@
 1 = {
-	soldiers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
@@ -55,14 +55,14 @@
 		size= 4
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = totemism
@@ -78,14 +78,14 @@
 
 }
 2 = {
-	soldiers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
@@ -127,7 +127,7 @@
 		size= 649
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = totemism
@@ -143,14 +143,14 @@
 
 }
 3 = {
-	soldiers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = totemism
 		size= 5
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = totemism
@@ -215,14 +215,14 @@
 
 }
 4 = {
-	soldiers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
@@ -273,14 +273,14 @@
 
 }
 5 = {
-	soldiers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = totemism
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = totemism
@@ -345,35 +345,35 @@
 		size= 40
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 35
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 27
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
@@ -387,42 +387,42 @@
 		size= 55
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 47
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 100
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 8
 	}
 
-	officers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 9
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
@@ -436,56 +436,56 @@
 		size= 6
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = catholic
 		size= 5
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = catholic
 		size= 44
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = catholic
 		size= 3
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = catholic
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = caddoan
 		religion = catholic
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = catholic
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = catholic
 		size= 53
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
@@ -501,28 +501,28 @@
 		size= 510
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 50
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 1962
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
@@ -587,14 +587,14 @@
 
 }
 78 = {
-	soldiers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 8
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
@@ -659,14 +659,14 @@
 
 }
 79 = {
-	soldiers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 12
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
@@ -722,7 +722,7 @@
 		size= 8
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
@@ -792,7 +792,7 @@
 		size= 246
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
@@ -801,14 +801,14 @@
 
 }
 80 = {
-	soldiers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
@@ -822,28 +822,28 @@
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
@@ -980,70 +980,70 @@
 
 }
 82 = {
-	soldiers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 8
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 771
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 7
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 32
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 5
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 12
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
@@ -1052,14 +1052,14 @@
 
 }
 83 = {
-	soldiers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
@@ -1117,14 +1117,14 @@
 
 }
 84 = {
-	soldiers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 14
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
@@ -1231,14 +1231,14 @@
 
 }
 85 = {
-	soldiers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 11
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
@@ -1296,21 +1296,21 @@
 
 }
 86 = {
-	soldiers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 57
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 566
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
@@ -1366,7 +1366,7 @@
 		size= 18412
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
@@ -1424,14 +1424,14 @@
 		size= 4245
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 21
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
@@ -1489,14 +1489,14 @@
 
 }
 88 = {
-	soldiers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 15
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
@@ -1545,14 +1545,14 @@
 		size= 7052
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 64
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
@@ -1573,77 +1573,77 @@
 		size= 224
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 4
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 21
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 3
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = penutian
 		religion = mahayana
 		size= 5
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = penutian
 		religion = mahayana
 		size= 26
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = penutian
 		religion = mahayana
 		size= 4
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = penutian
 		religion = mahayana
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = penutian
 		religion = mahayana
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = penutian
 		religion = mahayana
 		size= 5
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = penutian
 		religion = mahayana
@@ -1652,14 +1652,14 @@
 
 }
 89 = {
-	soldiers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 44
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
@@ -1731,14 +1731,14 @@
 
 }
 90 = {
-	soldiers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 35
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
@@ -1803,14 +1803,14 @@
 
 }
 91 = {
-	soldiers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 7
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
@@ -1824,14 +1824,14 @@
 		size= 6
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
@@ -1889,91 +1889,91 @@
 
 }
 92 = {
-	soldiers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 416
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 10
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 568
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 37
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 5
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 15
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 2
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 6
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 5
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -1982,14 +1982,14 @@
 
 }
 93 = {
-	soldiers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 11
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
@@ -2003,35 +2003,35 @@
 		size= 8
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 3
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 11
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
@@ -2095,21 +2095,21 @@
 96 = {
 }
 97 = {
-	soldiers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 19
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 1785
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = pueblo
 		religion = totemism
@@ -2123,49 +2123,49 @@
 		size= 71
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = pueblo
 		religion = totemism
 		size= 5
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = pueblo
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = pueblo
 		religion = totemism
 		size= 1
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 11
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
@@ -2178,28 +2178,28 @@
 99 = {
 }
 100 = {
-	soldiers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 21
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 222
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = navajo
 		religion = totemism
 		size= 37
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
@@ -2262,14 +2262,14 @@
 		size= 444
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 141
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = navajo
 		religion = totemism
@@ -2283,35 +2283,35 @@
 		size= 2
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 35
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 8
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 5
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
@@ -2320,42 +2320,42 @@
 
 }
 101 = {
-	soldiers=
+	tribals=
 	{
 		culture = navajo
 		religion = totemism
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = navajo
 		religion = totemism
 		size= 145
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = pueblo
 		religion = totemism
 		size= 557
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 58
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = navajo
 		religion = totemism
@@ -2369,14 +2369,14 @@
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 500
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = sonoran
 		religion = laeradr
@@ -2390,35 +2390,35 @@
 		size= 19
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = sonoran
 		religion = laeradr
 		size= 1
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = sonoran
 		religion = laeradr
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = sonoran
 		religion = laeradr
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sonoran
 		religion = laeradr
 		size= 133
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
@@ -2431,14 +2431,14 @@
 		religion = totemism
 		size= 88
 	}
-	soldiers=
+	tribals=
 	{
 		culture = pueblo
 		religion = totemism
 		size= 15
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
@@ -2454,21 +2454,21 @@
 
 }
 102 = {
-	soldiers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 62
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 1104
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = navajo
 		religion = totemism
@@ -2535,14 +2535,14 @@
 
 }
 104 = {
-	soldiers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 7
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
@@ -2593,56 +2593,56 @@
 
 }
 105 = {
-	soldiers=
+	tribals=
 	{
 		culture = pueblo
 		religion = totemism
 		size= 10
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = pueblo
 		religion = totemism
 		size= 39
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = pueblo
 		religion = totemism
 		size= 6
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = pueblo
 		religion = totemism
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = pueblo
 		religion = totemism
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = pueblo
 		religion = totemism
 		size= 8
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = pueblo
 		religion = totemism
 		size= 906
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
@@ -2684,77 +2684,77 @@
 		size= 2
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 21
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 8
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 112
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 5
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 3
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
@@ -2773,37 +2773,37 @@
 110 = {
 }
 111 = {
-	soldiers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 9
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 951
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 34
 	}
 
-	artisans=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 4
 	}
@@ -2815,21 +2815,21 @@
 		size= 6
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
@@ -2887,35 +2887,35 @@
 
 }
 112 = {
-	soldiers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 430
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 11
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 10
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
@@ -2929,14 +2929,14 @@
 		size= 3
 	}
 
-	artisans=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
@@ -2992,42 +2992,42 @@
 		size= 403
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 219
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = cree
 		religion = totemism
 		size= 16
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
@@ -3036,119 +3036,119 @@
 
 }
 113 = {
-	soldiers=
+	tribals=
 	{
 		culture = pueblo
 		religion = totemism
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = pueblo
 		religion = totemism
 		size= 243
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 59
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 69
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 363
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 31
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 9
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 6
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 3
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 467
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 8
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 4
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
@@ -3206,98 +3206,98 @@
 
 }
 114 = {
-	soldiers=
+	tribals=
 	{
 		culture = pueblo
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = pueblo
 		religion = totemism
 		size= 116
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 28
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 34
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 175
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 16
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 3
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
 		size= 226
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 5
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = penutian
 		religion = totemism
@@ -3348,42 +3348,42 @@
 
 }
 115 = {
-	soldiers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 5
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 584
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 11
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 2
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 18
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
@@ -3439,7 +3439,7 @@
 		size= 878
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = cree
 		religion = totemism
@@ -3497,35 +3497,35 @@
 
 }
 116 = {
-	soldiers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 6
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 723
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 157
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 6
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
@@ -3581,7 +3581,7 @@
 		size= 1538
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
@@ -3595,49 +3595,49 @@
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 1
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = cree
 		religion = totemism
 		size= 4
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = cree
 		religion = totemism
 		size= 18
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = cree
 		religion = totemism
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = cree
 		religion = totemism
 		size= 8
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = cree
 		religion = totemism
@@ -3646,63 +3646,63 @@
 
 }
 117 = {
-	soldiers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 6
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 591
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = cree
 		religion = totemism
 		size= 3
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 4
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 20
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
@@ -3760,70 +3760,70 @@
 
 }
 118 = {
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 450
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = cree
 		religion = totemism
 		size= 13
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 18
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 3
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 5
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
@@ -3881,28 +3881,28 @@
 
 }
 119 = {
-	soldiers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 542
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = cree
 		religion = totemism
 		size= 40
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
@@ -3916,28 +3916,28 @@
 		size= 4
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
@@ -3995,44 +3995,44 @@
 
 }
 120 = {
-	soldiers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 355
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 48
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 2
 	}
@@ -4086,35 +4086,35 @@
 		size= 1484
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 11
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 157
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 10
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
@@ -4123,56 +4123,56 @@
 
 }
 121 = {
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 471
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = cree
 		religion = totemism
 		size= 69
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 4
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
@@ -4230,91 +4230,91 @@
 
 }
 122 = {
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 556
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 16
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1268
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 8
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 4
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 70
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 29
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 14
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 11
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -4323,63 +4323,63 @@
 
 }
 123 = {
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 578
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 98
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 17
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 36
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 5
 	}
 
-	artisans=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 2
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
@@ -4437,49 +4437,49 @@
 
 }
 124 = {
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 296
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 4
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 10
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
@@ -4537,98 +4537,98 @@
 
 }
 125 = {
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 544
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 67
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 26
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 320
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 18
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 5
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 2
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 3
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 5
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
@@ -4686,84 +4686,84 @@
 
 }
 126 = {
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 7
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 17
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 7
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 780
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 13
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 63
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 10
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 27
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
@@ -4772,56 +4772,56 @@
 
 }
 127 = {
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 613
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 21
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 38
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 6
 	}
 
-	artisans=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
@@ -4877,7 +4877,7 @@
 		size= 1218
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
@@ -4886,28 +4886,28 @@
 
 }
 128 = {
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 127
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
@@ -4928,7 +4928,7 @@
 		size= 39
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
@@ -4979,63 +4979,63 @@
 
 }
 129 = {
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 116
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 2
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 10
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
@@ -5051,42 +5051,42 @@
 		size= 17
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 27
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1059
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 2
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 52
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 10
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
@@ -5100,56 +5100,56 @@
 		size= 26
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 43
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 189
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 13
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 35
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 1198
 	}
 
-	officers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
@@ -5165,21 +5165,21 @@
 		size= 18
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 8
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1133
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
@@ -5251,35 +5251,35 @@
 		size= 194
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 11
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 48
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 5
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
@@ -5293,49 +5293,49 @@
 		size= 301
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 17
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 197
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 14
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 19
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
@@ -5351,21 +5351,21 @@
 		size= 144
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 549
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
@@ -5428,42 +5428,42 @@
 		size= 2
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 10
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 21
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 3
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
@@ -5477,49 +5477,49 @@
 		size= 145
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 16
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 85
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 14
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 4
 	}
 
-	officers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 18
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
@@ -5535,14 +5535,14 @@
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 253
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
@@ -5591,21 +5591,21 @@
 		size= 5
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 7
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
@@ -5619,35 +5619,35 @@
 		size= 3
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 3
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 32
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 5
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
@@ -5656,198 +5656,198 @@
 
 }
 135 = {
-	soldiers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 569
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 39
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 55
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 4
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 2
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 1
 	}
 
-	soldiers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 8
 	}
 
-	clergymen=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 2
 	}
 
-	soldiers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = laeradr
 		size= 11
 	}
 
-	artisans=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = laeradr
 		size= 57
 	}
 
-	clergymen=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = laeradr
 		size= 9
 	}
 
-	bureaucrats=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = laeradr
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = laeradr
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = laeradr
 		size= 12
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = laeradr
 		size= 986
 	}
 
 }
 136 = {
-	soldiers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 17
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 1625
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 29
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 5
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 5
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = na_dene
 		religion = catholic
 		size= 24
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = na_dene
 		religion = catholic
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = na_dene
 		religion = catholic
 		size= 5
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = catholic
@@ -5882,56 +5882,56 @@
 		size= 2
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 3
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 19
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 3
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 275
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = na_dene
 		religion = catholic
@@ -5947,49 +5947,49 @@
 		size= 87
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 8
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 771
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 141
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 36
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 13
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
@@ -6003,112 +6003,112 @@
 		size= 136
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 13
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 158
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 11
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 15
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 987
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 2
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 3
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 31
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 2
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
@@ -6117,140 +6117,140 @@
 
 }
 138 = {
-	soldiers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 473
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 19
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 7
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 1
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 7
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 88
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 7
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 8
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 616
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 88
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 17
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
@@ -6321,14 +6321,14 @@
 		size= 6496
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 760
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
@@ -6342,56 +6342,56 @@
 		size= 8270
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = catholic
 		size= 1033
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = catholic
 		size= 9379
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = catholic
 		size= 1403
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = catholic
 		size= 947
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = catholic
 		size= 244
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = catholic
 		size= 108
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = catholic
 		size= 52
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = jewish
@@ -6407,49 +6407,49 @@
 		size= 10280
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 183
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 733
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 119
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 18
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 24
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 308
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
@@ -6465,14 +6465,14 @@
 		size= 1361
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 24
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
@@ -6487,49 +6487,49 @@
 		size= 5325
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 17
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 122
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 6
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 34
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
@@ -6543,98 +6543,98 @@
 		size= 964
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 18
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 369
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 17
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 4
 	}
 
-	officers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 103
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 285
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 80
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 1121
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 52
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 11
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 10
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 314
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
@@ -6650,49 +6650,49 @@
 		size= 1640
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 58
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 114
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 18
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 49
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
@@ -6706,49 +6706,49 @@
 		size= 2255
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 79
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 431
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 69
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 11
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 14
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 181
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
@@ -6757,98 +6757,98 @@
 
 }
 144 = {
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 15
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 30
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 5
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 13
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1438
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 22
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 117
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 19
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 49
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
@@ -6857,98 +6857,98 @@
 
 }
 145 = {
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 14
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 29
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 5
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 12
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 1368
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 22
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 115
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 19
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 48
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
@@ -6964,49 +6964,49 @@
 		size= 1089
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 177
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 354
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 58
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 9
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 12
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 149
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -7020,49 +7020,49 @@
 		size= 1610
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 262
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 1400
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 228
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 35
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 46
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 588
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
@@ -7071,98 +7071,98 @@
 
 }
 147 = {
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 19
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 39
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 6
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 16
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 1850
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 28
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 151
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 25
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 4
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 5
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 63
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
@@ -7178,49 +7178,49 @@
 		size= 883
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 29
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 59
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 10
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 25
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -7234,49 +7234,49 @@
 		size= 1960
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 65
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 320
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 52
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 8
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 10
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 134
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
@@ -7292,49 +7292,49 @@
 		size= 1159
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 54
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 108
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 18
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 45
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
@@ -7348,49 +7348,49 @@
 		size= 1684
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 79
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 422
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 69
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 11
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 14
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 177
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
@@ -7406,49 +7406,49 @@
 		size= 351
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 19
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 39
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 6
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 18
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
@@ -7462,147 +7462,147 @@
 		size= 564
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 29
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 155
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 23
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 4
 	}
 
-	officers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 6
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 72
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = laeradr
 		size= 2323
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 25
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 51
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 8
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 23
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 2154
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 42
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 220
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 33
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 6
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 8
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 102
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
@@ -7611,28 +7611,28 @@
 
 }
 151 = {
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 503
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 90
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -7688,105 +7688,105 @@
 		size= 2
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 268
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 7
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = caddoan
 		religion = totemism
 		size= 1
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 3
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 8
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 44
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 7
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 18
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
@@ -7795,91 +7795,91 @@
 
 }
 152 = {
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 7
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 13
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 6
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 651
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 11
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 61
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 10
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 25
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 1058
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
@@ -7888,70 +7888,70 @@
 
 }
 153 = {
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 9
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 996
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 17
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 51
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 4
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 6
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 3
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
@@ -8009,63 +8009,63 @@
 
 }
 154 = {
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 498
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 8
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 26
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 4
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
@@ -8123,58 +8123,58 @@
 
 }
 155 = {
-	soldiers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 426
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 78
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 34
 	}
 
-	artisans=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 4
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 1
 	}
@@ -8230,51 +8230,51 @@
 
 }
 156 = {
-	soldiers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 429
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 40
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 29
 	}
 
-	artisans=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 2
 	}
@@ -8328,7 +8328,7 @@
 		size= 411
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
@@ -8337,42 +8337,42 @@
 
 }
 157 = {
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 229
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 29
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 11
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
@@ -8428,28 +8428,28 @@
 		size= 1528
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 208
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
@@ -8458,28 +8458,28 @@
 
 }
 158 = {
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 102
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 9
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -8528,114 +8528,114 @@
 		size= 715
 	}
 
-	soldiers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 103
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 7
 	}
 
-	artisans=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 1
 	}
 
 }
 159 = {
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 7
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 777
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 217
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 6
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 3
 	}
 
-	artisans=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 3
 	}
 
-	clergymen=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 10
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
@@ -8693,42 +8693,42 @@
 
 }
 160 = {
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 215
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 47
 	}
 
-	artisans=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -8786,42 +8786,42 @@
 
 }
 161 = {
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 205
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 239
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 30
 	}
 
-	artisans=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
@@ -8877,21 +8877,21 @@
 		size= 1371
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -8900,70 +8900,70 @@
 
 }
 162 = {
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 442
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = plains_algonquian
 		religion = totemism
 		size= 21
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 35
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 4
 	}
 
-	artisans=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 6
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
@@ -9021,56 +9021,56 @@
 
 }
 163 = {
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 108
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 10904
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 35
 	}
 
-	soldiers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 167
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 73
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 30
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -9126,14 +9126,14 @@
 		size= 22618
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -9142,35 +9142,35 @@
 
 }
 164 = {
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 25
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 2881
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 29
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 9
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -9228,98 +9228,98 @@
 
 }
 165 = {
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 19
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 2008
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 211
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 16
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 6
 	}
 
-	soldiers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 6
 	}
 
-	clergymen=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 68
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -9377,98 +9377,98 @@
 
 }
 166 = {
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 19
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 9481
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 164
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 96
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 18
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 10
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 7
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 29
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 679
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 76
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 43
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 31
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 404
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
@@ -9477,203 +9477,203 @@
 
 }
 167 = {
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 21
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 2278
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 43
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 31
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 12
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 5
 	}
 
-	soldiers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 6
 	}
 
-	artisans=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 25
 	}
 
-	clergymen=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 4
 	}
 
-	bureaucrats=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 10
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 529
 	}
 
-	soldiers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = laeradr
 		size= 31
 	}
 
-	artisans=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = laeradr
 		size= 163
 	}
 
-	clergymen=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = laeradr
 		size= 26
 	}
 
-	bureaucrats=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = laeradr
 		size= 4
 	}
 
-	officers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = laeradr
 		size= 5
 	}
 
-	aristocrats=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = laeradr
 		size= 68
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = laeradr
 		size= 2821
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 1
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 23
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 113
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 18
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 47
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
@@ -9689,98 +9689,98 @@
 		size= 311
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 42
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 4081
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 6
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 650
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 77
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 27
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 12
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 32
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 4
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 12
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 1
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -9794,49 +9794,49 @@
 		size= 686
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 117
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 572
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 93
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 14
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 19
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 240
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
@@ -9845,98 +9845,98 @@
 
 }
 169 = {
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 150
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 14540
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 17
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1627
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 116
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 49
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 19
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 48
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 7
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 21
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 4
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -10001,77 +10001,77 @@
 		size= 590
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 138
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 12607
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 6
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 664
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 288
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 120
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 47
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 7
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -10085,49 +10085,49 @@
 		size= 1269
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 311
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 1533
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 249
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 38
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 50
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 644
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
@@ -10136,35 +10136,35 @@
 
 }
 171 = {
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1033
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1621
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 26
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 8
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -10222,56 +10222,56 @@
 
 }
 172 = {
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 72
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 7046
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 25
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 72
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 31
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 12
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 2
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -10329,49 +10329,49 @@
 
 }
 173 = {
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 48
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 4747
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 49
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 31
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 16
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -10429,35 +10429,35 @@
 
 }
 174 = {
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 10
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1368
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 13
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 5
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -10515,84 +10515,84 @@
 
 }
 175 = {
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 7
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 872
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 8
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 3
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = norse_pagan_reformed
 		size= 10
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = norse_pagan_reformed
 		size= 28
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = norse_pagan_reformed
 		size= 12
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = norse_pagan_reformed
@@ -10650,42 +10650,42 @@
 
 }
 176 = {
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 6
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 713
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 3
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 7
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -10743,42 +10743,42 @@
 
 }
 177 = {
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1033
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 487
 	}
 
-	farmers=
+	tribals=
 	{
-		culture = dakota
+		culture = cree
 		religion = totemism
 		size= 38
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 54
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 17
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -10834,14 +10834,14 @@
 		size= 1204
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -10850,147 +10850,147 @@
 
 }
 178 = {
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 116
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 11271
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 6
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 686
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 184
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 78
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 64
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 26
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 30
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 10
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 5
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 6
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 2
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 344
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 1627
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 264
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 41
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 53
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 683
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
@@ -10999,91 +10999,91 @@
 
 }
 179 = {
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 78
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 8023
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 76
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 23
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 32
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 60
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 63
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 21
 	}
 
-	officers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 27
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 5775
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -11139,105 +11139,105 @@
 		size= 22497
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 1
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 24
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 114
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 37
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 48
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 2129
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 256
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 1206
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 392
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 30
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 39
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 506
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
@@ -11246,49 +11246,49 @@
 
 }
 180 = {
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 105
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 106
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 10305
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 43
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 17
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -11346,91 +11346,91 @@
 
 }
 181 = {
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 65
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 6711
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 63
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 20
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 26
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 48
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 53
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 17
 	}
 
-	officers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 23
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 4832
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -11486,105 +11486,105 @@
 		size= 18814
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 1
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 20
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 96
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 31
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 40
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 1781
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 214
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 1008
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 328
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 25
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 33
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 423
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
@@ -11600,49 +11600,49 @@
 		size= 688
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 172
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 15885
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 170
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 70
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 55
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 4
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -11714,49 +11714,49 @@
 		size= 230
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 87
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 8733
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 92
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 39
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 30
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -11828,98 +11828,98 @@
 		size= 4312
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 163
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 5558
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 145
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 4652
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 68
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 17
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 237
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 39
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 58
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 10
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 5
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 18
 	}
 
-	officers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 8
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -11933,49 +11933,49 @@
 		size= 6996
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
 		size= 496
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
 		size= 1298
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
 		size= 211
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
 		size= 97
 	}
 
-	officers=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
 		size= 42
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
 		size= 318
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
@@ -12140,70 +12140,70 @@
 		size= 3204
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 274
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 11098
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 169
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 7039
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 272
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 67
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 44
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 20
 	}
 
-	officers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
@@ -12217,49 +12217,49 @@
 		size= 4652
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
 		size= 644
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
 		size= 1561
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
 		size= 254
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
 		size= 117
 	}
 
-	officers=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
 		size= 51
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
 		size= 382
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
@@ -12331,49 +12331,49 @@
 		size= 2808
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 46
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 92
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 15
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 39
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
@@ -12387,147 +12387,147 @@
 		size= 4391
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 66
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 357
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 58
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 9
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 12
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 150
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 4007
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 49
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 98
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 16
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 41
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 3229
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 82
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 426
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 69
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 11
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 14
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 179
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
@@ -12761,49 +12761,49 @@
 		size= 3334
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 133
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 267
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 43
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 7
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 9
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 112
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
@@ -12817,49 +12817,49 @@
 		size= 4699
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 188
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 1019
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 166
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 25
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 33
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 428
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
@@ -13103,49 +13103,49 @@
 		size= 12964
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 295
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 989
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 160
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 25
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 33
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 416
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
@@ -13159,49 +13159,49 @@
 		size= 3836
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 88
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 542
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 88
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 14
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 17
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 228
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
@@ -13217,49 +13217,49 @@
 		size= 11968
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 601
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 2773
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 129
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 27
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 41
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 666
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
@@ -13273,49 +13273,49 @@
 		size= 2323
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 117
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 815
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 38
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 8
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 12
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 196
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
@@ -13331,49 +13331,49 @@
 		size= 5378
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 101
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 203
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 33
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 5
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 7
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 85
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
@@ -13387,49 +13387,49 @@
 		size= 4813
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 91
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 566
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 92
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 14
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 18
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 238
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
@@ -13678,49 +13678,49 @@
 		size= 8097
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 1033
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 315
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 51
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 8
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 17
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 66
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
@@ -13734,49 +13734,49 @@
 		size= 9729
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
 		size= 4133
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
 		size= 1072
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
 		size= 174
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
 		size= 27
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
 		size= 56
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
 		size= 225
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
@@ -13792,35 +13792,35 @@
 		size= 2209
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 119
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 37
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 6
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 7
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
@@ -13834,49 +13834,49 @@
 		size= 833
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
 		size= 45
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
 		size= 149
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
 		size= 24
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
 		size= 7
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
 		size= 8
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
 		size= 31
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
@@ -13890,63 +13890,63 @@
 		size= 1441
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 77
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 160
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 26
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 8
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 8
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 34
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 1014
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
@@ -13964,7 +13964,7 @@
 		rebel_type = separatist_rebels
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
@@ -13973,42 +13973,42 @@
 		rebel_type = separatist_rebels
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 55
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 9
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 11
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
@@ -14024,7 +14024,7 @@
 		rebel_type = separatist_rebels
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
@@ -14033,42 +14033,42 @@
 		rebel_type = separatist_rebels
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 241
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 39
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 6
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 18
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
 		size= 51
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = laeradr
@@ -14082,49 +14082,49 @@
 		size= 796
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
 		size= 107
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
 		size= 215
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
 		size= 35
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
 		size= 6
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
 		size= 16
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
 		size= 45
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
@@ -14196,7 +14196,7 @@
 		size= 83
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
@@ -14210,21 +14210,21 @@
 		size= 4255
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
 		size= 16
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = muskogean
 		religion = catholic
@@ -14238,35 +14238,35 @@
 		size= 68
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = catholic
 		size= 10
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = carribean
 		religion = catholic
 		size= 7
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = carribean
 		religion = catholic
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = carribean
 		religion = catholic
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = catholic
@@ -14330,21 +14330,21 @@
 		size= 8659
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 1245
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
 		size= 1001
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
@@ -14358,7 +14358,7 @@
 		size= 27
 	}
 
-	officers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
@@ -14728,49 +14728,49 @@
 		size= 17479
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
 		size= 1688
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
 		size= 3146
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
 		size= 238
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = siouan
 		religion = meinwerkist
 		size= 110
 	}
 
-	officers=
+	tribals=
 	{
 		culture = siouan
 		religion = meinwerkist
 		size= 77
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
 		size= 717
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
@@ -14842,28 +14842,28 @@
 		size= 13234
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 581
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 4219
 	}
 
-	soldiers=
+	tribals=
 	{
-		culture = cherokee
+		culture = muskogean
 		religion = totemism
 		size= 883
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = cherokee
 		religion = totemism
@@ -14926,35 +14926,35 @@
 		size= 50
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 248
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 19
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 55
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 8
 	}
 
-	officers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
@@ -14968,133 +14968,133 @@
 		size= 18894
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = meinwerkist
 		size= 724
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = meinwerkist
 		size= 1413
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = siouan
 		religion = meinwerkist
 		size= 102
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = siouan
 		religion = meinwerkist
 		size= 47
 	}
 
-	officers=
+	tribals=
 	{
 		culture = siouan
 		religion = meinwerkist
 		size= 33
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = meinwerkist
 		size= 308
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = meinwerkist
 		size= 3765
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = cherokee
 		religion = totemism
 		size= 682
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = cherokee
 		religion = totemism
 		size= 49
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = cherokee
 		religion = totemism
 		size= 23
 	}
 
-	officers=
+	tribals=
 	{
-		culture = cherokee
+		culture = muskogean
 		religion = totemism
 		size= 16
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = cherokee
 		religion = totemism
 		size= 148
 	}
 
-	soldiers=
+	tribals=
 	{
-		culture = cherokee
+		culture = muskogean
 		religion = meinwerkist
 		size= 1367
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = cherokee
 		religion = meinwerkist
 		size= 2879
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = cherokee
 		religion = meinwerkist
 		size= 208
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = cherokee
 		religion = meinwerkist
 		size= 96
 	}
 
-	officers=
+	tribals=
 	{
-		culture = cherokee
+		culture = muskogean
 		religion = meinwerkist
 		size= 67
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = cherokee
 		religion = meinwerkist
 		size= 627
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = cherokee
 		religion = meinwerkist
@@ -15110,35 +15110,35 @@
 		size= 1706
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 109
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 3700
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 7
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 232
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
@@ -15210,42 +15210,42 @@
 		size= 2440
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 443
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 5465
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 77
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 922
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 13
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -15338,77 +15338,77 @@
 		size= 3854
 	}
 
-	soldiers=
+	tribals=
 	{
-		culture = cherokee
+		culture = muskogean
 		religion = totemism
 		size= 41
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = cherokee
 		religion = totemism
 		size= 205
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = cherokee
 		religion = totemism
 		size= 828
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 51
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = cherokee
 		religion = totemism
 		size= 15
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = cherokee
 		religion = totemism
 		size= 45
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 16
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 7
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = cherokee
 		religion = totemism
 		size= 7
 	}
 
-	officers=
+	tribals=
 	{
-		culture = cherokee
+		culture = muskogean
 		religion = totemism
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
@@ -15422,49 +15422,49 @@
 		size= 9769
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
 		size= 241
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
 		size= 1316
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
 		size= 95
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
 		size= 44
 	}
 
-	officers=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
 		size= 19
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
 		size= 287
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = laeradr
@@ -15529,98 +15529,98 @@
 		size= 4514
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 270
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 2667
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 392
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 3757
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 99
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 34
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 16
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 24
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 5
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 8
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 7
 	}
 
-	officers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 5
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -15748,14 +15748,14 @@
 		size= 9322
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 632
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -15818,119 +15818,119 @@
 		size= 81
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 750
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 7244
 	}
 
-	soldiers=
+	tribals=
 	{
-		culture = cherokee
+		culture = muskogean
 		religion = totemism
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = cherokee
 		religion = totemism
 		size= 36
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 4
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 240
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 39
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 58
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 52
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 9
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 5
 	}
 
-	officers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 13
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 22
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
@@ -16002,98 +16002,98 @@
 		size= 3296
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 65
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 24
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 1035
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 37
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 78
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 509
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 5
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 12
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 6
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 18
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -16107,49 +16107,49 @@
 		size= 6935
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 214
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 531
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 86
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 40
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 17
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 130
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
@@ -16258,14 +16258,14 @@
 		size= 4194
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 535
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -16279,49 +16279,49 @@
 		size= 4702
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 21
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 196
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 32
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 49
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 12
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -16342,7 +16342,7 @@
 		size= 898
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
@@ -16356,7 +16356,7 @@
 		size= 137
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
@@ -16370,7 +16370,7 @@
 		size= 44
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
@@ -16393,49 +16393,49 @@
 		size= 2577
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 117
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 264
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 19
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 6
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 58
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -16449,49 +16449,49 @@
 		size= 4260
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 194
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 1137
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 82
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 25
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 16
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 248
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
@@ -16507,49 +16507,49 @@
 		size= 4101
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 182
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 409
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 30
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 9
 	}
 
-	officers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 6
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 45
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
@@ -16621,14 +16621,14 @@
 		size= 938
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 71
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
@@ -16691,14 +16691,14 @@
 		size= 850
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 223
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -16714,49 +16714,49 @@
 		size= 411
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 136
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 6169
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 92
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 21
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 14
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 6
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -16770,49 +16770,49 @@
 		size= 402
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 134
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 360
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 59
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 27
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 12
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 88
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
@@ -16884,14 +16884,14 @@
 		size= 3735
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 207
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -16963,42 +16963,42 @@
 		size= 3394
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 424
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 4391
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 77
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 792
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 21
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -17070,98 +17070,98 @@
 		size= 898
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 65
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 24
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 2550
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 37
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 78
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 1392
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 5
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 12
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 6
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 18
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -17175,49 +17175,49 @@
 		size= 1891
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 214
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 531
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 86
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 40
 	}
 
-	officers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 17
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
 		size= 130
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = laeradr
@@ -17233,28 +17233,28 @@
 		size= 1155
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 266
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 2192
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 5
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
@@ -17326,28 +17326,28 @@
 		size= 1607
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 448
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 20433
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 26
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
@@ -17426,196 +17426,196 @@
 
 }
 224 = {
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 508
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 419
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 92
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 8025
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 372
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 287
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 63
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 5877
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 31
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 16
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 9
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 839
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 1771
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 128
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 67
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 41
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 386
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 11752
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 21
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 11
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 7
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 580
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 1216
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 88
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 46
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 28
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 265
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
@@ -17624,98 +17624,98 @@
 
 }
 225 = {
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 933
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 334
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 54
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 20
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 18
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 164
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 15148
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 1502
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 1406
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 228
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 84
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 74
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 689
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
@@ -17724,196 +17724,196 @@
 
 }
 226 = {
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 302
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 513
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 14223
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 56
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 36
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 17
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 7
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 144
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 493
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 36
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 16
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 7
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 54
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 6455
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 489
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 2864
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 207
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 95
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 41
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 312
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 20466
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 434
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 2299
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 166
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 77
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 33
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 250
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
@@ -17929,49 +17929,49 @@
 		size= 1117
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 452
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 451
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 74
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 27
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 15
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 221
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
@@ -17985,49 +17985,49 @@
 		size= 1816
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 733
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 1917
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 312
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 115
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 62
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
 		size= 939
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = laeradr
@@ -18036,49 +18036,49 @@
 
 }
 228 = {
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 243
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 22548
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 971
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 409
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 158
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 24
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
@@ -18094,14 +18094,14 @@
 		size= 638
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 124
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -18166,14 +18166,14 @@
 
 }
 230 = {
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 252
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -18231,14 +18231,14 @@
 
 }
 231 = {
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 216
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -18303,14 +18303,14 @@
 		size= 852
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 1694
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -18389,14 +18389,14 @@
 
 }
 233 = {
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 239
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -18454,98 +18454,98 @@
 
 }
 234 = {
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 547
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 1228
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 88
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 42
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 17
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 268
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 25130
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 1045
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 5933
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 428
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 198
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 86
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 1292
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
@@ -18554,49 +18554,49 @@
 
 }
 235 = {
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 792
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 3168
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 515
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 79
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 103
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 1331
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
@@ -18605,49 +18605,49 @@
 
 }
 236 = {
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 577
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 2307
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 749
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 58
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 75
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 969
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
@@ -18656,49 +18656,49 @@
 
 }
 237 = {
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 422
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 1690
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 275
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 42
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 55
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 710
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
@@ -18707,98 +18707,98 @@
 
 }
 238 = {
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 163
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 325
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 53
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 8
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 11
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 137
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 15562
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 521
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 2411
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 392
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 60
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 78
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
 		size= 1013
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = norse_pagan_reformed
@@ -18807,49 +18807,49 @@
 
 }
 239 = {
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 275
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 1099
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 179
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 27
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 36
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 462
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
@@ -18858,84 +18858,84 @@
 
 }
 240 = {
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 119
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 430
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 139
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 10
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 14
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 180
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 10985
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 4
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -19000,49 +19000,49 @@
 		size= 641
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 1346
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 481
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 78
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 24
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 25
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 118
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -19056,49 +19056,49 @@
 		size= 1350
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 2834
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 2505
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 407
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 125
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 132
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 614
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
@@ -19114,14 +19114,14 @@
 		size= 174
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 90
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -19186,98 +19186,98 @@
 
 }
 243 = {
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 1858
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 30301
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 663
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 162
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 107
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 52
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 35
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 4149
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 3627
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 589
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 290
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 190
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 889
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
@@ -19286,98 +19286,98 @@
 
 }
 244 = {
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 817
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 221
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 36
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 18
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 14
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 54
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 9879
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 1823
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 1206
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 196
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 97
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 75
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 296
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
@@ -19386,21 +19386,21 @@
 
 }
 245 = {
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 234
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 3845
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -19554,77 +19554,77 @@
 		size= 393
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 5
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 7
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 165
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 328
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 24
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 12
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 8
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 36
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
@@ -19633,49 +19633,49 @@
 
 }
 246 = {
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 369
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 12376
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 460
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 73
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 19
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 5
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -19733,98 +19733,98 @@
 
 }
 247 = {
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 159
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 15045
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 826
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 114
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 37
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 10
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 5
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 162
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 2804
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 130
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 36
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 26
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 393
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
@@ -19882,98 +19882,98 @@
 
 }
 248 = {
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 269
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 13116
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 689
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 95
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 31
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 8
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 8
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 170
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 1643
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 76
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 21
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 20
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
 		size= 230
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = laeradr
@@ -20031,14 +20031,14 @@
 
 }
 249 = {
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 214
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -20094,35 +20094,35 @@
 		size= 10333
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 124
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 6
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -20131,49 +20131,49 @@
 
 }
 250 = {
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 41
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 51
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 2
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 6
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
@@ -20238,42 +20238,42 @@
 		size= 1142
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 105
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eastern_algonquian
 		religion = totemism
 		size= 844
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 19
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 152
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
 		size= 5
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = central_algonquian
 		religion = totemism
@@ -20345,7 +20345,7 @@
 		size= 5977
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = muskogean
 		religion = totemism
@@ -20459,30 +20459,30 @@
 		size= 3136
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 443
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 350
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = siouan
 		religion = totemism
 		size= 4844
 	}
 
-	soldiers=
+	tribals=
 	{
-		culture = cherokee
+		culture = muskogean
 		religion = totemism
 		size= 209
 	}
@@ -20592,70 +20592,70 @@
 		size= 9868
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = cherokee
 		religion = totemism
 		size= 12
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = cherokee
 		religion = totemism
 		size= 4
 	}
 
-	officers=
+	tribals=
 	{
-		culture = cherokee
+		culture = muskogean
 		religion = totemism
 		size= 4
 	}
 
-	soldiers=
+	tribals=
 	{
-		culture = cherokee
+		culture = muskogean
 		religion = laeradr
 		size= 325
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = cherokee
 		religion = laeradr
 		size= 679
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = cherokee
 		religion = laeradr
 		size= 49
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = cherokee
 		religion = laeradr
 		size= 18
 	}
 
-	officers=
+	tribals=
 	{
-		culture = cherokee
+		culture = muskogean
 		religion = laeradr
 		size= 16
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = cherokee
 		religion = laeradr
 		size= 148
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = cherokee
 		religion = laeradr
@@ -20664,14 +20664,14 @@
 
 }
 2599 = {
-	soldiers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = totemism
@@ -20722,49 +20722,49 @@
 
 }
 2627 = {
-	soldiers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 222
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 890
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 145
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 22
 	}
 
-	officers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 29
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
 		size= 374
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = iroquoian
 		religion = totemism
@@ -20773,14 +20773,14 @@
 
 }
 2630 = {
-	soldiers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
@@ -20824,14 +20824,14 @@
 
 }
 2631 = {
-	soldiers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = totemism
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = totemism
@@ -20889,28 +20889,28 @@
 
 }
 2662 = {
-	soldiers=
+	tribals=
 	{
 		culture = navajo
 		religion = totemism
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = navajo
 		religion = totemism
 		size= 75
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = pueblo
 		religion = totemism
 		size= 204
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sonoran
 		religion = totemism
@@ -20959,77 +20959,77 @@
 		size= 1
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 3
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 7
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 72
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
 		size= 14
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = na_dene
 		religion = totemism
 		size= 1
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = pueblo
 		religion = totemism
 		size= 6
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = pueblo
 		religion = totemism
 		size= 21
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = pueblo
 		religion = totemism
 		size= 2
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = pueblo
 		religion = totemism

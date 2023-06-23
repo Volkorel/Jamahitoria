@@ -10080,14 +10080,14 @@
 
 }
 1320 = {
-	soldiers=
+	tribals=
 	{
-		culture = filipino
+		culture = polynesian
 		religion = animist
 		size= 19
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist

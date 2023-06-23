@@ -1,47 +1,47 @@
 2454 = {
-	soldiers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 393
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 1860
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 270
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 18
 	}
 
-	officers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 24
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 696
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
@@ -50,49 +50,49 @@
 
 }
 2520 = {
-	soldiers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 36
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 168
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 24
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 63
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist

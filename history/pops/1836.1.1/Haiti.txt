@@ -6,7 +6,7 @@
 		size= 15889
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -71,7 +71,7 @@
 		size= 10404
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist

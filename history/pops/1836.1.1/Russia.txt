@@ -10074,70 +10074,70 @@
 
 }
 1073 = {
-	soldiers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 9
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 117
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 17
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
@@ -10209,84 +10209,84 @@
 
 }
 1074 = {
-	soldiers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 6
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 13
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 623
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 3
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 23
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 4
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 5
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
@@ -12829,49 +12829,49 @@
 
 }
 2616 = {
-	soldiers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 47
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 7
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
@@ -13036,28 +13036,28 @@
 
 }
 2618 = {
-	soldiers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 2
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 2
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
@@ -13326,49 +13326,49 @@
 
 }
 2633 = {
-	soldiers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 45
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 6
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
@@ -13433,70 +13433,70 @@
 
 }
 2634 = {
-	soldiers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 2
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 3
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 143
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 6
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
@@ -13505,84 +13505,84 @@
 
 }
 2637 = {
-	soldiers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 5
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 9
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 432
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 2
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 17
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 6
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 5
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
@@ -13591,14 +13591,14 @@
 
 }
 2638 = {
-	soldiers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
@@ -15112,49 +15112,49 @@
 
 }
 2663 = {
-	soldiers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
 		size= 45
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 6
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = eskaleut
 		religion = shinto
@@ -15256,35 +15256,35 @@
 
 }
 2666 = {
-	aristocrats=
+	tribals=
 	{
 		culture = inuit
 		religion = animist
 		size= 2
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = inuit
 		religion = animist
 		size= 3
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = inuit
 		religion = animist
 		size= 4
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = inuit
 		religion = animist
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = inuit
 		religion = animist

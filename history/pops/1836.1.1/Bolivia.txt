@@ -1,96 +1,96 @@
 2310 = {
-	soldiers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 2078
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 1485
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 241
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 38
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 78
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 623
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 69695
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 764
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 2576
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 418
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 64
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 135
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 1081
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
@@ -99,14 +99,14 @@
 
 }
 2311 = {
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 981
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -164,98 +164,98 @@
 
 }
 2312 = {
-	soldiers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 172
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 123
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 20
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 6
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 26
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 5776
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 92
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 254
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 41
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 6
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 13
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 53
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
@@ -264,98 +264,98 @@
 
 }
 2313 = {
-	soldiers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 1033
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 470
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 76
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 11
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 25
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 99
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 21769
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 227
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 794
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 129
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 20
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 42
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 167
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
@@ -364,98 +364,98 @@
 
 }
 2314 = {
-	soldiers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 13433
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 416
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 68
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 14
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 22
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 87
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 6746
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 224
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 736
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 120
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 26
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 38
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 154
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
@@ -464,98 +464,98 @@
 
 }
 2315 = {
-	soldiers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 275
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 197
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 32
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 5
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 10
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 41
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 9279
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 85
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 318
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 52
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 8
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 17
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 67
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
@@ -564,14 +564,14 @@
 
 }
 2316 = {
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 46
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -629,14 +629,14 @@
 
 }
 2317 = {
-	soldiers=
+	tribals=
 	{
 		culture = amazonian
 		religion = animist
 		size= 61
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = amazonian
 		religion = animist
@@ -694,14 +694,14 @@
 
 }
 2318 = {
-	soldiers=
+	tribals=
 	{
 		culture = chacoan
 		religion = animist
 		size= 42
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chacoan
 		religion = animist
@@ -759,14 +759,14 @@
 
 }
 2319 = {
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 256
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -824,14 +824,14 @@
 
 }
 2320 = {
-	soldiers=
+	tribals=
 	{
 		culture = amazonian
 		religion = animist
 		size= 37
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = amazonian
 		religion = animist
@@ -889,14 +889,14 @@
 
 }
 2321 = {
-	soldiers=
+	tribals=
 	{
 		culture = amazonian
 		religion = animist
 		size= 87
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = amazonian
 		religion = animist

@@ -6,49 +6,49 @@
 		size= 1302
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 561
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 1329
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 96
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 21
 	}
 
-	officers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 25
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 145
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
@@ -62,49 +62,49 @@
 		size= 2907
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 4133
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 7265
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 525
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 113
 	}
 
-	officers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 137
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 791
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
@@ -120,21 +120,21 @@
 		size= 216
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 46
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 4506
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
@@ -206,98 +206,98 @@
 
 }
 2249 = {
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 119
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 298
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 14
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 18
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 3799
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 272
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 1660
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 77
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 12
 	}
 
-	officers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 25
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 100
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
@@ -306,21 +306,21 @@
 
 }
 2250 = {
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 64
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 6392
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
@@ -378,21 +378,21 @@
 
 }
 2251 = {
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 52
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 1066
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -448,98 +448,98 @@
 		size= 13
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 228
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 347
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 16
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 6
 	}
 
-	officers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 7
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 24
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 4330
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 4133
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 1935
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 90
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 33
 	}
 
-	officers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 40
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 135
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
@@ -555,14 +555,14 @@
 		size= 2306
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 355
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
@@ -632,14 +632,14 @@
 		size= 660
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 102
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -655,14 +655,14 @@
 		size= 1492
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 72
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -676,7 +676,7 @@
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
@@ -748,14 +748,14 @@
 		size= 4414
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 213
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -769,14 +769,14 @@
 		size= 290
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 14
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
@@ -848,14 +848,14 @@
 		size= 1703
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 100
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
@@ -925,14 +925,14 @@
 		size= 3131
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 182
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -946,14 +946,14 @@
 		size= 22
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -969,14 +969,14 @@
 		size= 711
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 152
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -990,14 +990,14 @@
 		size= 6
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
@@ -1062,140 +1062,140 @@
 
 }
 2257 = {
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 93
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 3291
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 1443
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 40
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 74
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 25
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 31
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 10
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 12
 	}
 
-	officers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 1
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 3
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 323
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 561
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 91
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 14
 	}
 
-	officers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 29
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 236
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
@@ -1211,14 +1211,14 @@
 		size= 1648
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 73
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -1232,7 +1232,7 @@
 		size= 15
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
@@ -1297,21 +1297,21 @@
 
 }
 2259 = {
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 31
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 1169
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
@@ -1367,14 +1367,14 @@
 		size= 409
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 101
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -1383,21 +1383,21 @@
 
 }
 2260 = {
-	soldiers=
+	tribals=
 	{
 		culture = maranon
 		religion = animist
 		size= 14
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = maranon
 		religion = animist
 		size= 495
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
@@ -1453,28 +1453,28 @@
 		size= 17
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 47
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 1622
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 26
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -1483,21 +1483,21 @@
 
 }
 2261 = {
-	soldiers=
+	tribals=
 	{
 		culture = maranon
 		religion = animist
 		size= 7
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = maranon
 		religion = animist
 		size= 278
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
@@ -1553,28 +1553,28 @@
 		size= 8
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 26
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 908
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 14
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -1590,14 +1590,14 @@
 		size= 239
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 33
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -1667,14 +1667,14 @@
 		size= 845
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 118
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -1683,14 +1683,14 @@
 
 }
 2263 = {
-	soldiers=
+	tribals=
 	{
 		culture = maranon
 		religion = animist
 		size= 16
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = maranon
 		religion = animist
@@ -1746,14 +1746,14 @@
 		size= 3
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 9
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist

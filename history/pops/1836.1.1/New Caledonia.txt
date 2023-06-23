@@ -1,12 +1,12 @@
 1097 = {
-	soldiers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 21
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist

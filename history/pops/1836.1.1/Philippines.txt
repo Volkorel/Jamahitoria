@@ -6,49 +6,49 @@
 		size= 12765
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 3487
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 13208
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 1227
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 293
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 198
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 2377
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
@@ -62,49 +62,49 @@
 		size= 6814
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 1861
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 12926
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 1200
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 286
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 194
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 2327
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
@@ -118,42 +118,42 @@
 		size= 113
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 31
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 1901
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 177
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 42
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 29
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
@@ -167,49 +167,49 @@
 		size= 1673
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = mahayana
 		size= 457
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = mahayana
 		size= 1142
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = mahayana
 		size= 106
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = mahayana
 		size= 25
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = mahayana
 		size= 17
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = mahayana
 		size= 206
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = filipino
 		religion = mahayana
@@ -225,49 +225,49 @@
 		size= 19198
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 2920
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 10220
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 474
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 168
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 94
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 920
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
@@ -281,42 +281,42 @@
 		size= 565
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 86
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 10821
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 503
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 177
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 101
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
@@ -332,49 +332,49 @@
 		size= 10124
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 7839
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 2799
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 455
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 105
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 147
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 882
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
@@ -388,42 +388,42 @@
 		size= 269
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 208
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 2948
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 479
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 111
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 155
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
@@ -432,189 +432,189 @@
 
 }
 1458 = {
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 943
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 3570
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 331
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 80
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 54
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 643
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 28037
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 504
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 3494
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 324
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 77
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 52
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 629
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 12888
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 8
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 514
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 48
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 11
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 8
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 92
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = mahayana
 		size= 124
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = mahayana
 		size= 309
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = mahayana
 		size= 29
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = mahayana
 		size= 7
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = mahayana
 		size= 5
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = mahayana
 		size= 56
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = filipino
 		religion = mahayana
@@ -623,189 +623,189 @@
 
 }
 1459 = {
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = shiite
 		size= 210
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = shiite
 		size= 150
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = shiite
 		size= 28
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = shiite
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = shiite
 		size= 8
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = shiite
 		size= 94
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = filipino
 		religion = shiite
 		size= 7000
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 60
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 235
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 44
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 12
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 148
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 1629
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 277
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 198
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 37
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 10
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 125
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 9260
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 10
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 212
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 40
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 11
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
@@ -821,49 +821,49 @@
 		size= 6872
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 1651
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 1136
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 184
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 40
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 45
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 715
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
@@ -877,49 +877,49 @@
 		size= 2779
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 667
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 2178
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 353
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 76
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 87
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 1372
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
@@ -935,49 +935,49 @@
 		size= 9827
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 2383
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 3404
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 553
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 171
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 136
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 1429
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
@@ -993,49 +993,49 @@
 		size= 9636
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 1618
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 4044
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 216
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 26
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 60
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 364
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
@@ -1049,49 +1049,49 @@
 		size= 2251
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 378
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 4509
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 242
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 29
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 68
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 406
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
@@ -1105,49 +1105,49 @@
 		size= 853
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 143
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 2140
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 115
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 14
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 32
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 193
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
@@ -1156,98 +1156,98 @@
 
 }
 1463 = {
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 4133
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 1586
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 132
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 8
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 37
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 148
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = filipino
 		religion = animist
 		size= 24479
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 228
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 1891
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 158
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 11
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 44
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 176
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
@@ -1263,84 +1263,84 @@
 		size= 2040
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = shiite
 		size= 958
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = shiite
 		size= 1198
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = shiite
 		size= 56
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = shiite
 		size= 20
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = shiite
 		size= 18
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = shiite
 		size= 108
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = filipino
 		religion = shiite
 		size= 12715
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 1198
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 56
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 20
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
 		size= 18
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = shinto
@@ -1356,49 +1356,49 @@
 		size= 7681
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 2272
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 7304
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 528
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 114
 	}
 
-	officers=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 130
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu
 		size= 1023
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = filipino
 		religion = hindu

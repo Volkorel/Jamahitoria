@@ -1,12 +1,12 @@
 2201 = {
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 24
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
@@ -64,14 +64,14 @@
 
 }
 2202 = {
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 9
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
@@ -129,14 +129,14 @@
 
 }
 2203 = {
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 5
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist

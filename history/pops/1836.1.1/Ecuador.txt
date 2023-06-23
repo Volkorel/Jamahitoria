@@ -6,49 +6,49 @@
 		size= 3617
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 1065
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 761
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 124
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 19
 	}
 
-	officers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 40
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 160
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
@@ -62,49 +62,49 @@
 		size= 3625
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 1067
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 2285
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 371
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 57
 	}
 
-	officers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 120
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 480
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
@@ -120,49 +120,49 @@
 		size= 1509
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 270
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 193
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 31
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 5
 	}
 
-	officers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 10
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 61
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
@@ -176,49 +176,49 @@
 		size= 1722
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 308
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 634
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 103
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 16
 	}
 
-	officers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 33
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 200
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
@@ -234,49 +234,49 @@
 		size= 4708
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 294
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 159
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 26
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 4
 	}
 
-	officers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 10
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 33
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
@@ -290,49 +290,49 @@
 		size= 5438
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 339
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 525
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 85
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 13
 	}
 
-	officers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 33
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 110
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
@@ -341,147 +341,147 @@
 
 }
 2282 = {
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 1033
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 416
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 30
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 5
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 10
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 78
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 16909
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 426
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 1100
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 79
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 12
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 26
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 205
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 13349
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = noreligion
 		size= 197
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = noreligion
 		size= 2149
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = noreligion
 		size= 155
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = noreligion
 		size= 24
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = noreligion
 		size= 50
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = noreligion
 		size= 401
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = noreligion
@@ -490,98 +490,98 @@
 
 }
 2283 = {
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 1033
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 435
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 71
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 11
 	}
 
-	officers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 23
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 91
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = inti
 		size= 20088
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 599
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 1291
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 210
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 32
 	}
 
-	officers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 68
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
 		size= 271
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = noreligion
@@ -590,14 +590,14 @@
 
 }
 2284 = {
-	soldiers=
+	tribals=
 	{
 		culture = maranon
 		religion = animist
 		size= 26
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = maranon
 		religion = animist
@@ -655,7 +655,7 @@
 
 }
 2285 = {
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist

@@ -1,12 +1,12 @@
 610 = {
-	soldiers=
+	tribals=
 	{
 		culture = micronesian
 		religion = animist
 		size= 6
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = micronesian
 		religion = animist
@@ -134,7 +134,7 @@
 
 }
 1654 = {
-	farmers=
+	tribals=
 	{
 		culture = micronesian
 		religion = animist
@@ -150,14 +150,14 @@
 
 }
 2517 = {
-	soldiers=
+	tribals=
 	{
 		culture = micronesian
 		religion = animist
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = micronesian
 		religion = animist
@@ -215,14 +215,14 @@
 
 }
 2518 = {
-	soldiers=
+	tribals=
 	{
 		culture = micronesian
 		religion = animist
 		size= 8
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = micronesian
 		religion = animist
@@ -280,14 +280,14 @@
 
 }
 2519 = {
-	soldiers=
+	tribals=
 	{
 		culture = micronesian
 		religion = animist
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = micronesian
 		religion = animist
@@ -338,14 +338,14 @@
 
 }
 2521 = {
-	soldiers=
+	tribals=
 	{
 		culture = micronesian
 		religion = animist
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = micronesian
 		religion = animist
@@ -403,14 +403,14 @@
 
 }
 2522 = {
-	soldiers=
+	tribals=
 	{
 		culture = micronesian
 		religion = animist
 		size= 33
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = micronesian
 		religion = animist
@@ -468,14 +468,14 @@
 
 }
 2523 = {
-	soldiers=
+	tribals=
 	{
 		culture = micronesian
 		religion = animist
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = micronesian
 		religion = animist
@@ -526,7 +526,7 @@
 
 }
 2525 = {
-	farmers=
+	tribals=
 	{
 		culture = micronesian
 		religion = animist
@@ -542,14 +542,14 @@
 
 }
 2527 = {
-	soldiers=
+	tribals=
 	{
 		culture = micronesian
 		religion = animist
 		size= 79
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = micronesian
 		religion = animist
@@ -607,14 +607,14 @@
 
 }
 2579 = {
-	soldiers=
+	tribals=
 	{
 		culture = micronesian
 		religion = animist
 		size= 7
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = micronesian
 		religion = animist

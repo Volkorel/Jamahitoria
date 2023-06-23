@@ -1,12 +1,12 @@
 2193 = {
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 402
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
@@ -62,49 +62,49 @@
 		size= 32
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = zapotec
 		religion = catholic
 		size= 465
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = zapotec
 		religion = catholic
 		size= 1284
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = zapotec
 		religion = catholic
 		size= 209
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = zapotec
 		religion = catholic
 		size= 64
 	}
 
-	officers=
+	tribals=
 	{
 		culture = zapotec
 		religion = catholic
 		size= 67
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = zapotec
 		religion = catholic
 		size= 270
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = zapotec
 		religion = catholic
@@ -213,14 +213,14 @@
 
 }
 2195 = {
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 4133
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
@@ -325,126 +325,126 @@
 		size= 2586
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 8
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 1
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 2
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = catholic
 		size= 22
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = chibchan
 		religion = catholic
 		size= 13
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = chibchan
 		religion = catholic
 		size= 2
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = catholic
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = chibchan
 		religion = catholic
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = chibchan
 		religion = catholic
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = catholic
 		size= 436
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = zapotec
 		religion = catholic
 		size= 6
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = zapotec
 		religion = catholic
 		size= 24
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = zapotec
 		religion = catholic
 		size= 4
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = zapotec
 		religion = catholic
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = zapotec
 		religion = catholic
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = zapotec
 		religion = catholic
 		size= 7
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = zapotec
 		religion = catholic
@@ -453,14 +453,14 @@
 
 }
 2196 = {
-	soldiers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
 		size= 27
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = chibchan
 		religion = animist
@@ -523,49 +523,49 @@
 		size= 2
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = zapotec
 		religion = catholic
 		size= 31
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = zapotec
 		religion = catholic
 		size= 84
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = zapotec
 		religion = catholic
 		size= 14
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = zapotec
 		religion = catholic
 		size= 4
 	}
 
-	officers=
+	tribals=
 	{
 		culture = zapotec
 		religion = catholic
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = zapotec
 		religion = catholic
 		size= 18
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = zapotec
 		religion = catholic

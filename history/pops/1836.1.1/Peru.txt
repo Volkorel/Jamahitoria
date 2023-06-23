@@ -1,12 +1,12 @@
 2286 = {
-	soldiers=
+	tribals=
 	{
 		culture = maranon
 		religion = animist
 		size= 169
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = maranon
 		religion = animist
@@ -64,98 +64,98 @@
 
 }
 2287 = {
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 53
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 38
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 6
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 8
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 1775
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 25
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 73
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 12
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 15
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
@@ -164,14 +164,14 @@
 
 }
 2288 = {
-	soldiers=
+	tribals=
 	{
 		culture = maranon
 		religion = animist
 		size= 10
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = maranon
 		religion = animist
@@ -229,14 +229,14 @@
 
 }
 2289 = {
-	soldiers=
+	tribals=
 	{
 		culture = maranon
 		religion = animist
 		size= 16
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = maranon
 		religion = animist
@@ -292,14 +292,14 @@
 		size= 3
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 9
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -357,98 +357,98 @@
 
 }
 2290 = {
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 797
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 569
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 93
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 15
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 30
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 239
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 26723
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 278
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 967
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 157
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 24
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 51
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 406
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
@@ -464,49 +464,49 @@
 		size= 1458
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 98
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 98
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 16
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 21
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
@@ -520,49 +520,49 @@
 		size= 399
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 27
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 152
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 25
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 4
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 5
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 32
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
@@ -576,49 +576,49 @@
 		size= 248
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = jewish
 		size= 17
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = jewish
 		size= 317
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = jewish
 		size= 52
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = jewish
 		size= 8
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = jewish
 		size= 10
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = jewish
 		size= 67
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = jewish
@@ -634,49 +634,49 @@
 		size= 1218
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 103
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 103
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 17
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 22
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
@@ -690,49 +690,49 @@
 		size= 360
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 30
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 164
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 27
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 4
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 5
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 34
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
@@ -746,49 +746,49 @@
 		size= 317
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = jewish
 		size= 27
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = jewish
 		size= 375
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = jewish
 		size= 61
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = jewish
 		size= 9
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = jewish
 		size= 12
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = jewish
 		size= 79
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = jewish
@@ -797,98 +797,98 @@
 
 }
 2293 = {
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 385
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 274
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 45
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 7
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 15
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 115
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 12879
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 152
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 491
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 80
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 12
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 25
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 206
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
@@ -897,98 +897,98 @@
 
 }
 2294 = {
-	soldiers=
+	tribals=
 	{
 		culture = maranon
 		religion = inti
 		size= 46
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = maranon
 		religion = inti
 		size= 91
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = maranon
 		religion = inti
 		size= 15
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = maranon
 		religion = inti
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = maranon
 		religion = inti
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = maranon
 		religion = inti
 		size= 19
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = maranon
 		religion = inti
 		size= 4377
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = maranon
 		religion = catholic
 		size= 18
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = maranon
 		religion = catholic
 		size= 163
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = maranon
 		religion = catholic
 		size= 26
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = maranon
 		religion = catholic
 		size= 4
 	}
 
-	officers=
+	tribals=
 	{
 		culture = maranon
 		religion = catholic
 		size= 5
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = maranon
 		religion = catholic
 		size= 34
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = maranon
 		religion = catholic
@@ -1004,49 +1004,49 @@
 		size= 4141
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 669
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 1338
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 217
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 33
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 43
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 281
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
@@ -1060,49 +1060,49 @@
 		size= 1151
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 186
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 2082
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 338
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 52
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 68
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 437
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
@@ -1111,98 +1111,98 @@
 
 }
 2296 = {
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 303
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 216
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 35
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 5
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 11
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 45
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 10188
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 113
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 379
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 62
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 10
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 20
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 79
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
@@ -1218,14 +1218,14 @@
 		size= 212
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 54
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
@@ -1297,49 +1297,49 @@
 		size= 973
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 170
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 280
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 46
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 10
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 9
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 58
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
@@ -1353,49 +1353,49 @@
 		size= 318
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 55
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 469
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 76
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 16
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 15
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 98
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
@@ -1409,49 +1409,49 @@
 		size= 60
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = jewish
 		size= 11
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = jewish
 		size= 192
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = jewish
 		size= 31
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = jewish
 		size= 7
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = jewish
 		size= 6
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = jewish
 		size= 40
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = jewish
@@ -1460,98 +1460,98 @@
 
 }
 2299 = {
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 559
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 400
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 65
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 10
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 21
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 168
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 18758
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 193
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 675
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 110
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 17
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 35
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 284
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
@@ -1560,112 +1560,112 @@
 
 }
 2300 = {
-	soldiers=
+	tribals=
 	{
 		culture = maranon
 		religion = inti
 		size= 115
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = maranon
 		religion = inti
 		size= 82
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = maranon
 		religion = inti
 		size= 13
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = maranon
 		religion = inti
 		size= 4
 	}
 
-	officers=
+	tribals=
 	{
 		culture = maranon
 		religion = inti
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = maranon
 		religion = inti
 		size= 17
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = maranon
 		religion = inti
 		size= 3884
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = maranon
 		religion = catholic
 		size= 46
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = maranon
 		religion = catholic
 		size= 149
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = maranon
 		religion = catholic
 		size= 24
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = maranon
 		religion = catholic
 		size= 7
 	}
 
-	officers=
+	tribals=
 	{
 		culture = maranon
 		religion = catholic
 		size= 8
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = maranon
 		religion = catholic
 		size= 31
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = maranon
 		religion = catholic
 		size= 1396
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = amazonian
 		religion = inti
 		size= 128
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = amazonian
 		religion = inti
@@ -1723,182 +1723,182 @@
 
 }
 2301 = {
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 49
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 35
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 11
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 7
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 1634
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 15
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 57
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 18
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 12
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 444
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 12
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 9
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 417
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 5
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 16
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 5
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
@@ -1914,49 +1914,49 @@
 		size= 2991
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 956
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 683
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 222
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 31
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 36
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 143
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
@@ -1970,49 +1970,49 @@
 		size= 949
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 303
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 1117
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 363
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 50
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 59
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 234
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
@@ -2026,49 +2026,49 @@
 		size= 760
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 243
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 174
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 56
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 8
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 9
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 36
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
@@ -2082,49 +2082,49 @@
 		size= 323
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 103
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 321
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 104
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 14
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 17
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 67
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
@@ -2133,210 +2133,210 @@
 
 }
 2303 = {
-	soldiers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 175
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 125
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 21
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 7
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 7
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 26
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 5891
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 82
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 242
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 39
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 12
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 13
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 51
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aimara
 		religion = catholic
 		size= 2495
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 1033
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 152
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 25
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 8
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 8
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 32
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = inti
 		size= 6333
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 103
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 299
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 49
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 15
 	}
 
-	officers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 16
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 63
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = quechua
 		religion = catholic
 		size= 3138
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = amazonian
 		religion = animist
 		size= 63
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = amazonian
 		religion = animist
@@ -2394,14 +2394,14 @@
 
 }
 2304 = {
-	soldiers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 64
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
@@ -2466,14 +2466,14 @@
 		size= 655
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 82
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti

@@ -6,14 +6,14 @@
 		size= 4322
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 347
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -85,14 +85,14 @@
 		size= 361
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 40
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -106,7 +106,7 @@
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -178,21 +178,21 @@
 		size= 461
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 89
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 1758
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -262,7 +262,7 @@
 		size= 173
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -390,21 +390,21 @@
 		size= 231
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 38
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 40
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -418,63 +418,63 @@
 		size= 120
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 21
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 109
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 470
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 5
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 13
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 2
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 5
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -488,49 +488,49 @@
 		size= 660
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = noreligion
 		size= 113
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = carribean
 		religion = noreligion
 		size= 714
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = carribean
 		religion = noreligion
 		size= 33
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = carribean
 		religion = noreligion
 		size= 10
 	}
 
-	officers=
+	tribals=
 	{
 		culture = carribean
 		religion = noreligion
 		size= 11
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = carribean
 		religion = noreligion
 		size= 86
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = noreligion
@@ -546,14 +546,14 @@
 		size= 611
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 103
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -567,7 +567,7 @@
 		size= 6
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -695,14 +695,14 @@
 		size= 235
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 57
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -716,14 +716,14 @@
 		size= 30
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 8
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -851,14 +851,14 @@
 		size= 2733
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 193
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -872,14 +872,14 @@
 		size= 30
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -972,14 +972,14 @@
 		size= 723
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 162
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -1049,14 +1049,14 @@
 		size= 495
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 109
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -1072,14 +1072,14 @@
 		size= 534
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 51
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -1149,14 +1149,14 @@
 		size= 715
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 69
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -1284,14 +1284,14 @@
 		size= 1270
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 210
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -1305,14 +1305,14 @@
 		size= 9
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -1440,21 +1440,21 @@
 		size= 407
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 91
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 2761
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -1582,14 +1582,14 @@
 		size= 125
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 97
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -1603,14 +1603,14 @@
 		size= 6
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -1682,14 +1682,14 @@
 		size= 1148
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 164
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -1810,14 +1810,14 @@
 
 }
 2277 = {
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 30
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
@@ -1875,14 +1875,14 @@
 
 }
 2278 = {
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 12
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist

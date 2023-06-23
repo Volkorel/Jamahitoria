@@ -6,14 +6,14 @@
 		size= 1454
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 51
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -27,7 +27,7 @@
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -92,14 +92,14 @@
 
 }
 2401 = {
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 13
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -155,14 +155,14 @@
 		size= 5
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 26
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -171,14 +171,14 @@
 
 }
 2402 = {
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 42
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -234,14 +234,14 @@
 		size= 124
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 87
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -250,14 +250,14 @@
 
 }
 2403 = {
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 9
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -313,14 +313,14 @@
 		size= 3
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 17
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -329,14 +329,14 @@
 
 }
 2404 = {
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -378,14 +378,14 @@
 		size= 7
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 9
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -408,14 +408,14 @@
 
 }
 2405 = {
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 12
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -471,14 +471,14 @@
 		size= 5
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 26
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -487,14 +487,14 @@
 
 }
 2407 = {
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -536,14 +536,14 @@
 		size= 7
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 9
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -566,14 +566,14 @@
 
 }
 2408 = {
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 7
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -638,35 +638,35 @@
 		size= 2184
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 80
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 5360
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 467
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 86
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -729,14 +729,14 @@
 		size= 3753
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 9
 	}
 
-	officers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -752,14 +752,14 @@
 		size= 354
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 17
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -824,14 +824,14 @@
 
 }
 2412 = {
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 7
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -889,14 +889,14 @@
 
 }
 2413 = {
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 10
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -961,21 +961,21 @@
 		size= 31
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 7
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guajiro
 		religion = animist
 		size= 649
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -1040,14 +1040,14 @@
 
 }
 2416 = {
-	soldiers=
+	tribals=
 	{
 		culture = amazonian
 		religion = animist
 		size= 87
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = amazonian
 		religion = animist
@@ -1103,14 +1103,14 @@
 		size= 12
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 76
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -1168,14 +1168,14 @@
 
 }
 2417 = {
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 18
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -1231,28 +1231,28 @@
 		size= 12
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = amazonian
 		religion = animist
 		size= 56
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = amazonian
 		religion = animist
 		size= 1959
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 24
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -1261,14 +1261,14 @@
 
 }
 2418 = {
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 1033
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -1375,14 +1375,14 @@
 
 }
 2419 = {
-	soldiers=
+	tribals=
 	{
 		culture = amazonian
 		religion = animist
 		size= 16
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = amazonian
 		religion = animist
@@ -1438,14 +1438,14 @@
 		size= 2
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 14
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -1503,14 +1503,14 @@
 
 }
 2420 = {
-	soldiers=
+	tribals=
 	{
 		culture = amazonian
 		religion = animist
 		size= 39
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = amazonian
 		religion = animist
@@ -1566,14 +1566,14 @@
 		size= 32
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 34
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -1638,14 +1638,14 @@
 		size= 2496
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 1033
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -1717,14 +1717,14 @@
 
 }
 2422 = {
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 26
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -1831,14 +1831,14 @@
 
 }
 2423 = {
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 33
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -1894,7 +1894,7 @@
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -1950,7 +1950,7 @@
 		size= 4
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -1966,14 +1966,14 @@
 		size= 8684
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 230
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -1987,84 +1987,84 @@
 		size= 497
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 9
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 694
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 209
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 2373
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 13
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 110
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 141
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 9
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 3
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 33
 	}
 
-	officers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 22
 	}
 
-	officers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -2129,28 +2129,28 @@
 
 }
 2425 = {
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 1033
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 5477
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 103
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -2206,70 +2206,70 @@
 		size= 127
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 335
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 35
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 24
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 31
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 2
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 3
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 7
 	}
 
-	officers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -2285,14 +2285,14 @@
 		size= 3928
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 1033
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -2306,14 +2306,14 @@
 		size= 97
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 7
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -2427,21 +2427,21 @@
 
 }
 2427 = {
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 106
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 3723
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -2546,7 +2546,7 @@
 		size= 4603
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -2562,14 +2562,14 @@
 		size= 508
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 65
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -2639,14 +2639,14 @@
 		size= 487
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 62
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -2662,14 +2662,14 @@
 		size= 3929
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 1033
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -2790,14 +2790,14 @@
 		size= 1232
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 89
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -2811,14 +2811,14 @@
 		size= 76
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 5
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -2939,14 +2939,14 @@
 		size= 3012
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 185
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -3067,14 +3067,14 @@
 		size= 4651
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 246
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -3146,14 +3146,14 @@
 		size= 2598
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 122
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -3167,14 +3167,14 @@
 		size= 355
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 16
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -3246,14 +3246,14 @@
 		size= 2842
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 189
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -3325,49 +3325,49 @@
 		size= 13103
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 845
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 2721
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 12781
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 507
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 197
 	}
 
-	officers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 63
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -3383,14 +3383,14 @@
 		size= 8721
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 226
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -3460,7 +3460,7 @@
 		size= 8
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -3476,14 +3476,14 @@
 		size= 7736
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 376
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -3497,14 +3497,14 @@
 		size= 161
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 6
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -3576,14 +3576,14 @@
 		size= 5269
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 344
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -3655,49 +3655,49 @@
 		size= 5809
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 82
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 166
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 2234
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 26
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 34
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 8
 	}
 
-	officers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -3711,49 +3711,49 @@
 		size= 19392
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 277
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 1274
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 207
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 64
 	}
 
-	officers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 41
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 268
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -3769,14 +3769,14 @@
 		size= 4068
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 55
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -3790,14 +3790,14 @@
 		size= 3263
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 44
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -3869,14 +3869,14 @@
 		size= 10624
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 225
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -3890,14 +3890,14 @@
 		size= 585
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 12
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -3969,49 +3969,49 @@
 		size= 20241
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 329
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 10642
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 1322
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 214
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 278
 	}
 
-	officers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 43
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -4027,14 +4027,14 @@
 		size= 5577
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 92
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -4106,14 +4106,14 @@
 		size= 3554
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 218
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -4185,14 +4185,14 @@
 		size= 4289
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 203
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -4206,7 +4206,7 @@
 		size= 10
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -4278,14 +4278,14 @@
 		size= 5436
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 90
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -4299,14 +4299,14 @@
 		size= 38
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -4320,14 +4320,14 @@
 		size= 368
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 236
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -4399,14 +4399,14 @@
 		size= 21537
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 1537
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -4420,14 +4420,14 @@
 		size= 834
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 59
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -4441,14 +4441,14 @@
 		size= 87
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 6
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -4520,14 +4520,14 @@
 		size= 4934
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 267
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -4541,14 +4541,14 @@
 		size= 117
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 8
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -4620,49 +4620,49 @@
 		size= 21587
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 390
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 13369
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 3310
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 309
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 238
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 37
 	}
 
-	officers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -4676,42 +4676,42 @@
 		size= 200
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 4
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 254
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 18
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -4727,14 +4727,14 @@
 		size= 12649
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 262
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -4748,14 +4748,14 @@
 		size= 828
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 19
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -4827,14 +4827,14 @@
 		size= 5141
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 210
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -4848,14 +4848,14 @@
 		size= 253
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 10
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -4927,14 +4927,14 @@
 		size= 2182
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 58
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -4948,7 +4948,7 @@
 		size= 5
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -5020,35 +5020,35 @@
 		size= 123
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 9
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 16
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -5062,56 +5062,56 @@
 		size= 161
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 71
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 12
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 15
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 961
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 1
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 12
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -5127,14 +5127,14 @@
 		size= 2751
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 56
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
@@ -5148,14 +5148,14 @@
 		size= 181
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 194
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -5227,35 +5227,35 @@
 		size= 123
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 9
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 16
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = je
 		religion = animist
@@ -5269,56 +5269,56 @@
 		size= 161
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 71
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 12
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 15
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 961
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = je
 		religion = animist
 		size= 1
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 12
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -5334,14 +5334,14 @@
 		size= 5228
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 181
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -5413,14 +5413,14 @@
 		size= 1628
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 146
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -5492,14 +5492,14 @@
 		size= 2027
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 75
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -5571,14 +5571,14 @@
 		size= 1848
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 231
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -5699,14 +5699,14 @@
 		size= 3042
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 111
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -5778,14 +5778,14 @@
 		size= 3550
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 100
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -5857,14 +5857,14 @@
 		size= 4803
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 573
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -5936,14 +5936,14 @@
 		size= 1478
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 114
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -6015,14 +6015,14 @@
 		size= 2101
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 328
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -6094,14 +6094,14 @@
 		size= 2231
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 230
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -6166,14 +6166,14 @@
 
 }
 2467 = {
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 92
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -6231,14 +6231,14 @@
 
 }
 2532 = {
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 13
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -6296,14 +6296,14 @@
 
 }
 2549 = {
-	soldiers=
+	tribals=
 	{
 		culture = amazonian
 		religion = animist
 		size= 46
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = amazonian
 		religion = animist
@@ -6361,14 +6361,14 @@
 
 }
 2550 = {
-	soldiers=
+	tribals=
 	{
 		culture = amazonian
 		religion = animist
 		size= 50
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = amazonian
 		religion = animist
@@ -6426,14 +6426,14 @@
 
 }
 2600 = {
-	soldiers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist
 		size= 10
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tupinamba
 		religion = animist

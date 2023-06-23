@@ -488,14 +488,6 @@ barbarian = {
 	leader = european
 	unit = PrussianGC
 	
-	anglo_saxon = {
-		color = { 230 110 60 }
-		
-		first_names = { "Adelfrid" "Adelmar" "Adelstan" "Aethelstan" "Alfric" "Alfwine" "Ceadda" "Cenric" "Cola" "Cynebald" "Cynefrith" "Cyneric" "Cyneweard" "Ealhstan" "Ecgberht" "Eoforwine" "Gladwine" "Hildrad" "Hrodulf" "Hrothgar" "Leofric" "Leofsige" "Leofwine" "Oswine" "Sawine" "Wigberht" "Wigmund" "Wigstan" "Wilfrid" "Wine" }
-		
-		last_names = { "Aelfwig" "Alfstan" "Athelred" "Auchenceter" "Auchterworthy" "Bloccsham" "Brownlowe" "Burgwine" "Cerdic" "Coldren" "Cuthberht" "Cwmcott" "Ecgred" "Estmund" "Gardyner" "Glover" "Godwinsson" "Gorbold" "Hrothsige" "Hwitmann" "Lea" "Leofwine" "Purcell" "Unred" "Wolfsige" "Wulfstan" "Wyndham" "Wynstan" "Wyther" }
-		
-	}
 	frankish = {
 		color = { 200 100 100 }
 		
@@ -695,6 +687,23 @@ british = {
 		first_names = { "Albert" "Alexander" "Alfred" "Archibald" "Arthur" "Augustus" "Benjamin" "Bernard" "Charles" "Colbert" "Colin" "Cyril" "David" "Donald" "Douglas" "Edmund" "Edwar" "Fairfax" "Ferdinand" "Francis" "Frederick" "Geoffrey" "George" "Graham" "Henrey" "Herbert" "Horatio" "Hubert" "Hugh" "Ian" "James" "Jeremy" "John" "Joseph" "Leopold" "Lester" "Louis" "Martin" "Nigel" "Oswald" "Percy" "Reginald" "Richard" "Robert" "Russell" "Stanley" "Thomas" "Wallace" "William" "Winston" "Zachary" }
 		
 		last_names = { "Allenby" "Battemberg" "Beatty" "Beresford" "Brown" "Buller" "Butler" "Campbell" "Cardigan" "Churchill" "Cochrane" "Cockburn" "de Robeck" "Dundas" "Fisher" "French" "Gough" "Grant" "Grenfell" "Haig" "Hamilton" "Hardinge" "Havelock" "Hope" "Jellicoe" "Kitchener" "Lyons" "Madden" "Milne" "Montgomery" "Moresby" "Mundy" "Napier" "Odoni" "of Hannover" "of Saxe-Coburg-Gotha" "Plummer" "Ragland" "Roberts" "Seaton" "Seymour" "Smith" "Smith-Dorrien" "Stewart" "Thesiger" "Tyron" "Tyrwhitt" "Williams" "Windsor" "Wolseley" "Wood" }
+		
+	}
+	anglo_saxon = {
+		color = { 230 110 60 }
+		
+		first_names = { "Adelfrid" "Adelmar" "Adelstan" "Aethelstan" "Alfric" "Alfwine" "Ceadda" "Cenric" "Cola" "Cynebald" "Cynefrith" "Cyneric" "Cyneweard" "Ealhstan" "Ecgberht" "Eoforwine" "Gladwine" "Hildrad" "Hrodulf" "Hrothgar" "Leofric" "Leofsige" "Leofwine" "Oswine" "Sawine" "Wigberht" "Wigmund" "Wigstan" "Wilfrid" "Wine" }
+		
+		last_names = { "Aelfwig" "Alfstan" "Athelred" "Auchenceter" "Auchterworthy" "Bloccsham" "Brownlowe" "Burgwine" "Cerdic" "Coldren" "Cuthberht" "Cwmcott" "Ecgred" "Estmund" "Gardyner" "Glover" "Godwinsson" "Gorbold" "Hrothsige" "Hwitmann" "Lea" "Leofwine" "Purcell" "Unred" "Wolfsige" "Wulfstan" "Wyndham" "Wynstan" "Wyther" }
+		
+	}
+	concordian = {
+		color = { 230 110 60 }
+		radicalism = 15
+		union = CNC
+		first_names = { "Adelfrid" "Adelmar" "Adelstan" "Aethelstan" "Alfric" "Alfwine" "Ceadda" "Cenric" "Cola" "Cynebald" "Cynefrith" "Cyneric" "Cyneweard" "Ealhstan" "Ecgberht" "Eoforwine" "Gladwine" "Hildrad" "Hrodulf" "Hrothgar" "Leofric" "Leofsige" "Leofwine" "Oswine" "Sawine" "Wigberht" "Wigmund" "Wigstan" "Wilfrid" "Wine" }
+		
+		last_names = { "Aelfwig" "Alfstan" "Athelred" "Auchenceter" "Auchterworthy" "Bloccsham" "Brownlowe" "Burgwine" "Cerdic" "Coldren" "Cuthberht" "Cwmcott" "Ecgred" "Estmund" "Gardyner" "Glover" "Godwinsson" "Gorbold" "Hrothsige" "Hwitmann" "Lea" "Leofwine" "Purcell" "Unred" "Wolfsige" "Wulfstan" "Wyndham" "Wynstan" "Wyther" }
 		
 	}
 	angloirish = {

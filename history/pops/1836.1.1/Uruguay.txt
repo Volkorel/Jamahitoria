@@ -6,14 +6,14 @@
 		size= 2403
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 293
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -78,14 +78,14 @@
 
 }
 2345 = {
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 48
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -143,14 +143,14 @@
 
 }
 2346 = {
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 33
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
@@ -208,14 +208,14 @@
 
 }
 2347 = {
-	soldiers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist
 		size= 69
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = guarani
 		religion = animist

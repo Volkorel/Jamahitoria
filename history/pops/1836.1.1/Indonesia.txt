@@ -4962,49 +4962,49 @@
 
 }
 1452 = {
-	soldiers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 78
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 1098
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 51
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 8
 	}
 
-	officers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 10
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 132
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
@@ -5013,49 +5013,49 @@
 
 }
 1453 = {
-	soldiers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 215
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 2997
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 139
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 22
 	}
 
-	officers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 27
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 360
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
@@ -5071,49 +5071,49 @@
 		size= 3456
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 372
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 5201
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 242
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 37
 	}
 
-	officers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 49
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 624
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
@@ -5122,49 +5122,49 @@
 
 }
 1560 = {
-	soldiers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 298
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 1194
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 194
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 30
 	}
 
-	officers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 38
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist
 		size= 502
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = melanesian
 		religion = animist

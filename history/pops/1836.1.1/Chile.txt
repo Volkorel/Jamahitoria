@@ -1,12 +1,12 @@
 2305 = {
-	soldiers=
+	tribals=
 	{
 		culture = aimara
 		religion = animist
 		size= 69
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aimara
 		religion = animist
@@ -64,14 +64,14 @@
 
 }
 2307 = {
-	soldiers=
+	tribals=
 	{
 		culture = aimara
 		religion = animist
 		size= 29
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aimara
 		religion = animist
@@ -129,14 +129,14 @@
 
 }
 2308 = {
-	soldiers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
 		size= 16
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aimara
 		religion = inti
@@ -194,14 +194,14 @@
 
 }
 2309 = {
-	soldiers=
+	tribals=
 	{
 		culture = aimara
 		religion = animist
 		size= 31
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aimara
 		religion = animist
@@ -259,21 +259,21 @@
 
 }
 2322 = {
-	soldiers=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
 		size= 95
 	}
 
-	craftsmen=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
 		size= 6654
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
@@ -352,14 +352,14 @@
 
 }
 2323 = {
-	soldiers=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
 		size= 269
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
@@ -417,14 +417,14 @@
 
 }
 2324 = {
-	soldiers=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
 		size= 1549
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
@@ -482,14 +482,14 @@
 
 }
 2325 = {
-	soldiers=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
 		size= 476
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
@@ -547,14 +547,14 @@
 
 }
 2326 = {
-	soldiers=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
 		size= 242
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
@@ -612,14 +612,14 @@
 
 }
 2327 = {
-	soldiers=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
 		size= 67
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
@@ -677,14 +677,14 @@
 
 }
 2328 = {
-	soldiers=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
 		size= 315
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
@@ -742,14 +742,14 @@
 
 }
 2329 = {
-	soldiers=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
 		size= 123
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
@@ -807,14 +807,14 @@
 
 }
 2330 = {
-	soldiers=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
 		size= 230
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
@@ -872,14 +872,14 @@
 
 }
 2331 = {
-	soldiers=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
 		size= 121
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
@@ -937,14 +937,14 @@
 
 }
 2332 = {
-	soldiers=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
 		size= 232
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = araucanian
 		religion = animist
@@ -1002,14 +1002,14 @@
 
 }
 2333 = {
-	soldiers=
+	tribals=
 	{
 		culture = patagonian
 		religion = animist
 		size= 24
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = patagonian
 		religion = animist
@@ -1067,14 +1067,14 @@
 
 }
 2334 = {
-	soldiers=
+	tribals=
 	{
 		culture = patagonian
 		religion = animist
 		size= 27
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = patagonian
 		religion = animist
@@ -1132,14 +1132,14 @@
 
 }
 2335 = {
-	soldiers=
+	tribals=
 	{
 		culture = patagonian
 		religion = animist
 		size= 7
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = patagonian
 		religion = animist

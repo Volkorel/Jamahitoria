@@ -1,47 +1,47 @@
 2509 = {
-	soldiers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 69
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 619
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 45
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 10
 	}
 
-	officers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 9
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 58
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
@@ -50,49 +50,49 @@
 
 }
 2510 = {
-	soldiers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 31
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 280
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 20
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 26
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
@@ -101,49 +101,49 @@
 
 }
 2511 = {
-	soldiers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 30
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 266
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 19
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 4
 	}
 
-	officers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 25
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
@@ -152,49 +152,49 @@
 
 }
 2512 = {
-	soldiers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 30
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 119
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 19
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 4
 	}
 
-	officers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 25
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
@@ -203,14 +203,14 @@
 
 }
 2513 = {
-	soldiers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
@@ -268,14 +268,14 @@
 
 }
 2514 = {
-	soldiers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
@@ -333,14 +333,14 @@
 
 }
 2515 = {
-	soldiers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 8
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
@@ -398,49 +398,49 @@
 
 }
 2516 = {
-	soldiers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 30
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 122
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 20
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 4
 	}
 
-	officers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 26
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
@@ -449,28 +449,28 @@
 
 }
 2524 = {
-	soldiers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 6
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 633
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = maori
 		religion = animist
@@ -528,49 +528,49 @@
 
 }
 2571 = {
-	soldiers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 19
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 174
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 13
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 16
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = maori
 		religion = animist

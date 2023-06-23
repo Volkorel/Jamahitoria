@@ -6,14 +6,14 @@
 		size= 1320
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
 		size= 43
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist
@@ -134,7 +134,7 @@
 		size= 223
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = carribean
 		religion = animist

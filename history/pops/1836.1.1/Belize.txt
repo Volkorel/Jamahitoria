@@ -6,49 +6,49 @@
 		size= 489
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = mayan
 		religion = mayan
 		size= 19
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = mayan
 		religion = mayan
 		size= 74
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = mayan
 		religion = mayan
 		size= 12
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = mayan
 		religion = mayan
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = mayan
 		religion = mayan
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = mayan
 		religion = mayan
 		size= 32
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = mayan
 		religion = mayan

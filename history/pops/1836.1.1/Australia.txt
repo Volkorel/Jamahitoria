@@ -1,54 +1,54 @@
 2468 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 48
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 6282
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 15
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 7
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 2
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = catholic
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = catholic
 		size= 16
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = catholic
@@ -62,21 +62,21 @@
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aborigine
 		religion = catholic
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = catholic
 		size= 7
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = catholic
@@ -134,56 +134,56 @@
 
 }
 2469 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 12
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 1663
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = catholic
 		size= 4
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = catholic
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = catholic
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = catholic
@@ -241,21 +241,21 @@
 
 }
 2470 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 10
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 1561
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -311,14 +311,14 @@
 		size= 2
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 10
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -332,7 +332,7 @@
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -341,42 +341,42 @@
 
 }
 2471 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 770
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = catholic
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = catholic
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = catholic
@@ -434,14 +434,14 @@
 
 }
 2472 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 14
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -497,21 +497,21 @@
 		size= 2
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 49
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 21
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -525,7 +525,7 @@
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -534,14 +534,14 @@
 
 }
 2473 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 12
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -599,35 +599,35 @@
 
 }
 2474 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 14
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 1494
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 64
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 27
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -641,7 +641,7 @@
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -650,35 +650,35 @@
 
 }
 2475 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 21
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 2487
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 106
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 45
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -692,7 +692,7 @@
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -701,35 +701,35 @@
 
 }
 2476 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 23
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 2794
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 120
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 38
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -743,7 +743,7 @@
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -752,35 +752,35 @@
 
 }
 2477 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 10
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 967
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 10
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -838,14 +838,14 @@
 
 }
 2478 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 8
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -903,35 +903,35 @@
 
 }
 2479 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 14
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 1611
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 69
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 29
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -945,7 +945,7 @@
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -954,35 +954,35 @@
 
 }
 2480 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 6
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 851
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 36
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 11
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -996,7 +996,7 @@
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -1005,14 +1005,14 @@
 
 }
 2481 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -1070,14 +1070,14 @@
 
 }
 2482 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 49
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -1133,28 +1133,28 @@
 		size= 5
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 161
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 52
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 67
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -1170,42 +1170,42 @@
 
 }
 2483 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 5
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 777
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 19
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 8
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -1263,35 +1263,35 @@
 
 }
 2484 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 792
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 9
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 3
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -1349,14 +1349,14 @@
 
 }
 2485 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -1414,14 +1414,14 @@
 
 }
 2486 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 5
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -1477,21 +1477,21 @@
 		size= 2
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 17
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 7
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -1500,56 +1500,56 @@
 
 }
 2487 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 824
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 15
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = catholic
 		size= 15
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = catholic
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = catholic
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = catholic
@@ -1607,35 +1607,35 @@
 
 }
 2488 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 1033
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 1383
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 79
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 33
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -1649,7 +1649,7 @@
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -1707,42 +1707,42 @@
 
 }
 2489 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 423
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 7
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = catholic
 		size= 8
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = catholic
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = catholic
@@ -1800,14 +1800,14 @@
 
 }
 2490 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -1865,35 +1865,35 @@
 
 }
 2491 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 17
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 2248
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 76
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 32
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -1907,7 +1907,7 @@
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -1965,35 +1965,35 @@
 
 }
 2492 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 496
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 10
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -2051,35 +2051,35 @@
 
 }
 2493 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 473
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 5
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -2137,35 +2137,35 @@
 
 }
 2494 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 496
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 10
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -2223,35 +2223,35 @@
 
 }
 2495 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 444
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 8
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -2309,35 +2309,35 @@
 
 }
 2496 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 478
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 10
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -2395,35 +2395,35 @@
 
 }
 2497 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 14
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 1709
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 62
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 9
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -2481,35 +2481,35 @@
 
 }
 2498 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 22
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 2387
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 102
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 43
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -2523,7 +2523,7 @@
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -2532,14 +2532,14 @@
 
 }
 2499 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 3
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -2597,35 +2597,35 @@
 
 }
 2500 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 7
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 748
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 32
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 13
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -2639,7 +2639,7 @@
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -2648,21 +2648,21 @@
 
 }
 2501 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 440
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -2720,14 +2720,14 @@
 
 }
 2502 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -2778,42 +2778,42 @@
 
 }
 2503 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 5
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 523
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 22
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 9
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -2822,35 +2822,35 @@
 
 }
 2504 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 7
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 789
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 33
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 13
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -2864,7 +2864,7 @@
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -2873,21 +2873,21 @@
 
 }
 2505 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 17
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 71
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -2901,21 +2901,21 @@
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 29
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -2973,21 +2973,21 @@
 
 }
 2506 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 7
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 26
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -3001,21 +3001,21 @@
 		size= 1
 	}
 
-	officers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 10
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -3073,35 +3073,35 @@
 
 }
 2507 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 8
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -3145,35 +3145,35 @@
 
 }
 2508 = {
-	soldiers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 2
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 22
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 2
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = maori
 		religion = animist
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = maori
 		religion = animist
@@ -3182,7 +3182,7 @@
 
 }
 2601 = {
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -3226,7 +3226,7 @@
 
 }
 2602 = {
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -3270,28 +3270,28 @@
 
 }
 2603 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 1
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -3335,35 +3335,35 @@
 
 }
 2604 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 816
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 14
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 6
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
@@ -3421,14 +3421,14 @@
 
 }
 2605 = {
-	soldiers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist
 		size= 1
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = aborigine
 		religion = animist

@@ -6,49 +6,49 @@
 		size= 9157
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 8667
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 932
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 44
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 21
 	}
 
-	officers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 13
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 84
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -281,28 +281,28 @@
 
 }
 2406 = {
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 391
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 41
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 4
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -498,7 +498,7 @@
 		size= 3969
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -514,42 +514,42 @@
 		size= 9157
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 1492
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 160
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 7
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 15
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -780,7 +780,7 @@
 		size= 7181
 	}
 
-	officers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
@@ -789,49 +789,49 @@
 
 }
 2681 = {
-	soldiers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 9419
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 1014
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 47
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 22
 	}
 
-	officers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 15
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
 		size= 91
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = polynesian
 		religion = animist
