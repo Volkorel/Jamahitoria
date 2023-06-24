@@ -456,7 +456,12 @@ colonialmigration_chance =
         factor = 0.2
         country = { penal_system = colonial_transportation }
     }
-
+    modifier = {
+        factor = 5.0
+        country = {
+            has_country_flag = new_world_nation
+        }
+    }
     group = {
         modifier = {
             factor = 0.3
@@ -617,7 +622,6 @@ emigration_chance =
         factor = -1.0
         country = {
             has_country_flag = new_world_nation
-            government = democracy
         }
     }
 

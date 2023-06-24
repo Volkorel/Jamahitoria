@@ -116,7 +116,7 @@ instigators = {
 
     local_ruling_party_support = -0.05
     pop_consciousness_modifier = 0.01
-    icon = 11
+    icon = 10
 
     trigger = {
         owner = { vote_franschise = none_voting }
@@ -130,7 +130,7 @@ kleptocrats = {
 
     middle_everyday_needs = -0.05
     poor_everyday_needs = 0.1
-    icon = 12
+    icon = 11
 
     trigger = {
         owner = { vote_franschise = none_voting }
@@ -146,9 +146,75 @@ liutprandian_mafia = {
     local_factory_output = -0.15
     local_artisan_output = -0.15
     boost_strongest_party = 1.0
-    icon = 13
+    icon = 12
 
     trigger = {
         any_pop = { has_pop_culture = beltramian }
+    }
+}
+
+puritan_control = {
+    active = yes
+    immigrant_attract = -0.15
+	population_growth = -0.15
+	poor_life_needs = 1.0
+    icon = 13
+
+    trigger = {
+        any_pop = { has_pop_religion = catholic }
+    }
+}
+
+rebellious_natives = {
+    active = yes
+	immigrant_attract = -0.15
+	assimilation_rate = -0.15
+	non_accepted_pop_militancy_modifier = 0.15
+    icon = 14
+
+    trigger = {
+        any_pop = { has_pop_type = tribals }
+    }
+}
+
+uncontrollable_jarls = {
+    active = yes
+    icon = 15
+    farm_rgo_size = -0.3
+    mine_rgo_size = -0.3
+    local_factory_output = -0.15
+    local_artisan_output = -0.15
+    trigger = {
+		is_culture_group = scandinavian
+		OR = {
+			any_pop = { has_pop_religion = laeradr }
+			any_pop = { has_pop_religion = norse_pagan_reformed }
+		}
+    }
+}
+
+unruly_samurai = {
+    active = yes
+    icon = 16
+    farm_rgo_size = -0.3
+    mine_rgo_size = -0.3
+    local_factory_output = -0.15
+    local_artisan_output = -0.15
+    trigger = {
+		OR = {
+			is_culture = japanese
+			is_culture = japanese_g_north_america_superregion_culture
+		}
+    }
+}
+
+mormon_prophet = {
+    active = yes
+    icon = 17
+	immigrant_attract = -0.15
+	assimilation_rate = -0.15
+	non_accepted_pop_militancy_modifier = 0.15
+    trigger = {
+		any_pop = { has_pop_religion = mormon }
     }
 }
