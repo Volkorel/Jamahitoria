@@ -1,4 +1,4 @@
-graphical_culture = UsGC
+graphical_culture = OttomanGC
 color = { 0 36 125 }
 
 party = {

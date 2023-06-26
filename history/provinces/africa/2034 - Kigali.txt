@@ -1,6 +1,7 @@
-owner=SWA
-controller=SWA
-add_core=SWA
+owner=BRD
+controller=BRD
+add_core=BRD
+add_core=RWA
 trade_goods = cattle
 life_rating = 10
 terrain = montane_forest

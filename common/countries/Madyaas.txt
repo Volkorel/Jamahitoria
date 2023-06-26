@@ -1,4 +1,4 @@
-graphical_culture = UsGC
+graphical_culture = ZuluGC
 color = { 208 145 55 }
 
 party = {

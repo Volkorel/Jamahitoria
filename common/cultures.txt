@@ -4780,7 +4780,7 @@ southern_african = {
 	}
 	herero = {
 		color = { 94 180 42 }
-		
+		union = HER
 		first_names = { "Samuel" "Andikan" "Amadi" "Aren" "Bahari" "Averey" "Bakari" "Bash" "Bayode" "Bitalo" "Chane" "Chata" "Dakarai" "Davu" "Dume" "Fabunni" "Gamba" "Genet" "Guban" "Hajari" "Haruni" "Ife" "Ilo" "Issay" "Jabari" "Jabilo" "Jaguan" "Kabili" "Kamwimbile" "Kasim" "Kenyi" "Khairi" "Makalo" "Mansa" "Morathi" "Musawenkosi" "Raimi" "Razi" "Reth" }
 		
 		last_names = { "Maharero" "Witbooi" "Tjavikwa" "Tjimba" "Hakawona" "vaKuvale" "vaZemba" }
@@ -4788,7 +4788,7 @@ southern_african = {
 	}
 	khoisan = {
 		color = { 122 46 133 }
-		
+		union = XHR
 		first_names = { "Naresib" "Gabeb" "Gorakhab" "Oasib" "Na-khom" "Tsawub" "Gaob" "Hanab" "O-Naib" "Khaub" "Khomab" "Hab" }
 		
 		last_names = { "Hamab" "Khomaa" "Khaumab" "O-Naimab" "Hanamab" "Gamab" "Nakhomab" "Manassee" "Oasmab" }
@@ -4820,7 +4820,7 @@ southern_african = {
 	}
 	nguni = {
 		color = { 76 73 172 }
-		
+		union = XHO
 		first_names = { "Kinjikitile" "Fambaltate" "Songea" "Ebabruma" "Mputa" "Mbemchapa" "Atepa" "Matola" "Magobi" "Rjoroza" "Wasesse" "Rinyizea" "Chapwanya" "Chakoma" "Kapola" "Kapungu" "Kindunda" "Kinjalla" "Kiwanga" "Mahengu" "Mburu" "Mhavanginonya" "Namkina" "Ngosingosi" "Schabruma" "Sentambandu" "Uawula" "Ulanga" }
 		
 		last_names = { "Ngwale" "Farhenga" "Chimai" "Amari" "Kwira" "Mtemi" "Hanga" "Mwanawalifa" "Mbano" }
@@ -4836,7 +4836,7 @@ southern_african = {
 	}
 	ovimbundu = {
 		color = { 91 63 231 }
-		
+		union = LUN
 		first_names = { "Kakembembe" "Ciponge" "Cikunyu" "Kinya" "Nguvenge" "Kayangula" "Kahala" "Cingi" "Ngelo" "Ciasungu" "Kapoko" "Vilombo" "Hungulu" "Livonge" "Wambu" }
 		
 		last_names = { "Vasovava" "Hundungulu" "Njambayamina" "Ndunduma" "Cilemo" "Kanene" "Kaneketela" "Yale" "Cinene" "Kiapungo" "Kacingangu" "Kapusukusu" "Cimbungu" }
@@ -4852,7 +4852,7 @@ southern_african = {
 	}
 	shona = {
 		color = { 98 134 18 }
-		
+		union = SHO
 		first_names = { "Zuka" "Sundai" "Tichawonna" "Sekayi" "Runako" "Petiri" "Pepukayi" "Mwanyisa" "Muchaneta" "Mashama" "Mboro" "Goredenna" "Gamba" "Chionesu" "Chinouyazue" "Banga" }
 		
 		last_names = { "Mzilikazi" "Lobengula" "Mlimo" "Soshangane" "Magaya" "Kwenda" "Muhuru" "Maraire" }
@@ -4860,7 +4860,7 @@ southern_african = {
 	}
 	sotho = {
 		color = { 42 121 176 }
-		
+		union = BSH
 		first_names = { "Letsie" "Andikan" "Amadi" "Aren" "Bahari" "Averey" "Bakari" "Bash" "Bayode" "Bitalo" "Chane" "Chata" "Dakarai" "Davu" "Dume" "Fabunni" "Gamba" "Genet" "Guban" "Hajari" "Haruni" "Ife" "Ilo" "Issay" "Jabari" "Jabilo" "Jaguan" "Kabili" "Kamwimbile" "Kasim" "Kenyi" "Khairi" "Makalo" "Mansa" "Morathi" "Musawenkosi" "Raimi" "Razi" "Reth" }
 		
 		last_names = { "Moshoeshoe" "Lerotholi" "Masopha" "Matsaba" "Leabua" "Mamohato" }
@@ -4868,7 +4868,7 @@ southern_african = {
 	}
 	southern_bantu = {
 		color = { 165 111 17 }
-		
+		union = LUN
 		first_names = { "Kinjikitile" "Fambaltate" "Songea" "Ebabruma" "Mputa" "Mbemchapa" "Atepa" "Matola" "Magobi" "Rjoroza" "Wasesse" "Rinyizea" "Chapwanya" "Chakoma" "Kapola" "Kapungu" "Kindunda" "Kinjalla" "Kiwanga" "Mahengu" "Mburu" "Mhavanginonya" "Namkina" "Ngosingosi" "Schabruma" "Sentambandu" "Uawula" "Ulanga" }
 		
 		last_names = { "Ngwale" "Farhenga" "Chimai" "Amari" "Kwira" "Mtemi" "Hanga" "Mwanawalifa" "Mbano" }
@@ -4884,7 +4884,7 @@ southern_african = {
 	}
 	tswana = {
 		color = { 91 212 36 }
-		
+		union = TSW
 		first_names = { "Khama" "Bathoen" "Sebele" "Baruti" "Boipelu" "Gaone" "Kabelo" "Kedikilwe" "Kefentse" "Thabo" "Tale" "Mothudi" "Mosegi" "Mowen" "Moetapele" "Molefi" "Turnelo" }
 		
 		last_names = { "Bakgatla" "Bakwna" "Balete" "Bamangwato" "Bangwaketse" "Barolong" "Batawana" "Batlokwa" "Batsapong" "Bakgalakgadi" "Bakalaka" }
@@ -4892,7 +4892,7 @@ southern_african = {
 	}
 	xhosa = {
 		color = { 49 58 156 }
-		
+		union = XHO
 		first_names = { "Mthuthuzeli" "Nolizwe" "Nonceba" "Paki" "Sipliwo" "Themba" "Uuka" "Thandiwe" }
 		
 		last_names = { "Behle" "Dosini" "Dlamini" "Gqunu" "Gxarha" "Hegebe" "Khawatu" "Khumalo" "Kwayi" "Maduna" "Qadi" "Rhadebe" "Ncuthu" "Mpemvu" "Sikhosana" "Xesibe" "Zangwa" }
@@ -4908,7 +4908,7 @@ southern_african = {
 	}
 	zulu = {
 		color = { 0 0 0 }
-		
+		union = ZUL
 		first_names = { "Cetshwayo" "Ntshingwayo" "Dabulamanzi" "Sikukuni" "Sihayo" "Mavumengwana" "Mbilini" "Mnyamana" "Hamu" "Gawozi" "Mgojana" "Zibhebhu" "Hehlokazulu" "Manyonyoba" "Mahubulwana" "Mkhosana" "Dingiswayo" "Senzagkhona" "Sekhukhune" "Sekethwayo" "Somopho" }
 		
 		last_names = { "kaMpande" "kaMahole" "KaMdlela" "waMswati" "Buthelezei" "Khoza" "kaSihayo" "kaMvundlana" "kaZikhala" "kaMaphitha" }

@@ -1,6 +1,7 @@
 owner=ORA
 controller=ORA
 add_core=ORA
+add_core=XHR
 trade_goods = fish
 life_rating = 10
 terrain = desert

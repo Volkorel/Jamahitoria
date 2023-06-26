@@ -1,4 +1,4 @@
-graphical_culture = MoroccoGC
+graphical_culture = SpanishGC
 color = { 240 230 155 }
 
 party = {

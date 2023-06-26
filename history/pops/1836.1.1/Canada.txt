@@ -1,152 +1,20 @@
 6 = {
-	soldiers=
-	{
-		culture = vinlander
-		religion = totemism
-		size= 2
-	}
-
-	artisans=
-	{
-		culture = vinlander
-		religion = totemism
-		size= 2
-	}
-
-	farmers=
-	{
-		culture = vinlander
-		religion = totemism
-		size= 187
-	}
-
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
-		size= 32
-	}
-
-	aristocrats=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 14
-	}
-
-	soldiers=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 7
-	}
-
-	clergymen=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 5
-	}
-
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 1
-	}
-
-	officers=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 1
-	}
-
-	farmers=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 604
+		size= 900
 	}
 
 }
 7 = {
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
-		religion = totemism
-		size= 4
+		religion = laeradr
+		size= 1566
 	}
 
-	artisans=
-	{
-		culture = vinlander
-		religion = totemism
-		size= 4
-	}
-
-	aristocrats=
-	{
-		culture = vinlander
-		religion = totemism
-		size= 2
-	}
-
-	farmers=
-	{
-		culture = vinlander
-		religion = totemism
-		size= 373
-	}
-
-	artisans=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 65
-	}
-
-	clergymen=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 11
-	}
-
-	aristocrats=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 27
-	}
-
-	soldiers=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 13
-	}
-
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 2
-	}
-
-	officers=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 2
-	}
-
-	farmers=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 1209
-	}
 
 }
 9 = {
@@ -229,70 +97,70 @@
 
 }
 11 = {
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = totemism
 		size= 1
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = totemism
 		size= 2
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = totemism
 		size= 140
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 24
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 11
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
@@ -315,56 +183,56 @@
 		size= 686
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = totemism
 		size= 122
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 1556
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 101
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 33
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 42
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 17
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 2
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
@@ -640,7 +508,7 @@
 		size= 174
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = totemism
@@ -654,42 +522,42 @@
 		size= 1
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 19
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 8
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 3
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 3
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 1
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
@@ -712,7 +580,7 @@
 		size= 640
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = totemism
@@ -733,56 +601,56 @@
 		size= 3
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 50
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 22
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 10
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 8
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 2
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 2
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 817
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = sonoran
 		religion = totemism
@@ -796,35 +664,35 @@
 		size= 4
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = totemism
 		size= 17
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = totemism
 		size= 3
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = totemism
 		size= 3
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = totemism
 		size= 1
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = totemism
@@ -847,7 +715,7 @@
 		size= 678
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = totemism
@@ -910,49 +778,49 @@
 		size= 2
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 69
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 11
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 29
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 12
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 2
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 2
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
@@ -975,7 +843,7 @@
 		size= 590
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = totemism
@@ -989,7 +857,7 @@
 		size= 25
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = sonoran
 		religion = totemism
@@ -1024,49 +892,49 @@
 		size= 1
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 72
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 12
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 30
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 13
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 2
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 2
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
@@ -1124,63 +992,63 @@
 		size= 4
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 516
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 24
 	}
 
-	clerks=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 920
 	}
 
-	capitalists=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 358
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 61
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 29
 	}
 
-	craftsmen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 12000
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 6
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
@@ -1217,49 +1085,49 @@
 		size= 1
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 41
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 17
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 8
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 6
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
@@ -1324,49 +1192,49 @@
 		size= 1
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 283
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 13
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 50
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 15
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 3
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 2
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
@@ -1431,49 +1299,49 @@
 		size= 1
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 258
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 12
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 46
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 14
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 3
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 2
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
@@ -1517,49 +1385,49 @@
 		size= 261
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 209
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 10
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 25
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 11
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 1
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 2
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
@@ -1596,49 +1464,49 @@
 		size= 211
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 124
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 11
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 7
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 5
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 1
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 1
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
@@ -1668,14 +1536,14 @@
 		size= 474
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = totemism
 		size= 1
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = totemism
@@ -1689,49 +1557,49 @@
 		size= 1
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 216
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 10
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 26
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 12
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 1
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
 		size= 2
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = laeradr
@@ -1796,49 +1664,49 @@
 		size= 1
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 390
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 18
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 90
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 22
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
@@ -1847,49 +1715,49 @@
 
 }
 31 = {
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 9
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 35
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 6
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 8
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 828
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
@@ -1940,56 +1808,56 @@
 		size= 1
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 192
 	}
 
-	clerks=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 465
 	}
 
-	capitalists=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 181
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 29
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
-	craftsmen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 6299
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
@@ -2103,49 +1971,49 @@
 		size= 1
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 264
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 12
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 32
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 15
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
@@ -2203,49 +2071,49 @@
 		size= 1
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 267
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 13
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 64
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 15
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
@@ -2310,49 +2178,49 @@
 		size= 2
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 212
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 19
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 51
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 12
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
@@ -7023,53 +6891,39 @@
 
 }
 2596 = {
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 9
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 37
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 6
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 8
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
-		size= 845
-	}
-
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 1
-	}
-
-	officers=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 1
+		size= 847
 	}
 
 }
@@ -7088,118 +6942,20 @@
 		size= 181
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = vinlander
 		religion = norse_pagan_reformed
-		size= 27
-	}
-
-	soldiers=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 5
-	}
-
-	clergymen=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 4
-	}
-
-	aristocrats=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 10
-	}
-
-	farmers=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 476
+		size= 522
 	}
 
 }
 2598 = {
-	soldiers=
+	pioneers=
 	{
 		culture = vinlander
 		religion = totemism
-		size= 3
-	}
-
-	artisans=
-	{
-		culture = vinlander
-		religion = totemism
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = vinlander
-		religion = totemism
-		size= 2
-	}
-
-	farmers=
-	{
-		culture = vinlander
-		religion = totemism
-		size= 261
-	}
-
-	artisans=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 45
-	}
-
-	aristocrats=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 19
-	}
-
-	soldiers=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 9
-	}
-
-	clergymen=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 7
-	}
-
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 1
-	}
-
-	officers=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 1
-	}
-
-	farmers=
-	{
-		culture = vinlander
-		religion = norse_pagan_reformed
-		size= 847
+		size= 1456
 	}
 
 }

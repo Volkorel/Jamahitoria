@@ -1,6 +1,7 @@
 owner=ORA
 controller=ORA
 add_core=ORA
+add_core=TSW
 trade_goods = wool
 life_rating = 15
 terrain = savanna

@@ -1,5 +1,3 @@
-owner=SWA
-controller=SWA
 trade_goods = grain
 life_rating = 10
 terrain = savanna

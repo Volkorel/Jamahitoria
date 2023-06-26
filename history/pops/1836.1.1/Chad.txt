@@ -231,42 +231,42 @@
 		size= 1900
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 150
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 100
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 100
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 350
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 100
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
@@ -310,35 +310,35 @@
 		size= 5000
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 100
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 100
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 300
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 500
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
@@ -526,7 +526,7 @@
 		size= 1080
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni

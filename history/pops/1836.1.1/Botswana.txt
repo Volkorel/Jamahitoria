@@ -1,33 +1,33 @@
 2074 = {
-	aristocrats=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 125
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 75
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 350
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 75
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
@@ -36,70 +36,70 @@
 
 }
 2075 = {
-	aristocrats=
+	nomads=
 	{
 		culture = nguni
 		religion = animist
 		size= 30
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = nguni
 		religion = animist
 		size= 30
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = nguni
 		religion = animist
 		size= 100
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = nguni
 		religion = animist
 		size= 40
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = nguni
 		religion = animist
 		size= 1800
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 30
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 50
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 100
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 20
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
@@ -108,70 +108,70 @@
 
 }
 2076 = {
-	aristocrats=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 15
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 25
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 50
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 10
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 900
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = herero
 		religion = animist
 		size= 25
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = herero
 		religion = animist
 		size= 50
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = herero
 		religion = animist
 		size= 100
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = herero
 		religion = animist
 		size= 25
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = herero
 		religion = animist
@@ -180,70 +180,70 @@
 
 }
 2077 = {
-	aristocrats=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 25
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 50
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 100
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 25
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 1800
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = khoisan
 		religion = animist
 		size= 15
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = khoisan
 		religion = animist
 		size= 25
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = khoisan
 		religion = animist
 		size= 50
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = khoisan
 		religion = animist
 		size= 10
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = khoisan
 		religion = animist
@@ -252,35 +252,35 @@
 
 }
 2574 = {
-	aristocrats=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 50
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 50
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 200
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 50
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tswana
 		religion = animist

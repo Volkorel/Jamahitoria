@@ -238,14 +238,14 @@
 		size= 2680
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = yao
 		religion = shamanism
 		size= 1033
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = yao
 		religion = shamanism
@@ -310,35 +310,35 @@
 
 }
 2041 = {
-	aristocrats=
+	tribals=
 	{
 		culture = yao
 		religion = sunni
 		size= 475
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = yao
 		religion = sunni
 		size= 250
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = yao
 		religion = sunni
 		size= 1100
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = yao
 		religion = sunni
 		size= 250
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = yao
 		religion = sunni
@@ -501,35 +501,35 @@
 		size= 3650
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = yao
 		religion = animist
 		size= 525
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = yao
 		religion = animist
 		size= 275
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = yao
 		religion = animist
 		size= 1100
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = yao
 		religion = animist
 		size= 275
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = yao
 		religion = animist
@@ -1027,49 +1027,49 @@
 		size= 2828
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = yao
 		religion = shamanism
 		size= 507
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = yao
 		religion = shamanism
 		size= 634
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = yao
 		religion = shamanism
 		size= 29
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = yao
 		religion = shamanism
 		size= 2
 	}
 
-	officers=
+	tribals=
 	{
 		culture = yao
 		religion = shamanism
 		size= 7
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = yao
 		religion = shamanism
 		size= 38
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = yao
 		religion = shamanism

@@ -77,6 +77,10 @@ country_migration_target = {
         border_policy = quota_immigration
         THIS = { NOT = { literacy = 0.6 } }
     }
+	modifier = {
+		factor = 8.0
+		continent = north_america
+	}
     modifier = {
         factor = 0.75
         NOT = { military_spending = 0.4 }

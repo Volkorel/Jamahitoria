@@ -1,5 +1,5 @@
-owner=SWA
-controller=SWA
-add_core=SWA
+owner=ZAN
+controller=ZAN
+add_core=ZAN
 trade_goods = precious_goods
 life_rating = 40

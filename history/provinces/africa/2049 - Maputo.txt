@@ -1,5 +1,6 @@
 owner=X36
 controller=X36
+add_core=XHO
 trade_goods = fish
 life_rating = 35
 terrain = savanna

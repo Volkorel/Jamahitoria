@@ -6,49 +6,49 @@
 		size= 622
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 304
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 190
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 9
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 4
 	}
 
-	officers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 11
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
@@ -62,49 +62,49 @@
 		size= 41
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 20
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 215
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 10
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 4
 	}
 
-	officers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 3
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 13
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
@@ -600,49 +600,49 @@
 		size= 5113
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 947
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 1902
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 277
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 49
 	}
 
-	officers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 52
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 355
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
@@ -656,49 +656,49 @@
 		size= 84
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 15
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 437
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 63
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 11
 	}
 
-	officers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 12
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 82
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
@@ -714,49 +714,49 @@
 		size= 4037
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 565
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 454
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 33
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 12
 	}
 
-	officers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 11
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 64
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
@@ -770,49 +770,49 @@
 		size= 210
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 29
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 501
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 36
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 13
 	}
 
-	officers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 12
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 70
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
@@ -877,35 +877,35 @@
 
 }
 2004 = {
-	aristocrats=
+	tribals=
 	{
 		culture = herero
 		religion = animist
 		size= 300
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = herero
 		religion = animist
 		size= 600
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = herero
 		religion = animist
 		size= 750
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = herero
 		religion = animist
 		size= 300
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = herero
 		religion = animist
@@ -921,35 +921,35 @@
 
 }
 2005 = {
-	aristocrats=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = animist
 		size= 600
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = animist
 		size= 550
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = animist
 		size= 2600
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = animist
 		size= 600
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = animist
@@ -965,35 +965,35 @@
 
 }
 2006 = {
-	aristocrats=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = animist
 		size= 350
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = animist
 		size= 350
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = animist
 		size= 1800
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = animist
 		size= 400
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = animist
@@ -1095,35 +1095,35 @@
 
 }
 2008 = {
-	aristocrats=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = animist
 		size= 30
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = animist
 		size= 60
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = animist
 		size= 75
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = animist
 		size= 30
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = animist
@@ -1188,49 +1188,49 @@
 		size= 1873
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 347
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 700
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 101
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 17
 	}
 
-	officers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 19
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
 		size= 130
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = shamanism
@@ -1244,49 +1244,49 @@
 		size= 32
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 6
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 160
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 23
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 3
 	}
 
-	officers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 4
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic
 		size= 29
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = ovimbundu
 		religion = catholic

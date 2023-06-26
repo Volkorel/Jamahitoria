@@ -141,14 +141,14 @@
 
 }
 2088 = {
-	soldiers=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 12
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
@@ -204,42 +204,42 @@
 		size= 2
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 25
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 1
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 5
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = khoisan
 		religion = catholic
 		size= 26
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = khoisan
 		religion = catholic
 		size= 1
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = khoisan
 		religion = catholic
@@ -283,98 +283,98 @@
 		size= 11927
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 286
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 46
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 80
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 50
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 17
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 2150
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 9
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 329
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 952
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 155
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 57
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 31
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 267
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
@@ -418,98 +418,98 @@
 		size= 10805
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 260
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 42
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 73
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 45
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 15
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 1949
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 8
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 298
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 862
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 140
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 52
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 28
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 241
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
@@ -518,112 +518,112 @@
 
 }
 2091 = {
-	soldiers=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 200
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 3374
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 520
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 35
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 94
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 6
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 8
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 2
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 1
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 67
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 149
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 11
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 4
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 3
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 14
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
@@ -681,112 +681,112 @@
 
 }
 2092 = {
-	soldiers=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 201
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 3381
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 7
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 48
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 261
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 36
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 11
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 4
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 3
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 230
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 836
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 39
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 14
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 13
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 117
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
@@ -795,112 +795,112 @@
 
 }
 2093 = {
-	soldiers=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 168
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 2108
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 149
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 17
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 113
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 10
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 7
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 2
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 3
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 211
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 370
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 27
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 8
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 10
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 35
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
@@ -909,21 +909,21 @@
 
 }
 2094 = {
-	soldiers=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 478
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 1
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
@@ -981,35 +981,35 @@
 
 }
 2095 = {
-	aristocrats=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 50
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 50
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 200
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
 		size= 50
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = tswana
 		religion = animist
@@ -1018,7 +1018,7 @@
 
 }
 2096 = {
-	soldiers=
+	tribals=
 	{
 		culture = sotho
 		religion = shamanism
@@ -1032,112 +1032,112 @@
 		size= 15
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = sotho
 		religion = shamanism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = sotho
 		religion = shamanism
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sotho
 		religion = shamanism
 		size= 6586
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 471
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 22
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 57
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 7
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 4
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 3
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 152
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 1548
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 72
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 22
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 14
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 186
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
@@ -1146,7 +1146,7 @@
 
 }
 2097 = {
-	soldiers=
+	tribals=
 	{
 		culture = sotho
 		religion = shamanism
@@ -1160,112 +1160,112 @@
 		size= 19
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = sotho
 		religion = shamanism
 		size= 1
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = sotho
 		religion = shamanism
 		size= 2
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = sotho
 		religion = shamanism
 		size= 8605
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 615
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 29
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 74
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 9
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 5
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 5
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 198
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 2022
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 94
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 29
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 19
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 243
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
@@ -1274,98 +1274,98 @@
 
 }
 2098 = {
-	soldiers=
+	nomads=
 	{
 		culture = xhosa
 		religion = shamanism
 		size= 550
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = xhosa
 		religion = shamanism
 		size= 196
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = xhosa
 		religion = shamanism
 		size= 32
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = xhosa
 		religion = shamanism
 		size= 10
 	}
 
-	officers=
+	nomads=
 	{
 		culture = xhosa
 		religion = shamanism
 		size= 10
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = xhosa
 		religion = shamanism
 		size= 41
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = xhosa
 		religion = shamanism
 		size= 8974
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = xhosa
 		religion = catholic
 		size= 593
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = xhosa
 		religion = catholic
 		size= 620
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = xhosa
 		religion = catholic
 		size= 101
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = xhosa
 		religion = catholic
 		size= 31
 	}
 
-	officers=
+	nomads=
 	{
 		culture = xhosa
 		religion = catholic
 		size= 33
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = xhosa
 		religion = catholic
 		size= 130
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = xhosa
 		religion = catholic
@@ -1374,98 +1374,98 @@
 
 }
 2099 = {
-	soldiers=
+	nomads=
 	{
 		culture = xhosa
 		religion = shamanism
 		size= 550
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = xhosa
 		religion = shamanism
 		size= 196
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = xhosa
 		religion = shamanism
 		size= 32
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = xhosa
 		religion = shamanism
 		size= 10
 	}
 
-	officers=
+	nomads=
 	{
 		culture = xhosa
 		religion = shamanism
 		size= 10
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = xhosa
 		religion = shamanism
 		size= 41
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = xhosa
 		religion = shamanism
 		size= 8974
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = xhosa
 		religion = catholic
 		size= 593
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = xhosa
 		religion = catholic
 		size= 620
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = xhosa
 		religion = catholic
 		size= 101
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = xhosa
 		religion = catholic
 		size= 31
 	}
 
-	officers=
+	nomads=
 	{
 		culture = xhosa
 		religion = catholic
 		size= 33
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = xhosa
 		religion = catholic
 		size= 130
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = xhosa
 		religion = catholic
@@ -1481,49 +1481,49 @@
 		size= 643
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = xhosa
 		religion = shamanism
 		size= 1002
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = xhosa
 		religion = shamanism
 		size= 358
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = xhosa
 		religion = shamanism
 		size= 58
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = xhosa
 		religion = shamanism
 		size= 18
 	}
 
-	officers=
+	nomads=
 	{
 		culture = xhosa
 		religion = shamanism
 		size= 19
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = xhosa
 		religion = shamanism
 		size= 75
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = xhosa
 		religion = shamanism
@@ -1537,49 +1537,49 @@
 		size= 694
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = xhosa
 		religion = catholic
 		size= 1081
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = xhosa
 		religion = catholic
 		size= 1130
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = xhosa
 		religion = catholic
 		size= 184
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = xhosa
 		religion = catholic
 		size= 56
 	}
 
-	officers=
+	nomads=
 	{
 		culture = xhosa
 		religion = catholic
 		size= 59
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = xhosa
 		religion = catholic
 		size= 237
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = xhosa
 		religion = catholic
@@ -1595,14 +1595,14 @@
 		size= 1218
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 817
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
@@ -1674,14 +1674,14 @@
 		size= 870
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 531
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
@@ -1753,14 +1753,14 @@
 		size= 671
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 420
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
@@ -1832,14 +1832,14 @@
 		size= 706
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 1207
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
@@ -1911,49 +1911,49 @@
 		size= 685
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 376
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 470
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 22
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 9
 	}
 
-	officers=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 5
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 42
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
@@ -1967,42 +1967,42 @@
 		size= 31
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = khoisan
 		religion = catholic
 		size= 17
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = khoisan
 		religion = catholic
 		size= 513
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = khoisan
 		religion = catholic
 		size= 24
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = khoisan
 		religion = catholic
 		size= 10
 	}
 
-	officers=
+	nomads=
 	{
 		culture = khoisan
 		religion = catholic
 		size= 6
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = khoisan
 		religion = catholic
@@ -2074,49 +2074,49 @@
 		size= 704
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 317
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 396
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 18
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 8
 	}
 
-	officers=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 5
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 36
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
@@ -2130,42 +2130,42 @@
 		size= 32
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = khoisan
 		religion = catholic
 		size= 14
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = khoisan
 		religion = catholic
 		size= 432
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = khoisan
 		religion = catholic
 		size= 20
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = khoisan
 		religion = catholic
 		size= 9
 	}
 
-	officers=
+	nomads=
 	{
 		culture = khoisan
 		religion = catholic
 		size= 5
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = khoisan
 		religion = catholic
@@ -2237,49 +2237,49 @@
 		size= 266
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 379
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 473
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 22
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 9
 	}
 
-	officers=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 5
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 43
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
@@ -2293,42 +2293,42 @@
 		size= 12
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = khoisan
 		religion = catholic
 		size= 17
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = khoisan
 		religion = catholic
 		size= 517
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = khoisan
 		religion = catholic
 		size= 24
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = khoisan
 		religion = catholic
 		size= 10
 	}
 
-	officers=
+	nomads=
 	{
 		culture = khoisan
 		religion = catholic
 		size= 6
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = khoisan
 		religion = catholic
@@ -2400,21 +2400,21 @@
 		size= 3578
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 1518
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 2
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
@@ -2486,14 +2486,14 @@
 		size= 1087
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 1149
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
@@ -2565,49 +2565,49 @@
 		size= 1185
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 81
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 324
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 53
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 8
 	}
 
-	officers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 11
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 136
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
@@ -2623,49 +2623,49 @@
 		size= 1687
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = zulu
 		religion = shamanism
 		size= 231
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = zulu
 		religion = shamanism
 		size= 925
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = zulu
 		religion = shamanism
 		size= 150
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = zulu
 		religion = shamanism
 		size= 23
 	}
 
-	officers=
+	tribals=
 	{
 		culture = zulu
 		religion = shamanism
 		size= 30
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = zulu
 		religion = shamanism
 		size= 388
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = zulu
 		religion = shamanism
@@ -2681,14 +2681,14 @@
 		size= 354
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 555
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
@@ -2760,49 +2760,49 @@
 		size= 1376
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 1023
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 14315
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 665
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 102
 	}
 
-	officers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 133
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 1718
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
@@ -2818,49 +2818,49 @@
 		size= 2396
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 416
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 1664
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 270
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 42
 	}
 
-	officers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 54
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 699
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
@@ -2869,112 +2869,112 @@
 
 }
 2558 = {
-	soldiers=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 208
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = khoisan
 		religion = shamanism
 		size= 3510
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 7
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 48
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 272
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 38
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 12
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 4
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 3
 	}
 
-	soldiers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 238
 	}
 
-	artisans=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 868
 	}
 
-	clergymen=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 40
 	}
 
-	bureaucrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 15
 	}
 
-	officers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 13
 	}
 
-	aristocrats=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic
 		size= 121
 	}
 
-	farmers=
+	pioneers=
 	{
 		culture = granjeros
 		religion = catholic

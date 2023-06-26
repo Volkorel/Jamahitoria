@@ -6,49 +6,49 @@
 		size= 1870
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 1765
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 3652
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 263
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 62
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 82
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 341
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
@@ -62,42 +62,42 @@
 		size= 3
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = zikri
 		size= 3
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = zikri
 		size= 118
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = zikri
 		size= 8
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = zikri
 		size= 2
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = zikri
 		size= 3
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = zikri
@@ -111,49 +111,49 @@
 		size= 124
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 117
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 813
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 59
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 14
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 18
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 76
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
@@ -169,49 +169,49 @@
 		size= 1956
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 623
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 606
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 99
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 22
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 24
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 128
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
@@ -225,49 +225,49 @@
 		size= 1056
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 336
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 760
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 124
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 28
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 31
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 160
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
@@ -283,49 +283,49 @@
 		size= 2004
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 4133
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 842
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 137
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 31
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 50
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 206
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
@@ -334,49 +334,49 @@
 
 }
 1154 = {
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 57
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 80
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 13
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 3
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 3
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 17
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
@@ -392,49 +392,49 @@
 		size= 1354
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 7233
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 549
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 89
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 21
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 27
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 115
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
@@ -448,49 +448,49 @@
 		size= 153
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 62
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 112
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 18
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 4
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 6
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 24
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
@@ -499,98 +499,98 @@
 
 }
 1156 = {
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 106
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 76
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 12
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 3
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 3
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 16
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 3579
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 31
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 120
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 19
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 4
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 5
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 25
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
@@ -606,49 +606,49 @@
 		size= 4858
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 4133
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 2518
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 410
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 95
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 101
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 529
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
@@ -657,49 +657,49 @@
 
 }
 1158 = {
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 7233
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 476
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 77
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 18
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 19
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 100
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
@@ -708,98 +708,98 @@
 
 }
 1159 = {
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 1033
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 165
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 27
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 6
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 6
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 34
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 3503
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 11
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 41
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 7
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 2
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 2
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 9
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
@@ -815,49 +815,49 @@
 		size= 2910
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 881
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 1259
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 205
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 47
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 50
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 264
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
@@ -866,49 +866,49 @@
 
 }
 1161 = {
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 194
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 276
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 45
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 11
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 11
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 58
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
@@ -924,49 +924,49 @@
 		size= 988
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 19633
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 1126
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 183
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 42
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 45
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 237
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
@@ -975,49 +975,49 @@
 
 }
 1164 = {
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 10333
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 985
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 160
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 37
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 39
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 207
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
@@ -1026,49 +1026,49 @@
 
 }
 2586 = {
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 1033
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 141
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 23
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 5
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 5
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 29
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite

@@ -6,49 +6,49 @@
 		size= 6025
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 783
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 10965
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 509
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 110
 	}
 
-	officers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 102
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 1316
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
@@ -64,49 +64,49 @@
 		size= 21087
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 693
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 9700
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 450
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 97
 	}
 
-	officers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 90
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 1164
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
@@ -122,49 +122,49 @@
 		size= 7143
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 684
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 9571
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 444
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 96
 	}
 
-	officers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 89
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 1531
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
@@ -180,49 +180,49 @@
 		size= 8802
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 754
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 3770
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 175
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 27
 	}
 
-	officers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 57
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
 		size= 452
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = nguni
 		religion = shamanism
@@ -236,49 +236,49 @@
 		size= 13693
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = shona
 		religion = shamanism
 		size= 1173
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = shona
 		religion = shamanism
 		size= 5865
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = shona
 		religion = shamanism
 		size= 272
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = shona
 		religion = shamanism
 		size= 42
 	}
 
-	officers=
+	tribals=
 	{
 		culture = shona
 		religion = shamanism
 		size= 88
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = shona
 		religion = shamanism
 		size= 704
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = shona
 		religion = shamanism
@@ -403,35 +403,35 @@
 
 }
 2055 = {
-	aristocrats=
+	tribals=
 	{
 		culture = shona
 		religion = animist
 		size= 450
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = shona
 		religion = animist
 		size= 400
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = shona
 		religion = animist
 		size= 2000
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = shona
 		religion = animist
 		size= 450
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = shona
 		religion = animist
@@ -489,35 +489,35 @@
 		size= 2100
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = shona
 		religion = animist
 		size= 550
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = shona
 		religion = animist
 		size= 125
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = shona
 		religion = animist
 		size= 650
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = shona
 		religion = animist
 		size= 150
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = shona
 		religion = animist
@@ -575,49 +575,49 @@
 		size= 5447
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = nguni
 		religion = shiite
 		size= 1320
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = nguni
 		religion = shiite
 		size= 2780
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = nguni
 		religion = shiite
 		size= 452
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = nguni
 		religion = shiite
 		size= 97
 	}
 
-	officers=
+	nomads=
 	{
 		culture = nguni
 		religion = shiite
 		size= 118
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = nguni
 		religion = shiite
 		size= 1362
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = nguni
 		religion = shiite
@@ -633,49 +633,49 @@
 		size= 3006
 	}
 
-	soldiers=
+	tribals=
 	{
 		culture = shona
 		religion = shamanism
 		size= 1658
 	}
 
-	artisans=
+	tribals=
 	{
 		culture = shona
 		religion = shamanism
 		size= 8292
 	}
 
-	clergymen=
+	tribals=
 	{
 		culture = shona
 		religion = shamanism
 		size= 384
 	}
 
-	bureaucrats=
+	tribals=
 	{
 		culture = shona
 		religion = shamanism
 		size= 54
 	}
 
-	officers=
+	tribals=
 	{
 		culture = shona
 		religion = shamanism
 		size= 94
 	}
 
-	aristocrats=
+	tribals=
 	{
 		culture = shona
 		religion = shamanism
 		size= 498
 	}
 
-	farmers=
+	tribals=
 	{
 		culture = shona
 		religion = shamanism

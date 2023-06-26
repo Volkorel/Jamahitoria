@@ -1,5 +1,5 @@
-owner=SWA
-controller=SWA
-add_core=SWA
+owner=AGC
+controller=AGC
+add_core=AGC
 trade_goods = fish
 life_rating = 35

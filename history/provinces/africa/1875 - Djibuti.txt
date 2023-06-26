@@ -1,5 +1,10 @@
-owner=ARA
-controller=ARA
+owner = ARA
+controller = ARA
+add_core = ARA
+add_core = HAR
+add_core = AWS
+add_core = WRL
+colonial = 1
 trade_goods = cattle
 life_rating = 10
 terrain = semidesert

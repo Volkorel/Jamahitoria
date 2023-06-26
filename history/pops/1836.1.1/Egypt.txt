@@ -1327,35 +1327,35 @@
 
 }
 1758 = {
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 25
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 50
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 100
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 25
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni

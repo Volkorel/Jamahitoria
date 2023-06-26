@@ -1,4 +1,4 @@
-graphical_culture = UsGC
+graphical_culture = FrenchGC
 color = { 2 65 48 }
 
 party = {

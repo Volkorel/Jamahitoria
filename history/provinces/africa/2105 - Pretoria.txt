@@ -1,5 +1,6 @@
-owner=ORA
-controller=ORA
+owner=XHR
+controller=XHR
+add_core=XHR
 add_core=ORA
 trade_goods = cattle
 life_rating = 15

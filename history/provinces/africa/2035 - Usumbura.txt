@@ -1,6 +1,7 @@
-owner=SWA
-controller=SWA
-add_core=SWA
+owner=RWA
+controller=RWA
+add_core=RWA
+add_core=BRD
 trade_goods = fruit
 life_rating = 10
 terrain = montane_forest

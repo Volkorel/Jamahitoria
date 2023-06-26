@@ -410,35 +410,35 @@
 
 }
 1782 = {
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 10
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 15
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 50
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni
 		size= 25
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = sunni

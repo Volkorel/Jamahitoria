@@ -334,49 +334,49 @@
 
 }
 911 = {
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 173
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 247
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 40
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 9
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 10
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 52
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
@@ -385,98 +385,98 @@
 
 }
 922 = {
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 26
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 26
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 5
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 1
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 1
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 5
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = shiite
 		size= 2505
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = bedouin
 		religion = catholic
 		size= 6
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = bedouin
 		religion = catholic
 		size= 37
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = bedouin
 		religion = catholic
 		size= 7
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = catholic
 		size= 1
 	}
 
-	officers=
+	nomads=
 	{
 		culture = bedouin
 		religion = catholic
 		size= 1
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = bedouin
 		religion = catholic
 		size= 8
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = bedouin
 		religion = catholic

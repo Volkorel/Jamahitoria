@@ -1,7 +1,8 @@
-owner=SWA
-controller=SWA
-add_core=SOM
-add_core=SWA
+owner = MAJ
+controller = MAJ
+add_core = WRL
+add_core = MAJ
+add_core = GEL
 trade_goods = grain
 life_rating = 31
 terrain = semidesert

@@ -183,98 +183,98 @@
 		size= 173
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 38
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 13
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 2
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 1
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 1
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 3
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 614
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 29
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 34
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 6
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 2
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 1
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 7
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism

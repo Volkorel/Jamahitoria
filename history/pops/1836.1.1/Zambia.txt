@@ -692,35 +692,35 @@
 		size= 2000
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = nguni
 		religion = animist
 		size= 100
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = nguni
 		religion = animist
 		size= 100
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = nguni
 		religion = animist
 		size= 250
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = nguni
 		religion = animist
 		size= 100
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = nguni
 		religion = animist

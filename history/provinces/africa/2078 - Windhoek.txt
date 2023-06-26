@@ -1,6 +1,8 @@
 owner=ORA
 controller=ORA
 add_core=ORA
+add_core=XHR
+add_core=HER
 trade_goods = wool
 life_rating = 10
 terrain = dryhills

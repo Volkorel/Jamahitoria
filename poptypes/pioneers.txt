@@ -103,7 +103,6 @@ country_migration_target = {
 				#is_accepted_culture = THIS
 			#}
 		}
-
 	## Culture Groups and related cultures ##
 		modifier = {
 			factor = 1.3

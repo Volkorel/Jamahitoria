@@ -1,7 +1,14 @@
 Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
-FEK_conservative;Bedriuwsbestjoer;;;;;;;;;;;;;
-FEK_liberal;Bedriuwherfoarming;;;;;;;;;;;;;
-FEK_communist;Javan Frijheid;;;;;;;;;;;;;
-FEK_socialist;Freonskip Partij;;;;;;;;;;;;;
-FEK_reactionary;Winst Partij;;;;;;;;;;;;;
-FEK_fascist;Skjin Takomst Partij;;;;;;;;;;;;;
+FEK_conservative;Bedriuwsbestjoer;;;;;;;;;;;;;x
+FEK_liberal;Bedriuwherfoarming;;;;;;;;;;;;;x
+FEK_communist;Javan Frijheid;;;;;;;;;;;;;x
+FEK_socialist;Freonskip Partij;;;;;;;;;;;;;x
+FEK_reactionary;Winst Partij;;;;;;;;;;;;;x
+FEK_fascist;Skjin Takomst Partij;;;;;;;;;;;;;x
+X06_anarcho_liberal;Ien Partij Stypje;;;;;;;;;;;;;x
+X06_communist;Arbeiders fan Fabriken en Pleatsen Partij;;;;;;;;;;;;;x
+X06_conservative;Fryske Nasjonale Partij;;;;;;;;;;;;;x
+X06_fascist;de Beweging;;;;;;;;;;;;;x
+X06_liberal;Partij fan Fryske Revolusjoneren;;;;;;;;;;;;;x
+X06_reactionary;Orangist Oerbliuwsels;;;;;;;;;;;;;x
+X06_socialist;Wurknimmers fan Frij Fryslan Partij;;;;;;;;;;;;;x

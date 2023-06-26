@@ -346,98 +346,98 @@
 		size= 20121
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 328
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 328
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 53
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 12
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 7
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 69
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 15615
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 253
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 835
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 136
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 31
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 17
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 175
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
@@ -446,49 +446,49 @@
 
 }
 981 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 4133
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 1023
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 74
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 21
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 19
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 112
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
@@ -783,49 +783,49 @@
 
 }
 985 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 134
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 174
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 12
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 19
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
@@ -883,35 +883,35 @@
 
 }
 986 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 22
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 29
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
@@ -1401,49 +1401,49 @@
 
 }
 993 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 302
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 302
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 49
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 11
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 10
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 63
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
@@ -3889,98 +3889,98 @@
 
 }
 1017 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 1143
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 602
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 98
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 21
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 26
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 253
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 27937
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 939
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 1590
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 258
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 56
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 68
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 668
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
@@ -4236,98 +4236,98 @@
 
 }
 1019 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 8164
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 4297
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 698
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 150
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 183
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 1805
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 199558
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 5615
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 10208
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 1659
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 357
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 434
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 4287
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
@@ -4434,98 +4434,98 @@
 		size= 2739
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 772
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 406
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 66
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 18
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 17
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 199
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 18846
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 324
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 748
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 122
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 34
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 32
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 366
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
@@ -4534,98 +4534,98 @@
 
 }
 1021 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 3080
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 3080
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 500
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 77
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 100
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 647
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 146507
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 1206
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 5493
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 893
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 137
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 179
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 1153
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
@@ -4934,49 +4934,49 @@
 
 }
 1025 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 13062
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 9330
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 1516
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 420
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 490
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 3918
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
@@ -5481,98 +5481,98 @@
 		size= 37893
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 868
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 229
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 37
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 6
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 10
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 48
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 21657
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 78
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 269
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 44
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 7
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 11
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 57
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
@@ -5581,98 +5581,98 @@
 
 }
 1030 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 343
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 361
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 59
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 18
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 11
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 303
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 16963
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 144
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 665
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 108
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 33
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 20
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 558
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
@@ -5779,98 +5779,98 @@
 
 }
 1031 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 1680
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 841
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 136
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 21
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 27
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 177
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 81151
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 187
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 1027
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 167
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 26
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 33
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 215
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
@@ -5928,98 +5928,98 @@
 
 }
 1032 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 1023
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 511
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 83
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 13
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 17
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 107
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 49391
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 469
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 2421
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 393
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 61
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 79
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 508
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
@@ -6075,49 +6075,49 @@
 		size= 16340
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 1003
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 1003
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 163
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 25
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 33
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 211
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
@@ -6126,98 +6126,98 @@
 
 }
 1033 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 394
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 394
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 64
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 5
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 13
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 83
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 18759
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 177
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 748
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 122
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 9
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 24
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 157
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
@@ -6326,98 +6326,98 @@
 
 }
 1035 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 581
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 581
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 94
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 7
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 19
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 122
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 27632
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 261
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 1102
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 179
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 14
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 36
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 231
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
@@ -6475,98 +6475,98 @@
 
 }
 1036 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 97
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 97
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 16
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 4
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 2
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 47
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 9391
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 31
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 159
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 26
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 6
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 3
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 78
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
@@ -6673,49 +6673,49 @@
 		size= 41795
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 307
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 1228
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 200
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 46
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 25
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 1032
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
@@ -6775,49 +6775,49 @@
 
 }
 1039 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 2492
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 9967
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 1620
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 374
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 199
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 8372
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
@@ -6877,49 +6877,49 @@
 
 }
 1041 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 279
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 1116
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 181
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 42
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 22
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 469
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
@@ -6928,49 +6928,49 @@
 
 }
 1042 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 2038
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 9654
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 697
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 161
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 129
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 1802
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
@@ -7030,49 +7030,49 @@
 
 }
 1044 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 793
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 3755
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 271
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 63
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 50
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 701
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
@@ -7081,49 +7081,49 @@
 
 }
 1045 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 393
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 785
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 128
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 20
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 26
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 330
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
@@ -7132,147 +7132,147 @@
 
 }
 1046 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 50
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 227
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 16
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 4
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 2
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 42
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 4692
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = jewish
 		size= 8
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = jewish
 		size= 301
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = jewish
 		size= 22
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = jewish
 		size= 5
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = jewish
 		size= 3
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = jewish
 		size= 56
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = jewish
 		size= 436
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = iconoclast
 		size= 156
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = iconoclast
 		size= 1407
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = iconoclast
 		size= 102
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = iconoclast
 		size= 23
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = iconoclast
 		size= 13
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = iconoclast
 		size= 263
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = iconoclast
@@ -7387,49 +7387,49 @@
 		size= 25695
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 208
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 834
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 136
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 31
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 17
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 350
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
@@ -7489,49 +7489,49 @@
 
 }
 1050 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 2032
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 1633
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 118
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 36
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 29
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
 		size= 305
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = pre_schism
@@ -8107,49 +8107,49 @@
 		size= 12318
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 1613
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 1700
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 237
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 61
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 74
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 367
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
@@ -8256,49 +8256,49 @@
 		size= 5889
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 792
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 834
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 136
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 29
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 35
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
 		size= 175
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = shiite
@@ -8307,98 +8307,98 @@
 
 }
 1060 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 586
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 617
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 100
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 29
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 19
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 259
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
 		size= 29247
 	}
 
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 255
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 1155
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 188
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 55
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 35
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 485
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
@@ -12471,49 +12471,49 @@
 
 }
 2588 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 182
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 191
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 31
 	}
 
-	bureaucrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 7
 	}
 
-	officers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 8
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 40
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
@@ -16916,35 +16916,35 @@
 
 }
 2688 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 19
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 25
 	}
 
-	clergymen=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
@@ -18058,28 +18058,28 @@
 
 }
 2699 = {
-	soldiers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 11
 	}
 
-	artisans=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 15
 	}
 
-	aristocrats=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
-	farmers=
+	nomads=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed

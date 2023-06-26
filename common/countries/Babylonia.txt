@@ -1,4 +1,4 @@
-graphical_culture = UsGC
+graphical_culture = MiddleEasternGC
 
 party = {
 	name = "BAB_anarcho_liberal"

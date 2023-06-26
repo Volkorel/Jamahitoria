@@ -1,6 +1,8 @@
 owner=ORA
 controller=ORA
 add_core=ORA
+add_core=TSW
+add_core=XHO
 trade_goods = grain
 life_rating = 15
 terrain = savanna

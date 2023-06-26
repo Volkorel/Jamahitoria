@@ -1,4 +1,4 @@
-graphical_culture = ConfederateGC
+graphical_culture = MoroccoGC
 color = { 0 36 124 }
 
 party = {

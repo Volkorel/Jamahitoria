@@ -1,7 +1,8 @@
-owner=SWA
-controller=SWA
-add_core=SOM
-add_core=SWA
+owner = GEL
+controller = GEL
+add_core = WRL
+add_core = MAJ
+add_core = GEL
 trade_goods = fruit
 life_rating = 35
 terrain = savanna
