@@ -111,7 +111,7 @@ country_migration_target = {
         }
     }
 	modifier = {
-		factor = 8.0
+		factor = 2.0
 		continent = north_america
 	}
     modifier = {

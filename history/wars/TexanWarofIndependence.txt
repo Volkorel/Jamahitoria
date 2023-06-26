@@ -16,8 +16,3 @@ name = "the Empire War"
 	}
 
 }
-
-1836.4.21 = {
-	rem_attacker = MEX
-	rem_defender = TEX
-}

@@ -48,7 +48,7 @@ country_migration_target = {
         THIS = { NOT = { literacy = 0.6 } }
     }
 	modifier = {
-		factor = 8.0
+		factor = 2.0
 		continent = north_america
 	}
     modifier = {

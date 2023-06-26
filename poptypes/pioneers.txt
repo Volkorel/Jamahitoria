@@ -114,8 +114,8 @@ country_migration_target = {
 					is_culture_group = latin_american_cultures
 				}
 				AND = {
-					THIS = { has_pop_culture = dutch }
-					primary_culture = boer
+					THIS = { is_culture_group = beneluxian }
+					primary_culture = nieuwereld
 				}
 				AND = {
 					THIS = { is_culture_group = pan_french }
