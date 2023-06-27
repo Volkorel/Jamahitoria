@@ -1,4 +1,4 @@
-name = "Bengali-Kawng Nationalist War"
+name = "Bengali War"
 
 1722.10.20 = {
 	add_attacker = BNG

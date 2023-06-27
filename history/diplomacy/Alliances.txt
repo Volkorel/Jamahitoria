@@ -5,7 +5,20 @@ alliance=
 	start_date="1567.3.21"
 	end_date="1936.1.1"
 }
-
+alliance=
+{
+	first="XHO"
+	second="ZUL"
+	start_date="1567.3.21"
+	end_date="1936.1.1"
+}
+alliance=
+{
+	first="XHO"
+	second="XHR"
+	start_date="1567.3.21"
+	end_date="1936.1.1"
+}
 alliance=
 {
 	first="ANN"

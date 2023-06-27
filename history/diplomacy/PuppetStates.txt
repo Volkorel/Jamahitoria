@@ -93,7 +93,41 @@ vassal=
 	start_date="1712.7.5"
 	end_date="1936.1.1"
 }
-
+vassal=
+{
+	first="JAP"
+	second="CHO"
+	start_date="1587.6.2"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="JAP"
+	second="TOS"
+	start_date="1587.6.2"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="JAP"
+	second="YZW"
+	start_date="1587.6.2"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="JAP"
+	second="SEN"
+	start_date="1587.6.2"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="JAP"
+	second="TKG"
+	start_date="1587.6.2"
+	end_date="1936.1.1"
+}
 vassal=
 {
 	first="X23"
@@ -271,7 +305,7 @@ vassal=
 	start_date="1505.6.2"
 	end_date="1936.1.1"
 }
-vassal=
+substate=
 {
 	first="X06"
 	second="FEK"
@@ -292,14 +326,6 @@ vassal=
 	start_date="1577.6.26"
 	end_date="1936.1.1"
 }
-vassal=
-{
-	first="X06"
-	second="X57"
-	start_date="1599.12.5"
-	end_date="1936.1.1"
-}
-
 vassal=
 {
 	first="X06"

@@ -1,12 +1,10 @@
-name = "Free Frysk-Malaccan Imperialist War"
+name = "Padri War"
 
 1720.9.1 = {
 	add_attacker = X06
 	add_attacker = FEK
 	add_attacker = LAN
 	add_attacker = SAF
-	add_attacker = X36
-	add_attacker = FLR
 	add_defender = MLC
 	add_defender = BRU
 	add_defender = PAT
@@ -14,30 +12,30 @@ name = "Free Frysk-Malaccan Imperialist War"
 
 	war_goal = {
 		casus_belli = acquire_state
-		actor = FEK
+		actor = X06
 		receiver = MLC
-		country = MLC
+		country = FEK
 		state_province_id = 1408
 	}
 	war_goal = {
 		casus_belli = acquire_state
-		actor = FEK
+		actor = X06
 		receiver = MLC
-		country = MLC
+		country = FEK
 		state_province_id = 1414
 	}
 	war_goal = {
 		casus_belli = acquire_state
-		actor = FEK
+		actor = X06
 		receiver = MLC
-		country = MLC
+		country = FEK
 		state_province_id = 1398
 	}
 	war_goal = {
 		casus_belli = acquire_state
-		actor = FEK
+		actor = X06
 		receiver = MLC
-		country = MLC
+		country = FEK
 		state_province_id = 1406
 	}
 }

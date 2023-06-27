@@ -2334,54 +2334,6 @@ country_event = {
         }
     }
 }
-
-country_event = {
-    id = 81002212
-    title = "EVTNAME81002212"
-    desc = "EVTDESC81002212"
-    picture = "deliberation"
-
-    trigger = {
-        has_country_modifier = neutrality_modifier
-        NOT = {
-            badboy = 1
-            is_greater_power = yes
-            any_owned_province = { NOT = { is_core = THIS } }
-            colonial_nation = yes
-        }
-        war = yes
-    }
-
-    mean_time_to_happen = {
-        days = 1
-    }
-
-    option = {
-        name = "EVT81002212OPTA"
-        any_country = {
-            limit = { war_with = THIS }
-            end_war = THIS
-        }
-        any_country = {
-            limit = { alliance_with = THIS }
-            leave_alliance = THIS
-        }
-        ai_chance = {
-            factor = 100
-        }
-    }
-
-    option = {
-        name = "EVT81002212OPTB"
-        set_country_flag = abandoned_neutrality
-        prestige = -20
-        remove_country_modifier = neutrality_modifier
-        ai_chance = {
-            factor = 0
-        }
-    }
-}
-
 #Titanic Sinks
 country_event = {
     id = 81002213

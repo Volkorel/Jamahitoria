@@ -270,49 +270,49 @@
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = meinwerkist
 		size= 126
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = meinwerkist
 		size= 136
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = meinwerkist
 		size= 13
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = meinwerkist
 		size= 4
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = meinwerkist
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = meinwerkist
 		size= 25
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = meinwerkist
 		size= 1142
 	}
 
@@ -608,49 +608,49 @@
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = meinwerkist
 		size= 60
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = meinwerkist
 		size= 42
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = meinwerkist
 		size= 6
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = meinwerkist
 		size= 1
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = meinwerkist
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = meinwerkist
 		size= 10
 	}
 
 	farmers=
 	{
 		culture = nieuwereld
-		religion = noreligion
+		religion = meinwerkist
 		size= 379
 	}
 

@@ -1,13 +1,15 @@
 capital = 1649
 primary_culture = japanese
-culture = zzz_religion_mahayana
-religion = mahayana
+culture = beifaren
+culture = nanfaren
+culture = dongren
+culture = zzz_religion_shinto
+religion = shinto
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_tradition
-literacy = 0
-
-
+literacy = 0.208901
+civilized = yes
 # Social Reforms
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit

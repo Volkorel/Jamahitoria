@@ -110,8 +110,8 @@ country_migration_target = {
 				# Audax Validator "." Ignore_NEXT
 				is_culture_group = THIS
 				AND = {
-					THIS = { is_culture_group = iberian }
-					is_culture_group = latin_american_cultures
+					THIS = { is_culture_group = scandinavian }
+					primary_culture = vinlander
 				}
 				AND = {
 					THIS = { is_culture_group = beneluxian }

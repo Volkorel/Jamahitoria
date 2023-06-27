@@ -1062,6 +1062,8 @@
 		culture = basque
 		religion = catholic
 		size= 2176
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	artisans=
@@ -1069,6 +1071,8 @@
 		culture = basque
 		religion = catholic
 		size= 3108
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	clergymen=
@@ -1076,6 +1080,8 @@
 		culture = basque
 		religion = catholic
 		size= 505
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	bureaucrats=
@@ -1083,6 +1089,8 @@
 		culture = basque
 		religion = catholic
 		size= 109
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	officers=
@@ -1090,6 +1098,8 @@
 		culture = basque
 		religion = catholic
 		size= 163
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	aristocrats=
@@ -1097,6 +1107,8 @@
 		culture = basque
 		religion = catholic
 		size= 653
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	farmers=
@@ -1104,6 +1116,8 @@
 		culture = basque
 		religion = catholic
 		size= 70996
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 }
@@ -1113,6 +1127,8 @@
 		culture = basque
 		religion = catholic
 		size= 4133
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	artisans=
@@ -1120,6 +1136,8 @@
 		culture = basque
 		religion = catholic
 		size= 2343
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	clergymen=
@@ -1127,6 +1145,8 @@
 		culture = basque
 		religion = catholic
 		size= 381
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	bureaucrats=
@@ -1134,6 +1154,8 @@
 		culture = basque
 		religion = catholic
 		size= 82
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	officers=
@@ -1141,6 +1163,8 @@
 		culture = basque
 		religion = catholic
 		size= 76
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	aristocrats=
@@ -1148,6 +1172,8 @@
 		culture = basque
 		religion = catholic
 		size= 492
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	farmers=
@@ -1155,6 +1181,8 @@
 		culture = basque
 		religion = catholic
 		size= 51065
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 }
@@ -1317,6 +1345,8 @@
 		culture = catalan
 		religion = catholic
 		size= 4133
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	artisans=
@@ -1324,6 +1354,8 @@
 		culture = catalan
 		religion = catholic
 		size= 4984
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	clergymen=
@@ -1331,6 +1363,8 @@
 		culture = catalan
 		religion = catholic
 		size= 360
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	bureaucrats=
@@ -1338,6 +1372,8 @@
 		culture = catalan
 		religion = catholic
 		size= 78
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	officers=
@@ -1345,6 +1381,8 @@
 		culture = catalan
 		religion = catholic
 		size= 94
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	aristocrats=
@@ -1352,6 +1390,8 @@
 		culture = catalan
 		religion = catholic
 		size= 465
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	farmers=
@@ -1359,6 +1399,8 @@
 		culture = catalan
 		religion = catholic
 		size= 45267
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 }
@@ -1419,6 +1461,8 @@
 		culture = catalan
 		religion = catholic
 		size= 1033
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	artisans=
@@ -1426,6 +1470,8 @@
 		culture = catalan
 		religion = catholic
 		size= 8531
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	clergymen=
@@ -1433,6 +1479,8 @@
 		culture = catalan
 		religion = catholic
 		size= 792
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	bureaucrats=
@@ -1440,6 +1488,8 @@
 		culture = catalan
 		religion = catholic
 		size= 110
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	officers=
@@ -1461,6 +1511,8 @@
 		culture = catalan
 		religion = catholic
 		size= 49910
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 }
@@ -1470,6 +1522,8 @@
 		culture = catalan
 		religion = catholic
 		size= 369
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	artisans=
@@ -1477,6 +1531,8 @@
 		culture = catalan
 		religion = catholic
 		size= 1475
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	clergymen=
@@ -1512,6 +1568,8 @@
 		culture = catalan
 		religion = catholic
 		size= 34383
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 }
@@ -1521,6 +1579,8 @@
 		culture = catalan
 		religion = catholic
 		size= 13433
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	artisans=
@@ -1528,6 +1588,8 @@
 		culture = catalan
 		religion = catholic
 		size= 2480
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	clergymen=
@@ -1535,6 +1597,8 @@
 		culture = catalan
 		religion = catholic
 		size= 403
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 	bureaucrats=
@@ -1563,6 +1627,8 @@
 		culture = catalan
 		religion = catholic
 		size= 44851
+		militancy = 8
+		rebel_type = carlist_rebels
 	}
 
 }

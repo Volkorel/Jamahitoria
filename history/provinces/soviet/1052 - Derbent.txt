@@ -1,5 +1,6 @@
-owner=X03
-controller=X03
+owner=CHY
+controller=CHY
+add_core=CHY
 add_core=X03
 add_core=X04
 trade_goods = fruit

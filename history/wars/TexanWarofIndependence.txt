@@ -1,6 +1,6 @@
 name = "the Empire War"
 
-1834.10.2 = {
+1835.1.1 = {
 	add_attacker = MEX
 	add_defender = X57
 	
@@ -12,7 +12,10 @@ name = "the Empire War"
 	war_goal = {
 		casus_belli = conquest
 		actor = MEX
-		receiver = X57
+		receiver = X57		
 	}
-
+}
+1840.6.6 = {
+    rem_attacker = MEX
+    rem_attacker = X57
 }

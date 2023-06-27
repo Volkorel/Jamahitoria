@@ -6,4 +6,27 @@ EVTDESC99939_NEWS_LONG;The resolute Granjeros of Transvaal and Oranje Free State
 EVTDESC99939_NEWS_MEDIUM;Granjeros establish their own nation, bearing the name of Cecil Rhodes, the defunct Catalan mining company's founder who sought to populate South Africa to its fullest extent: Rodesia.;;;;;;;;;;;;;
 EVTDESC99939_NEWS_SHORT;Granjeros of Transvaal has taken a trek into Shonalands to carve a nation of their own.;;;;;;;;;;;;;
 NORMAL_WAR_RESTORE_ORDER_NAME_ROD_SHO;La Gran Caminata;;;;;;;;;;;x
-AGRESSION_WAR_RESTORE_ORDER_NAME_ROD_SHO;La Gran Caminata;;;;;;;;;;;x
+AGRESSION_WAR_RESTORE_ORDER_NAME_ROD_SHO;La Gran Caminata;;;;;;;;;;;xcarlist_rebels_title;Karlosiyyun;;;;;;;;;;;;;x
+carlist_rebels_name;Karlosiyyun Rebels;;;;;;;;;;;;;x
+carlist_rebels_desc;The Karlosiyyun are a traditionalist and legitimist movement in Crown of Iberia. Feeling threatened both politically and economically by the ideology and tenants of liberalism, and feeling special hatred for the anti-clerical Fatimids, who are clearly masonic puppets, with their hatred of church and tradition. They feel that true security can only come about through strong rule by the true heir of Infante Don Carlos.;;;;;;;;;;;;;;x
+carlist_rebels_army;Karlosiyyun Requets;;;;;;;;;;;;;x
+EVTNAME37710;Karlosiyyun Prevails;;;;;;;;;;;;;
+EVTDESC37710;A new line of the al-Borbon family has been established on the Andalusian throne, descending from the Abu Karlos. To many traditionalists, this signals a rebirth of the true Iberian Empire. Others are not so optimistic.;;;;;;;;;;;;;
+EVT37710OPTA;Long live the true King!;;;;;;;;;;;;;
+EVTNAME37711;The First Karlosiyyun War;;;;;;;;;;;;;
+EVTDESC37711;The death of King Ferdinand in 1833 and the ascension of young Isabela (only three years old at the time) to the throne of Iberia sparked a revolt by supporters of the King's brother, Abu Carlos. He intends to depose Isabela and establish a separate branch of the al-Borbon family, as well as restore the Iberian Empire to its traditional glory and Christianity -- something liberals say simply cannot be done.;;;;;;;;;;;;;
+EVT37711OPTA;Karlos will bring Iberia to ruin!;;;;;;;;;;;;;
+EVT37711OPTB;Put him on the throne!;;;;;;;;;;;;;
+EVTNAME37712;The Karlosiyyun Defeated!;;;;;;;;;;;;;
+EVTDESC37712;The Karlosiyyun have been routed and peace has been restored to Iberia -- for now.;;;;;;;;;;;;;
+EVT37712OPTA;That is a relief.;;;;;;;;;;;;;
+EVTNAME37713;Return of the Karlosiyyun;;;;;;;;;;;;;
+EVTDESC37713;We thought the supporters of Abu Karlos and his descendants had been completely routed, yet once again there are reports of a cell having been established in one of our provinces. Supporters of the current pretender are busy drumming up recruits and calling for the overthrow of the Iberian government. Rooting them out will not be easy.;;;;;;;;;;;;;
+EVT37713OPTA;Do whatever it takes to hunt them down.;;;;;;;;;;;;;
+EVT37713OPTB;Let them talk.;;;;;;;;;;;;;
+EVTNAME99941;Intervention to the Empire War;;;;;;;;;;;;;
+EVTDESC99941;The illustrious Empire of Armagnacée, under its newly established monarchy, has made the audacious proclamation of asserting dominion over the entire Flakten region, incorporating it as an integral part of the Armagnacéoise Empire. The valiant Tayshans, who have repeatedly defended themselves against the Armagnacéoise forces throughout history, including the tumultuous Napoleonic Wars era, now find themselves in a state of desperate vulnerability as they confront this latest challenge alone.\n\nContemplating the situation at hand, a pivotal question arises: should we, as external entities, intervene in this conflict? Shall we align ourselves with the ambitious Armagnacée, driven by the pursuit of territorial expansion, or shall we extend our support to the beleaguered Taysha, recognizing the gravity of their plight?;;;;;;;;;;;;;
+EVTOPTA99941;Remember the Hillige!;;;;;;;;;;;;;
+EVTOPTB99941;Invade Nouvelle-Alpine instead;;;;;;;;;;;;;
+intervene_taysha_vin_title;Intervene in the Empire War!;;;;;;;;;;;;;
+intervene_taysha_vin_desc;The Tayshans have been abandoned by the Frisians in Europe, as they divert their resources and focus towards Africa and Java. Taysha stands alone. Will we exploit this situation?;;;;;;;;;;;;;

@@ -6120,49 +6120,49 @@
 	farmers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = meinwerkist
 		size= 3559
 	}
 
 	artisans=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = meinwerkist
 		size= 740
 	}
 
 	aristocrats=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = meinwerkist
 		size= 133
 	}
 
 	clergymen=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = meinwerkist
 		size= 34
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = meinwerkist
 		size= 44
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = meinwerkist
 		size= 11
 	}
 
 	officers=
 	{
 		culture = nieuwereld
-		religion = laeradr
+		religion = meinwerkist
 		size= 6
 	}
 

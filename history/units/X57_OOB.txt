@@ -689,28 +689,40 @@ ZAF = {
 
 #Leaders
 leader = {
-	name="Hrafn Jongstra"
-	date="1705.10.2"
+	name="Hrafn van der Kooistra"
+	date="1810.9.2"
 	type=land
-	personality="soldierly"
+	personality="balanced_p"
 	background="war_college"
 }
 
-leader = {
-	name="Etto Wynja"
-	date="1712.6.29"
-	type=sea
-	personality="stalwart"
-	background="generals_aide"
-}
-
-leader = {
-	name="Meinhart Kooistra"
-	date="1720.9.2"
-	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
-
-
 #Armies
+army = {
+	name="Tweede Mei Leger"
+	location=133
+	regiment = {
+		name="Frij Hynsteride"
+		type=cavalry
+		home=133
+	}
+	regiment = {
+		name="Ljouwert Artillery"
+		type=artillery
+		home=133
+	}
+	regiment = {
+		name="Radbad's Volunteers"
+		type=infantry
+		home=133
+	}
+	regiment = {
+		name="Hroud Volunteers"
+		type=infantry
+		home=133
+	}
+	regiment = {
+		name="Patriots of Flakten"
+		type=infantry
+		home=137
+	}
+}

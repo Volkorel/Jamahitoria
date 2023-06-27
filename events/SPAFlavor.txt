@@ -10,6 +10,7 @@ country_event = {
         OR = {
             tag = SPA
             tag = SPC
+            tag = ADU
         }
         year = 1837
         NOT = { year = 1840 }
@@ -128,6 +129,7 @@ country_event = {
         OR = {
             tag = SPA
             tag = SPC
+            tag = ADU
         }
         year = 1851
         owns = 2209 #Havana
@@ -173,6 +175,7 @@ country_event = {
         OR = {
             tag = SPA
             tag = SPC
+            tag = ADU
         }
         year = 1851
         owns = 2209 #Havana
@@ -246,6 +249,7 @@ country_event = {
         OR = {
             tag = SPA
             tag = SPC
+            tag = ADU
         }
         year = 1907
         expressionism = 1
@@ -475,22 +479,6 @@ country_event = {
             leave_alliance = THIS
             country_event = 800055
         }
-        random_country = {
-            limit = {
-                tag = SIC
-                government = absolute_monarchy
-            }
-            relation = {
-                who = THIS
-                value = 100
-            }
-            THIS = {
-                diplomatic_influence = {
-                    who = SIC
-                    value = 100
-                }
-            }
-        }
         any_country = {
             limit = {
                 neighbour = THIS
@@ -520,7 +508,7 @@ country_event = {
     fire_only_once = yes
 
     trigger = {
-        tag = SPA
+        tag = ADU
     }
 
     mean_time_to_happen = {
@@ -534,12 +522,10 @@ country_event = {
             limit = {
                 OR = {
                     controlled_by = REB
-                    region = SPA_474
+                    region = SPA_498
                     province_id = 477
                     province_id = 480
                     province_id = 495
-                    province_id = 485
-                    province_id = 509
                 }
             }
             any_pop = {
@@ -686,7 +672,7 @@ country_event = {
             }
         }
         define_general = {
-            name = "Tomás de Zumalacárregui"
+            name = "Tomï¿½s de Zumalacï¿½rregui"
             personality = deeply_religious
             background = innovative_tactician
         }
@@ -753,7 +739,7 @@ country_event = {
     picture = "carlists"
 
     trigger = {
-        tag = SPA
+        tag = ADU
         NOT = { has_global_flag = carlists_pacified }
         OR = {
             government = absolute_monarchy
@@ -941,7 +927,7 @@ province_event = {
 
     trigger = {
         owner = {
-            tag = SPA
+            tag = ADU
             OR = {
                 government = absolute_monarchy
                 government = prussian_constitutionalism
@@ -953,9 +939,9 @@ province_event = {
         any_neighbor_province = { has_province_modifier = carlist_sympathies }
         NOT = { has_province_modifier = carlist_sympathies }
         NOT = { region = SPA_487 }
-        is_core = SPA
+        is_core = ADU
         is_colonial = no
-        controlled_by = SPA
+        controlled_by = ADU
         NOT = { reactionary = 30 }
         any_pop = {
             OR = {
@@ -1132,7 +1118,7 @@ province_event = {
     trigger = {
         NOT = { has_global_flag = carlists_pacified }
         owner = {
-            tag = SPA
+            tag = ADU
             OR = {
                 government = absolute_monarchy
                 government = prussian_constitutionalism
@@ -1148,9 +1134,9 @@ province_event = {
         }
         any_neighbor_province = { has_province_modifier = carlist_sympathies }
         NOT = { has_province_modifier = carlist_sympathies }
-        is_core = SPA
+        is_core = ADU
         is_colonial = no
-        controlled_by = SPA
+        controlled_by = ADU
         OR = {
             reactionary = 30
             AND = {
@@ -1299,9 +1285,9 @@ province_event = {
     desc = "EVTDESC37715"
 
     trigger = {
-        owner = { tag = SPA }
+        owner = { tag = ADU }
         has_province_modifier = carlist_sympathies
-        controlled_by = SPA
+        controlled_by = ADU
     }
 
     mean_time_to_happen = {
@@ -1340,7 +1326,7 @@ province_event = {
             factor = 3
             NOT = {
                 any_neighbor_province = {
-                    is_core = SPA
+                    is_core = ADU
                     NOT = { has_province_modifier = carlist_sympathies }
                 }
             }
@@ -1391,7 +1377,7 @@ province_event = {
         }
         modifier = {
             factor = 0.5
-            country_units_in_province = SPA
+            country_units_in_province = ADU
         }
         modifier = {
             factor = 0.4
@@ -2090,7 +2076,7 @@ country_event = {
     major = yes
 
     trigger = {
-        tag = SPA
+        tag = ADU
         year = 1865
         OR = {
             government = hms_government
@@ -2168,12 +2154,12 @@ country_event = {
         prestige = 5
         random_country = {
             limit = {
-                is_sphere_leader_of = SPA
+                is_sphere_leader_of = ADU
                 NOT = { owns = 549 }
-                SPA = { is_greater_power = no }
+                ADU = { is_greater_power = no }
             }
             diplomatic_influence = {
-                who = SPA
+                who = ADU
                 value = -100
             }
         }
@@ -2182,10 +2168,10 @@ country_event = {
                 owns = 549
                 is_greater_power = yes
                 is_culture_group = germanic
-                SPA = { is_greater_power = no }
+                ADU = { is_greater_power = no }
             }
             diplomatic_influence = {
-                who = SPA
+                who = ADU
                 value = 200
             }
         }
@@ -2196,7 +2182,7 @@ country_event = {
                 is_culture_group = germanic
             }
             relation = {
-                who = SPA
+                who = ADU
                 value = 100
             }
         }
@@ -2449,7 +2435,7 @@ country_event = {
     major = yes
 
     trigger = {
-        tag = SPA
+        tag = ADU
         has_country_flag = king_leopold_rules
         OR = {
             government = absolute_monarchy
@@ -2622,7 +2608,7 @@ country_event = {
     major = yes
 
     trigger = {
-        tag = SPA
+        tag = ADU
         has_country_flag = king_amadeo_rules
         OR = {
             government = absolute_monarchy
@@ -2788,7 +2774,7 @@ country_event = {
     fire_only_once = yes
 
     trigger = {
-        tag = SPA
+        tag = ADU
         has_global_flag = spain_glorious_revolution
         government = democracy
         OR = {
@@ -3376,7 +3362,7 @@ country_event = {
 #events regarding the Chincha Islands War
 country_event = {
     id = 97150
-    title = "EVTNAME97150" #The Talambó Incident
+    title = "EVTNAME97150" #The Talambï¿½ Incident
     desc = "EVTDESC97150"
     picture = "arrested"
 
@@ -3475,7 +3461,7 @@ country_event = {
 
 country_event = {
     id = 97151
-    title = "EVTNAME97150" #The Talambó Incident - Peru Apologizes
+    title = "EVTNAME97150" #The Talambï¿½ Incident - Peru Apologizes
     desc = "EVTDESC97151"
     news = yes
     news_desc_long = "EVTDESC97151_NEWS_LONG"
@@ -3537,7 +3523,7 @@ country_event = {
 
 country_event = {
     id = 97152
-    title = "EVTNAME97150" #The Talambó Incident - Peru Refuses to Apologize
+    title = "EVTNAME97150" #The Talambï¿½ Incident - Peru Refuses to Apologize
     desc = "EVTDESC97152"
     news = yes
     news_desc_long = "EVTDESC97152_NEWS_LONG"

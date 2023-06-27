@@ -126239,3 +126239,52 @@
 
     text_scale = 0.40000
 }
+
+# Nieuw Ljouwert
+3323 = {
+    text_rotation = 0.2
+    text_scale = 2
+    unit = {
+        x = 1654.250000
+        y = 1643.900000
+    }
+
+    city = {
+        x = 1653.600000
+        y = 1644.650000
+    }
+
+    factory = {
+        x = 1654.600000
+        y = 1644.650000
+    }
+
+    building_construction = {
+        x = 1652.850000
+        y = 1643.200000
+    }
+
+    military_construction = {
+        x = 1655.900000
+        y = 1643.900000
+    }
+
+    building_position = {
+        fort = {
+            x = 1653.500000
+            y = 1647.900000
+        }
+
+        railroad = {
+            x = 1655.050000
+            y = 1645.700000
+        }
+
+        naval_base = {
+            x = 1651.400000
+            y = 1641.600000
+        }
+
+    }
+
+}

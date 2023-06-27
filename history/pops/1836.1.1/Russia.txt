@@ -7643,49 +7643,49 @@
 	soldiers=
 	{
 		culture = dagestani
-		religion = pre_schism
+		religion = iconoclast
 		size= 4133
 	}
 
 	artisans=
 	{
 		culture = dagestani
-		religion = pre_schism
+		religion = iconoclast
 		size= 1865
 	}
 
 	clergymen=
 	{
 		culture = dagestani
-		religion = pre_schism
+		religion = iconoclast
 		size= 252
 	}
 
 	bureaucrats=
 	{
 		culture = dagestani
-		religion = pre_schism
+		religion = iconoclast
 		size= 108
 	}
 
 	officers=
 	{
 		culture = dagestani
-		religion = pre_schism
+		religion = iconoclast
 		size= 87
 	}
 
 	aristocrats=
 	{
 		culture = dagestani
-		religion = pre_schism
+		religion = iconoclast
 		size= 355
 	}
 
 	farmers=
 	{
 		culture = dagestani
-		religion = pre_schism
+		religion = iconoclast
 		size= 46531
 	}
 

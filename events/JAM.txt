@@ -96,3 +96,33 @@ country_event = {
 		}
 	}
 }
+
+country_event = {
+	id = 99941
+	title = "EVTNAME99941"
+	desc = "EVTDESC99941"
+	picture = "Unite"
+	is_triggered_only = yes
+	option = {
+		name = "EVTOPTA99941" #Liberate Taysha
+		add_casus_belli = {
+			target = MEX
+			type = cut_down_to_size
+			months = 48
+		}
+		diplomatic_influence = {
+			who = X57
+			value = 100
+		}
+		create_alliance = X57
+	}
+	option = {
+		name = "EVTOPTB99941" #Get lands instead
+		add_casus_belli = {
+			target = MEX
+			type = acquire_state
+			months = 48
+			state_province_id = 105
+		}
+	}
+}

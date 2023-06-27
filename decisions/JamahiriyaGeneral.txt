@@ -1,0 +1,91 @@
+political_decisions = {
+    intervene_taysha_vin = {
+		picture = taysha_intervention
+        potential = {
+			OR = {
+				tag = X36
+				tag = CAL
+			}
+			MEX = {
+				war_with = X57
+			}
+        }
+        allow = {
+			MEX = {
+				war_with = X57
+			}
+        }
+        effect = {
+			country_event = {
+				id = 99941
+				days = 0
+			}
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	give_fek_fek = {
+		picture = give_fek_indonesian_lands
+		potential = {
+			tag = X06
+		}
+		allow = {
+			war = yes
+			is_our_vassal = FEK
+			any_owned = {
+				limit = {
+					OR = {
+						region = ATJ_1405
+						region = NET_1401
+						region = NET_1398
+						region = NET_1413
+						region = NET_1418
+						region = BAL_1438
+						region = NET_1446
+						region = NET_1449
+						region = NET_1423
+						region = NET_1426
+						region = BRU_1394
+						region = BRU_1396
+						region = NET_1447
+						region = ENG_1384
+						region = ENG_1391
+						region = SIA_1352
+						region = ENG_1343
+					}
+				}
+			}
+		}
+		effect = {
+			any_owned = {
+				limit = {
+					OR = {
+						region = ATJ_1405
+						region = NET_1401
+						region = NET_1398
+						region = NET_1413
+						region = NET_1418
+						region = BAL_1438
+						region = NET_1446
+						region = NET_1449
+						region = NET_1423
+						region = NET_1426
+						region = BRU_1394
+						region = BRU_1396
+						region = NET_1447
+						region = ENG_1384
+						region = ENG_1391
+						region = SIA_1352
+						region = ENG_1343
+					}
+				}
+				add_core = FEK
+				secede_province = FEK
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

@@ -1,5 +1,5 @@
 graphical_culture = JapaneseGC
-color = { 174 143 27 }
+color = { 134 19 19 }
 
 party = {
 	name = "NIP_reactionary"

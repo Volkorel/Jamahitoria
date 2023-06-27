@@ -750,8 +750,8 @@ leader = {
 
 #Armies
 army = {
-	name="10th Army"
-	location=146
+	name="Grande Armée"
+	location=2152
 	regiment = {
 		name="1st Tepic Infantry"
 		type=infantry
@@ -796,7 +796,7 @@ army = {
 
 army = {
 	name="9th Army"
-	location=206
+	location=2152
 	regiment = {
 		name="1st Tuxtla Cavalry"
 		type=cavalry
@@ -821,7 +821,7 @@ army = {
 
 army = {
 	name="8th Army"
-	location=151
+	location=137
 	regiment = {
 		name="1st Minatitlán Infantry"
 		type=infantry
@@ -846,7 +846,7 @@ army = {
 
 army = {
 	name="16th Army"
-	location=126
+	location=2148
 	regiment = {
 		name="1st Acapulco Cavalry"
 		type=cavalry
@@ -898,8 +898,8 @@ navy = {
 }
 
 army = {
-	name="Grand Company"
-	location=196
+	name="the White Band"
+	location=2185
 	regiment = {
 		name="1st Sayaxché Infantry"
 		type=infantry
@@ -981,7 +981,7 @@ navy = {
 
 army = {
 	name="Yucatan Company"
-	location=210
+	location=2196
 	regiment = {
 		name="3rd Guanajuato Infantry"
 		type=infantry
@@ -1006,7 +1006,7 @@ army = {
 
 army = {
 	name="Misquito Coast Company"
-	location=210
+	location=2188
 	regiment = {
 		name="1st Tapachula Infantry"
 		type=infantry
@@ -1128,7 +1128,7 @@ navy = {
 
 army = {
 	name="6th Army"
-	location=112
+	location=2161
 	regiment = {
 		name="1st Mérida Cavalry"
 		type=cavalry
