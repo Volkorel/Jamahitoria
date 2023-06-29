@@ -1810,60 +1810,6 @@ political_decisions = {
 			factor = 1
 		}
 	}
-	form_the_suebi = {
-		picture = law_of_guarantees
-		potential = {
-			primary_culture = suebi
-			NOT = {
-				exists = SUE
-				tag = GLC
-				tag = POR
-				tag = SPA
-				tag = SPC
-			}
-		}	
-		allow = {
-			war = no
-			prestige = 5
-			SUE = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-						}
-					}
-				}
-			}
-		}
-		
-		effect = {
-			prestige = 10
-			any_country = {
-				limit = {
-					in_sphere = THIS
-					NOT = {
-						tag = THIS
-					}
-					capital_scope = { continent = europe }
-					primary_culture = suebi
-				}
-				annex_to = THIS
-			}
-			any_owned = {
-				add_core = SUE
-				remove_core = SPA
-				remove_core = POR
-				remove_core = GLC
-				remove_core = SPC
-			}			
-			
-			change_tag = SUE
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
 	form_visigothia = {
 		picture = become_guatemala
 		potential = {

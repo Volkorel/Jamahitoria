@@ -1,6 +1,6 @@
-owner=JAP
-controller=JAP
-add_core=JAP
+owner=KRT
+controller=KRT
+add_core=KRT
 add_core=KOR
 trade_goods = grain
 life_rating = 31

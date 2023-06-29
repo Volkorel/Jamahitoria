@@ -496,8 +496,6 @@ KOS;Kosovo;Kosovo;Kosovo;Kosowo;Kosovo;Cossovo;Koszov�;Kosovo;Koszov�;Kosovo
 KOS_ADJ;Kosovan;Kosovare;Kosovar;Kosowsk.;Kosovara;Cossovara;koszov�i;Kosovsk�;koszov�i;Kosovan;Kosovar;�������;Kosovon;x
 KRL;Karelia;Car�lie;Karelien;Karelia;Carelia;Carelia;Kar�lia;Karelia;Kar�lia;Karelia;Car�lia;�������;Karjala;x
 KRL_ADJ;Karelian;Car�lien;Karelisch;Karelii;Carela;Carela;kar�liai;Karelian;kar�liai;karelian;Careliano;��������;karjalainen;x
-KRT;Carthage;Carthage;Karthago;Kartagina;Cartago;Cartagine;Carthage;Kart�go;Carthage;Carthago;Cartago;��������;Karthago;x
-KRT_ADJ;Carthaginian;Carthaginois;Karthagisch;kartagi�sk;Cartaginesa;Cartaginese;karth�g�i;Kart�ginsk�;karth�g�i;carthaags;Cartagin�s;����������;Carthaginian;x
 KWT;Kuwait;Koweit;Kuwait;Kuwejt;Kuwait;Kuwait;Kuvait;Kuvajt;Kuvait;Koeweit;Kuwait;������;Kuwait;x
 KWT_ADJ;Kuwaiti;Kowe�tien;Kuwaitisch;kuwejck;Kuwait�;Kuwaitiana;kuvaiti;kuvajtsk�;kuvaiti;Koeweitse;Kuwaitiano;��������;kuwaitilainen;x
 KYR;Kyrgyzstan;Kirghizistan;Kirgisistan;Kirgistan;Kirguist�n;Kirghizistan;Kirgiziszt�n;Kyrgyzst�n;Kirgiziszt�n;Kirgizi�;Quirguist�o;��������;Kirgisia;x
@@ -627,7 +625,6 @@ NRM;Normandy;Normandie;Normandie;Normandia;Normand�a;Normandia;Normandia;Norma
 NRM_ADJ;Norman;Normand;Normannisch;Normandii;Normanda;Normanna;normann;Norman;normann;Normandisch;Normando;���������;Norman;x
 NYE;North Yemen;Y�men du Nord;Nordjemen;Jemen P�nocny;Yemen del Norte;Yemen del Nord;�szak-Jemen;Severn� Jemen;�szak-Jemen;Noord-Jemen;I�men do Norte;�������� �����;Pohjois-Jemen;x
 NYE_ADJ;North Yemeni;Y�m�nite du Nord;Nordjemenitisch;P�nocnojeme�sk;Norteyemen�;Yemenita Settentrionale;�szak-Jemeni;Severn� Jemenu;�szak-Jemeni;Noord-Jemeni;Iemenita;��������������;Pohjois-Jemeni;x
-OAX;Oaxaca;Ouahaca;Wachaka;Oaxaca;Oaxaca;Oaxaca;Oaxaca;Oaxaca;Oaxaca;Oaxaca;Oaxaca;������;Oaxaca;x
 OAX_ADJ;Oaxacan;Ouahaquien;Wachaka-;Oaxaky;Oaxaque�a;Oaxaquegna;Oaxacan;Oaxacan;Oaxacan;Oaxaca;Oaxacano;�������;Oaxacan;x
 OCC;Occitania;Occitanie;Okzitanien;Oksytania;Occitania;Occitania;Okszit�nia;Occitania;Okszit�nia;Occitania;Occitania;���������;Oksitania;x
 OCC_ADJ;Occitan;Occitain;Okzitanisch;oksyta�sk;Occitana;Occitana;Okszit�n;Occitan;Okszit�n;Occitaans;Occitano;���������;Oksitaani;x
@@ -724,8 +721,6 @@ RME_varangian_guard;Varangian Guard;Garde Var�gue;War�gergarde;Gwardia Wares
 RME_XKM;XKM;XKM;XKM;XKM;XKM;XKM;XKM;XKM;XKM;XKM;XKM;���;XKM;x
 RMG;Romagna;Romagne;Die Romanei;Romania;Roma�a;Romagna;Romagna;Romagna;Romagna;Romagna;Romanha;�������;Romagna;x
 RMG_ADJ;Romagnan;Romagnien;Romanei-;roma�sk;de Roma�a;Romagnola;Romagnan;Romagnan;Romagnan;Romagnola;de Romanha;��������;Romagnan;x
-RML;Rumelia;Roum�lie;Rumelien;Rumelia;Rumelia;Rumelia;Rum�lia;Rumelija;Rum�lia;Roemeli�;Rum�lia;�������;Rumelia;x
-RML_ADJ;Rumelian;Roum�lien;Rumelisch;rumelijsk;de Rumelia;Rumela;Rum�lyok;Rumelij�;Rum�lyok;Roemeli�;de Rum�lia;���������;Rumelia;x
 RPL;Rupert's Land;Terre de Rupert;Ruperts Land;Ziemia Ruperta;La Tierra de Rupert;Terra di Rupert;Rupert f�ldje;Rupertova zem�;Rupert f�ldje;Rupert's Land;A Terra de Rupert;����� �������;Rupertin maata;x
 RPL_ADJ;Rupert's;Rupertien;Ruperts-;Ruperta;de Rupert;di Rupert;Rupert;Rupertovi;Rupert;Rupert;de Rupert;��������;Rupert;x
 RWA;Rwanda;Rwanda;Ruanda;Rwanda;Ruanda;Ruanda;Ruanda;Rwanda;Ruanda;Rwanda;Ruanda;������;Ruanda;x
@@ -816,15 +811,6 @@ SUA;Swaziland;Swaziland;Swasiland;Suazi;Suazilandia;Swaziland;Szv�zif�ld;Sva
 SUA_ADJ;Swazi;Swatinien;Swasil�ndisch;suazyjsk;Suazi;Suasi;szv�zik;Swazi;szv�zik;Swazi;Essuatiniano;�����������;Swazimaan;x
 SUD;The Sudan;Soudan;Der Sudan;Sudan;Sud�n;Sudan;Szud�n;S�d�nu;Szud�n;Soedan;Sud�o;�����;Sudan;x
 SUD_ADJ;Sudanese;Soudanais;Sudanesisch;suda�sk;Sudanesa;Sudanese;szud�ni;s�d�nsk�;szud�ni;Soedanees;Sudan�s;�������;Sudanin;x
-SUE;The Kingdom of the Suebi;Le Royaume des Su�ves;Das K�nigreich der Sueben;Kr�lestwo Sweb�w;El Reino Suevo;Regno degli Svevi;A Suebi Kir�lys�ga;Kr�lovstv� Sueb�;A Suebi Kir�lys�ga;Het koninkrijk van de Suebi;O Reino Suevo;����������� ������;Suebin kuningaskunta;x
-SUE_ADJ;Suebi;Su�ve;Suebisch;swebsk;Sueva;Sveva;szv�bek;Suebi;szv�bek;Suebi;Suevo;��������;Sveba;x
-SUE_bourgeois_dictatorship;The Senate of the Suebi;Le S�nat des Su�ves;Der Senat der Sueben;Senat Sweb�w;El Senado Suevo;Senato degli Svevi;A Suebi Szen�tusa;Sen�tu Suebu;A Suebi Szen�tusa;De Senaat van de Suebi;O Senado Suevo;����� ������;Suebin senaatti;x
-SUE_democracy;The Republic of the Suebi;La R�publique des Su�ves;Die Republik der Sueben;Swebska Republika;La Rep�blica Sueva;Repubblica degli Svevi;A Suebi K�zt�rsas�g;Republika Suebi;A Suebi K�zt�rsas�g;De republiek van de Suebi;A Rep�blica Sueva;���������� ������;Suebin tasavalta;x
-SUE_fascist_dictatorship;The Duchy of the Suebi;Le Duch� des Su�ves;Das F�hrertum der Sueben;Ksi�stwo Sweb�w;El Caudillado Suevo;Ducato degli Svevi;A Suebi Duchy�ja;V�vodstv� Sueb�;A Suebi Duchy�ja;Het hertogdom van de Suebi;O Caudilhado Suevo;���������� ������;Suebin herttuatar;x
-SUE_presidential_dictatorship;The Senate of the Suebi;Le S�nat des Su�ves;Der Senat der Sueben;Senat Sweb�w;El Senado Suevo;Senato degli Svevo;A Suebi Szen�tusa;Sen�tu Suebu;A Suebi Szen�tusa;De Senaat van de Suebi;O Senado Suevo;����� ������;Suebin senaatti;x
-SUE_proletariat_dictatorship;The Commune of the Suebi;La Commune des Su�ves;Die Gemeinde der Sueben;Gmina Swebska;La Comuna Sueva;Commune degli Svevi;A Suebi k�zs�ge;Komuna Sueb�;A Suebi k�zs�ge;De gemeente van de Suebi;A Comuna Sueva;������� ������;Suebin kunta;x
-SUE_theocracy;The Papacy of the Suebi;La Papaut� des Su�ves;Das Papsttum der Sueben;Papiestwo Swebskie;El Papado Suevo;Papato degli Svevi;A Suebi paps�ga;Pape�stv� Suebi;A Suebi paps�ga;Het pausdom van de Suebi;O Papado Suevo;������� ������;Suebin papti;x
-SUR;Suriname;Suriname;Suriname;Surinam;Surinam;Suriname;Suriname;Surinam;Suriname;Suriname;Suriname;��������;suriname;x
 SUR_ADJ;Surinamese;Surinamienne;Surinamisch;Surinamsk.;de Surinam;Surinamese;Suriname;Surinam;Suriname;Suriname;Surinam�s;���������;Surinamin;x
 SWA;Swahili;Souah�lis;Suaheli;Suahilijscy;Los Suajili;Swahili;szuah�li;svahil�tina;szuah�li;Swahili;Os Sua�lis;�������;Suahili;x
 SWA_ADJ;Swahili;Souah�li;Suaheli-;suahilijsk;Suajili;degli Swahili;szuah�li;svahil�tina;szuah�li;Swahili;Sua�li;����������;Suahili;x

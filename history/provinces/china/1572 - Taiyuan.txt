@@ -1,6 +1,6 @@
-owner=JAP
-controller=JAP
-add_core = JAP
+owner=SUE
+controller=SUE
+add_core=SUE
 add_core=CHI
 add_core=SUM
 add_core=X31

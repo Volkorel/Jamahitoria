@@ -1,6 +1,6 @@
-owner=JAP
-controller=JAP
-add_core=JAP
+owner=KRT
+controller=KRT
+add_core=KRT
 add_core=CHI
 add_core=KOR
 add_core=MCK

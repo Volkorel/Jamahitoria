@@ -1,7 +1,7 @@
-owner=JAP
-controller=JAP
+owner=SUE
+controller=SUE
+add_core=SUE
 add_core=CHI
-add_core=JAP
 add_core=SUM
 trade_goods = cotton
 life_rating = 32

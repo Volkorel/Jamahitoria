@@ -202,7 +202,6 @@ political_decisions = {
                     remove_core = MAL
                     remove_core = KLM
                     remove_core = LAN
-                    remove_core = PNK
                     remove_core = KTI
                     remove_core = SUL
                     remove_core = BRU
@@ -327,7 +326,6 @@ political_decisions = {
                 remove_core = SIA
                 remove_core = KLM
                 remove_core = LAN
-                remove_core = PNK
             }
             country_event = 199069
         }
@@ -628,7 +626,6 @@ political_decisions = {
                 remove_core = KTI
                 remove_core = KLM
                 remove_core = LAN
-                remove_core = PNK
                 remove_core = SAK
                 remove_core = ATJ
                 remove_core = DJA
@@ -1190,7 +1187,7 @@ political_decisions = {
                 war_with = THIS
                 NOT = { has_country_flag = negotiate_unequal_treaty }
                 OR = {
-                    owns = 1375 # Hué
+                    owns = 1375 # Huï¿½
                     owns = 1380 # Saigon
                 }
             }

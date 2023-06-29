@@ -4070,7 +4070,6 @@ province_event = {
             is_core = RPL
             is_core = CAN
             is_core = COL
-            is_core = QUE
         }
     }
 
@@ -4086,7 +4085,6 @@ province_event = {
                     NOT = {
                         is_core = CAN
                         is_core = COL
-                        is_core = QUE
                     }
                 }
                 add_core = RPL

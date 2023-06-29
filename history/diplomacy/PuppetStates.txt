@@ -61,7 +61,62 @@ vassal=
 	start_date="1515.9.25"
 	end_date="1936.1.1"
 }
-
+vassal=
+{
+	first="JAP"
+	second="KAG"
+	start_date="1515.9.25"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="JAP"
+	second="KRT"
+	start_date="1515.9.25"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="JAP"
+	second="OAX"
+	start_date="1515.9.25"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="JAP"
+	second="OLD"
+	start_date="1515.9.25"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="JAP"
+	second="RML"
+	start_date="1515.9.25"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="JAP"
+	second="QUE"
+	start_date="1515.9.25"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="JAP"
+	second="PNK"
+	start_date="1515.9.25"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="JAP"
+	second="SUE"
+	start_date="1515.9.25"
+	end_date="1936.1.1"
+}
 vassal=
 {
 	first="JAP"

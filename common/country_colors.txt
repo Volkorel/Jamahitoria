@@ -2724,8 +2724,6 @@ NZH = { # Nizhny Novgorod
 
 OAX = { # Oaxaca
     color1= { 255 255 255  }
-    color2= { 255 255 255  }
-    color3= { 255 255 255  }
 }
 
 OCC = { # Occitania

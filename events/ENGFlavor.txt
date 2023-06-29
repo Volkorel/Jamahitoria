@@ -2272,14 +2272,6 @@ country_event = {
         }
         random_country = {
             limit = {
-                tag = PNK
-                exists = yes
-            }
-            leave_alliance = THIS
-            THIS = { diplomatic_influence = { who = PNK value = -200 } }
-        }
-        random_country = {
-            limit = {
                 tag = KLM
                 exists = yes
             }

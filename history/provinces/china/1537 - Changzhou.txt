@@ -1,6 +1,6 @@
-owner=JAP
-controller=JAP
+owner=QUE
+controller=QUE
 add_core=CHI
-add_core=JAP
+add_core=QUE
 trade_goods = tea
 life_rating = 32
