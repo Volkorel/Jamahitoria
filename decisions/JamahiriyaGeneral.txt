@@ -25,63 +25,48 @@ political_decisions = {
             factor = 1
         }
     }
-	give_fek_fek = {
-		picture = give_fek_indonesian_lands
+
+	give_ora_to_dominionora = {
+		picture = give_oranje_dominion
 		potential = {
 			tag = X06
+			exists = ORA
 		}
 		allow = {
-			war = yes
-			is_our_vassal = FEK
+			war = no
+			ORA = { vassal_of = THIS }
 			any_owned = {
 				limit = {
 					OR = {
-						region = ATJ_1405
-						region = NET_1401
-						region = NET_1398
-						region = NET_1413
-						region = NET_1418
-						region = BAL_1438
-						region = NET_1446
-						region = NET_1449
-						region = NET_1423
-						region = NET_1426
-						region = BRU_1394
-						region = BRU_1396
-						region = NET_1447
-						region = ENG_1384
-						region = ENG_1391
-						region = SIA_1352
-						region = ENG_1343
+						region = ORA_2103
+						region = TRN_2108
+						region = POR_2049
+						region = ENG_2092
+						region = ENG_2083
+						region = ENG_2074
+						region = ENG_2078
+						region = POR_2003
 					}
 				}
+				owned_by = X06
 			}
 		}
 		effect = {
 			any_owned = {
 				limit = {
 					OR = {
-						region = ATJ_1405
-						region = NET_1401
-						region = NET_1398
-						region = NET_1413
-						region = NET_1418
-						region = BAL_1438
-						region = NET_1446
-						region = NET_1449
-						region = NET_1423
-						region = NET_1426
-						region = BRU_1394
-						region = BRU_1396
-						region = NET_1447
-						region = ENG_1384
-						region = ENG_1391
-						region = SIA_1352
-						region = ENG_1343
+						region = ORA_2103
+						region = TRN_2108
+						region = POR_2049
+						region = ENG_2092
+						region = ENG_2083
+						region = ENG_2074
+						region = ENG_2078
+						region = POR_2003
 					}
 				}
-				add_core = FEK
-				secede_province = FEK
+				add_core = ORA
+				secede_province = ORA
 			}
 		}
 		ai_will_do = {

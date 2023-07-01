@@ -1,0 +1,41 @@
+political_decisions = {
+
+	give_saf_to_dominionsaf = {
+		picture = give_saf_dominion
+		potential = {
+			tag = X06
+			exists = SAF
+		}
+		allow = {
+			war = no
+			SAF = { vassal_of = THIS }
+			any_owned = {
+				limit = {
+					OR = {
+						region = ENG_2096
+						region = ZUL_2113
+						region = ENG_2087
+					}
+				}
+				owned_by = X06
+			}
+		}
+		effect = {
+			any_owned = {
+				limit = {
+					OR = {
+						region = ENG_2096
+						region = ZUL_2113
+						region = ENG_2087
+					}
+				}
+				add_core = SAF
+				secede_province = SAF
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+}
