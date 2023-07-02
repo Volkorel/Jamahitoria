@@ -70,7 +70,6 @@ EVTNAME44306;Jarl Intuktuk's Report;;;;;;;;;;;;;
 EVTDESC44306;Jarl Intuktuk Ingvsson has returned from his mission to investigate the causes of the rebellion in Truland with recommendations to the Vinlandic crown -- namely that the two colonies be united under a single responsible government through an Act of Union. He fears that, if we do not, we may be facing further rebellion just as was faced in Hroudsted by Frisians. Indeed, it is entirely possible the Hroud radicals could attract support from Hroudsted and maybe Opstandich if they are not appeased.;;;;;;;;;;;;;
 EVT44306OPTA;Pass the Act of Union.;;;;;;;;;;;;;
 EVT44306OPTB;We will not appease radical liberals.;;;;;;;;;;;;;
-#HMMM
 EVTNAME44310;van Hook Conference;;;;;;;;;;;;;
 EVTDESC44310;A gathering of governors from our Hroud colonies in North Eriksland has also been attended by governors from Taysha. According to reports, they are attempting to organize a larger confederation of the colonies with an eye towards eventual self-government. We would like to see the North Erikslandr dominions be more self-reliant, so it may be in our best interest to allow this union.;;;;;;;;;;;;;
 EVT44310OPTA;Allow the union.;;;;;;;;;;;;;
