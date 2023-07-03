@@ -52,49 +52,49 @@
 792 = {
 	soldiers=
 	{
-		culture = serb
+		culture = avar
 		religion = catholic
 		size= 1952
 	}
 
 	artisans=
 	{
-		culture = serb
+		culture = avar
 		religion = catholic
 		size= 9762
 	}
 
 	clergymen=
 	{
-		culture = serb
+		culture = avar
 		religion = catholic
 		size= 906
 	}
 
 	bureaucrats=
 	{
-		culture = serb
+		culture = avar
 		religion = catholic
 		size= 126
 	}
 
 	officers=
 	{
-		culture = serb
+		culture = avar
 		religion = catholic
 		size= 146
 	}
 
 	aristocrats=
 	{
-		culture = serb
+		culture = avar
 		religion = catholic
 		size= 1757
 	}
 
 	farmers=
 	{
-		culture = serb
+		culture = avar
 		religion = catholic
 		size= 55080
 	}

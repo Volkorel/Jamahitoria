@@ -6,7 +6,7 @@
 
 country_event = {
     id = 98655
-    title = "EVTNAME98655" #Hungarians Agree to Federation
+    title = "EVTNAME98655" #Bavarians Agree to Federation
     desc = "EVTDESC98655"
     picture = "deliberation"
 
@@ -28,7 +28,7 @@ country_event = {
             factor = 0.8
             NOT = {
                 any_state = {
-                    any_owned_province = { is_core = HUN }
+                    any_owned_province = { is_core = BAV }
                     average_militancy = 2
                 }
             }
@@ -51,9 +51,9 @@ country_event = {
         tag = KUK
         war = no
         has_country_flag = danube_proposal_in_progress
-        is_possible_vassal = HUN
+        is_possible_vassal = BAV
         NOT = {
-            HUN = { exists = yes }
+            BAV = { exists = yes }
             has_global_flag = full_hungarian_approval
             has_global_flag = partial_hungarian_approval
             has_global_flag = no_hungarian_approval
@@ -66,21 +66,21 @@ country_event = {
         modifier = {
             factor = 0.9
             any_state = {
-                any_owned_province = { is_core = HUN }
+                any_owned_province = { is_core = BAV }
                 average_militancy = 3
             }
         }
         modifier = {
             factor = 0.9
             any_state = {
-                any_owned_province = { is_core = HUN }
+                any_owned_province = { is_core = BAV }
                 average_militancy = 4
             }
         }
         modifier = {
             factor = 0.9
             any_state = {
-                any_owned_province = { is_core = HUN }
+                any_owned_province = { is_core = BAV }
                 average_militancy = 5
             }
         }
@@ -108,7 +108,7 @@ country_event = {
         name = "EVT98656OPTC"
         set_global_flag = no_hungarian_approval
         any_pop = {
-            limit = { has_pop_culture = hungarian }
+            limit = { has_pop_culture = south_german }
             consciousness = 4
         }
         ai_chance = {
@@ -140,21 +140,21 @@ country_event = {
         modifier = {
             factor = 0.8
             any_state = {
-                any_owned_province = { is_core = HUN }
+                any_owned_province = { is_core = BAV }
                 average_militancy = 3
             }
         }
         modifier = {
             factor = 0.8
             any_state = {
-                any_owned_province = { is_core = HUN }
+                any_owned_province = { is_core = BAV }
                 average_militancy = 4
             }
         }
         modifier = {
             factor = 0.8
             any_state = {
-                any_owned_province = { is_core = HUN }
+                any_owned_province = { is_core = BAV }
                 average_militancy = 5
             }
         }
@@ -177,7 +177,7 @@ country_event = {
         name = "EVT98657OPTB"
         set_global_flag = no_hungarian_approval
         any_pop = {
-            limit = { has_pop_culture = hungarian }
+            limit = { has_pop_culture = south_german }
             consciousness = 8
         }
         ai_chance = {
@@ -196,7 +196,7 @@ country_event = {
         tag = KUK
         war = no
         has_country_flag = danube_proposal_in_progress
-        any_owned_province = { is_core = BOH }
+        any_owned_province = { is_core = CZE }
         OR = {
             has_global_flag = full_hungarian_approval
             has_global_flag = partial_hungarian_approval
@@ -220,7 +220,7 @@ country_event = {
             factor = 0.8
             NOT = {
                 any_state = {
-                    any_owned_province = { is_core = BOH }
+                    any_owned_province = { is_core = CZE }
                     average_militancy = 2
                 }
             }
@@ -243,15 +243,15 @@ country_event = {
         tag = KUK
         war = no
         has_country_flag = danube_proposal_in_progress
-        any_owned_province = { is_core = BOH }
-        is_possible_vassal = BOH
+        any_owned_province = { is_core = CZE }
+        is_possible_vassal = CZE
         OR = {
             has_global_flag = full_hungarian_approval
             has_global_flag = partial_hungarian_approval
             has_global_flag = no_hungarian_approval
         }
         NOT = {
-            BOH = { exists = yes }
+            CZE = { exists = yes }
             has_global_flag = full_czech_approval
             has_global_flag = partial_czech_approval
             has_global_flag = no_czech_approval
@@ -264,21 +264,21 @@ country_event = {
         modifier = {
             factor = 0.9
             any_state = {
-                any_owned_province = { is_core = BOH }
+                any_owned_province = { is_core = CZE }
                 average_militancy = 3
             }
         }
         modifier = {
             factor = 0.9
             any_state = {
-                any_owned_province = { is_core = BOH }
+                any_owned_province = { is_core = CZE }
                 average_militancy = 4
             }
         }
         modifier = {
             factor = 0.9
             any_state = {
-                any_owned_province = { is_core = BOH }
+                any_owned_province = { is_core = CZE }
                 average_militancy = 5
             }
         }
@@ -329,7 +329,7 @@ country_event = {
         tag = KUK
         war = no
         has_country_flag = danube_proposal_in_progress
-        any_owned_province = { is_core = BOH }
+        any_owned_province = { is_core = CZE }
         OR = {
             has_global_flag = full_hungarian_approval
             has_global_flag = partial_hungarian_approval
@@ -348,21 +348,21 @@ country_event = {
         modifier = {
             factor = 0.8
             any_state = {
-                any_owned_province = { is_core = BOH }
+                any_owned_province = { is_core = CZE }
                 average_militancy = 3
             }
         }
         modifier = {
             factor = 0.8
             any_state = {
-                any_owned_province = { is_core = BOH }
+                any_owned_province = { is_core = CZE }
                 average_militancy = 4
             }
         }
         modifier = {
             factor = 0.8
             any_state = {
-                any_owned_province = { is_core = BOH }
+                any_owned_province = { is_core = CZE }
                 average_militancy = 5
             }
         }
@@ -404,7 +404,7 @@ country_event = {
         tag = KUK
         war = no
         has_country_flag = danube_proposal_in_progress
-        any_owned_province = { is_core = ROM }
+        any_owned_province = { is_core = WAL }
         OR = {
             has_global_flag = full_hungarian_approval
             has_global_flag = partial_hungarian_approval
@@ -422,13 +422,13 @@ country_event = {
         months = 12
         modifier = {
             factor = 2
-            ROM = { exists = yes }
+            WAL = { exists = yes }
         }
         modifier = {
             factor = 0.8
             NOT = {
                 any_state = {
-                    any_owned_province = { is_core = ROM }
+                    any_owned_province = { is_core = WAL }
                     average_militancy = 2
                 }
             }
@@ -451,15 +451,15 @@ country_event = {
         tag = KUK
         war = no
         has_country_flag = danube_proposal_in_progress
-        any_owned_province = { is_core = SIE }
-        is_possible_vassal = SIE
+        any_owned_province = { is_core = WAL }
+        is_possible_vassal = WAL
         OR = {
             has_global_flag = full_hungarian_approval
             has_global_flag = partial_hungarian_approval
             has_global_flag = no_hungarian_approval
         }
         NOT = {
-            SIE = { exists = yes }
+            WAL = { exists = yes }
             has_global_flag = full_romanian_approval
             has_global_flag = partial_romanian_approval
             has_global_flag = no_romanian_approval
@@ -472,21 +472,21 @@ country_event = {
         modifier = {
             factor = 0.9
             any_state = {
-                any_owned_province = { is_core = SIE }
+                any_owned_province = { is_core = WAL }
                 average_militancy = 3
             }
         }
         modifier = {
             factor = 0.9
             any_state = {
-                any_owned_province = { is_core = SIE }
+                any_owned_province = { is_core = WAL }
                 average_militancy = 4
             }
         }
         modifier = {
             factor = 0.9
             any_state = {
-                any_owned_province = { is_core = SIE }
+                any_owned_province = { is_core = WAL }
                 average_militancy = 5
             }
         }
@@ -537,7 +537,7 @@ country_event = {
         tag = KUK
         war = no
         has_country_flag = danube_proposal_in_progress
-        any_owned_province = { is_core = ROM }
+        any_owned_province = { is_core = WAL }
         OR = {
             has_global_flag = full_hungarian_approval
             has_global_flag = partial_hungarian_approval
@@ -556,21 +556,21 @@ country_event = {
         modifier = {
             factor = 0.8
             any_state = {
-                any_owned_province = { is_core = ROM }
+                any_owned_province = { is_core = WAL }
                 average_militancy = 3
             }
         }
         modifier = {
             factor = 0.8
             any_state = {
-                any_owned_province = { is_core = ROM }
+                any_owned_province = { is_core = WAL }
                 average_militancy = 4
             }
         }
         modifier = {
             factor = 0.8
             any_state = {
-                any_owned_province = { is_core = ROM }
+                any_owned_province = { is_core = WAL }
                 average_militancy = 5
             }
         }
@@ -1228,7 +1228,7 @@ country_event = {
         tag = KUK
         war = no
         has_country_flag = danube_proposal_in_progress
-        any_owned_province = { is_core = POL }
+        any_owned_province = { is_core = X00 }
         OR = {
             has_global_flag = full_hungarian_approval
             has_global_flag = partial_hungarian_approval
@@ -1246,13 +1246,13 @@ country_event = {
         months = 16
         modifier = {
             factor = 0.5
-            accepted_culture = polish
+            accepted_culture = ukrainian
         }
         modifier = {
             factor = 0.8
             NOT = {
                 any_state = {
-                    any_owned_province = { is_core = POL }
+                    any_owned_province = { is_core = X00 }
                     average_militancy = 2
                 }
             }
@@ -1275,16 +1275,14 @@ country_event = {
         tag = KUK
         war = no
         has_country_flag = danube_proposal_in_progress
-        any_owned_province = { is_core = GLM }
-        is_possible_vassal = GLM
+        any_owned_province = { is_core = X00 }
+        is_possible_vassal = X00
         OR = {
             has_global_flag = full_hungarian_approval
             has_global_flag = partial_hungarian_approval
             has_global_flag = no_hungarian_approval
         }
         NOT = {
-            GLM = { exists = yes }
-            POL = { exists = yes }
             has_global_flag = full_polish_approval
             has_global_flag = partial_polish_approval
             has_global_flag = no_polish_approval
@@ -1297,27 +1295,27 @@ country_event = {
         modifier = {
             factor = 0.9
             any_state = {
-                any_owned_province = { is_core = GLM }
+                any_owned_province = { is_core = X00 }
                 average_militancy = 3
             }
         }
         modifier = {
             factor = 0.9
             any_state = {
-                any_owned_province = { is_core = GLM }
+                any_owned_province = { is_core = X00 }
                 average_militancy = 4
             }
         }
         modifier = {
             factor = 0.9
             any_state = {
-                any_owned_province = { is_core = GLM }
+                any_owned_province = { is_core = X00 }
                 average_militancy = 5
             }
         }
         modifier = {
             factor = 0.75
-            accepted_culture = polish
+            accepted_culture = ukrainian
         }
     }
 
@@ -1343,7 +1341,7 @@ country_event = {
         name = "EVT98656OPTC"
         set_global_flag = no_polish_approval
         any_pop = {
-            limit = { has_pop_culture = polish }
+            limit = { has_pop_culture = ukrainian }
             consciousness = 4
         }
         ai_chance = {
@@ -1362,7 +1360,7 @@ country_event = {
         tag = KUK
         war = no
         has_country_flag = danube_proposal_in_progress
-        any_owned_province = { is_core = POL }
+        any_owned_province = { is_core = X00 }
         OR = {
             has_global_flag = full_hungarian_approval
             has_global_flag = partial_hungarian_approval
@@ -1381,21 +1379,21 @@ country_event = {
         modifier = {
             factor = 0.8
             any_state = {
-                any_owned_province = { is_core = POL }
+                any_owned_province = { is_core = X00 }
                 average_militancy = 3
             }
         }
         modifier = {
             factor = 0.8
             any_state = {
-                any_owned_province = { is_core = POL }
+                any_owned_province = { is_core = X00 }
                 average_militancy = 4
             }
         }
         modifier = {
             factor = 0.8
             any_state = {
-                any_owned_province = { is_core = POL }
+                any_owned_province = { is_core = X00 }
                 average_militancy = 5
             }
         }
@@ -1418,7 +1416,7 @@ country_event = {
         name = "EVT98657OPTB"
         set_global_flag = no_polish_approval
         any_pop = {
-            limit = { has_pop_culture = polish }
+            limit = { has_pop_culture = ukrainian }
             consciousness = 8
         }
         ai_chance = {
@@ -1485,7 +1483,7 @@ country_event = {
         name = "EVT98691OPTA"
         clr_global_flag = full_romanian_approval
         add_accepted_culture = romanian
-        SIE = {
+        WAL = {
             all_core = { add_core = DNB }
         }
         662 = { add_core = DNB }
@@ -1526,7 +1524,7 @@ country_event = {
                 owner = { has_global_flag = full_hungarian_approval }
             }
             CRO = {
-                all_core = { remove_core = HUN }
+                all_core = { remove_core = X05 }
             }
         }
         any_pop = {
@@ -1626,12 +1624,12 @@ country_event = {
     option = {
         name = "EVT98695OPTA"
         clr_global_flag = full_polish_approval
-        add_accepted_culture = polish
-        GLM = {
+        add_accepted_culture = ukrainian
+        X00 = {
             all_core = { add_core = DNB }
         }
         any_pop = {
-            limit = { has_pop_culture = polish }
+            limit = { has_pop_culture = ukrainian }
             militancy = -4
             consciousness = -4
         }

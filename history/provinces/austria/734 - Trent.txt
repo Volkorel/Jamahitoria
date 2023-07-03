@@ -1,9 +1,12 @@
-owner=X05
-controller=X05
+owner=BAV
+controller=BAV
+add_core=BAV
+add_core=GER
+add_core=X05
 add_core=ITA
 add_core=VEN
-add_core=X05
 add_core=X35
+add_core=LOM
 trade_goods = grain
 life_rating = 35
 fort = 1

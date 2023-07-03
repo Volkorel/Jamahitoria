@@ -1,7 +1,5 @@
-owner=SLV
-controller=SLV
-add_core=SLV
+owner=HAN
+controller=HAN
 add_core=CZE
-add_core=WSF
 trade_goods = coal
 life_rating = 35

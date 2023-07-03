@@ -159,49 +159,49 @@
 652 = {
 	soldiers=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 11013
 	}
 
 	artisans=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 32822
 	}
 
 	clergymen=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 3041
 	}
 
 	bureaucrats=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 242
 	}
 
 	officers=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 701
 	}
 
 	aristocrats=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 1929
 	}
 
 	farmers=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 189840
 	}
@@ -245,49 +245,49 @@
 653 = {
 	soldiers=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 4724
 	}
 
 	artisans=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 14379
 	}
 
 	clergymen=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 1335
 	}
 
 	bureaucrats=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 103
 	}
 
 	officers=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 298
 	}
 
 	aristocrats=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 863
 	}
 
 	farmers=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 81004
 	}
@@ -382,49 +382,49 @@
 655 = {
 	soldiers=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 4133
 	}
 
 	artisans=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 10262
 	}
 
 	clergymen=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 414
 	}
 
 	bureaucrats=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 79
 	}
 
 	officers=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 103
 	}
 
 	aristocrats=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 996
 	}
 
 	farmers=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 60849
 	}
@@ -461,49 +461,49 @@
 656 = {
 	soldiers=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 8189
 	}
 
 	clergymen=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 317
 	}
 
 	bureaucrats=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 64
 	}
 
 	officers=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 83
 	}
 
 	aristocrats=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 809
 	}
 
 	farmers=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 51534
 	}
@@ -540,49 +540,49 @@
 657 = {
 	soldiers=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 3151
 	}
 
 	artisans=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 9195
 	}
 
 	clergymen=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 359
 	}
 
 	bureaucrats=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 71
 	}
 
 	officers=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 105
 	}
 
 	aristocrats=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 494
 	}
 
 	farmers=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 55130
 	}
@@ -633,49 +633,49 @@
 659 = {
 	soldiers=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 1866
 	}
 
 	artisans=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 5183
 	}
 
 	clergymen=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 178
 	}
 
 	bureaucrats=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 43
 	}
 
 	officers=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 124
 	}
 
 	aristocrats=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 359
 	}
 
 	farmers=
 	{
-		culture = romanian
+		culture = avar
 		religion = catholic
 		size= 32807
 	}

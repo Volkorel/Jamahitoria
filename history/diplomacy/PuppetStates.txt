@@ -5,7 +5,12 @@ vassal=
 	start_date="1527.7.2"
 	end_date="1936.1.1"
 }
-
+substate = {
+	first = X05
+	second = BAV
+	start_date = 1620.3.2
+	end_date = 1899.11.15
+}
 vassal=
 {
 	first="ADU"

@@ -1,8 +1,6 @@
-owner=SLV
-controller=SLV
-add_core=SLV
+owner=HAN
+controller=HAN
 add_core=POL
 add_core=WSF
-add_core=X05
 trade_goods = coal
 life_rating = 40

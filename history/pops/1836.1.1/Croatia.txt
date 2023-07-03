@@ -438,49 +438,49 @@
 775 = {
 	soldiers=
 	{
-		culture = croat
+		culture = avar
 		religion = catholic
 		size= 401
 	}
 
 	artisans=
 	{
-		culture = croat
+		culture = avar
 		religion = catholic
 		size= 2404
 	}
 
 	clergymen=
 	{
-		culture = croat
+		culture = avar
 		religion = catholic
 		size= 16
 	}
 
 	bureaucrats=
 	{
-		culture = croat
+		culture = avar
 		religion = catholic
 		size= 32
 	}
 
 	officers=
 	{
-		culture = croat
+		culture = avar
 		religion = catholic
 		size= 38
 	}
 
 	aristocrats=
 	{
-		culture = croat
+		culture = avar
 		religion = catholic
 		size= 200
 	}
 
 	farmers=
 	{
-		culture = croat
+		culture = avar
 		religion = catholic
 		size= 14394
 	}
@@ -691,49 +691,49 @@
 779 = {
 	soldiers=
 	{
-		culture = croat
+		culture = avar
 		religion = catholic
 		size= 864
 	}
 
 	artisans=
 	{
-		culture = croat
+		culture = avar
 		religion = catholic
 		size= 4320
 	}
 
 	clergymen=
 	{
-		culture = croat
+		culture = avar
 		religion = catholic
 		size= 401
 	}
 
 	bureaucrats=
 	{
-		culture = croat
+		culture = avar
 		religion = catholic
 		size= 31
 	}
 
 	officers=
 	{
-		culture = croat
+		culture = avar
 		religion = catholic
 		size= 65
 	}
 
 	aristocrats=
 	{
-		culture = croat
+		culture = avar
 		religion = catholic
 		size= 778
 	}
 
 	farmers=
 	{
-		culture = croat
+		culture = avar
 		religion = catholic
 		size= 24399
 	}
@@ -958,49 +958,49 @@
 793 = {
 	soldiers=
 	{
-		culture = croat
+		culture = avar
 		religion = catholic
 		size= 747
 	}
 
 	artisans=
 	{
-		culture = croat
+		culture = avar
 		religion = catholic
 		size= 3734
 	}
 
 	clergymen=
 	{
-		culture = croat
+		culture = avar
 		religion = catholic
 		size= 347
 	}
 
 	bureaucrats=
 	{
-		culture = croat
+		culture = avar
 		religion = catholic
 		size= 27
 	}
 
 	officers=
 	{
-		culture = croat
+		culture = avar
 		religion = catholic
 		size= 56
 	}
 
 	aristocrats=
 	{
-		culture = croat
+		culture = avar
 		religion = catholic
 		size= 672
 	}
 
 	farmers=
 	{
-		culture = croat
+		culture = avar
 		religion = catholic
 		size= 21088
 	}

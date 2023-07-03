@@ -1,6 +1,5 @@
-primary_culture = dummy
+primary_culture = western_slavic
 culture = tatar
-culture = western_slavic
 culture = zzz_religion_catholic
 religion = catholic
 government = absolute_monarchy

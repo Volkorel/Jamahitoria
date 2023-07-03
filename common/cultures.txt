@@ -2779,15 +2779,6 @@ latin_american_cultures = {
 		last_names = { "Acosta" "Alfau" "Báez" "Batista" "Bayo" "Cabral" "Carmona" "Castillo" "Castro" "Cisneros" "de Céspedes" "de la Rosa" "de Meriño" "de Rojas" "Espaillat" "Estrada" "Estrella" "Fernández" "Figuereo" "García" "Gil" "Gómez" "Gonzáles" "González" "Grau" "Guillermo" "Henríquez" "Herrera" "Hevia" "Laredo" "Luperón" "Maceo" "Machado" "Márquez" "Mella" "Méndez" "Mendieta" "Moncada" "Morales" "Mota" "Pelletier" "Pimentel" "Puello" "Santana" "Sosa" "Trujillo" "Valverde" "Vásquez" "Vázquez" "Zayas" }
 		
 	}
-	central_american = {
-		color = { 101 164 172 }
-		radicalism = 15
-		
-		first_names = { "Alejandro" "Andrés" "Aniceto" "Arturo" "Bartolomé" "Basilio" "Benito" "Benjamín" "Bernardo" "Carlos" "Daniel" "Diego" "Doroteo" "Eduardo" "Eugenio" "Felipe" "Félix" "Fermín" "Fernando" "Francisco" "Fruto" "Jacobo" "Jesús" "Joaquín" "Jorge" "José Francisco" "José María" "Juan" "Juan Antonio" "Juan Pablo" "Julio" "Justo" "Lisandro" "Lorenzo" "Manuel" "Marcelino" "Maximiliano" "Máximo" "Óscar" "Pedro" "Ponciano" "Próspero" "Rafael" "Ramón" "Santiago" "Sebastián" "Tiburcio" "Tomás" "Toribio" "Victoriano" }
-		
-		last_names = { "Aguilar" "Andino" "Araujo" "Arbenz" "Barahona" "Barillas" "Barrios" "Cabañas" "Cárdenas" "Carrera" "Castellanos" "Chamorro" "Chávez" "Corral" "Escalón" "Esquivel" "Estrada" "Ezeta" "Fernández" "Ferrera" "Figueroa" "Garrigó" "Guzmán" "Hernández" "Jerez" "Jiménez" "Leiva" "López" "Machado" "Martínez" "Medina" "Mejía" "Menéndez" "Montes" "Montiel" "Morazán" "Palacios" "Peralta" "Quiros" "Regalado" "Rosales" "Sevilla" "Sinibaldi" "Soto" "Terán" "Ubico" "Vasconcelos" "Vigil" "Zelaya" "Zeledón" }
-		
-	}
 	mexican = {
 		color = { 51 117 62 }
 		
@@ -4373,17 +4364,22 @@ scandinavian = {
 		last_names = { "Arnórsson" "Ásgeirsson" "Benediktsson" "Bjarnasen" "Björnsson" "Eggers" "Eldjárn" "Hafstein" "Hansen" "Hermannsson" "Johánesson" "Jónsson" "Magnússon" "Stefánsson" "Steinthosson" "Thórdarson" "Thórhallson" "Thorláksson" "Thurs" }
 		
 	}
+	central_american = {
+		color = { 101 164 172 }
+		union = UCA
+		radicalism = 25
+		
+		first_names = { "Alejandro" "Andrés" "Aniceto" "Arturo" "Bartolomé" "Basilio" "Benito" "Benjamín" "Bernardo" "Carlos" "Daniel" "Diego" "Doroteo" "Eduardo" "Eugenio" "Felipe" "Félix" "Fermín" "Fernando" "Francisco" "Fruto" "Jacobo" "Jesús" "Joaquín" "Jorge" "José Francisco" "José María" "Juan" "Juan Antonio" "Juan Pablo" "Julio" "Justo" "Lisandro" "Lorenzo" "Manuel" "Marcelino" "Maximiliano" "Máximo" "Óscar" "Pedro" "Ponciano" "Próspero" "Rafael" "Ramón" "Santiago" "Sebastián" "Tiburcio" "Tomás" "Toribio" "Victoriano" }
+		
+		last_names = { "Aguilar" "Andino" "Araujo" "Arbenz" "Barahona" "Barillas" "Barrios" "Cabañas" "Cárdenas" "Carrera" "Castellanos" "Chamorro" "Chávez" "Corral" "Escalón" "Esquivel" "Estrada" "Ezeta" "Fernández" "Ferrera" "Figueroa" "Garrigó" "Guzmán" "Hernández" "Jerez" "Jiménez" "Leiva" "López" "Machado" "Martínez" "Medina" "Mejía" "Menéndez" "Montes" "Montiel" "Morazán" "Palacios" "Peralta" "Quiros" "Regalado" "Rosales" "Sevilla" "Sinibaldi" "Soto" "Terán" "Ubico" "Vasconcelos" "Vigil" "Zelaya" "Zeledón" }
+		
+	}
 	vinlander = {
 		color = { 165 43 18 }
-		
 		first_names = { "Agnar" "Ásgeir" "Björn" "Eidur" "Einar" "Emil" "Geir" "Gudmund" "Gunnar" "Hannes" "Hermann" "Jón" "Kristján" "Magnús" "Ólafur" "Pétur" "Sigurdur" "Stefán" "Sveinn" "Tryggvi" }
-		
 		last_names = { "Arnórsson" "Ásgeirsson" "Benediktsson" "Bjarnasen" "Björnsson" "Eggers" "Eldjárn" "Hafstein" "Hansen" "Hermannsson" "Johánesson" "Jónsson" "Magnússon" "Stefánsson" "Steinthosson" "Thórdarson" "Thórhallson" "Thorláksson" "Thurs" }
 		
 	}
-	
-	union = SCA
-	
 }
 
 south_asian = {

@@ -266,49 +266,49 @@
 950 = {
 	nomads=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 1828
 	}
 
 	nomads=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 6913
 	}
 
 	nomads=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 1153
 	}
 
 	nomads=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 193
 	}
 
 	nomads=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 251
 	}
 
 	nomads=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 1620
 	}
 
 	nomads=
 	{
-		culture = tatar
+		culture = avar
 		religion = catholic
 		size= 176792
 	}

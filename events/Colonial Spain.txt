@@ -1012,7 +1012,7 @@ country_event = {
             factor = 90
             modifier = {
                 factor = 0.25
-                SPA = {
+                X36 = {
                     OR = {
                         has_country_modifier = in_bankrupcy
                         has_country_modifier = generalised_debt_default
@@ -1021,11 +1021,11 @@ country_event = {
             }
             modifier = {
                 factor = 0.8
-                SPA = { war = yes }
+                X36 = { war = yes }
             }
             modifier = {
                 factor = 0.8
-                SPA = {
+                X36 = {
                     is_secondary_power = no
                     is_greater_power = no
                 }
@@ -1045,8 +1045,7 @@ country_event = {
         name = "EVTOPTB37704" #Yes
         FROM = { country_event = 90133 }
         money = 1000000
-        any_owned = {
-            limit = { is_core = CUB }
+        203 = {
             secede_province = FROM
         }
         ai_chance = {
@@ -1093,8 +1092,8 @@ country_event = {
             owner = {
                 random_country = {
                     limit = {
-                        owns = 2209
-                        2209 = { is_colonial = yes }
+                        owns = 203
+                        203 = { is_colonial = yes }
                     }
                     add_casus_belli = {
                         target = THIS
@@ -1104,8 +1103,8 @@ country_event = {
                 }
                 random_country = {
                     limit = {
-                        owns = 2209
-                        2209 = { is_colonial = no }
+                        owns = 203
+                        203 = { is_colonial = no }
                     }
                     add_casus_belli = {
                         target = THIS
@@ -1133,7 +1132,7 @@ country_event = {
         money = -1000000
         random_owned = {
             limit = {
-                province_id = 2209
+                province_id = 203
                 owner = { has_country_flag = ostend_manifesto_published }
             }
             state_scope = { is_slave = yes }

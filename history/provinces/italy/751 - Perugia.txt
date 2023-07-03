@@ -1,6 +1,5 @@
 owner=PGA
 controller=PIS
-add_core=HLR
 add_core=ITA
 add_core=PGA
 add_core=PIS

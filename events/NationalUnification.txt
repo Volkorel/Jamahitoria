@@ -585,25 +585,13 @@ country_event = {
         }
         random_country = {
             limit = {
-                primary_culture = north_german
+                primary_culture = french
                 OR = {
                     tag = FROM
                     tag = NGF
                 }
             }
             THIS = { all_core = { add_core = NGF } }
-        }
-        random_country = {
-            limit = {
-                primary_culture = south_german
-                OR = {
-                tag = FROM
-                tag = SGF
-                }
-            }
-            THIS = {
-                all_core = { add_core = SGF }
-            }
         }
         any_country = {
             limit = {
@@ -696,16 +684,6 @@ country_event = {
                 factor = 2
                 NOT = { in_sphere = FROM }
                 FROM = { has_country_flag = secondary_union_formation }
-            }
-            modifier = {
-                factor = 0
-                FROM = { tag = NGF }
-                NOT = {
-                    OR = {
-                        any_owned_province = { port = yes }
-                        any_neighbor_country = { primary_culture = south_german }
-                    }
-                }
             }
         }
     }

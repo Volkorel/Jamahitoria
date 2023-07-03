@@ -1,7 +1,8 @@
-capital = 2191
+capital = 1723
 primary_culture = central_american
-culture = zzz_religion_catholic
-religion = catholic
+culture = svart
+culture = bundsfoervant
+religion = laeradr
 government = democracy
 plurality = 0
 nationalvalue = nv_equality

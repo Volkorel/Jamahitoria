@@ -1,6 +1,5 @@
 owner=LOM
 controller=LOM
-add_core=HLR
 add_core=ITA
 add_core=LOM
 add_core=PIS

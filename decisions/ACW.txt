@@ -5,11 +5,7 @@ political_decisions = {
         potential = {
             exists = USA
             USA = { government = democracy }
-            OR = {
-                tag = TEX
-                tag = CAL
-                tag = LSK
-            }
+            tag = X57
             OR = {
                 is_vassal = no
                 vassal_of = USA
@@ -97,6 +93,8 @@ political_decisions = {
             OR = {
                 tag = USA
                 tag = CSA
+                tag = X36
+                tag = X57
             }
             NOT = {
                 has_global_flag = marching_on_the_trail_of_tears
@@ -113,7 +111,10 @@ political_decisions = {
         effect = {
             any_pop = {
                 limit = {
-                    has_pop_culture = cherokee
+                    OR = {
+                        has_pop_culture = cherokee
+                        has_pop_culture = native_american_minor
+                    }
                     NOT = {
                         location = {
                             OR = {
@@ -142,6 +143,9 @@ political_decisions = {
             OR = {
                 tag = USA
                 tag = CSA
+				tag = X36
+				tag = MEX
+				tag = CAL
             }
             has_global_flag = marching_on_the_trail_of_tears
             owns = 130
@@ -206,7 +210,7 @@ political_decisions = {
     custers_expedition = {
         picture = custers_expedition
         potential = {
-            tag = USA
+            tag = X36
             NOT = {
                 has_country_flag = custers_expedition_sent
             }
@@ -230,7 +234,13 @@ political_decisions = {
 
     enact_the_homestead_act = {
         potential = {
-            tag = USA
+            OR = {
+				tag = USA
+				tag = X36
+				tag = CAL
+				tag = X57
+				tag = MEX
+			}
             government = democracy
             NOT = { has_country_flag = homestead_act }
             year = 1862
@@ -368,7 +378,7 @@ political_decisions = {
             prestige = 5
             political_reform = no_slavery
             any_pop = {
-                limit = { has_pop_culture = yankee }
+                limit = { has_pop_culture = nieuwereld }
                 consciousness = -5
                 militancy = -5
             }
@@ -382,7 +392,7 @@ political_decisions = {
     }
     manifest_destiny = {
         potential = {
-            tag = USA
+            tag = X36
             is_greater_power = yes
             NOT = { has_country_flag = hasmanifestdestiny }
         }
@@ -390,13 +400,13 @@ political_decisions = {
             war = no
             idealism = 1
             state_n_government = 1
-            NOT = { truce_with = MEX }
+            NOT = { truce_with = CAL }
             NOT = { war_policy = pacifism }
-            NOT = { MEX = { any_owned_province = { country_units_in_province = USA } } }
+            NOT = { CAL = { any_owned_province = { country_units_in_province = USA } } }
             OR = {
-                TEX = { in_sphere = THIS }
-                TEX = { exists = no }
-                any_owned_province = { is_core = MEX }
+                X57 = { in_sphere = THIS }
+                X57 = { exists = no }
+                any_owned_province = { is_core = CAL }
                 invention = manifest_destiny
             }
         }
@@ -408,23 +418,11 @@ political_decisions = {
                 25 = { badboy = 2 }
                 25 = { badboy = 3 }
             }
-            MEX_85 = { add_core = USA } #California
-            TEX_132 = { add_core = USA } #Texas
-            MEX_94 = { add_core = USA } #Nevada
-            MEX_97 = { add_core = USA } #Utah
-            USA_129 = { add_core = USA } #Oklahoma
-            USA_106 = { add_core = USA } #Colorado
-            #USA_78 = { add_core = USA } #Washington
-            USA_81 = { add_core = USA } #Portland
-            USA_91 = { add_core = USA } #Idaho
-            USA_111 = { add_core = USA }
-            USA_126 = { add_core = USA }
-            2148 = { add_core = USA }
-            105 = { add_core = USA }
-            104 = { add_core = USA }
-            103 = { add_core = USA }
-            101 = { add_core = USA }
-            100 = { add_core = USA life_rating = 5 } #Phoenix
+            MEX_97 = { add_core = USA } #California
+			MEX_103 = { add_core = USA } #California
+			USA_129 = { add_core = USA } #California
+			TEX_132 = { add_core = USA } #California
+            100 = { life_rating = 5 } #Phoenix
             89 = { life_rating = 5 } #Los Angeles
             90 = { life_rating = 2 } #San Diego
             104 = { life_rating = 5 } #San Francisco
@@ -436,19 +434,19 @@ political_decisions = {
             133 = { life_rating = 1 } #Austin
             137 = { life_rating = 4 } #San Antonio
             136 = { life_rating = 2 } #El Paso
-            relation = { who = MEX value = -200 }
-            diplomatic_influence = { who = MEX value = -200 }
-            leave_alliance = MEX
+            relation = { who = CAL value = -200 }
+            diplomatic_influence = { who = CAL value = -200 }
+            leave_alliance = CAL
             random_country = {
                 limit = {
-                    tag = MEX
+                    tag = CAL
                     vassal_of = THIS
                 }
-                THIS = { release_vassal = MEX }
+                THIS = { release_vassal = CAL }
             }
             random_country = {
                 limit = {
-                    is_our_vassal = MEX
+                    is_our_vassal = CAL
                     NOT = { tag = THIS }
                 }
                 relation = { who = THIS value = -200 }
@@ -612,20 +610,15 @@ political_decisions = {
 
     ostend_manifesto = {
         potential = {
-            tag = USA
+			tag = ARN
             OR = {
                 slavery = yes_slavery
                 slavery = freedom_of_womb
             }
-            2209 = {
-                NOT = { owner = { has_country_flag = new_world_nation } }
-            }
             NOT = {
                 has_country_flag = ostend_manifesto_published
-                has_global_flag = american_civil_war_has_happened
                 has_country_flag = trying_to_buy_cuba
-                owns = 2209
-                exists = CUB
+                owns = 203
             }
         }
 
@@ -636,7 +629,7 @@ political_decisions = {
                 upper_house = { ideology = reactionary value = 0.25 }
             }
             NOT = { slavery = no_slavery }
-            2209 = {
+            203 = {
                 owner = {
                     NOT = {
                         truce_with = THIS
@@ -656,19 +649,18 @@ political_decisions = {
                 limit = {
                     is_greater_power = yes
                     capital_scope = { continent = europe }
-                    NOT = { tag = TUR }
                 }
                 relation = {
-                    who = USA
+                    who = ARN
                     value = -150
                 }
-                leave_alliance = USA
+                leave_alliance = ARN
             }
 
             random_country = {
                 limit = {
                     exists = yes
-                    owns = 2209
+                    owns = 203
                 }
                 country_event = 90131
             }
@@ -692,7 +684,7 @@ political_decisions = {
     kansas_nebraska_act = {
         picture = kansas_nebraska_act
         potential = {
-            tag = USA
+            tag = X36
             average_consciousness = 1
             OR = {
                 slavery = yes_slavery

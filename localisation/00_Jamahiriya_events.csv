@@ -107,3 +107,60 @@ EVTOPTA44302;The Blandett are up in arms;;;;;;;;;;;;;
 EVTDESC44302_NEWS_LONG;Although the Vinlandic government promised to respect the rights of the Blandett, it did not appear to do so. Blandett petitions for recognition of their land-holdings and institutions went unheeded. The Blandett also became increasingly upset with the growing numbers of settlers from the east, invading their territories. In early $YEAR$, the situation came to a head when the Blandett once again took up arms in revolt. Adopting the Revolutionary Bill of Rights, the Blandett established their own government and independence from Vinland.;;;;;;;;;;;;;
 EVTDESC44302_NEWS_MEDIUM;Although the Vinlandic government promised to respect the rights of the Blandett, it did not appear to do so. In early $YEAR$, the situation came to a head when the Blandett once again took up arms in revolt. They established their own government and declared independence from Vinland.;;;;;;;;;;;;;
 EVTDESC44302_NEWS_SHORT;In early $YEAR$, the situation came to a head when the Blandett once again took up arms in revolt. They established their own government and declared independence from Vinland.;;;;;;;;;;;;;
+form_north_german_confederation2_title;Call for Frank Unity;;;;;;;;;;;;;
+form_north_german_confederation2_desc;The conditions may be less than ideal, but in order to maintain national security and strive towards Frank hegemony, we must approach our Frank allies and create a confederation. Only with a united front, under a single flag, may we succeed!;;;;;;;;;;;;;
+form_north_german_confederation_title;Call for Frank Unity;;;;;;;;;;;;;
+form_north_german_confederation_desc;The conditions may be less than ideal, but in order to maintain national security and strive towards Frank hegemony, we must approach our Frank allies and create a confederation. Only with a united front, under a single flag, may we succeed!;;;;;;;;;;;;;
+enact_dual_monarchy_title;Hercegersek Compromise;;;;;;;;;;;;;
+enact_dual_monarchy_desc;The Nobles of the Bavar Estates have, for some time, been pushing for increased independence for the Bavar people and the Crown of St. Stephen. A proposal for compromise has now been drafted, under which the Kingdom of Bavaria and the Hercegersek of Mariaföld will amalgamate into a new political entity: Bavaria-Mariaföld. Isten ovja!;;;;;;;;;;;;;
+become_hungary_title;Flee to Münich;;;;;;;;;;;;;
+become_hungary_desc;With the loss of Pest, the Mariaföld government must flee to Münich instead. The Bavarians will not, however, continue with the arrangement of the Dual Monarchy -- not when what is left of Avaria has been lost. The Bavarians will instead become the new power in our union, taking over what remains of our Empire and ruling in our name.;;;;;;;;;;;;;
+become_austria_title;Become Avaria;;;;;;;;;;;;;
+become_austria_desc;The time has come to end the dual monarchy and return to our Avar heritage.;;;;;;;;;;;;;
+EVTDESC37704;In the opulent region of Langobardia, where landowners, slave owners, and plantation magnates hold sway, a weighty question has emerged, captivating the attention of the elite. The matter at hand revolves around the potential sale of the picturesque and coveted island of Bermuda, a veritable gem nestled in the cerulean depths of the Atlantic Ocean.\n\nLangobardia's influential classes, adorned in their aristocratic splendor, have embarked upon a labyrinthine labyrinthine path of contemplation and strategic analysis, seeking to navigate the intricacies of this proposal. The landowners, with their vast tracts of fertile soil, the slave owners, with their human chattel toiling under a scorching sun, and the plantation owners, presiding over vast estates of cash crops and bountiful harvests, all harbor vested interests in the outcome.;;;;;;;;;;;;;x
+EVTNAME37704;Is Bermuda For Sale?;;;;;;;;;;;;;x
+EVTOPTA37704;No, Bermuda will forever be our Pearl of the Öarland!;;;;;;;;;;;;;x
+EVTOPTB37704;Aye, Bermuda can be had -- for a price.;;;;;;;;;;;;;x
+EVTDESC90132;After some negotiation, conducted in secret, the Vinlanders have finally refused to sell Bermuda. More than one member of the government has been angered by this, seeing the island as naturally falling into the Langobard sphere of influence.;;;;;;;;;;;;;x
+EVTNAME90132;The Vinlanders Have Refused;;;;;;;;;;;;;x
+EVTOPTA90132;Too bad.;;;;;;;;;;;;;x
+EVTDESC90133;With no small amount of fanfare, Vinland has agreed to the sale of Bermuda to Langobardia.;;;;;;;;;;;;;x
+EVTNAME90133;Bermuda is Ours;;;;;;;;;;;;;x
+EVTOPTA90133;Wonderful!;;;;;;;;;;;;;x
+ostend_manifesto_title;Zwangsarbeit Manifesto;;;;;;;;;;;;;
+ostend_manifesto_desc;The Zwangsarbeit Manifesto proposes that the island of Bermuda should be annexed to Langobardia as a slave state. By supporting the manifesto it might reduce our standing with the European Great Powers significantly. The Manifesto also proposes a shift in foreign policy, justifying the use of force to seize Bermuda in the name of national security in case its owners are not willing to sell it to us.;;;;;;;;;;;;;
+EVTNAME32553;$FROMCOUNTRY$ Crisis of $YEAR$;;;;;;;;;;;;;
+EVTDESC32553;We have received word that $FROMCOUNTRY_ADJ$ troops have invaded and taken over Saurausa, deposing the local ruler and annexing the territory. We can try to defuse the situation by demanding a compensation of fifty thousand pounds or we can demand the restoration of the old ruler, but meddling in Armagnacée can bring the anger of global Great Powers. If we choose escalate this, Demanding Reparations will be enough for a peace treaty that will include Saurausa.;;;;;;;;;;;;;
+EVT32553OPTA;Demand compensation.;;;;;;;;;;;;;
+EVT32553OPTB;Demand the territory back.;;;;;;;;;;;;;
+EVT32553OPTC;Let it go.;;;;;;;;;;;;;
+EVTNAME32554;$FROMCOUNTRY_ADJ$ Reparations;;;;;;;;;;;;;
+EVTDESC32554;Although highly irritated by our annexation of Saurausa, the $FROMCOUNTRY_ADJ$ government agreed to recognize our sovereignty og the territory in exchange for reparations.;;;;;;;;;;;;;
+EVT32554OPTA;Fair enough.;;;;;;;;;;;;;
+EVT32554OPTB;Never, the territory is rightfully ours.;;;;;;;;;;;;;
+EVTNAME32555;$FROMCOUNTRY_ADJ$ Ultimatum;;;;;;;;;;;;;
+EVTDESC32555;$FROMCOUNTRY_ADJ$ government reacted to our annexation of Saurausa by sending an ultimatum. They demand we retreat all forces from Saurausa, cease our hostilities and restore the previous ruler or else we will face war.;;;;;;;;;;;;;
+EVT32555OPTA;If they want it, they can try to come and get it.;;;;;;;;;;;;;
+EVT32555OPTB;We can't risk war.;;;;;;;;;;;;;
+occupy_miskito_title;Annex Saurausa;;;;;;;;;;;;;
+occupy_miskito_desc;Historically an Avar colony and protectorate, Saurausa was claimed by Vinland and later granted self rule under Vinlandic Jarl Holstein Sjaelsson, who accepted the change on condition that he should retain his local authority, and receive a yearly subvention of a thousand pounds until 1870. On his death in 1865, his successor, Fridrik Holsteinsson, wasn't recognized by our government and with their allies and protectors far away, organizing a quick invasion and occupation of the territory who rightfully belongs to our country should be an easy affair.;;;;;;;;;;;;;
+restore_miskito_title;The Restoration of Saurausa;;;;;;;;;;;;;
+restore_miskito_desc;With our enemies defeated, we can force their hand in the peace deal to restore Saurausa.;;;;;;;;;;;;;
+EVTNAME32550;The Saurausa Purchase?;;;;;;;;;;;;;
+EVTDESC32550;Central Erikslandr delegates have recently come in from Trulandi in hopes of purchasing Saurausa. What should we do?;;;;;;;;;;;;;
+EVT32550OPTA;We gladly accept.;;;;;;;;;;;;;
+EVT32550OPTB;We refuse.;;;;;;;;;;;;;
+EVTNAME32551;$FROMCOUNTRY$ Accepts!;;;;;;;;;;;;;
+EVTDESC32551;$FROMCOUNTRY$ has agreed to sell Saurausa to us! Long live the Federal Republic of Central Eriksland!;;;;;;;;;;;;;
+EVT32551OPTA;Excellent.;;;;;;;;;;;;;
+EVTNAME32552;$FROMCOUNTRY$ Declines!;;;;;;;;;;;;;
+EVTDESC32552;$MONARCHTITLE$, negotiations with $FROMCOUNTRY$ over Saurausa have stalled, and they have declined to sell us the colony.;;;;;;;;;;;;;
+EVT32552OPTA;Hm, I see.;;;;;;;;;;;;;
+apply_for_USCA_statehood_title;Apply for FRCE Statehood;;;;;;;;;;;;;
+apply_for_USCA_statehood_desc;To further our own prosperity, we seek to become part of the Federal Republic of Central Eriksland.;;;;;;;;;;;;;
+belize_purchase_title;Saurausa Purchase;;;;;;;;;;;;;
+belize_purchase_desc;We are interested in purchasing Saurausa from Vinland and integrating it into the United States of Central Eriksland. As such, we have have sent delegates overseas to Truland and are currently awaiting a reply. Having very good relations with Vinland, an alliance with them or being a Great Power will greatly improve our chances of getting a deal.;;;;;;;;;;;;;
+reform_the_USCA_title;Reform the Federal Republic of Central Eriksland;;;;;;;;;;;;;
+reform_the_USCA_desc;The time has come for the Federal Republic to be reformed. Long live Central Eriksland!;;;;;;;;;;;;;
+reform_the_USCA_outside_title;Reform the Federal Republic of Central Eriksland;;;;;;;;;;;;;
+reform_the_USCA_outside_desc;We will reform the Federal Republic of Central Eriksland, a strong and united ally under our control.;;;;;;;;;;;;;

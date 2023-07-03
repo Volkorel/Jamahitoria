@@ -751,42 +751,42 @@
 624 = {
 	soldiers=
 	{
-		culture = south_german
+		culture = avar
 		religion = catholic
 		size= 1041
 	}
 
 	artisans=
 	{
-		culture = south_german
+		culture = avar
 		religion = catholic
 		size= 7673
 	}
 
 	clergymen=
 	{
-		culture = south_german
+		culture = avar
 		religion = catholic
 		size= 356
 	}
 
 	bureaucrats=
 	{
-		culture = south_german
+		culture = avar
 		religion = catholic
 		size= 99
 	}
 
 	officers=
 	{
-		culture = south_german
+		culture = avar
 		religion = catholic
 		size= 93
 	}
 
 	aristocrats=
 	{
-		culture = south_german
+		culture = avar
 		religion = catholic
 		size= 1381
 	}
@@ -796,6 +796,12 @@
 		culture = south_german
 		religion = catholic
 		size= 44164
+	}
+	farmers=
+	{
+		culture = avar
+		religion = catholic
+		size= 10064
 	}
 
 }

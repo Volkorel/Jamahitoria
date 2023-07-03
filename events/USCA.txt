@@ -1343,14 +1343,14 @@ country_event = {
 
     option = {
         name = "EVT32553OPTA" #Demand monetary compensation
-        2200 = { secede_province = FROM }
+        2190 = { secede_province = FROM }
         FROM = { country_event = 32554 }
         ai_chance = { factor = 60 }
     }
 
     option = {
         name = "EVT32553OPTB" #Demand the territory back
-        2200 = { secede_province = FROM }
+        2190 = { secede_province = FROM }
         FROM = { country_event = 32555 }
         ai_chance = {
             factor = 30
@@ -1363,7 +1363,7 @@ country_event = {
 
     option = {
         name = "EVT32553OPTC" #Let the territory go
-        2200 = { secede_province = FROM }
+        2190 = { secede_province = FROM }
         relation = { who = FROM value = 50 }
         prestige = -5
         ai_chance = {
@@ -1445,7 +1445,7 @@ country_event = {
     option = {
         name = "EVT32555OPTB" #Give up our territory
         prestige = -20
-        2200 = { secede_province = FROM }
+        2190 = { secede_province = FROM }
         ai_chance = { factor = 0.05 }
     }
 }
