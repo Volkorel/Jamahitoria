@@ -3,6 +3,7 @@ controller=X03
 add_core=LAT
 add_core=UBD
 add_core=X03
+add_core=X23
 trade_goods = fish
 life_rating = 35
 fort = 1

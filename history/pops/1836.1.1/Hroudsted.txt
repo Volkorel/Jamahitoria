@@ -1,0 +1,6625 @@
+245 = {
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 234
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 3845
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 66
+	}
+
+	artisans=
+	{
+		culture = british_north_america_superregion_culture
+		religion = catholic
+		size= 128
+	}
+
+	farmers=
+	{
+		culture = british_north_america_superregion_culture
+		religion = catholic
+		size= 1509
+	}
+
+	aristocrats=
+	{
+		culture = british_north_america_superregion_culture
+		religion = catholic
+		size= 13
+	}
+
+	clergymen=
+	{
+		culture = british_north_america_superregion_culture
+		religion = catholic
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = british_north_america_superregion_culture
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = british_north_america_superregion_culture
+		religion = catholic
+		size= 97
+	}
+
+	officers=
+	{
+		culture = british_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = british_north_america_superregion_culture
+		religion = laeradr
+		size= 261
+	}
+
+	artisans=
+	{
+		culture = british_north_america_superregion_culture
+		religion = laeradr
+		size= 552
+	}
+
+	clergymen=
+	{
+		culture = british_north_america_superregion_culture
+		religion = laeradr
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = british_north_america_superregion_culture
+		religion = laeradr
+		size= 21
+	}
+
+	officers=
+	{
+		culture = british_north_america_superregion_culture
+		religion = laeradr
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = british_north_america_superregion_culture
+		religion = laeradr
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = british_north_america_superregion_culture
+		religion = laeradr
+		size= 3721
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 5799
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 781
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 85
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 29
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 393
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 5
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 7
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 2
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 165
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 328
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 24
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 12
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 8
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 36
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 2374
+	}
+}
+243 = {
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1858
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 30301
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 663
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 162
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 107
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 52
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 35
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 4149
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 3627
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 589
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 290
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 190
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 889
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 64350
+	}
+
+}
+244 = {
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 817
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 221
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 36
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 18
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 14
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 54
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 9879
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 1823
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 1206
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 196
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 97
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 75
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 296
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 20944
+	}
+
+}
+242 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 174
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 90
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 4252
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 18429
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1023
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = laeradr
+		size= 808
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 419
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 214
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 166
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 86
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 33
+	}
+
+}
+241 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 641
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1346
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 481
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 78
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 24
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 25
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 118
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 21333
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 1350
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 2834
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 2505
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 407
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 125
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 132
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 614
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 42643
+	}
+
+}
+234 = {
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 547
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1228
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 88
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 42
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 17
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 268
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 25130
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 1045
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 5933
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 428
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 198
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 86
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 1292
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 43278
+	}
+
+}
+232 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 852
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1694
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 27702
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = laeradr
+		size= 4276
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 8493
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 128159
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 6788
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1783
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1173
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 690
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 382
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 490
+	}
+
+}
+3323 = {
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 18662
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1196
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1025
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 166
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 97
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 53
+	}
+}
+233 = {
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 239
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 4023
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 18662
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1196
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1025
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 166
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 97
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 53
+	}
+
+}
+229 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 638
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 124
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 5456
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = laeradr
+		size= 3080
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 599
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 22656
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 3264
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 235
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 355
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 108
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 47
+	}
+
+}
+224 = {
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 508
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 419
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 92
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 8025
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 372
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 287
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 63
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 5877
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 31
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 16
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 9
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 839
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 1771
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 128
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 67
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 41
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 386
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 11752
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 21
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 11
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 7
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 580
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 1216
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 88
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 46
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 28
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 265
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 8126
+	}
+
+}
+225 = {
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 933
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 334
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 54
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 20
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 18
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 164
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 15148
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 1502
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 1406
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 228
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 84
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 74
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 689
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 22835
+	}
+
+}
+226 = {
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 302
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 513
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 14223
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 56
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 36
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 17
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 7
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 144
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 493
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 36
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 16
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 7
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 54
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 6455
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 489
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 2864
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 207
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 95
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 41
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 312
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 20466
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 434
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 2299
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 166
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 77
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 33
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 250
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 18448
+	}
+
+}
+223 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 1607
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 448
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 20433
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 26
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1209
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 70467
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = laeradr
+		size= 6072
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1796
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 9717
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 726
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1111
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 339
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 146
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = jewish
+		size= 490
+	}
+
+}
+230 = {
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 252
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 4251
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1185
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 18576
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1028
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 251
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 167
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 76
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 53
+	}
+
+}
+231 = {
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 216
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 3635
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 15886
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1013
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 880
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 215
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 142
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 65
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 46
+	}
+
+}
+222 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 1155
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 266
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 2192
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 5
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 39
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = laeradr
+		size= 5240
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1227
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 7923
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1821
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 262
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 198
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 68
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 50
+	}
+
+}
+219 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3735
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 207
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 6379
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 19932
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = laeradr
+		size= 14968
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 825
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 4651
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1013
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 335
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 155
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 66
+	}
+
+}
+220 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3394
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 424
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 4391
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 77
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 792
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 21
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 221
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = laeradr
+		size= 11291
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 13611
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1735
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 3629
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 790
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 261
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 120
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 84
+	}
+
+}
+2146 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 1142
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 105
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 844
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 19
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 152
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 2384
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = laeradr
+		size= 3794
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 427
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 899
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 195
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 29
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 20
+	}
+
+}
+217 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 938
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 71
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1565
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = laeradr
+		size= 2724
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 15908
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 2722
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 295
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 196
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 102
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 850
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 223
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 4947
+	}
+
+}
+227 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 1117
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 452
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 451
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 74
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 27
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 15
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 221
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 20207
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 1816
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 733
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 1917
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 312
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 115
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 62
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 939
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = laeradr
+		size= 30753
+	}
+
+}
+218 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 411
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 136
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 6169
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 92
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 21
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 14
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 6
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 402
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 134
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 360
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 59
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 27
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 12
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 88
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 5603
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 5594
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 352
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = laeradr
+		size= 394
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 86
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 26
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 131
+	}
+
+}
+215 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2577
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 117
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 264
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 19
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 6
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 4
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 58
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 2823
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 4260
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 194
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 1137
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 82
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 25
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 16
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 248
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 3736
+	}
+
+}
+212 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3296
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 65
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 24
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1035
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 37
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 78
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 509
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 4
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 5
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 12
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 6
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 18
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 6935
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 214
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 531
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 86
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 40
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 17
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 130
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 2765
+	}
+
+}
+213 = {
+	slaves=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 2639
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 296
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 2441
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 82
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = laeradr
+		size= 11224
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 9089
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 1299
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 1149
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 186
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 281
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 86
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 59
+	}
+
+}
+60 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 510
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 50
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1962
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 3
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 133
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = laeradr
+		size= 2180
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 7398
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 1259
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 274
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 91
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 42
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 224
+	}
+
+}
+214 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 4194
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 535
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 198
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 4702
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 21
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 196
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 32
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 49
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 12
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 10
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 6756
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 898
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 840
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 137
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 50
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 44
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = laeradr
+		size= 206
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 7100
+	}
+
+}
+211 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 9322
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 632
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 6405
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = laeradr
+		size= 10941
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 1628
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 14327
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 1559
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 253
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 381
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 147
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 81
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 750
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 7244
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 4
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = totemism
+		size= 36
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 1
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 4
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 240
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 39
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 58
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 52
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 9
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 5
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 3
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 13
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 22
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 12
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 8482
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1262
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1198
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 195
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 114
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 294
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 10928
+	}
+
+}
+216 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 4101
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 182
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 409
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 30
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 9
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 6
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 45
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 4298
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 9580
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 424
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 2318
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 167
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 52
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 252
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 8387
+	}
+
+}
+185 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3073
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 147
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 4941
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 55
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 61
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 152
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1868
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 7157
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 484
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 1175
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 191
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 59
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 247
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 14836
+	}
+
+}
+188 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 5045
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 1140
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 897
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 84
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 15451
+	}
+
+	slaves=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 5646
+	}
+	slaves=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 5646
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 2536
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 5013
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 361
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 133
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 117
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 468
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 29810
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 726
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 584
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 16
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 9569
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1032
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 2242
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 162
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 60
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 209
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 11884
+	}
+
+}
+190 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2360
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 171
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 171
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 10
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 5772
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 5463
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 396
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 963
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 157
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 58
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 202
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 12532
+	}
+
+}
+191 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2467
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 257
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 257
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 15
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 9727
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 3533
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 367
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 991
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 161
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 59
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 208
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 13022
+	}
+
+}
+2556 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3136
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 443
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 350
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 4844
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 209
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 173
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 2276
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 10
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 6
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 6630
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 1049
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 2051
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 148
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 55
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 447
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 9868
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = totemism
+		size= 12
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = totemism
+		size= 4
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 4
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = laeradr
+		size= 325
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = laeradr
+		size= 679
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = laeradr
+		size= 49
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = laeradr
+		size= 18
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = laeradr
+		size= 16
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = laeradr
+		size= 148
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = laeradr
+		size= 3003
+	}
+
+}
+209 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 4315
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 154
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 234
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 3854
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 41
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = totemism
+		size= 205
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = totemism
+		size= 828
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 51
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = totemism
+		size= 15
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = totemism
+		size= 45
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 16
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 7
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = totemism
+		size= 7
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 3
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 3
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 9769
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 241
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 1316
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 95
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 44
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 19
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 287
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 4741
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 202
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 1116
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 81
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 37
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 243
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 3936
+	}
+
+}
+208 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2440
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 443
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 5465
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 77
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 922
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 13
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 160
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = laeradr
+		size= 7642
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 1667
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 16215
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 3537
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 769
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 255
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 118
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 82
+	}
+
+}
+207 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 1706
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 109
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 3700
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 7
+	}
+
+	tribals=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 232
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 5
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = laeradr
+		size= 6476
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 11912
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 435
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 2486
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 541
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 179
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 115
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 35
+	}
+
+}
+210 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 4514
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 270
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 2667
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 392
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 3757
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 99
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 34
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 16
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 24
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 5
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 8
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 7
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 5
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 2
+	}
+
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 5989
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 876
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 758
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 57
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 186
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 7608
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = laeradr
+		size= 7270
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 9287
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 1063
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 965
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 157
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 236
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 72
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 50
+	}
+
+}
+205 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 9628
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 928
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 552
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 5277
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 18
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 14
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 17479
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 1688
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 3146
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 238
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = meinwerkist
+		size= 110
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = meinwerkist
+		size= 77
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 717
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 6549
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = laeradr
+		size= 8646
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 3387
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 833
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1603
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 364
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 121
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 55
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 39
+	}
+
+}
+206 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 13234
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 581
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 4219
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 883
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = totemism
+		size= 5996
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = laeradr
+		size= 9231
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1022
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 5390
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 2135
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 464
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 154
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 70
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 50
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 248
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 19
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 55
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 8
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 5
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = meinwerkist
+		size= 18894
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = meinwerkist
+		size= 724
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = meinwerkist
+		size= 1413
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = meinwerkist
+		size= 102
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = meinwerkist
+		size= 47
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = meinwerkist
+		size= 33
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = meinwerkist
+		size= 308
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = meinwerkist
+		size= 3765
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = totemism
+		size= 682
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = totemism
+		size= 49
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = totemism
+		size= 23
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 16
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = totemism
+		size= 148
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = meinwerkist
+		size= 1367
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = meinwerkist
+		size= 2879
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = meinwerkist
+		size= 208
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = meinwerkist
+		size= 96
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = meinwerkist
+		size= 67
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = meinwerkist
+		size= 627
+	}
+
+	tribals=
+	{
+		culture = cherokee
+		religion = meinwerkist
+		size= 6819
+	}
+
+}
+201 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 8659
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 1245
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 1001
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 27
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 187
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 11017
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 13485
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 1939
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 4116
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 297
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 110
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 96
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 768
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 13809
+	}
+
+}
+196 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 5194
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 274
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 590
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 19
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 129
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 7851
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 11163
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 589
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 3291
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 238
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 103
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 717
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 13282
+	}
+
+}
+195 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 6196
+	}
+	slaves=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 6196
+	}
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 1751
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 1320
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 95
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 36
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 123
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 16730
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 12419
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1943
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 4617
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 334
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 123
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 108
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 432
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 14720
+	}
+
+}
+202 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2065
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 318
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 256
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 2963
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 1884
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 290
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 722
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 16
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 135
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 2067
+	}
+}
+204 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 9130
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 435
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 435
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 71
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 21
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 91
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 11541
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 10402
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 495
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 1425
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 231
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 71
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 299
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 11798
+	}
+
+}
+2555 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 5977
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 273
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 615
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 17
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 134
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 6593
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 7906
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 362
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 2241
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 162
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 60
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 488
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 6819
+	}
+
+}
+186 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3204
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 274
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 11098
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 169
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 7039
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 272
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 67
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 44
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 20
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 9
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 4652
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 644
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 1561
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 254
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 117
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 51
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 382
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 24554
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = laeradr
+		size= 3487
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 18422
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 479
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 1309
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 320
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 212
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 98
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = meinwerkist
+		size= 42
+	}
+
+}
+184 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 4312
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 163
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5558
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 145
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 4652
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 68
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 17
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 237
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 39
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 58
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 10
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 18
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = totemism
+		size= 8
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 6996
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 496
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 1298
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 211
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 97
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 42
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 318
+	}
+
+	tribals=
+	{
+		culture = siouan
+		religion = laeradr
+		size= 15344
+	}
+
+}
+187 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2808
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 46
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 92
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 15
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 2
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 3
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 39
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 3037
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = laeradr
+		size= 4391
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = laeradr
+		size= 66
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = laeradr
+		size= 357
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = laeradr
+		size= 58
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = laeradr
+		size= 9
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = laeradr
+		size= 12
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = laeradr
+		size= 150
+	}
+
+	tribals=
+	{
+		culture = muskogean
+		religion = laeradr
+		size= 4007
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 49
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 98
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 16
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 2
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 3
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 41
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 3229
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 82
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 426
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 69
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 11
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 14
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 179
+	}
+
+	tribals=
+	{
+		culture = central_algonquian
+		religion = laeradr
+		size= 4989
+	}
+
+}

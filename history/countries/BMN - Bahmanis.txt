@@ -1,5 +1,5 @@
 capital = 1318
-primary_culture = kannada
+primary_culture = turkish
 culture = zzz_religion_shiite
 religion = shiite
 government = absolute_monarchy

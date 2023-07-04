@@ -623,6 +623,7 @@ country_event = {
     trigger = {
         tag = X36
         war = no
+		year = 1870
 		any_owned_province = {
 			OR = {
 				region = ENG_9
@@ -633,14 +634,6 @@ country_event = {
 			}
 		}
         NOT = { has_country_flag = refused_ruperts_land }
-    }
-
-    mean_time_to_happen = {
-        months = 36
-        modifier = {
-            factor = 0.5
-            year = 1870
-        }
     }
 
     option = {

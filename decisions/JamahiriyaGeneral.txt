@@ -5,7 +5,9 @@ political_decisions = {
 			OR = {
 				tag = X36
 				tag = CAL
+				tag = X06
 			}
+			NOT = { has_country_flag = intervened_in_taysha }
 			MEX = {
 				war_with = X57
 			}
@@ -25,7 +27,38 @@ political_decisions = {
             factor = 1
         }
     }
-
+    declare_hroud_revolution = {
+		picture = hroud_revolution
+        potential = {
+			tag = USA
+			USA = {
+				vassal_of = X06
+			}
+			year = 1846
+        }
+        allow = {
+			war = no
+			NOT = {
+				truce_with = X06
+			}
+        }
+        effect = {
+			prestige = 25
+			add_country_modifier = {
+				name = hroud_independence_war
+				duration = -1
+			}
+			war = {
+				target = X06
+				attacker_goal = { casus_belli = become_independent }
+				defender_goal = { casus_belli = make_puppet }
+				call_ally = no
+			}
+        }
+        ai_will_do = {
+            factor = 5
+        }
+    }
 	give_ora_to_dominionora = {
 		picture = give_oranje_dominion
 		potential = {

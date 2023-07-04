@@ -102,27 +102,58 @@ country_event = {
 	title = "EVTNAME99941"
 	desc = "EVTDESC99941"
 	picture = "Unite"
-	is_triggered_only = yes
+    is_triggered_only = yes
+    major = yes
 	option = {
 		name = "EVTOPTA99941" #Liberate Taysha
-		add_casus_belli = {
-			target = MEX
-			type = cut_down_to_size
-			months = 48
+		set_country_flag = intervened_in_taysha
+		MEX = {
+			add_casus_belli = {
+				target = THIS
+				type = cut_down_to_size
+				months = 48
+			}
 		}
+		relation = { who = MEX value = -200 }
+		diplomatic_influence = { who = MEX value = -200 }
+		leave_alliance = MEX
 		diplomatic_influence = {
-			who = X57
+			who = THIS
 			value = 100
 		}
-		create_alliance = X57
+		create_alliance = THIS
 	}
 	option = {
 		name = "EVTOPTB99941" #Get lands instead
-		add_casus_belli = {
-			target = MEX
-			type = acquire_state
-			months = 48
-			state_province_id = 105
+		set_country_flag = intervened_in_taysha
+		relation = { who = MEX value = -200 }
+		diplomatic_influence = { who = MEX value = -200 }
+		leave_alliance = MEX
+		MEX = {
+			add_casus_belli = {
+				target = THIS
+				type = acquire_state
+				months = 48
+				state_province_id = 105
+			}
 		}
 	}
+}
+country_event = {
+    id = 99942
+    title = "EVTNAME99942" #Trail of Tears
+    desc = "EVTDESC99942"
+    news = yes
+    news_desc_long = "EVTDESC99942_NEWS_LONG"
+    news_desc_medium = "EVTDESC99942_NEWS_MEDIUM"
+    news_desc_short = "EVTDESC99942_NEWS_SHORT"
+    picture = "trail_of_tears"
+    is_triggered_only = yes
+    option = {
+        name = "EVT99942OPTA"
+		relation = {
+			who = USA
+			value = -75
+		}
+    }
 }
