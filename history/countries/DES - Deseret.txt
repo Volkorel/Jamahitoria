@@ -1,5 +1,5 @@
 capital = 97
-primary_culture = yankee
+primary_culture = nieuwereld
 culture = zzz_religion_mormon
 religion = mormon
 government = theocracy

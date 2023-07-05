@@ -864,7 +864,7 @@ country_event = {
             remove_core = COL
         }
         COL = {
-            primary_culture = yankee
+            primary_culture = nieuwereld
             remove_accepted_culture = anglo_canadian
             remove_accepted_culture = french_canadian
         }
@@ -1113,7 +1113,7 @@ country_event = { #Hawaii turns democratic, loses people to disease, change prod
         }
 
         any_pop = {
-            limit = { has_pop_culture = yankee }
+            limit = { has_pop_culture = nieuwereld }
             random_list = {
                 25 = { reduce_pop = 1.25 }
                 25 = { reduce_pop = 1.2 }

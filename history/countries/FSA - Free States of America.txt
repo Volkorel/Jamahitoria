@@ -1,5 +1,5 @@
 capital = 223
-primary_culture = yankee
+primary_culture = nieuwereld
 culture = zzz_religion_protestant
 religion = protestant
 government = democracy

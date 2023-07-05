@@ -29,49 +29,49 @@
 
 	farmers=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = jewish
 		size= 16
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = jewish
 		size= 263
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = jewish
 		size= 24
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = jewish
 		size= 24
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = jewish
 		size= 5
 	}
 
 	soldiers=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = jewish
 		size= 59
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = jewish
 		size= 2
 	}
@@ -85,42 +85,42 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = catholic
 		size= 39
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = catholic
 		size= 460
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = catholic
 		size= 43
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = catholic
 		size= 9
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = catholic
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = catholic
 		size= 41
 	}
@@ -178,35 +178,35 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = jewish
 		size= 3
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = jewish
 		size= 28
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = jewish
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = jewish
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = jewish
 		size= 3
 	}
@@ -220,35 +220,35 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = catholic
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = catholic
 		size= 69
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = catholic
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = nieuwereld
 		religion = catholic
 		size= 8
 	}

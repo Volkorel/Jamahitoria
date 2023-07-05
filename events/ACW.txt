@@ -70,7 +70,7 @@ country_event = {
             leadership = 80
             treasury = 80000
 
-            any_pop = { limit = { has_pop_culture = dixie } militancy = -9 }
+            any_pop = { limit = { has_pop_culture = kusabo } militancy = -9 }
             random_list = {
                 25 = { add_country_modifier = { name = preparing_for_war duration = 210 } }
                 25 = { add_country_modifier = { name = preparing_for_war duration = 180 } }
@@ -116,7 +116,7 @@ country_event = {
             capital = 60
             leadership = 30
             treasury = 40000
-            any_pop = { limit = { has_pop_culture = dixie } militancy = -9 }
+            any_pop = { limit = { has_pop_culture = kusabo } militancy = -9 }
             random_list = {
                 25 = { add_country_modifier = { name = preparing_for_war duration = 180 } }
                 25 = { add_country_modifier = { name = preparing_for_war duration = 150 } }
@@ -319,7 +319,7 @@ country_event = {
         name = "EVTOPTA16010"
         set_country_flag = john_browns_raid
         any_pop = {
-            limit = { has_pop_culture = dixie }
+            limit = { has_pop_culture = kusabo }
             militancy = 1
             consciousness = 2
             ideology = {
@@ -383,7 +383,7 @@ country_event = {
         name = "EVTOPTA16020"
         set_country_flag = dred_scott_decision
         any_pop = {
-            limit = { has_pop_culture = yankee }
+            limit = { has_pop_culture = nieuwereld }
             militancy = 1
             consciousness = 2
             ideology = {
@@ -396,7 +396,7 @@ country_event = {
         name = "EVTOPTB16020"
         set_country_flag = dred_scott_decision
         any_pop = {
-            limit = { has_pop_culture = dixie }
+            limit = { has_pop_culture = kusabo }
             militancy = 1
             consciousness = 2
             ideology = {
@@ -424,7 +424,7 @@ country_event = {
             is_slave = yes
             is_colonial = no
             NOT = { any_owned_province = { has_province_modifier = southern_pride } }
-            any_owned_province = { any_pop = { has_pop_culture = dixie } }
+            any_owned_province = { any_pop = { has_pop_culture = kusabo } }
         }
         NOT = { has_global_flag = american_civil_war_has_happened }
     }
@@ -466,7 +466,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = southern_pride } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             aristocrats = { ideology = { value = conservative factor = 0.05 } }
             capitalists = { ideology = { value = conservative factor = 0.05 } }
@@ -479,7 +479,7 @@ country_event = {
                     is_slave = yes
                     is_colonial = no
                     NOT = { any_owned_province = { has_province_modifier = southern_pride } }
-                    any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                    any_owned_province = { any_pop = { has_pop_culture = kusabo } }
                 }
                 aristocrats = { ideology = { value = conservative factor = 0.05 } }
                 capitalists = { ideology = { value = conservative factor = 0.05 } }
@@ -494,7 +494,7 @@ country_event = {
                     is_slave = yes
                     is_colonial = no
                     NOT = { any_owned_province = { has_province_modifier = southern_pride } }
-                    any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                    any_owned_province = { any_pop = { has_pop_culture = kusabo } }
                 }
                 aristocrats = { ideology = { value = conservative factor = 0.05 } }
                 capitalists = { ideology = { value = conservative factor = 0.05 } }
@@ -509,7 +509,7 @@ country_event = {
                     is_slave = yes
                     is_colonial = no
                     NOT = { any_owned_province = { has_province_modifier = southern_pride } }
-                    any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                    any_owned_province = { any_pop = { has_pop_culture = kusabo } }
                 }
                 aristocrats = { ideology = { value = conservative factor = 0.05 } }
                 capitalists = { ideology = { value = conservative factor = 0.05 } }
@@ -525,7 +525,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = southern_pride } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             farmers = { ideology = { value = conservative factor = 0.02 } }
             labourers = { ideology = { value = conservative factor = 0.02 } }
@@ -539,7 +539,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = southern_pride } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             farmers = { ideology = { value = conservative factor = 0.02 } }
             labourers = { ideology = { value = conservative factor = 0.02 } }
@@ -555,7 +555,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = southern_pride } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             farmers = { ideology = { value = conservative factor = 0.02 } }
             labourers = { ideology = { value = conservative factor = 0.02 } }
@@ -571,7 +571,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = southern_pride } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             farmers = { ideology = { value = conservative factor = 0.02 } }
             labourers = { ideology = { value = conservative factor = 0.02 } }
@@ -599,7 +599,7 @@ country_event = {
             is_slave = yes
             is_colonial = no
             NOT = { any_owned_province = { has_province_modifier = southern_manorialism } }
-            any_owned_province = { any_pop = { has_pop_culture = dixie } }
+            any_owned_province = { any_pop = { has_pop_culture = kusabo } }
         }
         NOT = { has_global_flag = american_civil_war_has_happened }
     }
@@ -641,7 +641,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = southern_manorialism } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             rich_strata = {
                 dominant_issue = { value = yes_slavery factor = 0.1 }
@@ -658,7 +658,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = southern_manorialism } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             rich_strata = {
                 dominant_issue = { value = yes_slavery factor = 0.1 }
@@ -676,7 +676,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = southern_manorialism } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             rich_strata = {
                 dominant_issue = { value = yes_slavery factor = 0.1 }
@@ -694,7 +694,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = southern_manorialism } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             rich_strata = {
                 dominant_issue = { value = yes_slavery factor = 0.1 }
@@ -713,7 +713,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = southern_manorialism } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             farmers = {
                 dominant_issue = { value = yes_slavery factor = 0.1 }
@@ -739,7 +739,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = southern_manorialism } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             farmers = {
                 dominant_issue = { value = yes_slavery factor = 0.1 }
@@ -766,7 +766,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = southern_manorialism } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             farmers = {
                 dominant_issue = { value = yes_slavery factor = 0.1 }
@@ -793,7 +793,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = southern_manorialism } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             farmers = {
                 dominant_issue = { value = yes_slavery factor = 0.1 }
@@ -832,7 +832,7 @@ country_event = {
             is_slave = yes
             is_colonial = no
             NOT = { any_owned_province = { has_province_modifier = wish_I_was_dixie } }
-            any_owned_province = { any_pop = { has_pop_culture = dixie } }
+            any_owned_province = { any_pop = { has_pop_culture = kusabo } }
         }
         NOT = { has_global_flag = american_civil_war_has_happened }
     }
@@ -874,7 +874,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = wish_I_was_dixie } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             any_owned = { add_province_modifier = { name = wish_I_was_dixie duration = 365 } }
             any_pop = {
@@ -892,7 +892,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = wish_I_was_dixie } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             any_owned = { add_province_modifier = { name = wish_I_was_dixie duration = 365 } }
             any_pop = {
@@ -911,7 +911,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = wish_I_was_dixie } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             any_owned = { add_province_modifier = { name = wish_I_was_dixie duration = 365 } }
             any_pop = {
@@ -930,7 +930,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = wish_I_was_dixie } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             any_owned = { add_province_modifier = { name = wish_I_was_dixie duration = 365 } }
             any_pop = {
@@ -950,7 +950,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = wish_I_was_dixie } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             farmers = { consciousness = 3 }
             labourers = { consciousness = 3 }
@@ -964,7 +964,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = wish_I_was_dixie } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             farmers = { consciousness = 3 }
             labourers = { consciousness = 3 }
@@ -979,7 +979,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = wish_I_was_dixie } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             farmers = { consciousness = 3 }
             labourers = { consciousness = 3 }
@@ -994,7 +994,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = wish_I_was_dixie } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             farmers = { consciousness = 3 }
             labourers = { consciousness = 3 }
@@ -1066,7 +1066,7 @@ country_event = {
                     is_slave = no
                     is_colonial = no
                     NOT = { any_owned_province = { has_province_modifier = yankee_doodle } }
-                    any_owned_province = { any_pop = { has_pop_culture = yankee } }
+                    any_owned_province = { any_pop = { has_pop_culture = nieuwereld } }
                 }
                 any_owned = { add_province_modifier = { name = yankee_doodle duration = 365 } }
                 any_pop = {
@@ -1086,7 +1086,7 @@ country_event = {
                     is_slave = no
                     is_colonial = no
                     NOT = { any_owned_province = { has_province_modifier = yankee_doodle } }
-                    any_owned_province = { any_pop = { has_pop_culture = yankee } }
+                    any_owned_province = { any_pop = { has_pop_culture = nieuwereld } }
                 }
                 any_owned = { add_province_modifier = { name = yankee_doodle duration = 365 } }
                 any_pop = {
@@ -1108,7 +1108,7 @@ country_event = {
                     is_slave = no
                     is_colonial = no
                     NOT = { any_owned_province = { has_province_modifier = yankee_doodle } }
-                    any_owned_province = { any_pop = { has_pop_culture = yankee } }
+                    any_owned_province = { any_pop = { has_pop_culture = nieuwereld } }
                 }
                 any_owned = { add_province_modifier = { name = yankee_doodle duration = 365 } }
                 any_pop = {
@@ -1128,7 +1128,7 @@ country_event = {
                     is_slave = no
                     is_colonial = no
                     NOT = { any_owned_province = { has_province_modifier = yankee_doodle } }
-                    any_owned_province = { any_pop = { has_pop_culture = yankee } }
+                    any_owned_province = { any_pop = { has_pop_culture = nieuwereld } }
                 }
                 any_owned = { add_province_modifier = { name = yankee_doodle duration = 365 } }
                 any_pop = {
@@ -1151,7 +1151,7 @@ country_event = {
                     is_slave = no
                     is_colonial = no
                     NOT = { any_owned_province = { has_province_modifier = yankee_doodle } }
-                    any_owned_province = { any_pop = { has_pop_culture = yankee } }
+                    any_owned_province = { any_pop = { has_pop_culture = nieuwereld } }
                 }
                 any_owned = { add_province_modifier = { name = yankee_doodle duration = 365 } }
                 any_pop = {
@@ -1171,7 +1171,7 @@ country_event = {
                     is_slave = no
                     is_colonial = no
                     NOT = { any_owned_province = { has_province_modifier = yankee_doodle } }
-                    any_owned_province = { any_pop = { has_pop_culture = yankee } }
+                    any_owned_province = { any_pop = { has_pop_culture = nieuwereld } }
                 }
                 any_owned = { add_province_modifier = { name = yankee_doodle duration = 365 } }
                 any_pop = {
@@ -1194,7 +1194,7 @@ country_event = {
                     is_slave = no
                     is_colonial = no
                     NOT = { any_owned_province = { has_province_modifier = yankee_doodle } }
-                    any_owned_province = { any_pop = { has_pop_culture = yankee } }
+                    any_owned_province = { any_pop = { has_pop_culture = nieuwereld } }
                 }
                 any_owned = { add_province_modifier = { name = yankee_doodle duration = 365 } }
                 any_pop = {
@@ -1214,7 +1214,7 @@ country_event = {
                     is_slave = no
                     is_colonial = no
                     NOT = { any_owned_province = { has_province_modifier = yankee_doodle } }
-                    any_owned_province = { any_pop = { has_pop_culture = yankee } }
+                    any_owned_province = { any_pop = { has_pop_culture = nieuwereld } }
                 }
                 any_owned = { add_province_modifier = { name = yankee_doodle duration = 365 } }
                 any_pop = {
@@ -1235,7 +1235,7 @@ country_event = {
                 is_slave = no
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = yankee_doodle } }
-                any_owned_province = { any_pop = { has_pop_culture = yankee } }
+                any_owned_province = { any_pop = { has_pop_culture = nieuwereld } }
             }
             farmers = { consciousness = 3 }
             labourers = { consciousness = 3 }
@@ -1248,7 +1248,7 @@ country_event = {
                 is_slave = no
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = yankee_doodle } }
-                any_owned_province = { any_pop = { has_pop_culture = yankee } }
+                any_owned_province = { any_pop = { has_pop_culture = nieuwereld } }
             }
             farmers = { consciousness = 3 }
             labourers = { consciousness = 3 }
@@ -1263,7 +1263,7 @@ country_event = {
                 is_slave = no
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = yankee_doodle } }
-                any_owned_province = { any_pop = { has_pop_culture = yankee } }
+                any_owned_province = { any_pop = { has_pop_culture = nieuwereld } }
             }
             farmers = { consciousness = 3 }
             labourers = { consciousness = 3 }
@@ -1278,7 +1278,7 @@ country_event = {
                 is_slave = no
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = yankee_doodle } }
-                any_owned_province = { any_pop = { has_pop_culture = yankee } }
+                any_owned_province = { any_pop = { has_pop_culture = nieuwereld } }
             }
             farmers = { consciousness = 3 }
             labourers = { consciousness = 3 }
@@ -1305,7 +1305,7 @@ country_event = {
             is_slave = yes
             is_colonial = no
             NOT = { any_owned_province = { has_province_modifier = fire_eaters } }
-            any_owned_province = { any_pop = { has_pop_culture = dixie } }
+            any_owned_province = { any_pop = { has_pop_culture = kusabo } }
         }
         NOT = { has_global_flag = american_civil_war_has_happened }
     }
@@ -1347,7 +1347,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = fire_eaters } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             any_owned = { add_province_modifier = { name = fire_eaters duration = 365 } }
             any_pop = { limit = { NOT = { type = slaves } } consciousness = 2 }
@@ -1360,7 +1360,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = fire_eaters } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             any_owned = { add_province_modifier = { name = fire_eaters duration = 365 } }
             any_pop = { limit = { NOT = { type = slaves } } consciousness = 2 }
@@ -1374,7 +1374,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = fire_eaters } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             any_owned = { add_province_modifier = { name = fire_eaters duration = 365 } }
             any_pop = { limit = { NOT = { type = slaves } } consciousness = 2 }
@@ -1388,7 +1388,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = fire_eaters } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             any_owned = { add_province_modifier = { name = fire_eaters duration = 365 } }
             any_pop = { limit = { NOT = { type = slaves } } consciousness = 2 }
@@ -1403,7 +1403,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = fire_eaters } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             any_owned = { add_province_modifier = { name = fire_eaters duration = 365 } }
             poor_strata = { limit = { NOT = { type = slaves } } consciousness = 3 ideology = { value = reactionary factor = 0.2 } }
@@ -1416,7 +1416,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = fire_eaters } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             any_owned = { add_province_modifier = { name = fire_eaters duration = 365 } }
             poor_strata = { limit = { NOT = { type = slaves } } consciousness = 3 ideology = { value = reactionary factor = 0.2 } }
@@ -1430,7 +1430,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = fire_eaters } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             any_owned = { add_province_modifier = { name = fire_eaters duration = 365 } }
             poor_strata = { limit = { NOT = { type = slaves } } consciousness = 3 ideology = { value = reactionary factor = 0.2 } }
@@ -1444,7 +1444,7 @@ country_event = {
                 is_slave = yes
                 is_colonial = no
                 NOT = { any_owned_province = { has_province_modifier = fire_eaters } }
-                any_owned_province = { any_pop = { has_pop_culture = dixie } }
+                any_owned_province = { any_pop = { has_pop_culture = kusabo } }
             }
             any_owned = { add_province_modifier = { name = fire_eaters duration = 365 } }
             poor_strata = { limit = { NOT = { type = slaves } } consciousness = 3 ideology = { value = reactionary factor = 0.2 } }
@@ -3100,7 +3100,7 @@ country_event = {
             any_owned_province = { continent = north_america }
             NOT = { any_owned_province = { has_province_modifier = free_staters } }
             any_owned_province = { any_neighbor_province = { state_scope = { OR = { is_slave = no is_colonial = yes } } } }
-            any_owned_province = { any_pop = { has_pop_culture = yankee } }
+            any_owned_province = { any_pop = { has_pop_culture = nieuwereld } }
         }
         NOT = {
             has_global_flag = american_civil_war_has_happened
@@ -3142,7 +3142,7 @@ country_event = {
                 any_owned_province = { continent = north_america }
                 NOT = { any_owned_province = { has_province_modifier = free_staters } }
                 any_owned_province = { any_neighbor_province = { state_scope = { OR = {  is_slave = no is_colonial = yes } } } }
-                any_owned_province = { any_pop = { has_pop_culture = yankee } }
+                any_owned_province = { any_pop = { has_pop_culture = nieuwereld } }
             }
             any_owned = { add_province_modifier = { name = free_staters duration = 365 } }
             any_pop = { dominant_issue = { value = freedom_of_womb factor = 0.1 } }
@@ -3156,7 +3156,7 @@ country_event = {
                 any_owned_province = { continent = north_america }
                 NOT = { any_owned_province = { has_province_modifier = free_staters } }
                 any_owned_province = { any_neighbor_province = { state_scope = { OR = {  is_slave = no is_colonial = yes } } } }
-                any_owned_province = { any_pop = { has_pop_culture = yankee } }
+                any_owned_province = { any_pop = { has_pop_culture = nieuwereld } }
             }
             any_owned = { add_province_modifier = { name = free_staters duration = 365 } }
             any_pop = { dominant_issue = { value = freedom_of_womb factor = 0.1 } }
@@ -3171,7 +3171,7 @@ country_event = {
                 any_owned_province = { continent = north_america }
                 NOT = { any_owned_province = { has_province_modifier = free_staters } }
                 any_owned_province = { any_neighbor_province = { state_scope = { OR = {  is_slave = no is_colonial = yes } } } }
-                any_owned_province = { any_pop = { has_pop_culture = yankee } }
+                any_owned_province = { any_pop = { has_pop_culture = nieuwereld } }
             }
             any_owned = { add_province_modifier = { name = free_staters duration = 365 } }
             any_pop = { dominant_issue = { value = freedom_of_womb factor = 0.1 } }
@@ -3186,7 +3186,7 @@ country_event = {
                 any_owned_province = { continent = north_america }
                 NOT = { any_owned_province = { has_province_modifier = free_staters } }
                 any_owned_province = { any_neighbor_province = { state_scope = { OR = {  is_slave = no is_colonial = yes } } } }
-                any_owned_province = { any_pop = { has_pop_culture = yankee } }
+                any_owned_province = { any_pop = { has_pop_culture = nieuwereld } }
             }
             any_owned = { add_province_modifier = { name = free_staters duration = 365 } }
             any_pop = { dominant_issue = { value = freedom_of_womb factor = 0.1 } }
@@ -3721,7 +3721,7 @@ country_event = {
         name = "EVTOPTA16300"
         any_pop = {
             limit = {
-                has_pop_culture = yankee
+                has_pop_culture = nieuwereld
             }
             consciousness = 2
             dominant_issue = {
@@ -3735,7 +3735,7 @@ country_event = {
         }
         any_pop = {
             limit = {
-                has_pop_culture = dixie
+                has_pop_culture = kusabo
             }
             consciousness = 2
             dominant_issue = {
@@ -3901,7 +3901,7 @@ country_event = {
         name = "EVTOPTA16415"
         set_country_flag = kkk
         any_pop = {
-            limit = { has_pop_culture = dixie }
+            limit = { has_pop_culture = kusabo }
             militancy = 3
             consciousness = 1
             ideology = {
@@ -4137,10 +4137,10 @@ country_event = {
     option = {
         name = "EVTOPTA1305" #Keep Afro-American as accepted, CSA cores stay, assimilation of Dixie stops
         prestige = 10
-        add_accepted_culture = dixie
+        add_accepted_culture = kusabo
         add_accepted_culture = afro_american
         any_pop = {
-            limit = { has_pop_culture = dixie }
+            limit = { has_pop_culture = kusabo }
             consciousness = 2
             militancy = 4
         }
@@ -4150,7 +4150,7 @@ country_event = {
             militancy = -4
         }
         any_pop = {
-            limit = { has_pop_culture = dixie }
+            limit = { has_pop_culture = kusabo }
             ideology = {
                 value = reactionary
                 factor = 0.4
@@ -4174,7 +4174,7 @@ country_event = {
     option = {
         name = "EVTOPTA1306" #Afro-American loses accepted status, CSA cores go away
         prestige = 10
-        add_accepted_culture = dixie
+        add_accepted_culture = kusabo
         remove_accepted_culture = afro_american
         random_owned = { limit = { owner = { ai = no } } treasury = -25000 }
         any_owned = {
@@ -4182,9 +4182,9 @@ country_event = {
             add_province_modifier = { name = reconstruction duration = 2555 }
         }
         CSA = { all_core = { remove_core = CSA } }
-        TEX = { remove_accepted_culture = dixie }
+        TEX = { remove_accepted_culture = kusabo }
         any_pop = {
-            limit = { has_pop_culture = dixie }
+            limit = { has_pop_culture = kusabo }
             consciousness = 2
             militancy = 1
         }
@@ -4194,7 +4194,7 @@ country_event = {
             militancy = 1
         }
         any_pop = {
-            limit = { has_pop_culture = dixie }
+            limit = { has_pop_culture = kusabo }
             ideology = {
                 value = reactionary
                 factor = 0.3
@@ -4218,14 +4218,14 @@ country_event = {
     option = {
         name = "EVTOPTA1307" #Afro-American loses accepted status, Dixie becomes accepted, Texan becomes accepted, CSA cores go away, assimilation of Dixies stop.
         prestige = 10
-        add_accepted_culture = dixie
+        add_accepted_culture = kusabo
         random_owned = { limit = { any_pop = { has_pop_culture = texan } } owner = { add_accepted_culture = texan } }
-        random_owned = { limit = { any_pop = { has_pop_culture = dixie } } owner = { add_accepted_culture = dixie } }
+        random_owned = { limit = { any_pop = { has_pop_culture = kusabo } } owner = { add_accepted_culture = kusabo } }
         remove_accepted_culture = afro_american
         CSA = { all_core = { remove_core = CSA } }
         any_pop = {
             limit = {
-                has_pop_culture = dixie
+                has_pop_culture = kusabo
             }
             consciousness = -4
             militancy = -2
@@ -4238,7 +4238,7 @@ country_event = {
             militancy = 2
         }
         any_pop = {
-            limit = { has_pop_culture = dixie }
+            limit = { has_pop_culture = kusabo }
             ideology = {
                 value = conservative
                 factor = 0.6

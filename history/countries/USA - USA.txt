@@ -1,6 +1,6 @@
 capital = 222
 primary_culture = nieuwereld
-culture = frisian
+culture = kusabo
 religion = meinwerkist
 government = democracy
 plurality = 0

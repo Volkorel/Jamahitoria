@@ -2512,8 +2512,8 @@ country_event = {
         }
         LSK = {
             set_country_flag = usstatehood_we_have_applied
-            primary_culture = yankee
-            add_accepted_culture = dixie
+            primary_culture = nieuwereld
+            add_accepted_culture = kusabo
             ruling_party_ideology = liberal
             political_reform = universal_voting
             political_reform = population_equal_weight
@@ -2624,7 +2624,7 @@ country_event = {
         }
         HAW = {
             set_country_flag = usstatehood_we_have_applied
-            primary_culture = yankee
+            primary_culture = nieuwereld
             add_accepted_culture = polynesian
             government = democracy
             ruling_party_ideology = liberal

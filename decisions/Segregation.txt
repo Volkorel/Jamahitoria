@@ -275,12 +275,12 @@ political_decisions = {
             }
             OR = {
                 AND    = {
-                    pop_majority_culture = yankee
-                    primary_culture = yankee
+                    pop_majority_culture = nieuwereld
+                    primary_culture = nieuwereld
                 }
                 AND    = {
-                    pop_majority_culture = dixie
-                    primary_culture = dixie
+                    pop_majority_culture = kusabo
+                    primary_culture = kusabo
                 }
                 AND    = {
                     pop_majority_culture = australian
@@ -387,12 +387,12 @@ political_decisions = {
             }
             OR = {
                 AND    = {
-                    pop_majority_culture = yankee
-                    primary_culture = yankee
+                    pop_majority_culture = nieuwereld
+                    primary_culture = nieuwereld
                 }
                 AND    = {
-                    pop_majority_culture = dixie
-                    primary_culture = dixie
+                    pop_majority_culture = kusabo
+                    primary_culture = kusabo
                 }
                 AND    = {
                     pop_majority_culture = australian

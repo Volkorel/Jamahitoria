@@ -1101,8 +1101,8 @@ political_decisions = {
 		picture = apply_for_USA_statehood
 		potential = {
 			OR = {
-				primary_culture = yankee
-				primary_culture = dixie
+				primary_culture = nieuwereld
+				primary_culture = kusabo
 			}
 			NOT = {
 				exists = USA
@@ -1135,8 +1135,8 @@ political_decisions = {
 						tag = THIS
 					}
 					OR = {
-						primary_culture = dixie
-						primary_culture = yankee
+						primary_culture = kusabo
+						primary_culture = nieuwereld
 					}
 				}
 				annex_to = THIS

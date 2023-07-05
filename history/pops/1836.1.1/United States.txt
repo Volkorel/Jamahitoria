@@ -4966,30 +4966,30 @@
 
 	farmers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
-		size= 877
+		culture = texan
+		religion = catholic
+		size= 18077
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
-		size= 68
+		culture = texan
+		religion = catholic
+		size= 2668
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
-		size= 11
+		culture = texan
+		religion = catholic
+		size= 110
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
-		size= 13
+		culture = texan
+		religion = catholic
+		size= 130
 	}
 
 	slaves=
@@ -5001,23 +5001,23 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
-		size= 10
+		culture = texan
+		religion = catholic
+		size= 16000
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
-		size= 3
+		culture = texan
+		religion = catholic
+		size= 1300
 	}
 
 	officers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
-		size= 2
+		culture = texan
+		religion = catholic
+		size= 1500
 	}
 
 	tribals=
@@ -5143,16 +5143,16 @@
 
 	farmers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
-		size= 174
+		culture = texan
+		religion = catholic
+		size= 25074
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
-		size= 30
+		culture = texan
+		religion = catholic
+		size= 3000
 	}
 
 	slaves=
@@ -5164,23 +5164,23 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
-		size= 2
+		culture = texan
+		religion = catholic
+		size= 15500
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
-		size= 2
+		culture = texan
+		religion = catholic
+		size= 650
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
-		size= 5
+		culture = texan
+		religion = catholic
+		size= 255
 	}
 
 	tribals=
@@ -5538,175 +5538,32 @@
 		religion = totemism
 		size= 87
 	}
-
-	tribals=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 8
-	}
-
-	tribals=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 771
-	}
-
 	tribals=
 	{
 		culture = caddoan
 		religion = totemism
-		size= 141
+		size= 1300
 	}
 
 	tribals=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 36
-	}
-
-	tribals=
-	{
-		culture = caddoan
-		religion = totemism
-		size= 13
-	}
-
-	tribals=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 1
-	}
-
-	tribals=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 3
-	}
-
-	slaves=
 	{
 		culture = native_american_minor
 		religion = laeradr
-		size= 136
+		size= 1560
 	}
 
 	tribals=
 	{
 		culture = na_dene
 		religion = laeradr
-		size= 13
+		size= 1300
 	}
-
-	tribals=
+	soldiers=
 	{
-		culture = na_dene
-		religion = laeradr
-		size= 158
+		culture = texan
+		religion = catholic
+		size= 45000
 	}
-
-	tribals=
-	{
-		culture = na_dene
-		religion = laeradr
-		size= 11
-	}
-
-	tribals=
-	{
-		culture = na_dene
-		religion = laeradr
-		size= 2
-	}
-
-	tribals=
-	{
-		culture = na_dene
-		religion = laeradr
-		size= 2
-	}
-
-	tribals=
-	{
-		culture = na_dene
-		religion = laeradr
-		size= 15
-	}
-
-	tribals=
-	{
-		culture = na_dene
-		religion = laeradr
-		size= 987
-	}
-
-	tribals=
-	{
-		culture = caddoan
-		religion = totemism
-		size= 2
-	}
-
-	tribals=
-	{
-		culture = caddoan
-		religion = totemism
-		size= 1
-	}
-
-	tribals=
-	{
-		culture = caddoan
-		religion = totemism
-		size= 1
-	}
-
-	tribals=
-	{
-		culture = caddoan
-		religion = laeradr
-		size= 3
-	}
-
-	tribals=
-	{
-		culture = caddoan
-		religion = laeradr
-		size= 31
-	}
-
-	tribals=
-	{
-		culture = caddoan
-		religion = laeradr
-		size= 2
-	}
-
-	tribals=
-	{
-		culture = caddoan
-		religion = laeradr
-		size= 1
-	}
-
-	tribals=
-	{
-		culture = caddoan
-		religion = laeradr
-		size= 3
-	}
-
-	tribals=
-	{
-		culture = caddoan
-		religion = laeradr
-		size= 196
-	}
-
 }
 138 = {
 	tribals=

@@ -1,7 +1,7 @@
 capital = 60
-primary_culture = dixie
-culture = zzz_religion_protestant
-religion = protestant
+primary_culture = kusabo
+culture = zzz_religion_catholic
+religion = catholic
 government = democracy
 plurality = 0
 nationalvalue = nv_liberty

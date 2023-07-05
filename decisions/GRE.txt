@@ -251,7 +251,7 @@ political_decisions = {
                 }
                 HAW = {
                     NOT = { has_country_flag = normalized_cultures }
-                    accepted_culture = yankee
+                    accepted_culture = nieuwereld
                     OR = {
                         any_owned_province = { NOT = { is_core = HAW } }
                         NOT = { pop_majority_culture = polynesian }
@@ -298,7 +298,7 @@ political_decisions = {
             any_country = {
                 limit = {
                     tag = HAW
-                    accepted_culture = yankee
+                    accepted_culture = nieuwereld
                     OR = {
                         any_owned_province = { NOT = { is_core = HAW } }
                         NOT = { pop_majority_culture = polynesian }
@@ -306,7 +306,7 @@ political_decisions = {
                     }
                 }
                 set_country_flag = normalized_cultures
-                remove_accepted_culture = yankee
+                remove_accepted_culture = nieuwereld
             }
         }
     }

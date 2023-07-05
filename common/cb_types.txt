@@ -786,8 +786,8 @@ restore_america = {
         NOT = { is_our_vassal = THIS }
         THIS = {
             OR = {
-                primary_culture = yankee
-                primary_culture = dixie
+                primary_culture = nieuwereld
+                primary_culture = kusabo
                 primary_culture = texan
             }
             NOT = { tag = USA }

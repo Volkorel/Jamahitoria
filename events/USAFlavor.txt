@@ -1139,9 +1139,9 @@ country_event = {
             life_rating = 15
             secede_province = THIS
             random_list = {
-                33 = { any_pop = { limit = { has_pop_culture = yankee } reduce_pop = 2 } }
-                33 = { any_pop = { limit = { has_pop_culture = yankee } reduce_pop = 2.5 } }
-                33 = { any_pop = { limit = { has_pop_culture = yankee } reduce_pop = 3 } }
+                33 = { any_pop = { limit = { has_pop_culture = nieuwereld } reduce_pop = 2 } }
+                33 = { any_pop = { limit = { has_pop_culture = nieuwereld } reduce_pop = 2.5 } }
+                33 = { any_pop = { limit = { has_pop_culture = nieuwereld } reduce_pop = 3 } }
             }
         }
 
@@ -1150,9 +1150,9 @@ country_event = {
             life_rating = 15
             secede_province = THIS
             random_list = {
-                33 = { any_pop = { limit = { has_pop_culture = yankee } reduce_pop = 2 } }
-                33 = { any_pop = { limit = { has_pop_culture = yankee } reduce_pop = 2.5 } }
-                33 = { any_pop = { limit = { has_pop_culture = yankee } reduce_pop = 3 } }
+                33 = { any_pop = { limit = { has_pop_culture = nieuwereld } reduce_pop = 2 } }
+                33 = { any_pop = { limit = { has_pop_culture = nieuwereld } reduce_pop = 2.5 } }
+                33 = { any_pop = { limit = { has_pop_culture = nieuwereld } reduce_pop = 3 } }
             }
         }
         83 = {
@@ -1160,9 +1160,9 @@ country_event = {
             life_rating = 15
             secede_province = THIS
             random_list = {
-                33 = { any_pop = { limit = { has_pop_culture = yankee } reduce_pop = 2 } }
-                33 = { any_pop = { limit = { has_pop_culture = yankee } reduce_pop = 2.5 } }
-                33 = { any_pop = { limit = { has_pop_culture = yankee } reduce_pop = 3 } }
+                33 = { any_pop = { limit = { has_pop_culture = nieuwereld } reduce_pop = 2 } }
+                33 = { any_pop = { limit = { has_pop_culture = nieuwereld } reduce_pop = 2.5 } }
+                33 = { any_pop = { limit = { has_pop_culture = nieuwereld } reduce_pop = 3 } }
             }
         }
     }
@@ -1205,8 +1205,8 @@ country_event = {
         any_pop = {
             limit = {
                 OR = {
-                has_pop_culture = yankee
-                has_pop_culture = dixie
+                has_pop_culture = nieuwereld
+                has_pop_culture = kusabo
                 }
             }
             militancy = 3

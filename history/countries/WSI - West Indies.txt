@@ -1,5 +1,5 @@
 capital = 2224
-primary_culture = yankee
+primary_culture = nieuwereld
 culture = afro_caribbean
 culture = carribean
 culture = meashighcaw

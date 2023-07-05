@@ -80,49 +80,49 @@
 	soldiers=
 	{
 		culture = concordian
-		religion = laeradr
+		religion = catholic
 		size= 261
 	}
 
 	artisans=
 	{
 		culture = concordian
-		religion = laeradr
+		religion = catholic
 		size= 552
 	}
 
 	clergymen=
 	{
 		culture = concordian
-		religion = laeradr
+		religion = catholic
 		size= 40
 	}
 
 	bureaucrats=
 	{
 		culture = concordian
-		religion = laeradr
+		religion = catholic
 		size= 21
 	}
 
 	officers=
 	{
 		culture = concordian
-		religion = laeradr
+		religion = catholic
 		size= 13
 	}
 
 	aristocrats=
 	{
 		culture = concordian
-		religion = laeradr
+		religion = catholic
 		size= 60
 	}
 
 	farmers=
 	{
 		culture = concordian
-		religion = laeradr
+		religion = catholic
 		size= 3721
 	}
 
@@ -2850,49 +2850,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 9089
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 1299
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 1149
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 186
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 281
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 86
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 59
 	}
@@ -2943,49 +2943,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 7398
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 1259
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 274
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 91
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 42
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 17
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 224
 	}
@@ -3078,7 +3078,7 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 898
 	}
@@ -3092,7 +3092,7 @@
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 137
 	}
@@ -3106,7 +3106,7 @@
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 44
 	}
@@ -3120,7 +3120,7 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 7100
 	}
@@ -3157,49 +3157,49 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 1628
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 14327
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 1559
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 253
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 381
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 147
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 81
 	}
@@ -3446,49 +3446,49 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 424
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 2318
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 167
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 52
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 33
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 252
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 8387
 	}
@@ -3595,49 +3595,49 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 484
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 1175
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 191
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 59
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 38
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 247
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 14836
 	}
@@ -3653,49 +3653,49 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 1140
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 897
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 64
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 24
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 22
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 84
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 15451
 	}
@@ -3715,148 +3715,148 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 2536
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 5013
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 361
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 133
 	}
 
 	officers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 117
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 468
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 29810
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 726
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 584
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 42
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 16
 	}
 
 	officers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 54
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 9569
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 1032
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 2242
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 162
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 60
 	}
 
 	officers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 52
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 209
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 11884
 	}
 
@@ -3927,49 +3927,49 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 396
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 963
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 157
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 58
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 31
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 202
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 12532
 	}
@@ -3985,50 +3985,50 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 257
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 257
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 42
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 15
 	}
 
 	officers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 54
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 9727
 	}
 
@@ -4041,49 +4041,49 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 367
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 991
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 161
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 59
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 32
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 208
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 13022
 	}
@@ -4183,49 +4183,49 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 1049
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 2051
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 148
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 55
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 47
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 447
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 9868
 	}
@@ -4465,49 +4465,49 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 202
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 1116
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 81
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 37
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 16
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 243
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 3936
 	}
@@ -4572,49 +4572,49 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 1667
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 16215
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 3537
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 769
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 255
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 118
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 82
 	}
@@ -4672,49 +4672,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 11912
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 435
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 2486
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 541
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 179
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 115
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 35
 	}
@@ -4835,50 +4835,50 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 876
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 758
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 123
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 57
 	}
 
 	officers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 40
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 186
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 7608
 	}
 
@@ -4891,49 +4891,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 9287
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 1063
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 965
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 157
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 236
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 72
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 50
 	}
@@ -4949,49 +4949,49 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 928
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 552
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 5277
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 125
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 41
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 18
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 14
 	}
@@ -5061,50 +5061,50 @@
 
 	farmers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 3387
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 833
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 1603
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 364
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 121
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 55
 	}
 
 	officers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 39
 	}
 
@@ -5154,50 +5154,50 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 1022
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 5390
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 2135
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 464
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 154
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 70
 	}
 
 	officers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 50
 	}
 
@@ -5408,8 +5408,8 @@
 
 	bureaucrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 27
 	}
 
@@ -5422,15 +5422,15 @@
 
 	aristocrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 187
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 11017
 	}
 
@@ -5443,49 +5443,49 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 1939
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 4116
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 297
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 110
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 96
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 768
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 13809
 	}
@@ -5501,50 +5501,50 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 274
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 590
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 43
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 19
 	}
 
 	officers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 129
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 7851
 	}
 
@@ -5557,49 +5557,49 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 589
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 3291
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 238
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 103
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 48
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 717
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 13282
 	}
@@ -5620,49 +5620,49 @@
 	}
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 1751
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 1320
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 95
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 36
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 30
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 123
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 16730
 	}
@@ -5676,50 +5676,50 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 1943
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 4617
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 334
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 123
 	}
 
 	officers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 108
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 432
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 14720
 	}
 
@@ -5734,49 +5734,49 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 318
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 256
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 18
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 5
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 48
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 2963
 	}
@@ -5790,50 +5790,50 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 290
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 722
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 52
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 16
 	}
 
 	officers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 16
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 135
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 2067
 	}
 }
@@ -5847,50 +5847,50 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 435
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 435
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 71
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 21
 	}
 
 	officers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 91
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 11541
 	}
 
@@ -5903,49 +5903,49 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 495
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 1425
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 231
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 71
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 46
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 299
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 11798
 	}
@@ -5968,43 +5968,43 @@
 
 	artisans=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 615
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 44
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 17
 	}
 
 	officers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 134
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
-		religion = meinwerkist
+		culture = kusabo
+		religion = catholic
 		size= 6593
 	}
 
@@ -6017,49 +6017,49 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 362
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 2241
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 162
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 60
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 32
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 488
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = kusabo
 		religion = catholic
 		size= 6819
 	}

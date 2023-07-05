@@ -130,18 +130,16 @@ country_event = {
         NAL = { prestige = -30 add_country_modifier = { name = unrecognized_country duration = 1825 } }
         any_pop = {
             limit = {
-                has_pop_culture = boer
+                has_pop_culture = granjeros
                 OR = {
                     location = { province_id = 2097 }
                     location = { province_id = 2096 }
                 }
             }
             money = 250
-            move_pop = 2111
+            move_pop = 2071
         }
-        2112 = { change_province_name = "Ladysmith" }
-        2111 = { change_province_name = "Pietermaritzburg" }
-        2111 = { state_scope = { change_region_name = "Natal" } }
+        2071 = { state_scope = { change_region_name = "Bembezi" } }
         ai_chance = { factor = 100 }
     }
 
@@ -155,20 +153,18 @@ country_event = {
         NAL = { prestige = -30 add_country_modifier = { name = unrecognized_country duration = 1825 } }
         any_pop = {
             limit = {
-                has_pop_culture = boer
+                has_pop_culture = granjeros
                 OR = {
                     location = { province_id = 2097 }
                     location = { province_id = 2096 }
                 }
             }
             money = 250
-            move_pop = 2111
+            move_pop = 2071
         }
-        2112 = { change_province_name = "Ladysmith" }
-        2111 = { change_province_name = "Pietermaritzburg" }
-        2111 = {
+        2071 = {
             state_scope = {
-                change_region_name = "Natal"
+                change_region_name = "Bembezi"
                 is_slave = yes
             }
         }
@@ -185,18 +181,16 @@ country_event = {
         NAL = { prestige = -30 }
         any_pop = {
             limit = {
-                has_pop_culture = boer
+                has_pop_culture = granjeros
                 OR = {
                     location = { province_id = 2097 }
                     location = { province_id = 2096 }
                 }
             }
             money = 250
-            move_pop = 2111
+            move_pop = 2071
         }
-        2112 = { change_province_name = "Ladysmith" }
-        2111 = { change_province_name = "Pietermaritzburg" }
-        2111 = { state_scope = { change_region_name = "Natal" is_slave = yes } }
+        2071 = { state_scope = { change_region_name = "Bembezi" is_slave = yes } }
         change_tag_no_core_switch = NAL
         ai_chance = { factor = 0 }
     }
@@ -226,20 +220,18 @@ country_event = {
         NAL = { prestige = -30 }
         any_pop = {
             limit = {
-                has_pop_culture = boer
+                has_pop_culture = granjeros
                 OR = {
                     location = { province_id = 2097 }
                     location = { province_id = 2096 }
                 }
             }
             money = 250
-            move_pop = 2111
+            move_pop = 2071
         }
-        2112 = { change_province_name = "Ladysmith" }
-        2111 = { change_province_name = "Pietermaritzburg" }
-        2111 = {
+        2071 = {
             state_scope = {
-                change_region_name = "Natal"
+                change_region_name = "Bembezi"
             }
         }
         ai_chance = {
@@ -257,20 +249,18 @@ country_event = {
         NAL = { prestige = -30 }
         any_pop = {
             limit = {
-                has_pop_culture = boer
+                has_pop_culture = granjeros
                 OR = {
                     location = { province_id = 2097 }
                     location = { province_id = 2096 }
                 }
             }
             money = 250
-            move_pop = 2111
+            move_pop = 2071
         }
-        2112 = { change_province_name = "Ladysmith" }
-        2111 = { change_province_name = "Pietermaritzburg" }
-        2111 = {
+        2071 = {
             state_scope = {
-                change_region_name = "Natal"
+                change_region_name = "Bembezi"
             }
         }
         ai_chance = {
@@ -291,20 +281,18 @@ country_event = {
         NAL = { prestige = -30 }
         any_pop = {
             limit = {
-                has_pop_culture = boer
+                has_pop_culture = granjeros
                 OR = {
                     location = { province_id = 2097 }
                     location = { province_id = 2096 }
                 }
             }
             money = 250
-            move_pop = 2111
+            move_pop = 2071
         }
-        2112 = { change_province_name = "Ladysmith" }
-        2111 = { change_province_name = "Pietermaritzburg" }
-        2111 = {
+        2071 = {
             state_scope = {
-                change_region_name = "Natal"
+                change_region_name = "Bembezi"
             }
         }
         ai_chance = { factor = 0 }
@@ -323,15 +311,15 @@ country_event = {
     major = yes
 
     trigger = {
-        tag = ENG
+        tag = X06
         war = no
-        owns = 2087
+        owns = 2071
         NOT = { has_country_flag = boer_accepted }
         NOT = { has_country_flag = annexation_of_natal }
         NAL = {
             exists = yes
             war = no
-            vassal_of = ENG
+            vassal_of = X06
         }
     }
 
@@ -376,9 +364,9 @@ country_event = {
     option = {
         name = "EVT98211OPTA"
         prestige = -5
-        all_core = { remove_core = ENG }
+        all_core = { remove_core = X06 }
         any_pop = {
-            limit = { has_pop_culture = boer }
+            limit = { has_pop_culture = granjeros }
             consciousness = 4
             militancy = 2
         }
@@ -391,15 +379,15 @@ country_event = {
     option = {
         name = "EVT98211OPTB"
         prestige = 5
-        all_core = { remove_core = ENG }
+        all_core = { remove_core = X06 }
         relation = { who = FROM value = -50 }
         any_pop = {
-            limit = { has_pop_culture = zulu }
+            limit = { has_pop_culture = shona }
             militancy = 4
         }
         random_country = {
             limit = {
-                tag = ZUL
+                tag = SHO
                 exists = yes
             }
             relation = { who = THIS value = -100 }
@@ -418,7 +406,7 @@ country_event = {
     option = {
         name = "EVT98212OPTA"
         any_pop = {
-            limit = { has_pop_culture = boer }
+            limit = { has_pop_culture = granjeros }
             militancy = -3
             dominant_issue = {
                 factor = 0.1
@@ -440,7 +428,7 @@ country_event = {
             any_owned = {
                 limit = {
                     is_core = NAL
-                    any_pop = { has_pop_culture = boer }
+                    any_pop = { has_pop_culture = granjeros }
                 }
                 add_province_modifier = {
                     name = boer_exodus
