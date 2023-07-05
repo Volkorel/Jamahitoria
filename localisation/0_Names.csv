@@ -811,7 +811,6 @@ SUA;Swaziland;Swaziland;Swasiland;Suazi;Suazilandia;Swaziland;Szv�zif�ld;Sva
 SUA_ADJ;Swazi;Swatinien;Swasil�ndisch;suazyjsk;Suazi;Suasi;szv�zik;Swazi;szv�zik;Swazi;Essuatiniano;�����������;Swazimaan;x
 SUD;The Sudan;Soudan;Der Sudan;Sudan;Sud�n;Sudan;Szud�n;S�d�nu;Szud�n;Soedan;Sud�o;�����;Sudan;x
 SUD_ADJ;Sudanese;Soudanais;Sudanesisch;suda�sk;Sudanesa;Sudanese;szud�ni;s�d�nsk�;szud�ni;Soedanees;Sudan�s;�������;Sudanin;x
-SUR_ADJ;Surinamese;Surinamienne;Surinamisch;Surinamsk.;de Surinam;Surinamese;Suriname;Surinam;Suriname;Suriname;Surinam�s;���������;Surinamin;x
 SWA;Swahili;Souah�lis;Suaheli;Suahilijscy;Los Suajili;Swahili;szuah�li;svahil�tina;szuah�li;Swahili;Os Sua�lis;�������;Suahili;x
 SWA_ADJ;Swahili;Souah�li;Suaheli-;suahilijsk;Suajili;degli Swahili;szuah�li;svahil�tina;szuah�li;Swahili;Sua�li;����������;Suahili;x
 SWH;Schleswig-Holstein;Schleswig-Holstein;Schleswig-Holstein;Szlezwik-Holsztyn;Schleswig-Holstein;Schleswig-Holstein;Schleswig-Holstein;�lesvicko-Hol�t�nsko;Schleswig-Holstein;Sleeswijk-Holstein;Esl�svico-Hols�cia;�������-���������;Schleswig-Holstein;x
@@ -838,10 +837,6 @@ TAI_ADJ;Taiwanese;Ta�wanais;Taiwanisch;tajwa�sk;Taiwanesa;Taiwanese;tajvani;
 TAJ;Tajikistan;Tadjikistan;Tadschikistan;Tad�ykistan;Tayikist�n;Tagichistan;T�dzsikiszt�n;T�d�ikist�n;T�dzsikiszt�n;Tadzjikistan;Tajiquist�o;�����������;Tad�ikistan;x
 TAJ_ADJ;Tajik;Tadjik;Tadschikisch;tad�yck;Tayika;Tagica;t�dzsik;T�d�ik;t�dzsik;Tadzjiekse;Tadjique;��������;Tad�ikistanin;x
 TAJ_proletarian_dictatorship;SSR Tajikistan;RSS Tadjikistan;SSR Tadschikistan;SRR Tad�ykistan;La RSS de Tayikist�n;RSS Tagica;SSR T�dzsikiszt�n;SSR T�d�ikist�n;SSR T�dzsikiszt�n;SSR Tadzjikistan;A RSS Tadjique;��� �����������;SSR Tajikistan;x
-TAM;Transamur;Transamour;Transamur;Transamur;Transamur;Transamur;Transamur;Transamur;Transamur;Transamur;Transamur;���������;Transamur;x
-TAM_ADJ;Transamurian;Transamourienne;Transamurisch;Transamursk.;de Transamur;del Transamur;Transamurian;Transamurian;Transamurian;Transamurisch;de Transamur;�����������;Transamurian;x
-TAM_proletarian_dictatorship;Wai Dongbei;Wai Dongbei;Wai Dongbei;Wai Dongbei;Wai Dongbei;Wai Dongbei;Wai Dongbei;Wai Dongbei;Wai Dongbei;Wai Dongbei;Wai Dongbei;��� ������;Wai Dongbei;x
-TAM_proletarian_dictatorship_ADJ;Wai Dongbei;du Wai Dongbei;Wai Dongbei-;Wai-Dongbeisk.;de Wai Dongbei;del Wai Dongbei;Wai Dongbei;Wai Dongbei;Wai Dongbei;Wai Dongbei;de Wai Dongbei;���-������;Wai Dongbei;x
 TAR;Tatarstan;Tatarstan;Tatarstan;Tatarstan;Tartarist�n;Tatarstan;Tat�r;Tatarstan;Tat�r;Tatarstan;Tartarist�o;���������;Tatarstan;x
 TAR_ADJ;Tatar;Tatar;Tatarisch;tatarsk;T�rtara;Tatara;tat�r;Tatar;tat�r;Tartaar;T�rtaro;�������;Tatar;x
 TCA;Transcaucasia;Transcaucasie;Transkaukasien;Zakaukazie;La Transcaucasia;Transcaucasia;Transzkauk�zi�ba;Zakavkazstv�;Transzkauk�zi�ba;Transcaucasia;Transcauc�sia;����������;Transkaukasia;x
@@ -1876,8 +1871,6 @@ X55_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 X55_liberal;Liberal Party;Parti Lib�ral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liber�lis P�rt;Liber�ln� Strana;Liber�lis P�rt;Liberale Partij;Partido Liberal;Eeaa0aeuiay Ia0oey;Liberaalipuolue;x
 X55_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti P�rt;N�rodn� Strana;Nemzeti P�rt;Nationale Partij;Partido Nacional;Iaoeiiaeuiay Ia0oey;Kansallispuolue;x
 X55_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista P�rt;Socialistick� Strana;Szocialista P�rt;Socialistische Partij;Partido Socialista;Nioeaeenoe0aneay Ia0oey;Sosialistinenpuolue;x
-X56;Proven0al Colombia;Proven0al Colombia;Proven0al Colombia;Proven0al Colombia;Proven0al Colombia;Proven0al Colombia;Proven0al Colombia;Proven0al Colombia;Proven0al Colombia;Proven0al Colombia;Proven0al Colombia;Proven0al Colombia;Proven0al Colombia;x
-X56_ADJ;Proven0al Colombian;Proven0al Colombian;Proven0al Colombian;Proven0al Colombian;Proven0al Colombian;Proven0al Colombian;Proven0al Colombian;Proven0al Colombian;Proven0al Colombian;Proven0al Colombian;Proven0al Colombian;Proven0al Colombian;Proven0al Colombian;x
 X56_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radik�lis P�rt;Radik�ln� Strana;Radik�lis P�rt;Radicale Partij;Partido Radical;0aaeeaeuiay Ia0oey;Radikaalipuolue;x
 X56_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista P�rt;Komunistick� Strana;Kommunista P�rt;Communistische Partij;Partido Comunista;Eiiioienoe0aneay Ia0oey;Kommunistinenpuolue;x
 X56_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervat�v P�rt;Konzervativn� Strana;Konzervat�v P�rt;Conservatieve Partij;Partido Conservador;Eiina0aaoeaiay Ia0oey;Konservatiivipuolue;x

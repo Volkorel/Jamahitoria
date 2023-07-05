@@ -1,7 +1,10 @@
 capital = 2240
-primary_culture = dummy
+primary_culture = afro_antillean
+culture = antartique
+culture = carribean
+culture = french_canadian
 culture = zzz_religion_shamanist
-religion = shamanist
+religion = sunni
 government = hms_government
 plurality = 0
 nationalvalue = nv_order

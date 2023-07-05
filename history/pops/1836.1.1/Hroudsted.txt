@@ -1,3 +1,11 @@
+3324 = {
+	tribals=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 234
+	}
+}
 245 = {
 	tribals=
 	{
@@ -22,98 +30,98 @@
 
 	artisans=
 	{
-		culture = british_north_america_superregion_culture
+		culture = concordian
 		religion = catholic
 		size= 128
 	}
 
 	farmers=
 	{
-		culture = british_north_america_superregion_culture
+		culture = concordian
 		religion = catholic
 		size= 1509
 	}
 
 	aristocrats=
 	{
-		culture = british_north_america_superregion_culture
+		culture = concordian
 		religion = catholic
 		size= 13
 	}
 
 	clergymen=
 	{
-		culture = british_north_america_superregion_culture
+		culture = concordian
 		religion = catholic
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = british_north_america_superregion_culture
+		culture = concordian
 		religion = catholic
 		size= 5
 	}
 
 	soldiers=
 	{
-		culture = british_north_america_superregion_culture
+		culture = concordian
 		religion = catholic
 		size= 97
 	}
 
 	officers=
 	{
-		culture = british_north_america_superregion_culture
+		culture = concordian
 		religion = catholic
 		size= 2
 	}
 
 	soldiers=
 	{
-		culture = british_north_america_superregion_culture
+		culture = concordian
 		religion = laeradr
 		size= 261
 	}
 
 	artisans=
 	{
-		culture = british_north_america_superregion_culture
+		culture = concordian
 		religion = laeradr
 		size= 552
 	}
 
 	clergymen=
 	{
-		culture = british_north_america_superregion_culture
+		culture = concordian
 		religion = laeradr
 		size= 40
 	}
 
 	bureaucrats=
 	{
-		culture = british_north_america_superregion_culture
+		culture = concordian
 		religion = laeradr
 		size= 21
 	}
 
 	officers=
 	{
-		culture = british_north_america_superregion_culture
+		culture = concordian
 		religion = laeradr
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = british_north_america_superregion_culture
+		culture = concordian
 		religion = laeradr
 		size= 60
 	}
 
 	farmers=
 	{
-		culture = british_north_america_superregion_culture
+		culture = concordian
 		religion = laeradr
 		size= 3721
 	}

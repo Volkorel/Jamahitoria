@@ -299,7 +299,6 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\terrain_marsh.tga"
 		norefcount = yes
 	}
-		
 	spriteType = {
 		name = "GFX_terrainimg_plains"
 		texturefile = "gfx\\interface\\terrain_plains.tga"
