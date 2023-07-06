@@ -1,50 +1,18 @@
 CODE;ENGLISH;FRENCH;GERMAN;POLISH;SPANISH;ITALIAN;SWEDISH;CZECH;HUNGARIAN;DUTCH;PORTUGUESE;RUSSIAN;FINNISH;x
 USA_1;Alyaska;;;;;;;;;;;;;x
-ENG_6;MacKenzie District;;;;;;;;;;;;;x
-ENG_9;North-Western Territories;;;;;;;;;;;;;x
-CAN_13;Columbia Department;;;;;;;;;;;;;x
-ENG_22;Athabasca District;;;;;;;;;;;;;x
-ENG_28;Arctic Territories;;;;;;;;;;;;;x
-ENG_30;Saskatchewan District;;;;;;;;;;;;;x
-ENG_36;Winnipeg District;;;;;;;;;;;;;x
-CAN_46;Upper Canada;;;;;;;;;;;;;x
-CAN_50;Albany District;;;;;;;;;;;;;x
-CAN_58;Lower Canada;;;;;;;;;;;;;x
-CAN_60;Eastmain District;;;;;;;;;;;;;x
 ENG_68;Trulandi;;;;;;;;;;;;;x
-ENG_71;Nova Scotia;;;;;;;;;;;;;x
-ENG_74;Newfoundland;;;;;;;;;;;;;x
-ENG_75;Labrador District;;;;;;;;;;;;;x
-USA_78;Vancouver District;;;;;;;;;;;;;x
-USA_81;Champoeg District;;;;;;;;;;;;;x
 MEX_85;Alta California;;;;;;;;;;;;;x
 USA_91;Clackamas District;;;;;;;;;;;;;x
 MEX_94;Gran Cuenca;;;;;;;;;;;;;x
 MEX_97;Yuta;;;;;;;;;;;;;x
 MEX_100;Pimer�a Alta;;;;;;;;;;;;;x
 MEX_103;Nuevo M�xico;;;;;;;;;;;;;x
-USA_106;Colorado;;;;;;;;;;;;;x
-USA_111;Wyoming;;;;;;;;;;;;;x
-USA_116;Montana;;;;;;;;;;;;;x
-USA_118;North Dakota;;;;;;;;;;;;;x
-USA_121;South Dakota;;;;;;;;;;;;;x
-USA_124;Nebraska;;;;;;;;;;;;;x
 USA_126;Kenaz;;;;;;;;;;;;;x
-USA_129;Indian Country;;;;;;;;;;;;;x
 TEX_132;Taysha;;;;;;;;;;;;;x
 USA_139;Sigfridsland;;;;;;;;;;;;;x
-USA_144;Arkansas;;;;;;;;;;;;;x
-USA_148;Missouri;;;;;;;;;;;;;x
-USA_151;Iowa;;;;;;;;;;;;;x
-USA_158;Minnesota;;;;;;;;;;;;;x
-USA_162;Wisconsin;;;;;;;;;;;;;x
-USA_168;Illinois;;;;;;;;;;;;;x
 USA_170;Sudtrvatn;;;;;;;;;;;;;x
-USA_176;Michigan;;;;;;;;;;;;;x
-USA_178;Ohio;;;;;;;;;;;;;x
 USA_185;Blaugers;;;;;;;;;;;;;x
 USA_188;Nieuw Brussels;;;;;;;;;;;;;x
-USA_194;Mississippi;;;;;;;;;;;;;x
 USA_196;Leuuvangen;;;;;;;;;;;;;x
 USA_200;Elysium;;;;;;;;;;;;;x
 USA_201;Kusabo;;;;;;;;;;;;;x
@@ -56,11 +24,9 @@ USA_219;Meinwarksted;;;;;;;;;;;;;x
 USA_223;Kiestra;;;;;;;;;;;;;x
 USA_231;Tsjerke;;;;;;;;;;;;;x
 USA_232;Nieuw Amsterdam;;;;;;;;;;;;;x
-USA_241;Connecticut;;;;;;;;;;;;;x
 USA_243;Waskbearen;;;;;;;;;;;;;x
 USA_247;Fjoldtiofan;;;;;;;;;;;;;x
-USA_248;Maine;;;;;;;;;;;;;x
-DEN_251;Sydgr�nland;;;;;;;;;;;;;x
+DEN_251;Sydgrinland;;;;;;;;;;;;;x
 DEN_252;North Atlantic Islands;;;;;;;;;;;;;x
 ENG_254;Ulster;;;;;;;;;;;;;x
 ENG_258;Connacht;;;;;;;;;;;;;x
@@ -308,9 +274,9 @@ RUS_980;Voronezh;;;;;;;;;;;;;x
 RUS_981;Arkhangelsk;;;;;;;;;;;;;x
 RUS_984;Kareliya;;;;;;;;;;;;;x
 RUS_990;Galich;;;;;;;;;;;;;x
-RUS_994;St. Peterburg;;;;;;;;;;;;;x
+RUS_994;Holmgard;;;;;;;;;;;;;x
 RUS_998;Tver;;;;;;;;;;;;;x
-RUS_1003;Novgorod;;;;;;;;;;;;;x
+RUS_1003;Gamleby;;;;;;;;;;;;;x
 RUS_1005;Pskov;;;;;;;;;;;;;x
 RUS_1008;Moskva;;;;;;;;;;;;;x
 RUS_1009;Kaluga;;;;;;;;;;;;;x
