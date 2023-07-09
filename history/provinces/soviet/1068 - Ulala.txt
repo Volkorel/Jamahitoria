@@ -1,6 +1,6 @@
 owner=X03
 controller=X03
-add_core=YAK
+add_core=X20
 trade_goods = coal
 life_rating = 35
 fort = 1

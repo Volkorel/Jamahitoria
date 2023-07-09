@@ -12381,7 +12381,7 @@
 
 }
 221 = {
-	slaves=
+	farmers=
 	{
 		culture = native_american_minor
 		religion = totemism
@@ -12486,7 +12486,7 @@
 		size= 2
 	}
 
-	slaves=
+	farmers=
 	{
 		culture = native_american_minor
 		religion = laeradr

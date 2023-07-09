@@ -51,7 +51,7 @@ political_decisions = {
     end_the_javanese_sultanates = {
         picture = map_java
         potential = {
-            tag = NET
+            tag = X06
             JAV = {
                 vassal_of = THIS
                 exists = yes
@@ -127,18 +127,10 @@ political_decisions = {
     the_aceh_question = {
         picture = the_aceh
         potential = {
-            tag = NET
-            colonial_nation = yes
-            is_canal_enabled = 2
-            ATJ = {
-                exists = yes
-                part_of_sphere = yes
-                civilized = no
-                NOT = { in_sphere = NET }
-            }
+            tag = X06
             NOT = { has_global_flag = gold_coast_treaty }
             NOT = { has_country_flag = made_aceh_proposal }
-            ATJ = { neighbour = NET }
+            1320 = { owned_by = X36 }
         }
 
         allow = {
@@ -148,7 +140,7 @@ political_decisions = {
 
         effect = {
             set_country_flag = made_aceh_proposal
-            ATJ = { sphere_owner = { country_event = 952503 } }
+            X36 = { country_event = 952503 }
         }
 
         ai_will_do = { factor = 1 }
@@ -157,13 +149,17 @@ political_decisions = {
     embrace_the_boer = {
         picture = embrace_the_boer
         potential = {
-            tag = NET
+            OR = {
+				tag = X06
+				tag = TRN
+			}
             NOT = { has_country_flag = boer_accepted }
-            any_owned_province = { any_pop = { has_pop_culture = boer } }
+            any_owned_province = { any_pop = { has_pop_culture = granjeros } }
             any_owned_province = {
             OR = {
                 is_core = SAF
                 is_core = NAL
+				is_core = ROD
                 is_core = TRN
                 is_core = ORA
                 }
@@ -172,7 +168,7 @@ political_decisions = {
 
         allow = {
             war = no
-            money = 100000
+            money = 250000
             prestige = 100
             plurality = 50
             phenomenalism = 1
@@ -191,14 +187,14 @@ political_decisions = {
 
         effect = {
             set_country_flag = boer_accepted
-            treasury = -100000
+            treasury = -250000
             prestige_factor = -0.1
-            add_accepted_culture = boer
+            add_accepted_culture = granjeros
             any_pop = {
-                limit = { has_pop_culture = boer }
+                limit = { has_pop_culture = granjeros }
                 militancy = -7
                 consciousness = -4
-                money = 10
+                money = 100
             }
         }
 
@@ -216,11 +212,11 @@ political_decisions = {
             OR = {
                 AND = {
                     NOT = { has_global_flag = dutch_wallonia_renamed }
-                    tag = NET
+                    tag = X06
                 }
                 AND = {
                     has_global_flag = dutch_wallonia_renamed
-                    NOT = { tag = NET }
+                    NOT = { tag = X06 }
                 }
             }
         }
@@ -233,7 +229,7 @@ political_decisions = {
         effect = {
             prestige = 5
             random_owned = {
-                limit = { owner = { tag = NET } }
+                limit = { owner = { tag = X06 } }
                 owner = {
                     set_global_flag = dutch_wallonia_renamed
                     395 = { change_province_name = "Luik" }
@@ -245,10 +241,10 @@ political_decisions = {
             }
 
             random_owned = {
-                limit = { owner = { NOT = { tag = NET } } }
+                limit = { owner = { NOT = { tag = X06 } } }
                 owner = {
                     clr_global_flag = dutch_wallonia_renamed
-                    395 = { change_province_name = "Liège" }
+                    395 = { change_province_name = "LiÃ©ge" }
                     392 = { change_province_name = "Namur" }
                     398 = { change_province_name = "Arlon" }
                     393 = { change_province_name = "Tournai" }
@@ -263,7 +259,7 @@ political_decisions = {
     first_annexiation_limburg = {
         picture = neuschwanstein
         potential = {
-            tag = NET
+            tag = X06
             LBG = { exists = yes }
             OR = {
                 is_our_vassal = LBG
@@ -286,7 +282,6 @@ political_decisions = {
                     tag = LBG
                 }
                 all_core = { remove_core = LBG }
-                381 = { change_province_name = "Maastricht" }
                 annex_to = THIS
             }
             random_country = {
@@ -308,9 +303,9 @@ political_decisions = {
     accept_the_flemish = {
         picture = become_belgium
         potential = {
-            tag = NET
-            NOT = { accepted_culture = flemish }
-            any_owned_province = { any_pop = { has_pop_culture = flemish } }
+            tag = X06
+            NOT = { accepted_culture = wallonian }
+            any_owned_province = { any_pop = { has_pop_culture = wallonian } }
         }
 
         allow = {
@@ -333,7 +328,7 @@ political_decisions = {
 
         effect = {
             prestige_factor = -0.1
-            add_accepted_culture = flemish
+            add_accepted_culture = wallonian
         }
 
         ai_will_do = { factor = 1 }

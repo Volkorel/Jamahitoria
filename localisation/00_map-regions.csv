@@ -5,8 +5,8 @@ MEX_85;Alta California;;;;;;;;;;;;;x
 USA_91;Clackamas District;;;;;;;;;;;;;x
 MEX_94;Gran Cuenca;;;;;;;;;;;;;x
 MEX_97;Yuta;;;;;;;;;;;;;x
-MEX_100;Pimer�a Alta;;;;;;;;;;;;;x
-MEX_103;Nuevo M�xico;;;;;;;;;;;;;x
+MEX_100;Pimer?a Alta;;;;;;;;;;;;;x
+MEX_103;Nuevo M?xico;;;;;;;;;;;;;x
 USA_126;Kenaz;;;;;;;;;;;;;x
 TEX_132;Taysha;;;;;;;;;;;;;x
 USA_139;Sigfridsland;;;;;;;;;;;;;x
@@ -51,19 +51,19 @@ SWE_309;Vestlandet;;;;;;;;;;;;;x
 SWE_313;Ostlandet;;;;;;;;;;;;;x
 SWE_318;Norrland;;;;;;;;;;;;;x
 SWE_322;Stockholm;;;;;;;;;;;;;x
-SWE_329;G�teborg;;;;;;;;;;;;;x
-SWE_332;Sm�land;;;;;;;;;;;;;x
-SWE_334;Sk�neland;;;;;;;;;;;;;x
-RUS_336;�sterbotten;;;;;;;;;;;;;x
+SWE_329;G?teborg;;;;;;;;;;;;;x
+SWE_332;Sm?land;;;;;;;;;;;;;x
+SWE_334;Sk?neland;;;;;;;;;;;;;x
+RUS_336;?sterbotten;;;;;;;;;;;;;x
 RUS_339;Nyland;;;;;;;;;;;;;x
 RUS_343;Egentliga Finland;;;;;;;;;;;;;x
 RUS_349;Estland;;;;;;;;;;;;;x
 RUS_351;Nord Livland;;;;;;;;;;;;;x
-RUS_354;S�d Livland;;;;;;;;;;;;;x
+RUS_354;S?d Livland;;;;;;;;;;;;;x
 RUS_356;Vitebsk;;;;;;;;;;;;;x
 RUS_357;Kurland;;;;;;;;;;;;;x
 RUS_360;Vilna;;;;;;;;;;;;;x
-RUS_361;Litv�;;;;;;;;;;;;;x
+RUS_361;Litv?;;;;;;;;;;;;;x
 DEN_367;Jylland;;;;;;;;;;;;;x
 HOL_369;Holsten;;;;;;;;;;;;;x
 SCH_370;Slesvig;;;;;;;;;;;;;x
@@ -78,7 +78,7 @@ BEL_387;Brabant;;;;;;;;;;;;;x
 BEL_388;Flandre;;;;;;;;;;;;;x
 BEL_390;Anvers;;;;;;;;;;;;;x
 BEL_394;Hainaut;;;;;;;;;;;;;x
-BEL_395;Li�ge-Namur;;;;;;;;;;;;;x
+BEL_395;Li?ge-Namur;;;;;;;;;;;;;x
 PRU_396;Eupen-Malmedy;;;;;;;;;;;;;x
 LUX_397;Luxembourg;;;;;;;;;;;;;x
 FRA_404;Artois-Picardie;;;;;;;;;;;;;x
@@ -87,19 +87,19 @@ FRA_411;Lorraine;;;;;;;;;;;;;x
 FRA_412;Alsace-Lorraine;;;;;;;;;;;;;x
 FRA_418;Normandie;;;;;;;;;;;;;x
 FRA_420;Bretagne;;;;;;;;;;;;;x
-FRA_425;�le-de-France;;;;;;;;;;;;;x
+FRA_425;?le-de-France;;;;;;;;;;;;;x
 FRA_428;Bourgogne;;;;;;;;;;;;;x
-FRA_432;Franche-Comt�;;;;;;;;;;;;;x
+FRA_432;Franche-Comt?;;;;;;;;;;;;;x
 FRA_434;Poitou;;;;;;;;;;;;;x
 FRA_435;Anjou-Maine;;;;;;;;;;;;;x
-FRA_438;Orl�anais;;;;;;;;;;;;;x
+FRA_438;Orl?anais;;;;;;;;;;;;;x
 FRA_439;Berry;;;;;;;;;;;;;x
 FRA_442;Saintonge;;;;;;;;;;;;;x
 FRA_445;Limousin;;;;;;;;;;;;;x
-FRA_451;Dauphin�;;;;;;;;;;;;;x
+FRA_451;Dauphin?;;;;;;;;;;;;;x
 FRA_452;Bourbonnais;;;;;;;;;;;;;x
 FRA_455;Guyenne;;;;;;;;;;;;;x
-FRA_457;Pyr�n�es;;;;;;;;;;;;;x
+FRA_457;Pyr?n?es;;;;;;;;;;;;;x
 FRA_458;Gascogne;;;;;;;;;;;;;x
 FRA_461;Languedoc;;;;;;;;;;;;;x
 SAR_466;Savoia;;;;;;;;;;;;;x
@@ -107,31 +107,31 @@ FRA_467;Provence;;;;;;;;;;;;;x
 SAR_472;Contea di Nizza;;;;;;;;;;;;;x
 FRA_473;Corse;;;;;;;;;;;;;x
 SPA_474;Galicia;;;;;;;;;;;;;x
-SPA_477;Asturias-Le�n;;;;;;;;;;;;;x
+SPA_477;Asturias-Le?n;;;;;;;;;;;;;x
 SPA_479;Castilla la Vieja;;;;;;;;;;;;;x
 SPA_484;Extremadura;;;;;;;;;;;;;x
 SPA_487;Castilla la Nueva;;;;;;;;;;;;;x
 SPA_492;Vasconia;;;;;;;;;;;;;x
-SPA_495;Arag�n;;;;;;;;;;;;;x
+SPA_495;Arag?n;;;;;;;;;;;;;x
 SPA_498;Catalonia;;;;;;;;;;;;;x
 SPA_503;Valencia;;;;;;;;;;;;;x
 SPA_506;Murcia;;;;;;;;;;;;;x
 SPA_512;Andalucia;;;;;;;;;;;;;x
 ENG_517;Gibraltar;;;;;;;;;;;;;x
-POR_518;Minho Tr�s-o-Montes;;;;;;;;;;;;;x
+POR_518;Minho Tr?s-o-Montes;;;;;;;;;;;;;x
 POR_520;Douro Beira;;;;;;;;;;;;;x
 POR_521;Estremadura;;;;;;;;;;;;;x
 POR_525;Alentejo Algarve;;;;;;;;;;;;;x
 HAN_528;Hannover;;;;;;;;;;;;;x
-HAN_534;Osnabr�ck;;;;;;;;;;;;;x
+HAN_534;Osnabr?ck;;;;;;;;;;;;;x
 HAN_540;Oldenburg;;;;;;;;;;;;;x
 PRU_544;Mecklenburg;;;;;;;;;;;;;x
 PRU_546;Pommern;;;;;;;;;;;;;x
 PRU_549;Brandenburg;;;;;;;;;;;;;x
 PRU_553;Provinz Sachsen;;;;;;;;;;;;;x
-PRU_554;Th�ringen;;;;;;;;;;;;;x
+PRU_554;Th?ringen;;;;;;;;;;;;;x
 ANH_555;Anhalt;;;;;;;;;;;;;x
-SAX_558;K�nigreich Sachsen;;;;;;;;;;;;;x
+SAX_558;K?nigreich Sachsen;;;;;;;;;;;;;x
 NAS_564;Hessen-Nassau;;;;;;;;;;;;;x
 HES_566;Hessen-Cassel;;;;;;;;;;;;;x
 HES_570;Rheinhessen;;;;;;;;;;;;;x
@@ -140,7 +140,7 @@ PRU_575;Rheinland;;;;;;;;;;;;;x
 PRU_578;Nordrhein;;;;;;;;;;;;;x
 PRU_581;Westphalen;;;;;;;;;;;;;x
 BAD_586;Baden;;;;;;;;;;;;;x
-WUR_589;W�rttemberg;;;;;;;;;;;;;x
+WUR_589;W?rttemberg;;;;;;;;;;;;;x
 HOH_594;Hohenzollern;;;;;;;;;;;;;x
 BAV_595;Franken;;;;;;;;;;;;;x
 BAV_599;Bayern;;;;;;;;;;;;;x
@@ -149,14 +149,14 @@ SWI_603;Deutschschweiz;;;;;;;;;;;;;x
 SWI_607;Romandie;;;;;;;;;;;;;x
 SPA_610;Caroline Islands;;;;;;;;;;;;;x
 AUS_612;Tirol;;;;;;;;;;;;;x
-AUS_613;K�rnten-Steiermark;;;;;;;;;;;;;x
+AUS_613;K?rnten-Steiermark;;;;;;;;;;;;;x
 AUS_614;Vorarlberg;;;;;;;;;;;;;x
 AUS_615;Salzburg;;;;;;;;;;;;;x
-AUS_619;�sterreich;;;;;;;;;;;;;x
+AUS_619;?sterreich;;;;;;;;;;;;;x
 AUS_623;Transdanubien;;;;;;;;;;;;;x
 AUS_624;Westungarn;;;;;;;;;;;;;x
-AUS_625;B�hmen;;;;;;;;;;;;;x
-AUS_626;M�hren;;;;;;;;;;;;;x
+AUS_625;B?hmen;;;;;;;;;;;;;x
+AUS_626;M?hren;;;;;;;;;;;;;x
 AUS_633;Oberungarn;;;;;;;;;;;;;x
 AUS_635;Nordungarn;;;;;;;;;;;;;x
 AUS_641;Pest-Ofen;;;;;;;;;;;;;x
@@ -164,8 +164,8 @@ AUS_647;Kreischgebiet;;;;;;;;;;;;;x
 AUS_648;Linkes Theissufer;;;;;;;;;;;;;x
 AUS_652;Ostbanat;;;;;;;;;;;;;x
 AUS_792;Westbanat;;;;;;;;;;;;;x
-AUS_654;Nordsiebenb�rgen;;;;;;;;;;;;;x
-AUS_657;S�dsiebenb�rgen;;;;;;;;;;;;;x
+AUS_654;Nordsiebenb?rgen;;;;;;;;;;;;;x
+AUS_657;S?dsiebenb?rgen;;;;;;;;;;;;;x
 HAW_658;Sandwich Islands;;;;;;;;;;;;;x
 AUS_662;Ostgalizien;;;;;;;;;;;;;x
 AUS_663;Bukowina;;;;;;;;;;;;;x
@@ -175,11 +175,11 @@ MOL_673;Moldova;;;;;;;;;;;;;x
 TUR_674;Dobruca;;;;;;;;;;;;;x
 MOL_676;Bessarabiya;;;;;;;;;;;;;x
 PRU_682;Schlesien;;;;;;;;;;;;;x
-PRU_690;Westpreu�en;;;;;;;;;;;;;x
-PRU_695;Ostpreu�en;;;;;;;;;;;;;x
+PRU_690;Westpreu?en;;;;;;;;;;;;;x
+PRU_695;Ostpreu?en;;;;;;;;;;;;;x
 PRU_701;Posen;;;;;;;;;;;;;x
 AUS_702;Westgalizien;;;;;;;;;;;;;x
-RUS_706;Var�ava;;;;;;;;;;;;;x
+RUS_706;Var?ava;;;;;;;;;;;;;x
 RUS_708;Plotsk;;;;;;;;;;;;;x
 RUS_715;Ljublin;;;;;;;;;;;;;x
 RUS_718;Minsk;;;;;;;;;;;;;x
@@ -188,8 +188,8 @@ SAR_723;Liguria;;;;;;;;;;;;;x
 AUS_726;Lombardei;;;;;;;;;;;;;x
 AUS_729;Venezien;;;;;;;;;;;;;x
 AUS_733;Friuli;;;;;;;;;;;;;x
-AUS_734;S�dtirol;;;;;;;;;;;;;x
-AUS_736;K�stenland;;;;;;;;;;;;;x
+AUS_734;S?dtirol;;;;;;;;;;;;;x
+AUS_736;K?stenland;;;;;;;;;;;;;x
 MOD_739;Emilia;;;;;;;;;;;;;x
 PAP_741;Romagna;;;;;;;;;;;;;x
 TUS_744;Toscana;;;;;;;;;;;;;x
@@ -214,7 +214,7 @@ TUR_789;Hersek;;;;;;;;;;;;;x
 SER_794;Srbija;;;;;;;;;;;;;x
 FRA_801;Polynesia;;;;;;;;;;;;;x
 TUR_802;Kosovo Vilayet;;;;;;;;;;;;;x
-TUR_803;Ni�;;;;;;;;;;;;;x
+TUR_803;Ni?;;;;;;;;;;;;;x
 TUR_804;Yeni Pazar Sancagi;;;;;;;;;;;;;x
 TUR_805;Halkidiki;;;;;;;;;;;;;x
 TUR_806;Northern Macedonia;;;;;;;;;;;;;x
@@ -228,7 +228,7 @@ GRE_827;Ionian Islands;;;;;;;;;;;;;x
 GRE_826;Peloponnisos;;;;;;;;;;;;;x
 TUR_830;Western Thrace;;;;;;;;;;;;;x
 TUR_832;Tirhala Sanjak;;;;;;;;;;;;;x
-GRE_837;Stere� Ell�da;;;;;;;;;;;;;x
+GRE_837;Stere? Ell?da;;;;;;;;;;;;;x
 EGY_843;Aegean Islands;;;;;;;;;;;;;x
 EGY_848;Girit;;;;;;;;;;;;;x
 TUR_853;Ilbasan Sancagi;;;;;;;;;;;;;x
@@ -236,7 +236,7 @@ ENG_854;Malta;;;;;;;;;;;;;x
 TUR_855;Kibris;;;;;;;;;;;;;x
 TUR_860;Eastern Thrace;;;;;;;;;;;;;x
 TUR_861;Bogazi;;;;;;;;;;;;;x
-TUR_863;H�davendig�r;;;;;;;;;;;;;x
+TUR_863;H?davendig?r;;;;;;;;;;;;;x
 TUR_869;Aidin;;;;;;;;;;;;;x
 TUR_873;Konya;;;;;;;;;;;;;x
 TUR_876;Ankara;;;;;;;;;;;;;x
@@ -251,11 +251,11 @@ EGY_897;Aleppo;;;;;;;;;;;;;x
 EGY_903;Northern Suriye;;;;;;;;;;;;;x
 EGY_910;Southern Suriye;;;;;;;;;;;;;x
 EGY_915;Beyrut;;;;;;;;;;;;;x
-EGY_921;Kud�s;;;;;;;;;;;;;x
+EGY_921;Kud?s;;;;;;;;;;;;;x
 TUR_923;Musul;;;;;;;;;;;;;x
 TUR_931;Bagdad;;;;;;;;;;;;;x
-TUR_935;Basr�;;;;;;;;;;;;;x
-RUS_940;Br�st;;;;;;;;;;;;;x
+TUR_935;Basr?;;;;;;;;;;;;;x
+RUS_940;Br?st;;;;;;;;;;;;;x
 RUS_943;Smolensk;;;;;;;;;;;;;x
 RUS_947;Mogilev;;;;;;;;;;;;;x
 AUS_950;Karpatenukraine;;;;;;;;;;;;;x
@@ -452,8 +452,8 @@ MOR_1696;Western Sahara;;;;;;;;;;;;;x
 FRA_1700;Alger;;;;;;;;;;;;;x
 ALD_1704;Oran;;;;;;;;;;;;;x
 ALD_1708;Qusantinah;;;;;;;;;;;;;x
-ALD_1713;A�n S�fra;;;;;;;;;;;;;x
-ALD_1714;B�char;;;;;;;;;;;;;x
+ALD_1713;A?n S?fra;;;;;;;;;;;;;x
+ALD_1714;B?char;;;;;;;;;;;;;x
 ALD_1718;Oasis;;;;;;;;;;;;;x
 CLM_1723;Istmo;;;;;;;;;;;;;x
 TUN_1726;Tunisia;;;;;;;;;;;;;x
@@ -518,7 +518,7 @@ FRA_1972;Gabon;;;;;;;;;;;;;x
 BEL_1977;Lower Congo;;;;;;;;;;;;;x
 FRA_1978;Middle Congo;;;;;;;;;;;;;x
 ENG_1979;Guiana;;;;;;;;;;;;;x
-BEL_1984;Kassa�;;;;;;;;;;;;;x
+BEL_1984;Kassa?;;;;;;;;;;;;;x
 BEL_1987;Lwalaba;;;;;;;;;;;;;x
 BEL_1990;Kivu;;;;;;;;;;;;;x
 BEL_1992;Lingala;;;;;;;;;;;;;x
@@ -538,7 +538,7 @@ ENG_2044;Tanganyika;;;;;;;;;;;;;x
 POR_2049;Gaza;;;;;;;;;;;;;x
 POR_2053;Zambezia;;;;;;;;;;;;;x
 POR_2054;Sofala;;;;;;;;;;;;;x
-POR_2060;Mo�ambique;;;;;;;;;;;;;x
+POR_2060;Mo?ambique;;;;;;;;;;;;;x
 ENG_2067;Nyasaland;;;;;;;;;;;;;x
 ENG_2068;Mashonaland;;;;;;;;;;;;;x
 ENG_2071;Rozwi;;;;;;;;;;;;;x
@@ -561,22 +561,22 @@ MEX_2138;Sonora;;;;;;;;;;;;;x
 MEX_2139;Baja California;;;;;;;;;;;;;x
 MEX_2142;Chihuahua;;;;;;;;;;;;;x
 MEX_2149;Cohauila;;;;;;;;;;;;;x
-MEX_2150;Nuevo Le�n-Tamaulipas;;;;;;;;;;;;;x
+MEX_2150;Nuevo Le?n-Tamaulipas;;;;;;;;;;;;;x
 MEX_2151;Durango;;;;;;;;;;;;;x
 MEX_2156;Sinaloa;;;;;;;;;;;;;x
 MEX_2158;Zacatecas;;;;;;;;;;;;;x
 MEX_2159;Veracruz;;;;;;;;;;;;;x
 MEX_2161;Jalisco y Tepic;;;;;;;;;;;;;x
-MEX_2167;San Luis Potos�-Guanajuato;;;;;;;;;;;;;x
-MEX_2170;Michoac�n-Guerrero;;;;;;;;;;;;;x
-MEX_2172;M�xico;;;;;;;;;;;;;x
+MEX_2167;San Luis Potos?-Guanajuato;;;;;;;;;;;;;x
+MEX_2170;Michoac?n-Guerrero;;;;;;;;;;;;;x
+MEX_2172;M?xico;;;;;;;;;;;;;x
 MEX_2175;Puebla-Tlaxcala;;;;;;;;;;;;;x
 MEX_2177;Oaxaca;;;;;;;;;;;;;x
 MEX_2181;Chiapas-Tabasco;;;;;;;;;;;;;x
-MEX_2183;Yucat�n;;;;;;;;;;;;;x
+MEX_2183;Yucat?n;;;;;;;;;;;;;x
 UCA_2186;Guatemala;;;;;;;;;;;;;x
 ENG_2187;Belize;;;;;;;;;;;;;x
-UCA_2191;San Salvador;;;;;;;;;;;;;x
+UCA_2191;Effréné;;;;;;;;;;;;x
 UCA_2193;Honduras;;;;;;;;;;;;;x
 UCA_2197;Nicaragua;;;;;;;;;;;;;x
 UCA_2201;Costa Rica;;;;;;;;;;;;;x
@@ -594,7 +594,7 @@ AST_2244;Christmas & Cocos Islands;;;;;;;;;;;;;x
 CLM_2247;Cundinamarca;;;;;;;;;;;;;x
 CLM_2251;Magdalena;;;;;;;;;;;;;x
 CLM_2259;Cauca;;;;;;;;;;;;;x
-CLM_2262;Boyac�;;;;;;;;;;;;;x
+CLM_2262;Boyac?;;;;;;;;;;;;;x
 VNZ_2264;Caracas;;;;;;;;;;;;;x
 VNZ_2265;Los Llanos;;;;;;;;;;;;;x
 VNZ_2269;Orinoco;;;;;;;;;;;;;x
@@ -608,54 +608,54 @@ PEU_2297;Cusco;;;;;;;;;;;;;x
 PEU_2300;Lima;;;;;;;;;;;;;x
 PEU_2301;Ucayali & Pando;;;;;;;;;;;;;x
 PEU_2303;Arequipa;;;;;;;;;;;;;x
-BRZ_2306;S�o Paulo;;;;;;;;;;;;;x
+BRZ_2306;S?o Paulo;;;;;;;;;;;;;x
 BOL_2309;Atacama;;;;;;;;;;;;;x
 BOL_2313;Chuquisaca-Cochabamba;;;;;;;;;;;;;x
-BOL_2314;Potos�;;;;;;;;;;;;;x
+BOL_2314;Potos?;;;;;;;;;;;;;x
 BOL_2317;Santa Cruz;;;;;;;;;;;;;x
 BOL_2321;La Paz;;;;;;;;;;;;;x
 CHL_2322;Coquimbo;;;;;;;;;;;;;x
 CHL_2327;Norte de Chile;;;;;;;;;;;;;x
-CHL_2330;Concepc�on;;;;;;;;;;;;;x
+CHL_2330;Concepc?on;;;;;;;;;;;;;x
 CHL_2332;Santiago;;;;;;;;;;;;;x
 CHL_2333;Magallanes;;;;;;;;;;;;;x
-CHL_2334;Araucan�a;;;;;;;;;;;;;x
+CHL_2334;Araucan?a;;;;;;;;;;;;;x
 PRG_2338;Chaco Boreal;;;;;;;;;;;;;x
 PRG_2343;Paraguay;;;;;;;;;;;;;x
 URU_2344;Banda Oriental;;;;;;;;;;;;;x
 ARG_2355;Buenos Aires;;;;;;;;;;;;;x
 ARG_2356;Corrientes;;;;;;;;;;;;;x
-ARG_2360;Entre R�os;;;;;;;;;;;;;x
+ARG_2360;Entre R?os;;;;;;;;;;;;;x
 ARG_2363;Santa Fe;;;;;;;;;;;;;x
 ARG_2366;Chaco Central;;;;;;;;;;;;;x
 ARG_2369;Salta-Jujuy;;;;;;;;;;;;;x
-ARG_2374;Tucum�n-Catamarca;;;;;;;;;;;;;x
+ARG_2374;Tucum?n-Catamarca;;;;;;;;;;;;;x
 ARG_2376;Santiago del Estero;;;;;;;;;;;;;x
 ARG_2377;Chaco Austral;;;;;;;;;;;;;x
 ARG_2383;San Luis;;;;;;;;;;;;;x
-ARG_2384;C�rdoba;;;;;;;;;;;;;x
+ARG_2384;C?rdoba;;;;;;;;;;;;;x
 ARG_2385;La Rioja;;;;;;;;;;;;;x
 ARG_2387;San Juan;;;;;;;;;;;;;x
 ARG_2389;Mendoza;;;;;;;;;;;;;x
-ARG_2391;R�o Negro;;;;;;;;;;;;;x
+ARG_2391;R?o Negro;;;;;;;;;;;;;x
 ARG_2393;La Pampa;;;;;;;;;;;;;x
 ARG_2398;Patagonia;;;;;;;;;;;;;x
 ARG_2400;Tierra del Fuego;;;;;;;;;;;;;x
 BRZ_2401;Amazonas;;;;;;;;;;;;;x
-BRZ_2408;Par�;;;;;;;;;;;;;x
-BRZ_2410;Maranh�o;;;;;;;;;;;;;x
+BRZ_2408;Par?;;;;;;;;;;;;;x
+BRZ_2410;Maranh?o;;;;;;;;;;;;;x
 BRZ_2416;Mato Grosso;;;;;;;;;;;;;x
-BRZ_2421;Goi�s;;;;;;;;;;;;;x
-BRZ_2426;Piau�;;;;;;;;;;;;;x
-BRZ_2428;Rio Grande do Norte-Para�ba;;;;;;;;;;;;;x
-BRZ_2429;Cear�;;;;;;;;;;;;;x
+BRZ_2421;Goi?s;;;;;;;;;;;;;x
+BRZ_2426;Piau?;;;;;;;;;;;;;x
+BRZ_2428;Rio Grande do Norte-Para?ba;;;;;;;;;;;;;x
+BRZ_2429;Cear?;;;;;;;;;;;;;x
 BRZ_2432;Pernambuco;;;;;;;;;;;;;x
 BRZ_2439;Bahia;;;;;;;;;;;;;x
 BRZ_2446;Minas Gerais;;;;;;;;;;;;;x
 BRZ_2447;Rio de Janeiro;;;;;;;;;;;;;x
 AST_2454;Fiji Islands;;;;;;;;;;;;;x
 BRZ_2461;Santa Catarina;;;;;;;;;;;;;x
-BRZ_2462;Paran�;;;;;;;;;;;;;x
+BRZ_2462;Paran?;;;;;;;;;;;;;x
 BRZ_2467;Rio Grande do Sul;;;;;;;;;;;;;x
 ENG_2468;New South Wales;;;;;;;;;;;;;x
 ENG_2476;Victoria;;;;;;;;;;;;;x
@@ -689,12 +689,49 @@ RUS_2590;Chukotka;;;;;;;;;;;;;x
 RUS_2615;Northern Yeniseysk;;;;;;;;;;;;;x
 RUS_2618;Magadan;;;;;;;;;;;;;x
 RUS_2621;Kolyma;;;;;;;;;;;;;x
-DEN_2636;Gr�nland;;;;;;;;;;;;;x
+DEN_2636;Gr?nland;;;;;;;;;;;;;x
 RUS_2653;Khanty-Mansi;;;;;;;;;;;;;x
 RUS_2668;North Yakutsk;;;;;;;;;;;;;x
 RUS_2685;Ural;;;;;;;;;;;;;x
 RUS_2694;Evenkiysk;;;;;;;;;;;;;x
 CHI_3315;South China Sea Islands;;;;;;;;;;;;;x
-TUR_3365;G�rice;;;;;;;;;;;;;x
+TUR_3365;G?rice;;;;;;;;;;;;;x
 MON_3433;Cattaro;;;;;;;;;;;;;x
-DEN_3434;Nordgr�nland;;;;;;;;;;;;;x
+DEN_3434;Nordgr?nland;;;;;;;;;;;;;x
+USA_194;Fr?sneskastr?nd;;;;;;;;;;;;;x
+USA_144;Svartrelfr;;;;;;;;;;;;;x
+USA_148;Midtrsk?gr;;;;;;;;;;;;;x
+USA_151;Flatrv?llr;;;;;;;;;;;;;x
+USA_158;V?grjadtarr;;;;;;;;;;;;;x
+USA_162;Midtlivatn;;;;;;;;;;;;;x
+USA_168;H?steinnsdys;;;;;;;;;;;;;x
+USA_176;P?rrbryggja;;;;;;;;;;;;;x
+USA_178;Hvedtrungrsland;;;;;;;;;;;;;x
+USA_129;Einherjarsfalla;;;;;;;;;;;;;x
+USA_106;Gnitaheidtr;;;;;;;;;;;;;x
+USA_111;Ivarsmerkjum;;;;;;;;;;;;;x
+USA_116;St?rrhiminn;;;;;;;;;;;;;x
+USA_118;Vinfengisgrund;;;;;;;;;;;;;x
+USA_121;Ragnarsg?tir;;;;;;;;;;;;;x
+USA_124;Purrsinni;;;;;;;;;;;;;x
+CAN_46;Herskaprsland;;;;;;;;;;;;;x
+CAN_58;Nyrr?ki;;;;;;;;;;;;x
+ENG_71;Tr?landi;;;;;;;;;;;;;x
+ENG_74;Ellrivinland;;;;;;;;;;;;;x
+ENG_75;Sigurdsfj?rdtr;;;;;;;;;;;;;x
+USA_78;Vestanframar;;;;;;;;;;;;;x
+USA_81;Hardtazherja;;;;;;;;;;;;;x
+CAN_60;?liv?gar;;;;;;;;;;;;;x
+CAN_50;V?dtas?r;;;;;;;;;;;;x
+CAN_60;Markland;;;;;;;;;;;;x
+ENG_68;Dyrveidta;;;;;;;;;;;;x
+ENG_6;?tamb?relrakki;;;;;;;;;;;;;x
+ENG_9;Pr?lland;;;;;;;;;;;;;x
+CAN_13;Freyjasfegrdt;;;;;;;;;;;;;x
+ENG_22;Hlidtmerki;;;;;;;;;;;;;x
+ENG_28;Nordtandalnum;;;;;;;;;;;;;x
+ENG_30;Ormsl?kiv?ngr;;;;;;;;;;;;;x
+ENG_36;Vestanh?lmgardt;;;;;;;;;;;;;x
+CAN_50;Raudtskeggjadti;;;;;;;;;;;;;x
+USA_248;Sunnanv?rdtr;;;;;;;;;;;;;x
+USA_241;?dtinsvinna;;;;;;;;;;;;;x

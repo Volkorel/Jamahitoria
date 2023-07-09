@@ -3962,7 +3962,7 @@ country_event = {
                     tag = KAM
                     tag = SIB
                     tag = URA
-                    tag = YAK
+                    tag = X20
                     tag = DAG
                     tag = CIR
                     tag = BRY
@@ -4481,7 +4481,7 @@ country_event = {
                 }
                 any_country = {
                     limit = {
-                        tag = YAK
+                        tag = X20
                         exists = no
                         any_core = { owned_by = THIS }
                     }

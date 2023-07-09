@@ -1969,14 +1969,14 @@ political_decisions = {
                 limit = { has_pop_religion = mormon }
                     dominant_issue = { value = moralism factor = 0.5 }
                     consciousness = 5
-                    move_pop = 97
+                    move_pop = 101
                 }
             }
             any_pop = {
             limit = { has_pop_religion = mormon }
                 dominant_issue = { value = moralism factor = 0.5 }
                 consciousness = 5
-                move_pop = 97
+                move_pop = 101
             }
             101 = {
                 life_rating = 2

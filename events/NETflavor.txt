@@ -17,18 +17,18 @@ country_event = {
 
     option = {
         name = "EVT952500OPTA"
-        NET = { inherit = THIS }
+        X06 = { inherit = THIS }
         ai_chance = { factor = 95 }
     }
 
     option = {
         name = "EVT952500OPTB"
-        NET = { country_event = 952501 }
-        leave_alliance = NET
-        end_military_access = NET
-        NET = { release_vassal = JAV }
-        NET = { relation = { who = THIS value = -400 } }
-        NET = { diplomatic_influence = { who = THIS value = -400 } }
+        X06 = { country_event = 952501 }
+        leave_alliance = X06
+        end_military_access = X06
+        X06 = { release_vassal = JAV }
+        X06 = { relation = { who = THIS value = -400 } }
+        X06 = { diplomatic_influence = { who = THIS value = -400 } }
         ai_chance = { factor = 0.05 }
         }
     }
@@ -94,7 +94,7 @@ country_event = {
     }
 }
 
-#Anglo-Dutch Treaties of 1870–71
+#Anglo-Dutch Treaties of 1870ï¿½71
  country_event = {
     id = 952503
     title = "EVTNAME952503"
@@ -105,29 +105,27 @@ country_event = {
 
     option = {
         name = "EVT952503OPTA"
-        NET = { country_event = 952504 }
-        diplomatic_influence = { who = NET value = 200 }
+        X06 = { country_event = 952504 }
+        diplomatic_influence = { who = X06 value = 200 }
         ai_chance = {
         factor = 0
             modifier = {
                 factor = 10
-                relation = { who = NET value = 199 }
+                relation = { who = X06 value = 199 }
             }
         }
     }
     option = {
         name = "EVT952503OPTB"
-        NET = { country_event = 952505 }
+        X06 = { country_event = 952505 }
         ai_chance = {
         factor = 90
             modifier = {
                 factor = 0
                 NOT = {
-                    NET = {
+                    X06 = {
                         OR = {
-                        owns = 1907
-                        owns = 1908
-                        owns = 1909
+                        owns = 2591
                         }
                     }
                 }
@@ -136,17 +134,15 @@ country_event = {
     }
     option = {
         name = "EVT952503OPTC"
-        NET = { country_event = 952506 }
+        X06 = { country_event = 952506 }
         ai_chance = {
         factor = 10
         modifier = {
                 factor = 100
                 NOT = {
-                    NET = {
+                    X06 = {
                         OR = {
-                        owns = 1907
-                        owns = 1908
-                        owns = 1909
+                        owns = 2591
                         }
                     }
                 }
@@ -155,12 +151,12 @@ country_event = {
     }
     option = {
         name = "EVT952503OPTD"
-        NET = { country_event = 952507 }
+        X06 = { country_event = 952507 }
         ai_chance = {
         factor = 0
             modifier = {
                 factor = 10
-                NOT = { relation = { who = NET value = -100 } }
+                NOT = { relation = { who = X06 value = -100 } }
             }
         }
     }
@@ -176,21 +172,11 @@ country_event = {
 
     option = {
         name = "EVT952504OPTA"
-        FROM = {
-            leave_alliance = ATJ
-            release_vassal = ATJ
-            relation = { who = ATJ value = -400 }
-            diplomatic_influence = { who = ATJ value = -400 }
-        }
-        ATJ = { end_military_access = THIS }
-        leave_alliance = ATJ
-        relation = { who = ATJ value = -400 }
-        relation = { who = FROM value = 200 }
-        any_country = { diplomatic_influence = { who = ATJ value = -50 } }
-        casus_belli = {
-            target = ATJ
-            type = establish_protectorate_NI_casus_belli
-            months = 48
+        1320 = {
+            secede_province = X06
+            add_core = X06
+            life_rating = 20
+            any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
         }
         ai_chance = { factor = 100 }
     }
@@ -213,20 +199,12 @@ country_event = {
         name = "EVT952504OPTA"
         FROM = {
             country_event = 952508
-            leave_alliance = ATJ
-            release_vassal = ATJ
-            relation = { who = ATJ value = -400 }
-            diplomatic_influence = { who = ATJ value = -400 }
         }
-        ATJ = { end_military_access = THIS }
-        leave_alliance = ATJ
-        relation = { who = ATJ value = -400 }
-        relation = { who = FROM value = 25 }
-        any_country = { diplomatic_influence = { who = ATJ value = -50 } }
-        casus_belli = {
-            target = ATJ
-            type = establish_protectorate_NI_casus_belli
-            months = 48
+        1320 = {
+            secede_province = X06
+            add_core = X06
+            life_rating = 20
+            any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
         }
         ai_chance = { factor = 0.95 }
     }
@@ -250,40 +228,19 @@ country_event = {
         name = "EVT952504OPTA"
         random_owned = {
             limit = {
-                NOT = { province_id = 1413 }
-                is_colonial = yes
-                is_coastal = yes
-                NOT = { is_core = THIS }
-            }
-            secede_province = FROM
-        }
-
-        random_owned = {
-            limit = {
-                NOT = { province_id = 1413 }
-                is_colonial = yes
-                is_coastal = yes
-                NOT = { is_core = THIS }
+                province_id = 2579
             }
             secede_province = FROM
         }
 
         FROM = {
             country_event = 952509
-            leave_alliance = ATJ
-            release_vassal = ATJ
-            relation = { who = ATJ value = -400 }
-            diplomatic_influence = { who = ATJ value = -400 }
         }
-        ATJ = { end_military_access = THIS }
-        leave_alliance = ATJ
-        relation = { who = ATJ value = -400 }
-        relation = { who = FROM value = 25 }
-        any_country = { diplomatic_influence = { who = ATJ value = -50 } }
-        casus_belli = {
-            target = ATJ
-            type = establish_protectorate_NI_casus_belli
-            months = 48
+        1320 = {
+            secede_province = X06
+            add_core = X06
+            life_rating = 20
+            any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
         }
         ai_chance = { factor = 90 }
     }
@@ -325,14 +282,11 @@ country_event = {
 
     option = {
         name = "EVT952504OPTA"
-        NET = {
+        X06 = {
             any_owned = {
                 limit = {
                 OR = {
-                    province_id = 1907
-                    province_id = 1908
-                    province_id = 1909
-                    province_id = 1910
+                    province_id = 2591
                 }
             }
             secede_province = THIS
@@ -447,7 +401,7 @@ country_event = {
     option = {
         name = "EVT952514OPTA"
         badboy = -1
-        relation = { who = NET value = 100 }
+        relation = { who = X06 value = 100 }
         ai_chance = { factor = 90 }
     }
 
@@ -459,17 +413,17 @@ country_event = {
             33 = { badboy = 5 }
             34 = { badboy = 6 }
         }
-        relation = { who = NET value = -400 }
+        relation = { who = X06 value = -400 }
         random_country = {
             limit = {
-                tag = NET
+                tag = X06
                 NOT = { is_greater_power = yes }
             }
-            THIS = { diplomatic_influence = { who = NET value = -400 } }
+            THIS = { diplomatic_influence = { who = X06 value = -400 } }
         }
-        NET = {
+        X06 = {
             random_owned = {
-                limit = { province_id = 381 }
+                limit = { province_id = 395 }
                 add_core = THIS
                 add_province_modifier = { name = foreign_claims duration = 365 }
             }
@@ -480,7 +434,6 @@ country_event = {
                 is_greater_power = yes
                 NOT = {
                     alliance_with = THIS
-                    tag = TUR
                 }
                 capital_scope = { continent = europe }
             }
@@ -504,20 +457,20 @@ country_event = {
         random_country = {
             limit = {
                 tag = FROM
-                alliance_with = NET
+                alliance_with = X06
             }
-            leave_alliance = NET
+            leave_alliance = X06
         }
         random_country = {
             limit = {
                 tag = FROM
-                military_access = NET
+                military_access = X06
             }
-            end_military_access = NET
+            end_military_access = X06
         }
         random_country = {
             limit = {
-                tag = NET
+                tag = X06
                 military_access = FROM
             }
             end_military_access = FROM
@@ -532,7 +485,7 @@ province_event = {
     desc = "EVTDESC952516"
 
     trigger = {
-        province_id = 381
+        province_id = 395
         NOT = { has_province_modifier = foreign_claims }
         owner = {
             war = no
@@ -553,7 +506,7 @@ province_event = {
             clr_global_flag = limburg_crisis
             random_owned = {
                 limit = {
-                    province_id = 381
+                    province_id = 395
                     owner = { is_culture_group = germanic }
                 }
                 change_province_name = "Limburg"
@@ -575,9 +528,9 @@ country_event = {
         name = "EVT952517OPTA"
         set_country_flag = support_netherlands
         leave_alliance = FROM
-        create_alliance = NET
+        create_alliance = X06
         relation = { who = FROM value = -250 }
-        relation = { who = NET value = 200 }
+        relation = { who = X06 value = 200 }
         ai_chance = {
             factor = 80
             modifier = {
@@ -589,27 +542,27 @@ country_event = {
             }
             modifier = {
                 factor = 0.75
-                NOT = { relation = { who = NET value = 0 } }
+                NOT = { relation = { who = X06 value = 0 } }
             }
             modifier = {
                 factor = 0.5
-                NET = { badboy = 0.4 }
+                X06 = { badboy = 0.4 }
             }
         }
     }
 
     option = {
         name = "EVT952517OPTB"
-        relation = { who = NET value = -25 }
+        relation = { who = X06 value = -25 }
         ai_chance = {
             factor = 20
             modifier = {
                 factor = 2
-                relation = { who = PRU value = 175 }
+                relation = { who = HAN value = 175 }
             }
             modifier = {
                 factor = 0
-                alliance_with = NET
+                alliance_with = X06
             }
         }
     }

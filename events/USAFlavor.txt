@@ -160,7 +160,7 @@ country_event = {
     option = {
         name = "EVTOPTA44103"
         prestige = 3
-        relation = { who = ENG value = 100 }
+        relation = { who = X36 value = 100 }
     }
 
 }
@@ -1096,7 +1096,7 @@ country_event = {
         name = "EVTOPTA44121"
         any_pop = {
             limit = {
-                has_pop_culture = afro_american
+                has_pop_culture = afro_norse
                 }
             consciousness = 1
                 }

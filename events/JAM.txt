@@ -93,6 +93,18 @@ country_event = {
 					casus_belli = status_quo
 				}
 			}
+            capital_scope = {
+                sub_unit = { type = infantry value = current }
+                sub_unit = { type = infantry value = current }
+                sub_unit = { type = infantry value = current }
+                sub_unit = { type = infantry value = current }
+                sub_unit = { type = cavalry value = current }
+                sub_unit = { type = artillery value = current }
+                sub_unit = { type = artillery value = current }
+                sub_unit = { type = artillery value = current }
+                sub_unit = { type = artillery value = current }
+                sub_unit = { type = artillery value = current }
+            }
 		}
 	}
 }
@@ -154,6 +166,249 @@ country_event = {
 		relation = {
 			who = USA
 			value = -75
+		}
+    }
+}
+country_event = {
+	id = 99943
+	title = "EVTNAME99943"
+	desc = "EVTDESC99943"
+	picture = "roll_alabama"
+    is_triggered_only = yes
+    major = yes
+	option = {
+		name = "EVTOPTA99943" #Liberate Taysha
+		set_country_flag = intervene_mjolnir_1776
+		prestige = 5
+		X06 = {
+			add_casus_belli = {
+				target = THIS
+				type = cut_down_to_size
+				months = 48
+			}
+		}
+		relation = { who = X06 value = -200 }
+		diplomatic_influence = { who = X06 value = -200 }
+		leave_alliance = X06
+		relation = { who = USA value = 200 }
+		diplomatic_influence = {
+			who = USA
+			value = 100
+		}
+		create_alliance = USA
+	}
+	option = {
+		name = "EVTOPTC99943" #On other side
+		set_country_flag = intervene_mjolnir_1776
+		prestige = -5
+		USA = {
+			add_casus_belli = {
+				target = THIS
+				type = cut_down_to_size
+				months = 48
+			}
+		}
+		relation = { who = USA value = -200 }
+		diplomatic_influence = { who = USA value = -200 }
+		leave_alliance = USA
+		relation = { who = X06 value = 200 }
+		diplomatic_influence = {
+			who = X06
+			value = 100
+		}
+		create_alliance = X06
+		ai_chance = {
+			factor = 1
+			Modifier = {
+				factor = 10
+				tag = CLM
+			}
+			Modifier = {
+				factor = 10
+				tag = FLR
+			}
+		}
+	}
+	option = {
+		name = "EVTOPTB99943" #No
+		set_country_flag = intervene_mjolnir_1776
+		relation = { who = X06 value = -20 }
+		ai_chance = {
+			factor = 1
+			Modifier = {
+				factor = 0
+				tag = CLM
+			}
+		}
+	}
+}
+
+country_event = {
+    id = 99944
+    title = "EVTNAME99944" #Kjartan's Vinlandic Brigades
+    desc = "EVTDESC99944"
+    news = yes
+    news_desc_long = "EVTDESC99944_NEWS_LONG"
+    news_desc_medium = "EVTDESC99944_NEWS_MEDIUM"
+    news_desc_short = "EVTDESC99944_NEWS_SHORT"
+    picture = "KellysVinlandicBrigade"
+    trigger = {
+        has_country_flag = intervene_mjolnir_1776
+		tag = X36
+    }
+    fire_only_once = yes
+    mean_time_to_happen = {
+        months = 1
+    }
+    option = {
+        name = "EVT99944OPTA"
+		relation = { who = USA value = 50 }
+    }
+}
+
+country_event = {
+    id = 99945
+    title = "EVTNAME99945" #Kjartan's Vinlandic Brigades
+    desc = "EVTDESC99945"
+    major = yes
+    picture = "KellysVinlandicBrigade"
+    fire_only_once = yes
+	is_triggered_only = yes
+    option = {
+        name = "EVT99944OPTA"
+		prestige = 25
+    }
+}
+
+#Isleta Wars
+country_event = {
+    id = 99946
+    title = "EVTNAME99945" #The Nateges' Revolt
+    desc = "EVTDESC99945"
+    picture = "nateges"
+    news = yes
+    news_title = "EVTNAME99945_NEWS_TITLE"
+    news_desc_long = "EVTDESC99945_NEWS_LONG"
+    news_desc_medium = "EVTDESC99945_NEWS_MEDIUM"
+    news_desc_short = "EVTDESC99945_NEWS_SHORT"
+    fire_only_once = yes
+    trigger = {
+        tag = X13
+		any_core = { country_units_in_province = REB }
+    }
+    mean_time_to_happen = {
+        days = 1
+    }
+
+    option = {
+        name = "EVT99945OPTA"
+        set_country_flag = nateges_revolt
+        any_owned = {
+            limit = {
+                OR = {
+                    controlled_by = REB
+                    region = USA_185
+                }
+            }
+            any_pop = {
+                ideology = {
+                    value = conservative
+                    factor = 0.6
+                }
+                ideology = {
+                    value = reactionary
+                    factor = 0.3
+                }
+            }
+        }
+        any_owned = {
+            limit = {
+                OR = {
+                    region = USA_185
+                }
+            }
+            any_pop = {
+                limit = {
+                    OR = {
+                        has_pop_culture = nieuwereld
+                        has_pop_culture = kusabo
+                    }
+                }
+                militancy = 5
+                consciousness = 5
+                ideology = {
+                    value = reactionary
+                    factor = 0.3
+                }
+            }
+        }
+        set_variable = {
+            which = nateges_provinces
+            value = 1
+        }
+        ai_chance = {
+            factor = 100
+        }
+    }
+}
+
+country_event = {
+    id = 99947
+    title = "EVTNAME99947" #Nateges is Defeated!
+    desc = "EVTDESC99947"
+    picture = "cochise"
+
+    trigger = {
+        tag = X13
+        has_country_flag = nateges_revolt
+        NOT = { any_core = { country_units_in_province = REB } }
+    }
+
+    mean_time_to_happen = {
+        months = 1
+    }
+
+    option = {
+        name = "EVT99947OPTA"
+        clr_country_flag = nateges_revolt
+        set_variable = {
+            which = nateges_provinces
+            value = 0
+        }
+        any_pop = {
+            scaled_militancy = {
+                ideology = reactionary
+                factor = 4
+            }
+        }
+		USA = {
+			country_event = {
+				id = 99948
+			}
+		}
+    }
+}
+
+country_event = {
+    id = 99948
+    title = "EVTNAME99948" #Save Nateges?
+    desc = "EVTDESC99948"
+    picture = "cochise"
+    news = yes
+    news_desc_long = "EVTDESC99948_NEWS_LONG"
+    news_desc_medium = "EVTDESC99948_NEWS_MEDIUM"
+    news_desc_short = "EVTDESC99948_NEWS_SHORT"
+	is_triggered_only = yes
+    option = {
+        name = "EVT99948OPTA"
+		war = {
+			target = X13
+			attacker_goal = {
+				casus_belli = annex_core_country
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
 		}
     }
 }

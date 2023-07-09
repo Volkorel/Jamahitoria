@@ -254,7 +254,7 @@ country_event = {
 country_event = {
 
     id = 44805
-    title = "EVTNAME44805" #Antonio López de Santa Anna
+    title = "EVTNAME44805" #Antonio Lï¿½pez de Santa Anna
     desc = "EVTDESC44805"
     picture = "antonio_lopez_de_santa_ana"
 
@@ -1350,14 +1350,14 @@ country_event = {
     picture = "MEX_revolution"
 
     trigger = {
-        tag = FRA
+        tag = ENG
         year = 1837
-        exists = MEX
+        exists = CLM
         war = no
         NOT = {
-            is_our_vassal = MEX
-            alliance_with = MEX
-            truce_with = MEX
+            is_our_vassal = CLM
+            alliance_with = CLM
+            truce_with = CLM
             year = 1856
         }
     }
@@ -1367,8 +1367,8 @@ country_event = {
 
     option = {
         name = "EVT1100054OPTA" # Demand Reparations
-        MEX = { country_event = { id = 1100055 days = 3 } }
-        diplomatic_influence = { who = MEX value = -100 }
+        CLM = { country_event = { id = 1100055 days = 3 } }
+        diplomatic_influence = { who = CLM value = -100 }
         ai_chance = {
             factor = 90
         }
@@ -1502,7 +1502,7 @@ country_event = {
         prestige = 10
         treasury = 120000
         relation = { who = FROM value = 25 }
-        diplomatic_influence = { who = MEX value = 100 }
+        diplomatic_influence = { who = CLM value = 100 }
         set_country_flag = pastry_war
     }
 }

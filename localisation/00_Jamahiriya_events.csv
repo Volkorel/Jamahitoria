@@ -53,7 +53,7 @@ EVTDESC1316081;A drunken riot by a large group of Vinlander sailors ashore at Ko
 EVT1316081OPTA;Demand they be handed over!;;;;;;;;;;;;;
 EVT1316081OPTB;We cannot fight the Vinlanders.;;;;;;;;;;;;;
 EVT131709OPTA;This may be just the excuse we need...;;;;;;;;;;;;;
-EVT131709OPTB;Leave the Penglai alone. ?R(Pay or owe 50,000?)?W;;;;;;;;;;;;;
+EVT131709OPTB;Leave the Penglai alone. §R(Pay or owe 50,000)§W;;;;;;;;;;;;;
 EVTNAME131709;The Kowloon Incident;;;;;;;;;;;;;
 EVTDESC131709;An incident that began with drunken sailors murdering a Dudong man has escalated into a larger crisis with the Penglai government. We have insisted that these sailors be tried by a $COUNTRY_ADJ$ judge -- the barbaric Penglai judicial system would result in these men getting anything but a fair trial. The Penglai have demanded the men be turned over, and what's more that they be given the right to punish $COUNTRY_ADJ$ citizens as needed. The confrontation has resulted in larger trade sanctions being applied against $COUNTRY_ADJ$ merchants, and threats of worse. Our prestige as an Empire to be reckoned with is being threatened. Backing down would mean losing prestige as well as money in reparations to merchants.;;;;;;;;;;;;;
 EVTDESC131709_NEWS_LONG;An incident that began with drunken $COUNTRY_ADJ$ sailors murdering a Dudong man has escalated into a larger crisis with the Penglai government. $COUNTRY$ has insisted the sailors be tried by a $COUNTRY_ADJ$ judge, claiming the barbaric Penglai judicial system would result in these men getting anything but a fair trial. The Penglai have demanded they be given the right to punish $COUNTRY_ADJ$ citizens as needed. The confrontation has resulted in larger trade sanctions being applied against $COUNTRY_ADJ$ merchants, and threats of worse.;;;;;;;;;;;;;
@@ -205,6 +205,9 @@ the_slavery_debate;The Slavery Debate;;;;;;;;;;;;;
 desc_the_slavery_debate;The debate over slavery is alive in the Hroudsted, and popular consciousness over the issue is rising every day. If the Upper House ever has 30 percent or more Liberal representation, the South might very well decide to secede.;;;;;;;;;;;;;
 EVTNAME36898;The Ascension of Victoria Itzik-Sarriod;;;;;;;;;;;;;
 EVTDESC36898;Today, in the year of $YEAR$, Elohem the Third, King of the United Kingdom of Albion and Pictland, Defender of the Jews, died in Itzik Castle. As he had no living legitimate children, Princess Victoria of Kent, Elohem's niece, found herself ruling one of the Great Powers in Europe. Her coronation is scheduled for the 28th of June, 1838, when princess Alexandrina Victoria of House Itzik will officially ascend to the throne of the United Kingdom of Albion and Pictland as 'Queen Victoria'. Today a jubilant crowd in London has escorted the young Queen Victoria to her residence in the newly reformed Buckingham Palace.;;;;;;;;;;;;;
+EVTDESC36898_NEWS_LONG;Princess Alexandrina Victoria of House Itzik-Sarriod has ascended to the throne of The United Kingdom of Great Albion & Pictland as §YQueen Victoria§!. Today a jubilant London crowd has escorted her to her residence in the newly built Buckingham Palace. People of all classes and creeds are delighted to see the new Monarch take her place as sovereign of the UK, and the Queen herself is reportedly looking forward to the tasks and challenges which accompany this onerous office. Her uncle, King William IV, will be greatly missed and fondly remembered by the British people.;;;;;;;;;;;;;
+EVTDESC36898_NEWS_MEDIUM;Princess Alexandrina Victoria has ascended the throne of The United Kingdom of Great Albion & Pictland. Today a jubilant crowd has escorted her to Buckingham Palace. People of all classes and creeds are delighted and she is looking forward to the tasks which accompany the office.;;;;;;;;;;;;;
+EVTDESC36898_NEWS_SHORT;Princess Victoria of House Itzik-Sarriod has ascended the throne of The United Kingdom of Great Albion & Pictland. People of all classes and creeds are delighted. King Willian IV will be greatly missed.;;;;;;;;;;;;;
 EVTNAME44117;Unitarianism in Hroudsted;;;;;;;;;;;;;
 EVTDESC44117;The rise of numerous sects within Meinwerkist Christianity in Hroudsted in the early 19th Century would create an environment for further theological speculation. One of the most influential movements to arise from this would be Hroud Unitarianism. Emphasizing the role of reason in understanding theology (and thus rejecting the concept of the Trinity) and the inherent goodness of humanity and its capability for improvement because of reason, Unitarianism would become very influential among middle and upper-class populations in the Northeastern Hroudsted and encourage several movements of social improvement, from public education to abolitionism.;;;;;;;;;;;;;
 EVTOPTA44117;Faith and reason can be reconciled to improve humanity.;;;;;;;;;;;;;
@@ -299,6 +302,9 @@ EVTOPTA44106;Speech is a kind of act.;;;;;;;;;;;;;
 EVTNAME44115;Time to Play Ball!;;;;;;;;;;;;;
 EVTDESC44115;In Kuup near Nassau the first public baseball game took place. The Nassau Team lost to the Nieuw Amsterdam Nine 1 - 23.;;;;;;;;;;;;;
 EVTOPTA44115;This could become the nation's favorite pastime!;;;;;;;;;;;;;
+EVTNAME44105;Hoek Institution;;;;;;;;;;;;
+EVTDESC44105;Hroudsted Congress founded the Hoek Institution which reports directly to the President. Its goals were and remain the support of research and expeditions, as well as the popularization of science. A Flemish-Hroud scientist Riewurt Hoek bequeathed his wealth to the nation, and it took years of congressional haggling to come up with the institution Hoek in his will demanded to be devoted to 'increase and diffusion of knowledge among men'. Through special expeditions and voluntary donations, Hoek began assembling its impressive collections.;;;;;;;;;;;;;
+EVTOPTA44105;There are more things in the heavens and the earth...;;;;;;;;;;;;
 EVTDESC44105_NEWS_LONG;Hroudsted Congress founded the Hoek Institution which reports directly to the President. Its goals were and remain the support of research and expeditions, as well as the popularization of science. A Flemish-Hroud scientist Riewurt Hoek bequeathed his wealth to the nation, and it took years of congressional haggling to come up with the institution Hoek in his will demanded to be devoted to 'increase and diffusion of knowledge among men'. Through special expeditions and voluntary donations, Hoek began assembling its impressive collections.;;;;;;;;;;;;;
 EVTDESC44105_NEWS_MEDIUM;Hroudsted Congress founded the Hoek Institution which reports directly to the President. Through special expeditions and voluntary donations, Hoek began assembling its impressive collections.;;;;;;;;;;;;;
 EVTDESC44105_NEWS_SHORT;Hroudsted Congress founded the Hoek Institution which reports directly to the President. Its goals were and remain the support of research and expeditions.;;;;;;;;;;;;;
@@ -311,3 +317,531 @@ reform_CSA_title;Form the New Confederacy;;;;;;;;;;;;;
 reform_CSA_desc;If the North will not stand for truth and justice, then the South shall rise and take its place!;;;;;;;;;;;;;
 join_new_CSA_title;Join the Confederacy;;;;;;;;;;;;;
 join_new_CSA_desc;The people have called on us to unite under the new Confederate banner. Long live the South!;;;;;;;;;;;;;
+EVTNAME99943;Second Hroud Revolution;;;;;;;;;;;;;
+EVTDESC99943;Hroudsted has declared independence against Frij Fryslan after centuries of oppression, no representation and further conflicts between the two governments. Our cabinet gathers today to decide what to do on this entire ordeal.;;;;;;;;;;;;;
+EVTOPTA99943;Shout the Battle Cry of Freedom!;;;;;;;;;;;;;
+EVTOPTC99943;Frisia is a valuable ally.;;;;;;;;;;;;;
+EVTOPTB99943;Lets not get involved.;;;;;;;;;;;;;
+EVTNAME99944;Kjartan's Vinlandic Brigade;;;;;;;;;;;;;
+EVTDESC99944;Vinland, renowned for its magnanimous spirit and unwavering commitment to justice, has chosen to extend its benevolent hand of aid and unwavering support to Hroudsted during their arduous struggle for a second war of independence. In a resolute demonstration of solidarity, Vinland has assembled a formidable unit comprising valiant Vinlanders, under the distinguished leadership of the esteemed General Kjartan Skalsson.\n\nThen let the Norse assemble,\nLet the voice of Truland be obeyed,\nAnd the Frysk fanatics will tremble\nWhen again they meet Kjartan's Vinlandic Brigade.;;;;;;;;;;;;;
+EVTDESC99944_NEWS_LONG;Vinland, renowned for its magnanimous spirit and unwavering commitment to justice, has chosen to extend its benevolent hand of aid and unwavering support to Hroudsted during their arduous struggle for a second war of independence. In a resolute demonstration of solidarity, Vinland has assembled a formidable unit comprising valiant Vinlanders, under the distinguished leadership of the esteemed General Kjartan Skalsson.;;;;;;;;;;;;;
+EVTDESC99944_NEWS_MEDIUM;Vinland, renowned for its magnanimous spirit and unwavering commitment to justice, has chosen to extend its benevolent hand of aid and unwavering support to Hroudsted during their arduous struggle for a second war of independence. In a resolute demonstration of solidarity, Vinland has assembled a formidable unit comprising valiant Vinlanders, under the distinguished leadership of the esteemed General Kjartan Skalsson.;;;;;;;;;;;;;
+EVTDESC99944_NEWS_SHORT;Then let the Norse assemble,\nLet the voice of Truland be obeyed,\nAnd the Frysk fanatics will tremble\nWhen again they meet Kjartan's Vinlandic Brigade.;;;;;;;;;;;;;
+EVT99944OPTA;Liberty of Mjolnir!;;;;;;;;;;;;;
+EVTNAME44805;Charles Louis Napoléon Bonaparte;;;;;;;;;;;;;
+EVTDESC44805;A general and war hero of Napoleonic Wars, Louis-Napoleon was elected President in 1833. After deposing his liberal vice-president, Napoleon III abrogated the 1826 Constitution and took control of the country as a conservative dictator with both church and military backing. Many Armagnacée states objected to this centralization of power, and with the Tayshyk and Penglai supported rebellion to the north the entire country seems to be in a state of chaos.;;;;;;;;;;;;;
+EVT44805OPTA;The rebels shall be brought to their knees.;;;;;;;;;;;;;
+santa_ana_rule;Charles Louis Napoléon Bonaparte;;;;;;;;;;;;;
+santa_ana_rule_desc;Charles Louis Napoléon Bonaparte - also known as Napoleon III - is the current ruler of Armagnacée. A hero of the Napoleonic Wars, his shifting political views and actions have made him an enigmatic figure.;;;;;;;;;;;;;
+EVTNAME1100055;The Anglos Demand Reparations;;;;;;;;;;;;;
+EVTDESC1100055;During the early years of the new Opstandich republic there was widespread civil disorder as factions competed for control of the country. The fighting often resulted in the destruction or looting of private property. Foreigners whose property was damaged or destroyed by rioters or bandits were usually unable to obtain compensation from the Opstandich government and they began to appeal to their own governments for help and compensation. In a complaint to the English $MONARCHTITLE$, a Picard pastry chef known only as Monsieur Remontel claimed that in 1832 Opstandich officers looted his shop. Now the Anglo prime minister Jason Goldsmith is demanding a payment of 600,000 florin (3 million sterling - 120,000) in damages to compensate the British nationals.;;;;;;;;;;;;;
+EVT1100055OPTA;It is only fair. §R(Pay or owe 120,000)§W;;;;;;;;;;;;;
+EVT1100055OPTB;Refuse. They wouldn't go to war over a Pastry chef.;;;;;;;;;;;;;
+EVTNAME1100054;The Baker and the $MONARCHTITLE$;;;;;;;;;;;;;
+EVTDESC1100054;During the early years of the new Opstandich republic there was widespread civil disorder as factions competed for control of the country. The fighting often resulted in the destruction or looting of private property. Foreigners whose property was damaged or destroyed by rioters or bandits were usually unable to obtain compensation from the Opstandich government and they began to appeal to their own governments for help and compensation. In a complaint to the English $MONARCHTITLE$, a Picard pastry chef known only as Monsieur Remontel claimed that in 1832 Opstandich officers looted his shop. Other complaints from Picard and English nationals (among them the looting in 1828 of Anglo shops at the Parian market and the execution in 1837 of a Jewish citizen accused of piracy) culminated in $YEAR$ with prime minister recommending a demand from Opstandich for the payment of 600,000 florin (3 million sterling) in damages.;;;;;;;;;;;;;
+EVT1100054OPTA;Opstandich needs to be held responsible.;;;;;;;;;;;;;
+EVT1100054OPTB;We should not bother with such trivial matters.;;;;;;;;;;;;;
+EVTNAME1100057;Opstandich Refuses to Pay Reparations;;;;;;;;;;;;;
+EVTDESC1100057;The Opstandich government refused to take any steps towards the payment of reparations to the British government. In $CAPITAL$, senior government figures scramble to organize a response as the gears of war start moving. It seems like a British intervention in Opstandich is all but inevitable now.;;;;;;;;;;;;;
+EVT1100057OPTA;If they are unwilling to pay peacefully, we will force them.;;;;;;;;;;;;;
+EVT1100057OPTB;They are not worth our time.;;;;;;;;;;;;;
+EVTNAME1100056;Opstandich Agrees to Pay Reparations;;;;;;;;;;;;;
+EVTDESC1100056;Opstandich has agreed to our demands for reparations and paid the sum they owe us for the damage done to the property of British nationals. The matter has been settled peacefully and amicably.;;;;;;;;;;;;;
+EVT1100056OPTA;It is only fair.;;;;;;;;;;;;;
+EVTNAME37201;Arc de Triomphe;L'Arc de Triomphe;Arc de Triomphe;;El Arco del Triunfo;;;;;;x;;;;;;;
+EVTDESC37201;The Arc de Triomphe in Nouvelle-Marseille, commissioned by Napoléon Bonaparte, was unveiled in 1836 after thirty years of building. Inspired by the triumphal arches of the Romans, the monument displays scenes from the Napoleonic Wars and Armagnacéoise Revolution.;;;;;;;;;;;;;
+EVTOPTA37201;Wonderful!;;;;;;;;;;;;;
+EVTDESC37201_NEWS_LONG;$COUNTRY$: The Arc de Triomphe in Nouvelle-Marseille, commissioned by Napoléon Bonaparte and designed by Jean Chalgrin, was unveiled in 1836 after thirty years of construction. Inspired by the triumphal arches of the Romans, the monument displays scenes from the Armagnacéoise Revolutionary war and Napoléon's successes. The largest triumphal arch to date, located on the urban parts of Effréné in the centre of a dodecagonal configuration of twelve radiating avenues, it stands 50 metres high, 45 metres wide and 22 metres deep.;;;;;;;;;;;;;
+EVTDESC37201_NEWS_MEDIUM;$COUNTRY$: The Arc de Triomphe in Nouvelle-Marseille, commissioned by Napoléon Bonaparte, was unveiled in 1836 after thirty years of construction. Inspired by the triumphal arches of the Romans, the monument displays scenes from the Armagnacéoise Revolutionary war and Napoléon's successes.;;;;;;;;;;;;;
+EVTDESC37201_NEWS_SHORT;$COUNTRY$: The Arc de Triomphe in Nouvelle-Marseille, commissioned by Napoléon Bonaparte and designed by Jean Chalgrin, was unveiled in 1836 after thirty years of construction.;;;;;;;;;;;;;
+EVTNAME16020;Hoobjert Sklasson v. de Pierre;;;;;;;;;;;;;
+EVTDESC16020;Hoobjert Sklasson, having been a slave, remains a slave' -- Hoobjert Sklasson v. de Pierre\n\nHoobjert Sklasson, born a slave in Kusabo, has, with the help of abolitionist legal advisers, sued his 'owner', claiming that his present residency in a free state requires his emancipation. The Hroudsted Supreme Court has ruled that this is, in fact, not the case, and, effectively, that the property rights of slave-owners are protected regardless of where in the Hroudsted the slave resides. The case has caused enormous alarm among northern abolitionists, who see it as the first step to a full extension of the institution of slavery to the whole nation.;;;;;;;;;;;;;
+EVTOPTA16020;Worrying news;;;;;;;;;;;;;
+EVTNAME97550_NEWS_TITLE;Civil War in Central Eriksland;;;;;;;;;;;;;
+EVTDESC97550_NEWS_LONG;The Federal Republic of Central Eriksland has been chaotic since its inception. Liberals who had high hopes for the union are in constant battle with conservatives, in particular the clergy and wealthy landowners, and there is a general fear of domination by Skogelf. With rebels rising throughout the country, the struggle to maintain the union seems like an almost impossible one.;;;;;;;;;;;;;
+EVTDESC97550_NEWS_MEDIUM;The Federal Republic of Central Eriksland has been chaotic since its inception, due to a general fear of domination by Skogelf. With rebels rising throughout the country, the struggle to maintain the union seems like an almost impossible one.;;;;;;;;;;;;;
+EVTDESC97550_NEWS_SHORT;The Federal Republic of Central Eriksland has been chaotic since its inception. With rebels rising throughout the country, the struggle to maintain the union seems like an almost impossible one.;;;;;;;;;;;;;
+EVTNAME97560_NEWS_TITLE;End of the Federal Republic?;;;;;;;;;;;;;
+EVTDESC97560_NEWS_LONG;The Federal Republic of Central Eriksland is rapidly disintegrating. Members of the government have met in $CAPITAL$ to discuss whether the union should be officially dissolved and the state of Skogelf declared, or whether they should fight a civil war to preserve what they have. Some consider that an impossible task, though liberals argue that the government should not allow conservatives to doom the region to a future of division and internal squabbling.;;;;;;;;;;;;;
+EVTDESC97560_NEWS_MEDIUM;The Federal Republic of Central Eriksland is rapidly disintegrating. Members of the government have met in $CAPITAL$ to discuss whether the union should be officially dissolved and the state of Skogelf declared, or whether they should fight a civil war to preserve what they have.;;;;;;;;;;;;;
+EVTDESC97560_NEWS_SHORT;The Federal Republic of Central Eriksland is rapidly disintegrating. Members of the government have met in $CAPITAL$ to discuss whether the union should be officially dissolved.;;;;;;;;;;;;;
+EVTNAME16001_NEWS_TITLE;The Hroud Slavery Debate;;;;;;;;;;;;;
+EVTDESC16001_NEWS_LONG;The one issue that the Pioneers of $COUNTRY$ were never able to answer conclusively was the question concerning the status of slavery within the union. This inflamed debate has only gained traction in the years since the revolution, and it is presently the singular most important issue on $COUNTRY$'s political agenda. Some radical southerners feel that there is no possible compromise to be found on the issue, and that secession is the only alternative to being dominated into emancipation by the central power in Wassyngton.;;;;;;;;;;;;;
+EVTDESC16001_NEWS_MEDIUM;This debate on slavery is presently the singular most important issue on $COUNTRY$'s political agenda. Some radical southerners feel there is no possible compromise to be found on the issue, and that secession is the only alternative to being dominated by the central government.;;;;;;;;;;;;;
+EVTDESC16001_NEWS_SHORT;This debate on slavery is the singular most important $COUNTRY_ADJ$ political issue, with some radical southerners feeling the only alternative to being dominated by the government is secession.;;;;;;;;;;;;;
+EVTDESC16010_NEWS_LONG;$COUNTRY$: The famed hero of the abolitionist movement, the late Outker Visser, was hanged in Kusabosted, today after a failed raid on a military armory. Supposedly, Visser had planned to use the arsenal's weapons to arm slaves and incite an open slave rebellion across the entire south. The raid, and Visser's death, have furthered escalated southern tension over the slavery issue, and in some slave-states there is now even talk of secession from the nation.;;;;;;;;;;;;;
+EVTDESC16010_NEWS_MEDIUM;$COUNTRY$: The famed hero of the abolitionist movement, the late Outker Visser, was hanged in Kusabosted, today after a failed raid on a military armory. The raid, and Visser's death, have furthered escalated southern tension over the slavery issue.;;;;;;;;;;;;;
+EVTDESC16010_NEWS_SHORT;$COUNTRY$: Outker Visser was hanged in Kusabosted, today after a failed raid on a military armory, further escalating southern tension over the slavery issue.;;;;;;;;;;;;;
+EVTDESC16020_NEWS_LONG;$COUNTRY$: Hoobjert Sklasson, born a slave in Kusabo, has, with the help of abolitionist legal advisers, sued his 'owner', claiming that his present residency in a free state requires his emancipation. The Hroud Supreme Court has not yet ruled on the case but seems inclined to rule that the property of slave-owners are protected regardless of where in the Union the slave resides. The case has caused enormous alarm among northern abolitionists, who see it as the first step to a full extension of the institution of slavery to the whole nation.;;;;;;;;;;;;;
+EVTDESC16020_NEWS_MEDIUM;$COUNTRY$: A slave has sued his 'owner', claiming that his residency in a free state requires his emancipation. The case has caused  alarm among northern abolitionists, who see its ruling as the first step to a full extension of slavery to the whole Union.;;;;;;;;;;;;;
+EVTDESC16020_NEWS_SHORT;$COUNTRY$: A slave has sued his 'owner', claiming that his residency in a free state requires his emancipation. The case has caused enormous alarm among northern abolitionists.;;;;;;;;;;;;;
+EVTNAME44103;The VS Ismann Returned;;;;;;;;;;;;;
+EVTDESC44103;The VS Ismann was found adrift in the North Atlantic, after having been abandoned by the squadron in search of the lost polar explorer, Jarl Kael Hugaelsson. The Hroudsted bought the ship from salvagers, refitted the vessel and returned it to Vinland.;;;;;;;;;;;;;
+EVTOPTA44103;It is right and proper to return it.;;;;;;;;;;;;;
+EVTDESC44103_NEWS_LONG;The VS Ismann was found adrift in the North Atlantic, after having been abandoned by the squadron in search of the lost polar explorer, Jarl Kael Hugaelsson. Originally a merchant barque, Ismann was refitted towards navigating in the polar waters to become a part of the expedition organized by Kael's wife to rescue her husband. Jarl Kael and his expedition are believed to have perished to pneumonia and starvation after abandoning their ice-locked vessels. The Hroudsted bought the ship from salvagers, refitted the vessel and returned it to Vinland.;;;;;;;;;;;;;
+EVTDESC44103_NEWS_MEDIUM;The VS Ismann was found adrift in the North Atlantic, after having been abandoned by the squadron in search of the lost polar explorer, Jarl Kael Hugaelsson. Hroudsted bought the ship from salvagers, refitted the vessel and returned it to Vinland.;;;;;;;;;;;;;
+EVTDESC44103_NEWS_SHORT;The VS Ismann was found adrift in the North Atlantic. The Hroudsted bought the ship from salvagers, refitted the vessel and returned it to Vinland.;;;;;;;;;;;;;
+EVTNAME44107;The Common Law;;;;;;;;;;;;;
+EVTDESC44107;In 1861 Siemen de Haan published The Common Law, a history of the common-law tradition. In it he asserted that law was not logical, but rather the will of the judge tempered by circumstances, or,  as its most famous maxim put it, The Life of the law has not been logic, but experience. It quickly became a classic and de Haan was appointed to a professorship at Oranjested University the next year and was eventually made a Justice of the HS Supreme Court. The publication of The Common Law signalled the rise of pragmatism among Hroud intellectuals and presaged a growing distrust of moralism after the horrible slaughter of the Civil War.;;;;;;;;;;;;;
+EVTOPTA44107;The law is the will of he whom the sheriff will obey.;;;;;;;;;;;;;
+EVTDESC44107_NEWS_LONG;In 1861 Siemen de Haan published The Common Law, a history of the common-law tradition. In it he asserted that law was not logical, but rather the will of the judge tempered by circumstances, or, as its most famous maxim put it, The Life of the law has not been logic, but experience. It quickly became a classic and Holmes was appointed to a professorship at Oranjested the next year and was eventually made a Justice of the HS Supreme Court. The publication of The Common Law signalled the rise of pragmatism among Hroud intellectuals.;;;;;;;;;;;;;
+EVTDESC44107_NEWS_MEDIUM;In 1861 Siemen de Haan published The Common Law, a history of the common-law tradition. In it he asserted that law was not logical, but rather the will of the judge tempered by circumstances, or simply put, that The Life of the law has not been logic, but experience.;;;;;;;;;;;;;
+EVTDESC44107_NEWS_SHORT;In 1861 Siemen de Haan published The Common Law, a history of the common-law tradition, asserting that law was not logical, but rather the will of the judge tempered by circumstances.;;;;;;;;;;;;;
+EVTNAME16050;I Wish I Was In Kusabo;;;;;;;;;;;;;
+EVTDESC16050;Then I wish I was in Kusabo, hooray! hooray!\nIn Kusabo Sted I'll take my stand to live and die in Kusabo,\nAway, away, away down South in Kusabo.'\n\n-- Kusabo's Land\n\nIt has been speculated that the name 'Kusabo', used as a reference to the southern Hroudsted, derives from the Kusabo machetes used in Indonesia, gathered into Southern Hroudsted to build a civilisation against the savage lands. This contrast against northern civilisation building,was not just over slavery, it was also one of identity.;;;;;;;;;;;;;
+EVTOPTA16050;Something for everyone!;;;;;;;;;;;;;
+EVTOPTB16050;Plebian songs;;;;;;;;;;;;;
+EVTNAME16060;Janke Doodle;;;;;;;;;;;;;
+EVTDESC16060;Janke Doodle went to town,\nA-Riding on a pony\nHe stuck a feather in his cap,\nAnd called it macaroni.'\n\n--Hroud Doodle\n\nThe term Hroud probably derives from a Dutch nickname for Frisian settlers in Nassau: 'Janke', meaning 'little Jan'. During the 19th century, the term was often used to denote perceived cultural distinctions between northerners and southerners within the Hroudsted itself.;;;;;;;;;;;;;
+EVTOPTA16060;Something for everyone!;;;;;;;;;;;;;
+EVTOPTB16060;Plebian songs;;;;;;;;;;;;;
+EVTNAME16080;Follow The Drinkin' Gourd;;;;;;;;;;;;;
+EVTDESC16080;When the sun come back and the first quail calls,\nFollow the Drinking Gourd\nFor the old man's waiting for to carry you to freedom,\nIf you follow the Drinking Gourd.'\n\n-Follow the Drinkin' Gourd\n\nAccording to legend, the song 'Follow the Drinkin' Gourd' was a song written to guide slaves, escaping from slavery in the South to freedom in the North, by telling them to walk in the direction of the 'Drinkin' Gourd', another name for the Big Dipper, a circumpolar asterism that always appears in the northern sky.;;;;;;;;;;;;;
+EVTOPTA16080;Let them sing;;;;;;;;;;;;;
+EVTOPTB16080;Dangerous ideas;;;;;;;;;;;;;
+EVTNAME16110;Slave Market;;;;;;;;;;;;;
+EVTDESC16110;We hold these Truths to be self-evident, that all Men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty, and the pursuit of Happiness.' -- The Hroud Declaration, 1776\n\nThe dank locale is dimly lit, and reeks of sweat and unwashed bodies. Cramped walls, littered with chains and ropes, tell tales of the trade that goes on in this auction house. One by one, blacks are shoved unto a small stage to stand, their hands tied, while the Langobard auctioneer calls out the bids. Here, human beings are herded like cattle to be sold into involuntary servitude, serfdom, and slavery.;;;;;;;;;;;;;
+EVTOPTA16110;...so?;;;;;;;;;;;;;
+EVTOPTB16110;Repulsive!;;;;;;;;;;;;;
+EVTNAME44111;Pinkerton's Detective Agency!;;;;;;;;;;;;;
+EVTDESC44111;Pinkerton men, founded by Pict migrant Allan Pinkerton in Nieuw Amsterdam, who have proven themselves effective at solving train robberies and capturing counterfeiters, have now turned to working as strike-breakers and infiltrating such secret societies as the Molly Maguires.!;;;;;;;;;;;;;
+EVTOPTA44111;We never sleep!;;;;;;;;;;;;;
+EVTNAME99945;His Truth is Marching On!;;;;;;;;;;;;;
+EVTDESC99945;He has sounded forth the trumpet that shall never call retreat,\nHe is sifting out the hearts of men before His judgment seat\nOh, be swift, my soul, to answer Him; be jubilant, my feet!\nOur God is marching on.\nIn the beauty of the lilies Christ was born across the sea,\nWith a glory in His bosom that transfigures you and me\nAs He died to make men holy, let us die to make men free!\nWhile God is marching on.\n\nWe, the Representatives of Hroudsted, in Congress, declare the united Colonies as Free and Independent States, released from allegiance to the Frisian Government. All political ties with Frij Fryslan are dissolved. As Free and Independent States, they have the power to wage war, make peace, form alliances, engage in trade, and perform all actions of independent nations. We pledge our Lives, Fortunes, and sacred Honor in support of this Declaration, relying on divine Providence.;;;;;;;;;;;;;
+intervene_mjolnir_1776_title;Intervene in Hroud Revolutionary War;;;;;;;;;;;;;
+intervene_mjolnir_1776_desc;Hroudsted has declared the Second Hroud Revolutionary War, led by Hidser Bouma and the Senate of Hroudsted. Should we intervene?;;;;;;;;;;;;;
+EVTNAME99945;Cochise Nateges' Revolt;;;;;;;;;;;;;
+EVTDESC99945;After years and years of living under Isleta natives' control, Hroud people living in Blaugers and Roosted has decided to revolt under the charismatic ex-bandit leader Cochise Nateges with the Raid of Paducah Tribe that resulted in the local tribal chieftain's death. Now, Hrouds all over Isleta and across the border are swarming in to incite a revolution.;;;;;;;;;;;;;
+EVTNAME99945_NEWS_TITLE;Nateges' Raid;;;;;;;;;;;;;
+EVTDESC99945_NEWS_LONG;After years and years of living under Isleta natives' control, Hroud people living in Blaugers and Roosted has decided to revolt under the charismatic ex-bandit leader Cochise Nateges with the Raid of Paducah Tribe that resulted in the local tribal chieftain's death. Now, Hrouds all over Isleta and across the border are swarming in to incite a revolution.;;;;;;;;;;;;;
+EVTDESC99945_NEWS_MEDIUM;Hrouds living under Isleta natives have incited a revolution under the leadership of Cochise Nateges, an ex bandit. With the raid of Paducah and volunteers swarming all across Hroudsted, Isleta turns into a deathzone.;;;;;;;;;;;;;
+EVTDESC99945_NEWS_SHORT;Hrouds living under Isleta natives have incited a revolution under the leadership of Cochise Nateges;;;;;;;;;;;;;
+EVT99945OPTA;Such cruel hypocrasy!;;;;;;;;;;;;;
+EVTNAME99947;Nateges Captured!;;;;;;;;;;;;;
+EVTDESC99947;In a momentous turn of events, our gallant troops achieved a resounding victory as they successfully apprehended Cochise Nateges en route to a camp. With remarkable efficiency, our forces swiftly transported him to Paducah, where the grieving families of the victims of the infamous Raid of Paducah eagerly anticipate his arrival.;;;;;;;;;;;;;
+EVT99947OPTA;Prepare the gallows.;;;;;;;;;;;;;
+EVTNAME99948;Nateges Captured!;;;;;;;;;;;;;
+EVTDESC99948;In a momentous turn of events, Isleta troops achieved a resounding victory as they successfully apprehended Cochise Nateges en route to a camp. With remarkable efficiency, Isletas swiftly transported him to Paducah, where the grieving families of the victims of the infamous Raid of Paducah eagerly anticipate his arrival, as they prepare the gallows to hang him.;;;;;;;;;;;;;
+EVT99948OPTA;Prepare the horses. We'll save our boy.;;;;;;;;;;;;;
+EVTDESC99948_NEWS_LONG;In a momentous turn of events, Isleta troops achieved a resounding victory as they successfully apprehended Cochise Nateges en route to a camp. With remarkable efficiency, Isletas swiftly transported him to Paducah, where the grieving families of the victims of the infamous Raid of Paducah eagerly anticipate his arrival, as they prepare the gallows to hang him.;;;;;;;;;;;;;
+EVTDESC99948_NEWS_MEDIUM;Isleta troops successfully apprehended Cochise Nateges en route to a camp, as they swiftly transported him to Paducah, where the victims of Paducah anticipate his arrival, to hang him.;;;;;;;;;;;;;
+EVTDESC99948_NEWS_SHORT;Isleta troops captured Cochise Nateges on his way to a camp. They swiftly transported him to Paducah, where the victims await his arrival to hang him.;;;;;;;;;;;;;
+EVTDESC44121_NEWS_LONG;Established in 1816 by Afro-Norse members of the Methodist community of Nassau, in the 1830s and 1840s the HME Church would rapidly expand its membership among both free and slave populations in the Hroudsted during the era of religious revival, providing a spiritual outlet for the Afro-Norse community completely under their own control and direction and a new platform for challenging the continued practice of slavery in the Dominion. §YGod Our Father, Christ Our Redeemer, the Holy Spirit Our Comforter, Humankind Our Family§! was their motto.;;;;;;;;;;;;;
+EVTDESC44121_NEWS_MEDIUM;Established in 1816 by Afro-Norse members of the Methodist community of Nassau, in the 1830s and 1840s the HME Church would rapidly expand its membership among both free and slave populations in the Hroudsted during the era of religious revival.;;;;;;;;;;;;;
+EVTDESC44121_NEWS_SHORT;Established in 1816 by Afro-Norse members of the Methodist community of Nassau, in the 1830s and 1840s the HME Church would rapidly expand its membership.;;;;;;;;;;;;;
+EVTNAME37213;Democracy in Hroudsted;;;;;;;;;;;;;
+EVTDESC37213;In 1835 Sveinald Vitsin published his 'Democracy in Hroudsted', which was immediately recognized as a classic in both Hroudsted and Gardtaveldi. In it he remarked on the litigiousness and religiosity of Hrouds, something that remains a puzzle to Europeans today. Vitsin is one of the few historians with more than one 'classic' to his credit. His other great work, 'The Old Regime and the Gamleby Revolution', was published in 1856 just three years before his death.;;;;;;;;;;;;;
+EVTOPTA37213;Lenge leve forskjellen!;;;;;;;;;;;;;
+EVTDESC37213_NEWS_LONG;$COUNTRY$: In 1835 Sveinald Vitsin published his 'Democracy in Hroudsted', which was immediately recognized as a classic in both Hroudsted and Gardtaveldi. In it he remarked on the litigiousness and religiosity of Hrouds, something that remains a puzzle to Europeans today. Vitsin is one of the few historians with more than one 'classic' to his credit. His other great work, 'The Old Regime and the Gamleby Revolution', was published in 1856 just three years before his death.;;;;;;;;;;;;;
+EVTDESC37213_NEWS_MEDIUM;$COUNTRY$: In 1835 Sveinald Vitsin published his 'Democracy in Hroudsted', which was immediately recognized as a classic in both Hroudsted and Gardtaveldi. He is one of the few historians with more than one 'classic' to his credit.;;;;;;;;;;;;;
+EVTDESC37213_NEWS_SHORT;$COUNTRY$: In 1835 Sveinald Vitsin published his 'Democracy in Hroudsted', which was immediately recognized as a classic in both Hroudsted and Gardtaveldi.;;;;;;;;;;;;;
+EVTNAME36600;The Svea Nightingale;;;;;;;;;;;;;
+EVTDESC36600;The Svea soprano Jenny Lind was born in 1820 in Stockholm. She made her debut in the opera 'Der Freisch?tz' in Stockholm in 1838, and during the mid-1840s her fame grew as she made a series of successful appearances in Europe and the Hroudsted. Helga was the first Svea mega-star, famous for her exquisitely expressive singing and incredible vocal technique and her sincere, natural and unassuming ways. Through her concerts and opera appearances she earned a fortune, of which she donated large sums to charity.;;;;;;;;;;;;;
+EVTOPTA36600;An artistic genius;;;;;;;;;;;;;
+EVTDESC36600_NEWS_LONG;The Svea soprano Helga Njállsdottir was born in 1820 in Stockholm. She made her debut in the opera 'Der Freischitz' in Stockholm in 1838, and during the mid-1840s her fame grew as she made a series of appearances in Europe and the Hroudsted. Helga was the first Svea mega-star, famous for her exquisitely expressive singing and incredible vocal technique and her sincere, natural and unassuming ways. Through her concerts and opera appearances she earned a fortune, of which she donated large sums to charity.;;;;;;;;;;;;;
+EVTDESC36600_NEWS_MEDIUM;The Svea soprano Helga Njállsdottir was born in 1820 in Stockholm. She made her debut in the opera 'Der Freischitz' in Stockholm in 1838, and during the mid-1840s her fame grew as she made a series of successful appearances in Europe and the Hroudsted.;;;;;;;;;;;;;
+EVTDESC36600_NEWS_SHORT;The Svea soprano Helga Njállsdottir made her debut in the opera 'Der Freischitz' in Stockholm in 1838, and during the 1840s her fame grew as she made a series of appearances in Europe and the Hroudsted.;;;;;;;;;;;;;
+EVTDESC36611_NEWS_LONG;Svea author, Aghi Stigrson (1849-1912) was one of the most talented personalities of world literature. Playwright, novelist, and short-story writer, his work exhibited a fury and genius that combined naturalism, psychology and mysticism. 'The Red Room' brought him to fame in 1879. It satirized the institutions and conditions of Svitjod in the late 1870s. A multifaceted man, Stigrson possessed a fanatic hatred of the emancipated woman, was interested in science and the occult and also tried his hand at painting, photography and alchemy!;;;;;;;;;;;;;
+EVTDESC36611_NEWS_MEDIUM;Svea author, Aghi Stigrson (1849-1912) was one of the most talented personalities of world literature. Playwright, novelist, and short-story writer, his work exhibited a fury and genius that combined naturalism, psychology and mysticism.;;;;;;;;;;;;;
+EVTDESC36611_NEWS_SHORT;Svea author, Aghi Stigrson (1849-1912) was one of the most talented personalities of world literature. Playwright, novelist, and short-story writer, his work exhibited fury and genius.;;;;;;;;;;;;;
+some_fake_1836_title_1;Moonshine update!;;;;;;;;;;;;;
+some_fake_1836_1;Moonshine craze sweeps Penglai, traders state it's long journey, but worth the trip.;;;;;;;;;;;;;
+some_fake_1836_title_2;Ether craze;;;;;;;;;;;;;
+some_fake_1836_2;Popularity of ether frolics on the rise, pundits claim 'It's a gas!'.;;;;;;;;;;;;;
+some_fake_1836_title_3;Sweet Dreams;;;;;;;;;;;;;
+some_fake_1836_3;First use of general anaesthesia in an operation, surgeon in Hroudsted puts patient to sleep for tumour removal.;;;;;;;;;;;;;
+some_fake_1836_title_4;Code words;;;;;;;;;;;;;
+some_fake_1836_4;World's first electrical telegraph message sent in Vinland by Sven Morsesson.;;;;;;;;;;;;;
+some_fake_1836_title_5;Philatelists rejoice!;;;;;;;;;;;;;
+some_fake_1836_5;Postage stamp introduced in France, known as 'Penny Black' it features a picture of the legendary king, Wlencing.;;;;;;;;;;;;;
+some_fake_1836_title_6;Out now!;;;;;;;;;;;;;
+some_fake_1836_6;'the New Order' released in Gardtaveldi, critics claim it is retarded.;;;;;;;;;;;;;
+some_fake_1836_title_7;Woodwind or Brass?;;;;;;;;;;;;;
+some_fake_1836_title_8;Gold rush!;;;;;;;;;;;;;
+some_fake_1836_8;Gold discovered in Penglai, massive rush of prospectors to the area!;;;;;;;;;;;;;
+some_fake_1836_title_9;'The Raven' published;;;;;;;;;;;;;
+some_fake_1836_9;A grim tour-de-force, Poe's latest short story is sure to raise the hairs on the back of your neck.;;;;;;;;;;;;;
+some_fake_1836_title_10;The bountiful female form;;;;;;;;;;;;;
+some_fake_1836_10;(reader discretion is advised) Female waist and hip sizes are apparently at an all-time minimum and maximum respectively. Continued on page 5;;;;;;;;;;;;;
+some_fake_1836_title_11;Editorial;;;;;;;;;;;;;
+some_fake_1836_11;This liberalism will destroy the western civilisation. Without strong government, people are going to starve and revert to barbarism to survive and feed their children. (see pg. 10);;;;;;;;;;;;;
+some_fake_1850_title_1;Our ancestors?;;;;;;;;;;;;;
+some_fake_1850_1;Scientists amazed by "Neanderthal man" fossil discovery in Armenia.;;;;;;;;;;;;;
+some_fake_1850_title_2;Editorial:;;;;;;;;;;;;;
+some_fake_1850_2;It is the assured opinion of this newspaper that animal-fat is the perfect substance for greasing bullet-cartridges. See how we reached this unshakable conclusion inside (see pg 10);;;;;;;;;;;;;
+some_fake_1850_title_3;Canals in decline;;;;;;;;;;;;;
+some_fake_1850_3;The once-proud canal system of our nation is seen to be in precipitous decline. What can be done? Continued on page 4;;;;;;;;;;;;;
+some_fake_1860_title_1;Wynholt assassinated;;;;;;;;;;;;;
+some_fake_1860_1;Wynholt Haarsma assassinated in Edsger's theatre by Amse van der Goot, shot dead at close range.;;;;;;;;;;;;;
+some_fake_1860_title_2;Wynholt fine;;Lincoln wohlauf;;;;;;;;;;;x
+some_fake_1860_2;Failed assassination attempt of Wynholt Haarsma by Amse van der Goot, President throws assailant from balcony of Edsger's theatre.;;;;;;;;;;;;;
+some_fake_1860_title_3;Unsporting;;;;;;;;;;;;;
+some_fake_1860_3;Military Submarine invented, globally agreed to be 'unfair' and banned for all time.;;;;;;;;;;;;;
+some_fake_1860_title_4;Healthcare;;;;;;;;;;;;;
+some_fake_1860_4;Florence Nightingale founds school for nurses in Ishmael Hospital, London.;;;;;;;;;;;;;
+some_fake_1860_title_5;Elements organised;;;;;;;;;;;;;
+some_fake_1860_5;Dmitri Mendeleev invents periodic table, listing all 56 known elements.;;;;;;;;;;;;;
+some_fake_1860_title_6;Cycle fad spreads;;;;;;;;;;;;;
+some_fake_1860_6;Bicycle craze sweeps western world, Velocipedes are must haves!;;;;;;;;;;;;;
+some_fake_1860_title_7;Sombrero width at an all-time high;;;;;;;;;;;;;
+some_fake_1860_7;It is reported that the width of an average bandito's sombrero has risen to an astounding 57 inches in Mexico.;;;;;;;;;;;;;
+some_fake_1860_title_8;Fire-brigade' established;;;;;;;;;;;;;
+some_fake_1860_8;They're new, but they're good.;;;;;;;;;;;;;
+some_fake_1860_title_9;Football gains popularity;;;;;;;;;;;;;
+some_fake_1860_9;Attendances at association football matches have risen recently, with the spectacle proving especially popular amongst members of the labouring and destitute classes.;;;;;;;;;;;;;
+some_fake_1860_title_10;Editorial:;;Redaktionelles:;;;;;;;;;;;x
+some_fake_1860_10;Beware the female bicycleatrix. Women astride machines, petticoats fluttering carelessly in the breeze, ankles exposed for all to see, will send men into a deranged frenzy ( pg. 10);;Vorsicht vor weiblicher Rad-Amazone (mehr auf Seite 10);;;;;;;;;;;x
+some_fake_1860_title_11;Pompeii and Herculaneum back to light;;Pompeji und Herculaneum offengelegt;;;;;;;;;;;x
+some_fake_1860_11;New methods of excavation return to the world the cities destroyed by Vesuvius in 79 AD.;;Neue Ausgrabungsmethoden bringen die 79 AD vom Vesuv zerst?rten St?dte der Welt zur?ck.;;;;;;;;;;;x
+some_fake_1870_title_1;Editorial:;;Redaktionelles:;;;;;;;;;;;x
+some_fake_1870_1;The backward African peoples long for our benevolent governance. Much as the Scottish graciously welcomed British overlordship, the black race crave the guiding hand of whites (pg. 10);;R?ckst?ndige V?lker Afrikas ersehnen unsere g?tige F?hrung (mehr auf Seite 10);;;;;;;;;;;x
+some_fake_1870_title_2;Literature:;;Literatur:;;;;;;;;;;;x
+some_fake_1870_2;Around the World in 80 days, reviewed for the reader's pleasure and education.;;Um die Welt in 80 Tagen, f?r Lesespa? und Bildung unserer Leser rezensiert.;;;;;;;;;;;x
+some_fake_1870_title_3;Corset-related fainting;;Ohnmacht durch Korsett;;;;;;;;;;;x
+some_fake_1870_3;Is at an all-time high! Yet again our nation?s spas, hospitals and chaise-longues are inundated with victims of corset overtightening.;;Rekordzahlen! Erneut werden die B?der, Hospit?le und Chaiselongues von Opfern zu eng geschn?rter Korsetts ?berrannt.;;;;;;;;;;;x
+some_fake_1880_title_1;Airborn Success!;;Erfolge der Luftfahrt!;;;;;;;;;;;x
+some_fake_1880_1;La France, a French military airship, becomes first powered airship to make a successful round trip.;;"Franz. Milit?r-Luftschiff ""La France"" erstes Luftschiff mit Motorantrieb auf erfolgreicher Rundfahrt.";;;;;;;;;;;x
+some_fake_1880_title_2;High-rise Buildings;;Hochh?user;;;;;;;;;;;x
+some_fake_1880_2;?Sky-Scrapers? built in America, these massive steel-framed buildings tower over their surroundings.;;?Sky-Scraper? in Amerika, massive stahl-ummantelte Hochh?user ?berragen ihre Umgebung.;;;;;;;;;;;x
+some_fake_1880_title_3;Mint juleps saved!;;Mint Julep gerettet!;;;;;;;;;;;x
+some_fake_1880_3;Marvin C. Stone, in the USA, invents the ?drinking straw?.;;Marvin C. Stone, USA, erfindet den ?Strohhalm?.;;;;;;;;;;;x
+some_fake_1880_title_4;Nothing can go wrong here;;Da kann nichts schiefgehen;;;;;;;;;;;x
+some_fake_1880_4;Cure for morphine addiction discovered in USA: Coca-wine!;;Heilung f?r Morphium-Sucht in USA entdeckt: Koka-Wein!;;;;;;;;;;;x
+some_fake_1880_title_5;Bismarck resigns;;Bismarck tritt zur?ck;;;;;;;;;;;x
+some_fake_1880_5;Bismarck resigns as Chancellor of Germany, ship of state loses her pilot.;;Bismarck tritt als Kanzler Deutschlands zur?ck, Schiff des Staates ohne Kapit?n.;;;;;;;;;;;x
+some_fake_1880_title_6;Editorial:;;Redaktionelles:;;;;;;;;;;;x
+some_fake_1880_6;This socialism will destroy western civilisation. Why, it will empower the working classes, allowing them to believe they are as good and worthy as the rich. Pish & fipsy! (pg 10) ;;Sozialismus wird westliche Zivilisation zerst?ren (mehr auf Seite 10);;;;;;;;;;;x
+some_fake_1880_title_7;Should the American government act?;;Sollte die Regierung Amerikas handeln?;;;;;;;;;;;x
+some_fake_1880_7;Lynchings of members of the negro race have become commonplace across the heartlands of America. The editorial board of this publication asks: Should the state intervene to stop this practise? ;;Lynchmorde unter den Schwarzen nehmen in den mittleren Staaten Amerikas zu. Wir stellen die Frage: Sollte der Staat eingreifen und dem ein Ende setzen?;;;;;;;;;;;x
+some_fake_1890_title_1;Lift off!;;Abheben!;;;;;;;;;;;x
+some_fake_1890_1;The Ader Eole, a steam powered heavier than air craft, makes a short powered flight near Paris.;;Die Ader Eole, ein dampfgetriebenes Gef?hrt schwerer als Luft, absolviert kurzen Flug nahe Paris.;;;;;;;;;;;x
+some_fake_1890_title_2;Successful Flight!;;Erfolgreicher Flug!;;;;;;;;;;;x
+some_fake_1890_2;Derwitzer Glider becomes the first successful manned aircraft in the world, covering flight distances of up to about 80 feet near Derwitz in Brandenburg.;;Derwitzer Glider wird erstes erfolgreiches, bemanntes Flugger?t der Welt und ?berwindet bis zu 80 Fu? Distanz bei Derwitz in Brandenburg.;;;;;;;;;;;x
+some_fake_1890_title_3;Moving Pictures!;;Bewegte Bilder!;;;;;;;;;;;x
+some_fake_1890_3;The Kinetoscope astounds viewers by displaying moving pictures at the Brooklyn Institute of Arts and Sciences.;;Kinetoskop beeindruckt Publikum im Brooklyn Insitute of Arts and Sciences mit bewegten Bildern.;;;;;;;;;;;x
+some_fake_1890_title_4;Hurrah! Tis the gay 90s;;Hurra! Hier sind die wilden 90er;;;;;;;;;;;x
+some_fake_1890_4;As a gayer time than now has surely never been and never again will be, the editorial board respectfully suggests that the phrase ?the gay 90s? should make its way into the lexicon of our daily discourse.;;Eine wildere Zeit als diese hat es noch nie gegeben und wird es wohl nie wieder geben. Wir schlagen daher vor, den Begriff ?Die Wilden 90er? ins Lexikon aufzunehmen.;;;;;;;;;;;x
+some_fake_1890_title_5;Could man one day soar?;;Kann der Mensch eines Tages fliegen?;;;;;;;;;;;x
+some_fake_1890_5;Across our nation, dreamers are speculating that man could one day take to the heavens using mechanical contraptions.;;Landesweit hoffen Tr?umer, dass der Mensch eines Tages mithilfe mechanischer Ger?te den Himmel erobern wird.;;;;;;;;;;;x
+some_fake_1890_title_6;Editorial:;;Redaktionelles:;;;;;;;;;;;x
+some_fake_1890_6;If He had wished man to fly, He would have granted us wings - a guest commentary written by the ship magnate and major shareholder of this newspaper Charles O'Ligarch. (see pg. 10);;Wenn Gott wollte, das wir fliegen, h?tte er uns Fl?gel gegeben (mehr auf Seite 10);;;;;;;;;;;x
+some_fake_1890_title_7;Wrong End Foremost;;Falsches Ende gibt Ton an;;;;;;;;;;;x
+some_fake_1890_7;Reputed paleontologist O.C Marsh revealed today that the famed Elasmosaurus assembled by Professor Cope has in fact its head attached to its tail end. The professor was not available for comment.;;Angesehener Pal?ontologe O.C. Marsh enh?llt, dass der von Professor Cope zusammengesetzte Elasmosaurus seinen Kopf am Schwanz befestigt hat. Cope war nicht f?r einen Kommentar zu erreichen.;;;;;;;;;;;x
+some_fake_1900_title_1;Lighter than air;;Leichter als Luft;;;;;;;;;;;x
+some_fake_1900_1;The first zeppelin flight occurs over Lake Constance near Friedrichshafen, Germany.;;Der erste Zeppelinflug  ?ber dem Bodensee in Deutschland, nahe Friedrichshafen.;;;;;;;;;;;x
+some_fake_1900_title_2;Disaster!;;Desaster!;;;;;;;;;;;x
+some_fake_1900_2;A powerful hurricane has hit Galveston, Texas, USA killing around 8,000 people.;;Zerst?rerischer Orkan trifft Galveston, Texas, USA und t?tet 8.000 Menschen.;;;;;;;;;;;x
+some_fake_1900_title_3;Disaster!;;Desaster!;;;;;;;;;;;x
+some_fake_1900_3;In Martinique, Mount Pel?e has erupted, destroying the town of Saint-Pierre and killing over 30,000.;;Mount Pel?e in Martinique ausgebrochen, Stadt Saint-Pierre vollst?ndig zerst?rt, ?ber 30.000 Tote.;;;;;;;;;;;x
+some_fake_1900_title_4;Disaster!;;Desaster!;;;;;;;;;;;x
+some_fake_1900_4;Mount Vesuvius has erupted, devastating Naples.;;Der Vesuv ist ausgebrochen, Neapel in Schutt und Asche.;;;;;;;;;;;x
+some_fake_1900_title_6;Disaster!;;Desaster!;;;;;;;;;;;x
+some_fake_1900_6;An earthquake and tsunami has hit  Messina and Calabria, in Sicily, killing over 70,000 people.;;Erdbeben und Tsunami treffen Messina unnd Kalabrien in Sizilien, mehr als 70.000 tot.;;;;;;;;;;;x
+some_fake_1900_title_7;The Captain of K?penick;;Der Hauptmann von K?penick;;;;;;;;;;;x
+some_fake_1900_7;An impostor masquerading as a German military officer managed to fool soldiers in Berlin and steal over 4000 marks due to so-called suspicions of crooked bookkeeping. He gave a receipt. ;;Hochstapler gibt sich als deutscher Milit?roffizier aus, trickst Soldaten in Berlin aus und stiehlt mehr als 4000 Mark wegen angeblich falscher Buchf?hrung. Er gab eine Quittung.;;;;;;;;;;;x
+some_fake_1910_title_1;Disaster!;;Desaster!;;;;;;;;;;;x
+some_fake_1910_1;The RMS Titanic, the largest ship ever built, has sunk after striking an iceberg in the North Atlantic during her maiden voyage, over 1,500 people are believed to have perished in the disaster.;;RMS Titanic, gr??tes jemals gebautes Schiff, nach Zusammensto? mit Eisberg auf ihrer Jungfernfahrt im Nord-Atlantik gesunken. Mehr als 1.500 Tote erwartet.;;;;;;;;;;;x
+some_fake_1910_title_2;Disaster!;;Desaster!;;;;;;;;;;;x
+some_fake_1910_2;North Sea storm hits the Netherlands, flooding the lowlands. 10,000 people believed dead.;;Sturm ?ber der Nordsee setzt Holland unter Wasser, 10.000 Tote erwartet.;;;;;;;;;;;x
+some_fake_1910_title_3;Discovery!;;Entdeckung!;;;;;;;;;;;x
+some_fake_1910_3;Hiram Bingham rediscovers Machu Picchu, a previously unknown Incan city.;;Hiram Bingham entdeckt Machu Pichu wieder, eine vormals unbekannte Inka-Stadt.;;;;;;;;;;;x
+some_fake_1910_title_4;Smokers rejoice!;;Raucher frohlocket!;;;;;;;;;;;x
+some_fake_1910_4;Zipper invented by Gideon Sundback.;;Gideon Sundback erfindet Rei?verschluss.;;;;;;;;;;;x
+some_fake_1910_title_5;Breakfast is saved;;Fr?hst?ck gesichert;;;;;;;;;;;x
+some_fake_1910_5;Charles Strite invents the  pop-up bread toaster.;;Charles Strite erfindet den Brotr?ster.;;;;;;;;;;;x
+some_fake_1910_title_6;Continental drift' postulated;;Kontinentaldrift angenommen;;;;;;;;;;;x
+some_fake_1910_6;Alfred Wegener, a prominent German scientist, has put forth the theory that the very continents upon which we stand could be moving about on the Earth's surface.;;Bekannter deutscher Wissenschaftler Alfred Wegener entwickelt Theorie, dass die Kontinente, auf denen wir wandeln, auf der Erdoberfl?che schwimmen k?nnten.;;;;;;;;;;;x
+some_fake_1910_title_7;General relativity;;Relativit?tstheorie;;;;;;;;;;;x
+some_fake_1910_7;Albert Einstein has published his theory of general relativity, a confusing and complicated set of formulae which seeks to explain the relationship between space, time, gravity and a myriad of other forces.;;Albert Einstein ver?ffentlicht Relativit?tstheorie, eine verwirrende und komplexe Formelsammlung, die Zusammenh?nge in Raum, Zeit, Schwerkraft und einer Vielzahl anderer Kr?fte erkl?ren soll.;;;;;;;;;;;x
+some_fake_1910_title_8;Editorial:;;Redaktionelles:;;;;;;;;;;;x
+some_fake_1910_8;This feminism will destroy western civilisation. Equality of the sexes is a depravity which no civilised people would contemplate. Why, feminism could lead to women drivers (pg. 10);;Der Feminismus wird westl. Zivilisation zerst?ren (mehr auf Seite 10);;;;;;;;;;;x
+some_fake_1910_title_9;Free inside:;;Kostenlose Beilage:;;;;;;;;;;;x
+some_fake_1910_9;A 'cross-word puzzle', a whimsical pastime which will nonetheless allow the reader to demonstrate the fortitude of their perspicacity. ;;Ein 'Kreuzwort-R?tsel', ein netter Zeitvertreib, mit dem unsere Leser ihren Scharfsinn demonstrieren k?nnen.;;;;;;;;;;;x
+some_fake_1910_title_10;Sherlock Holmes' ending controversy;;Kontroverse zum Ende von Sherlock Holmes;;;;;;;;;;;x
+some_fake_1910_10;After a massive fan outcry due to the bittersweet death of the famous detective, author Sir Arthur Conan Doyle decides to bring him back from the dead, providing clarification and closure.;;Nach massivem Aufschrei der Fans zum bitters??en Ende des ber?hmten Detektivs, entschlie?t sich Sir Arthur Conan Doyle ihn wiederzubeleben und verspricht Klarheit und Abschluss.;;;;;;;;;;;x
+some_fake_1920_title_1;Flight record;;Flugrekord;;;;;;;;;;;x
+some_fake_1920_1;Charles Lindbergh becomes the first person to fly solo across the Atlantic Ocean (May 20?21, 1927), nonstop from New York to Paris.;;Charles Lindbergh ?berfliegt als erster Mann solo und nonstop den Atlantischen Ozean von New York nach Paris (20.-21. Mai 1927);;;;;;;;;;;x
+some_fake_1920_title_2;To the stars!;;Zu den Sternen!;;;;;;;;;;;x
+some_fake_1920_2;World?s first flight of a liquid-fueled rocket by Robert Goddard.;;Weltweit erster Raketenflug mit Fl?ssigtreibstoff von Robert Goddard.;;;;;;;;;;;x
+some_fake_1920_title_3;An end to beards?;;Das Ende der B?rte?;;;;;;;;;;;x
+some_fake_1920_3;First electric razor patented by the American manufacturer Col. Jacob Schick.;;Erster elektr. Rasierer vom amerikanischen Hersteller Col. Jacob Schick patentiert.;;;;;;;;;;;x
+some_fake_1920_title_4;The future of music;;Zukunftsmusik;;;;;;;;;;;x
+some_fake_1920_4;The first selective Jukeboxes introduced by the Automated Musical Instrument Company.;;Erster Musikautomat mit Musikwahl von Automated Musical Instrument Company vorgestellt.;;;;;;;;;;;x
+some_fake_1920_title_5;We don't know why;;Wir wissen nicht warum;;;;;;;;;;;x
+some_fake_1920_5;Pole-sitting fad sweeps western world.;;Pfahlsitzen-Marotte erobert westl. Welt.;;;;;;;;;;;x
+some_fake_1920_title_6;Editorial:;;Redaktionelles:;;;;;;;;;;;x
+some_fake_1920_6;This 'television' genuinely will destroy western civilisation. Today, horrendous wooden puppets, tomorrow, horrendous drunken and lascivious twenty-somethings? (see page 10);;Fernseher werden westliche Zivilisation vernichten (mehr auf Seite 10);;;;;;;;;;;x
+some_fake_1920_title_7;Editorial:;;Redaktionelles:;;;;;;;;;;;x
+some_fake_1920_7;This 'jazz' will destroy western civilisation. Never in the history of music has such a corrupting rhythm been heard. The jungle beat has no place in our repressed society (pg. 10) ;;Jazz wird westl. Zivilisation vernichten (weiter auf Seite 10);;;;;;;;;;;x
+some_fake_1920_title_8;The jazz craze!;;Der Jazz-Wahn!;;;;;;;;;;;x
+some_fake_1920_8;A new fad has awakened the passions of the nation's music-listeners. Frenetic dancing, unchaperoned licentiousness and race-mixing are natural byproducts of this far out and wrong musical form.;;Musikliebhaber von neuer Marotte erfasst: Frenetische T?nze, Zuchtlosigkeit und Rassenvermischung sind Nebenprodukte dieser falschen Musikform.;;;;;;;;;;;x
+some_fake_1920_title_9;Literary digest: Ulysees;;Literatur-?bersicht: Ulysees;;;;;;;;;;;x
+some_fake_1920_9;Penned by Irish-man of some repute, James Joyce, Ulysees describes one day in the life of a Dublin protagonist merely living his life in a normal fashion, struggling... (continued on page 19);;Bekannter Ire James Joyce beschreibt in Ulysees einen Tag im Leben eines Protagonisten in Dublin und seinen Widrigkeiten (mehr auf Seite 19);;;;;;;;;;;x
+some_fake_1920_title_10;To Egypt!;;Auf nach ?gypten!;;;;;;;;;;;x
+some_fake_1920_10;More astounding archaeological discoveries occured today in the Nile region, furthering the international fascination with all things Oriental... (continued on page 2);;Weitere erstaunliche, arch?ologische Entdeckungen in der Nil-Region befeuern Faszination mit dem Orientalischen ? (weiter auf Seite 2);;;;;;;;;;;x
+some_fake_1920_title_11;Bauhaus architecture;;Bauhaus-Architektur;;;;;;;;;;;x
+some_fake_1920_11;A futuristic new artistic archetectural style, known as Bauhaus, has risen to prominence in the cities of Weimar, Berlin and Dessau.;;Futuristischer, neuer Kunst-Architekturstil, bekannt als Bauhaus, erobert die St?dte Weimar, Berlin und Dessau.;;;;;;;;;;;x
+some_fake_1920_title_12;Oddball duo cause chaos;;Verr?cktes Duo erzeugt Chaos;;;;;;;;;;;x
+some_fake_1920_12;Two men, one fat and one thin, have appeared in court accused of mischief-making and general buffoonery. Due to the severity of the crime, which involved the demolition of a house and theft of an ass, prosecuters are expected to seek the death penalty.;;Zwei M?nner, einer dick, einer d?nn, stehen wegen groben Unfugs und grober Clownerei vor Gericht. Aufgrund der Schwere der Vorw?rfe, die die Zerst?rung eines Hauses und Diebstahl umfassen, wird die Forderung der Todesstrafe durch Ankl?ger erwartet.;;;;;;;;;;;x
+some_fake_ANY_title_1;Dog bites a child.;;Hund bei?t Kind.;;;;;;;;;;;x
+some_fake_ANY_1;Vicious animal attack leaves community in shock, parents concerned with safety of their children demand action. ;;Brutale Tierattacken schockieren Gemeinde, Eltern f?rchten um die Sicherheit ihrer Kinder und fordern Taten.;;;;;;;;;;;x
+some_fake_ANY_title_2;Global cooling.;;Globale Abk?hlung.;;;;;;;;;;;x
+some_fake_ANY_2;Scientists warn another ice age might be starting as recorded temperatures drop from year to year.;;Forscher warnen vor neuer Eiszeit, da Temperaturen j?hrlich fallen.;;;;;;;;;;;x
+some_fake_ANY_title_3;Missing child found;;Vermisstes Kind gefunden;;;;;;;;;;;x
+some_fake_ANY_3;He was hiding in a barn! The missing child case resolved after extensive search by local volunteers discovers the child hiding in the nearby abandoned building.;;Versteckt in einer Scheune! Der Fall eines vermissten Kindes fand gutes Ende, nachdem engagierte Suchmannschaften es in einem nahen, verlassenen Geb?ude fanden.;;;;;;;;;;;x
+some_fake_ANY_title_5;Damsel brutally murdered;;Maid brutal ermordet;;;;;;;;;;;x
+some_fake_ANY_5;The horrifically-mutilated corpse of a damsel was discovered yesterday tied to a train track. The public is advised to be on the lookout for a man with a large moustache, a top hat and a black opera cloak.;;Entsetzlich entstellter K?rper einer jungen Maid wurde gestern, an Eisenbahnschienen gefesselt, gefunden. Fahndung nach Mann mit Schnauzbart, Zylinder und schwarzem Umhang l?uft.;;;;;;;;;;;x
+some_fake_ANY_title_6;Rabbit emerges from hat;;Der Hase aus dem Hut;;;;;;;;;;;x
+some_fake_ANY_6;A man, who claimed to possess mystic powers, was seen to produce a rabbit from a top hat yesterday. He is currently being investigated on suspicion of unnatural practises.;;Ein Mann mit angeblich mystischen Kr?ften wurde gestern gesehen, als er einen Hasen aus dem Hut zauberte. Untersuchungen mit Verdacht auf unnat?rliche Praktiken im Gange.;;;;;;;;;;;x
+some_fake_ANY_title_7;A glimpse into the year 2000;;Ein Blick in das Jahr 2000;;;;;;;;;;;x
+some_fake_ANY_7;A prominent futurologist has granted an insight into the distant year 2000 A.D. Speaking to our futurology correspondent, he said "By 2000 each landed gentleman will own at least 5 hot-air balloons".;;Ein bekannter Zukunftsforscher gibt Einblick in das ferne Jahr 2000 A.D. Er sagt: ?Im Jahr 2000 besitzt jeder Gentleman wenigstens 5 Hei?luftballons?.;;;;;;;;;;;x
+some_fake_ANY_title_8;News counterfeiting!;;Gef?lschte Nachrichten!;;;;;;;;;;;x
+some_fake_ANY_8;An Irish-man, a Pole, and a Prussian were arrested yesterday as part of an ongoing investigation into a shadowy cabal which concocted news stories and presented them as if they were factual.;;Festnahmen gegen einen Iren, Polen und Preu?en im Rahmen der Untersuchung einer Schattenorganisation, die der Erstellung falscher Nachrichten und deren Verkauf als Fakten verd?chtigt werden.;;;;;;;;;;;x
+some_fake_ANY_title_9;12 Gored!;;12 aufgespie?t!;;;;;;;;;;;x
+some_fake_ANY_9;An enraged gentleman cow gored 5 men and 7 women to death yesterday. The gentleman cow, who had previously been of a gentle nature, was beheaded by a passing chimney-sweep.;;W?tender Bulle t?tete gestern 5 M?nner und 7 Frauen. Das vormals als sanft bekannte Tier wurde von einem vorbeikommendem Schornsteinfeger enthauptet.;;;;;;;;;;;x
+some_fake_ANY_title_10;Bridge collapse!;;Br?cke eingest?rzt!;;;;;;;;;;;x
+some_fake_ANY_10;Claims the life of a butcher just outside our nation's capital. The bucther, who was a character of some repute in the locality in question, is survived by his brother, a baker, and a son who manufactures and sells candlesticks.;;Ein Metzger wurde au?erhalb unserer Hauptstadt in den Tod gerissen. Der lokal bekannte Metzger hinterl?sst seinen Bruder, einen B?cker und einen Sohn, der Kerzenhalter herstellt und verkauft.;;;;;;;;;;;x
+some_fake_ANY_title_11;Balkans quiet;;Ruhe im Balkan;;;;;;;;;;;x
+some_fake_ANY_11;Serbs, Croats, Bosnians, Turks, Bulgarians, Romanians, Albanians and Greeks came together last Sunday to celebrate the great peace in which the Balkan peninsula presently bathes.;;Serben, Kroaten, Bosnier, T?rken, Bulgaren, Rum?nen, Albaner und Griechen feierten letzten Sonntag den gro?en Frieden, der zur Zeit im Balkan herrscht.;;;;;;;;;;;x
+some_fake_ANY_title_12;Letter to the editor;;Brief an den Herausgeber;;;;;;;;;;;x
+some_fake_ANY_12;A reader calls attention to careless ferry pilots putting lives of passengers at risk with their reckless full speed driving and risky manoeuvres. ;;Ein Leser warnt vor leichtsinnigen F?hrenkapit?nen, die mit r?cksichtsloser Geschwindigkeit und riskanten Man?vern das Leben ihrer Passagiere riskieren.;;;;;;;;;;;x
+some_fake_ANY_title_13;The weather;;Das Wetter;;;;;;;;;;;x
+some_fake_ANY_13;Probabilities for the next week: Cloudy and rainy, with north and north-east winds and lowering temperatures. ;;Aussichten f?r n?chste Woche: Wolkig und Regen, mit Winden aus Nord und Nordost und niedrigen Temperaturen.;;;;;;;;;;;x
+some_fake_ANY_title_14;Tragic city fire;;Tragisches Feuer in Stadt;;;;;;;;;;;x
+some_fake_ANY_14;Fire Department blamed for demonstrating a lack of discipline and efficiency allowing fire to spread across multiple blocks leading to the biggest and most tragic city fire to date. ;;Feuerwache wegen fehlender Disziplin und Effizienz f?r das Ausbreiten eines Feuers ?ber mehrere H?user verantwortlich gemacht, das zum gr??ten Brand aller Zeiten in der Stadt f?hrte.;;;;;;;;;;;x
+some_fake_ANY_title_15;Fishhook robbery!;;Angel-Raub;;;;;;;;;;;x
+some_fake_ANY_15;Police inform us that a robber managed to steal a substantial amount of money from a  teller's desk at a local bank using a fishhook and a stick while the teller was being distracted by an accomplice.;;Die Polizei berichtet vom Raub eines beachtlichen Geldbetrags in lokaler Bank unter Verwendung eines Angelhakens und Stockes, w?hrend Komplize den Kassenbeamten ablenkte.;;;;;;;;;;x;
+some_fake_ANY_title_16;Let them jump!;;Lasst sie springen!;;;;;;;;;;;x
+some_fake_ANY_16;If children have to be still it's a torture for them, scientists claim. Rapid movement of body being the correct expression of joy at very young age should be encouraged not frowned upon. ;;Forscher bezeichnen das Stillsitzen m?ssen von Kindern Folter. Ausdauernde Bewegung ist wichtig zum Ausdruck von Freude f?r kleine Kinder und sollte nicht unterdr?ckt werden.;;;;;;;;;;;x
+some_fake_ANY_title_17;Wooden pavements;;H?lzerne B?rgersteige;;;;;;;;;;;x
+some_fake_ANY_17;A new describes chemical processes of hardening wood to increase its endurance beyond that of traditional building materials. Should city boards begin paving streets with wooden panels?;;Neue Untersuchung enth?llt chemische Prozesse zur H?rtung von Holz im Bauwesen. Sollte die Stadt Stra?en mit Holz pflastern?;;;;;;;;;;;x
+some_fake_ANY_title_18;Life without food?;;Leben ohne Nahrung?;;;;;;;;;;;x
+some_fake_ANY_18;A man claiming he can abstain from food for at least 30 days and retain full physical and mental fitness challenges physicians to subject his abilities to a test. ;;Ein Mann behauptet, 30 Tage ohne Nahrung bei voller k?rperlicher und geistiger St?rke ?berleben zu k?nnen, und fordert Forscher heraus, ihn zu testen.;;;;;;;;;;;x
+some_fake_ANY_title_19;Deadly fever;;Fatales Fieber;;;;;;;;;;;x
+some_fake_ANY_19;Two sailors from a brig returning from tropical areas are reported to have died of an unknown fever. They experienced severe chills followed by extreme thirst and delusions until both eventually perished.;;Zwei aus den Tropen heimkehrende Seefahrer sind an einem unbekannten Fieber gestorben. Die Symptome reichen von Sch?ttelfrost ?ber extremen Durst bis hin zu Wahnvorstellungen.;;;;;;;;;;;x
+some_fake_ANY_title_20;Artificial diamonds;;K?nstliche Diamanten;;;;;;;;;;;x
+some_fake_ANY_20;A European chemist claims by the process known only to himself he managed to coat an ordinary crystal with a surface resembling in every respect that of a real diamond. ;;Europ?ischer Chemiker behauptet, mit einem nur ihm bekannten Prozess einen normalen Kristall mit Material ummantelt zu haben, der ihn in allen Aspekten zum Diamanten macht.;;;;;;;;;;;x
+some_fake_ANY_title_22;Letter from God;;Brief von Gott;;;;;;;;;;;x
+some_fake_ANY_22;One of the poor members of our society receiving a charity letter marked as "from God" responded by giving thanks for the money received, but warns the deity against tax levy and post office theft.;;Ein armes Mitglied unserer Gesellschaft dankt dem Sender eines Almosenbriefes ?von Gott? f?r erhaltenes Geld, warnt Sender jedoch vor Steuerforderungen und Briefraub.;;;;;;;;;;;x
+some_fake_ANY_title_23;Medical news;;Medizin-Neuheiten;;;;;;;;;;;x
+some_fake_ANY_23;Top European doctors have speculated that smoke from factory stacks could be responsible for the increased level of respiratory problems seen amongst children.;;F?hrende europ?ische ?rzte verd?chtigen Rauch aus Fabrikschloten als Ursache f?r Zunahme von Atemst?rungen unter Kindern.;;;;;;;;;;;x
+some_fake_ANY_title_24;Vampyre hysteria;;Vampir-Hysterie;;;;;;;;;;;x
+some_fake_ANY_24;Another outbreak of vampyre hysteria has occurred in Romanian lands. Superstitious peasants have taken to daubing their necks with garlic in a bid to ward off the nefarious ghouls.;;Ein neuer Fall von Vampir-Hysterie in Rum?nien. Abergl?ubische Passanten schmieren Nacken mit Knoblauch ein, zum Schutz vor b?sartigen Ghulen.;;;;;;;;;;;x
+some_fake_ANY_title_25;Wolves kill four;;W?lfe t?ten vier;;;;;;;;;;;x
+some_fake_ANY_25;A pack of wolves raided a town in Siberia last week and killed four of the inhabitants. Armed policemen have been dispatched to the area to hunt down the lupine beasts.;;Ein Wolfsrudel ?berfiel letzte Woche ein Dorf in Sibirien und t?tete vier Einwohner. Bewaffnete Polizeikr?fte jagen die Bestien.;;;;;;;;;;;x
+some_fake_ANY_title_26;Horrific puppets;;Schreckliche Puppen;;;;;;;;;;;x
+some_fake_ANY_26;Ghastly puppets have become a generally accepted part of daily life. The latest terrifying abomination to make its presence felt is a smiling wooden boy with a fixed grin, styled ?Bimbo?.;;Schreckliche Puppen finden mehr Akzeptanz. Neueste Abartigkeit ist ein debil grinsender Holzjunge im Bimbo-Stil.;;;;;;;;;;;x
+some_fake_ANY_title_27;Drinking contest;;Trinkwettbewerb;;;;;;;;;;;x
+some_fake_ANY_27;Irish-man Bill Whelan bested rivals from Russia and Scotland in an alcohol-consuming contest in New York last week. He attributed his victory to ?sheer love of booze? from his hospital bed.;;Der Ire Bill Whelan schl?gt in New York Rivalen aus Russland und Schottland in einem Alkohol-Trinkwettbewerb. Den Sieg schrieb er vom Krankenbett aus der ?Liebe zum Fusel? zu.;;;;;;;;;;;x
+some_fake_ANY_title_28;Oldest man;;?ltester Mann;;;;;;;;;;;x
+some_fake_ANY_28;Respected gentleman Jimmy Williams has been named oldest man alive. Williams, from American?s deep south, politely entreated reporters from this news-paper to remove themselves from his lawn.;;Der respektierte Gentleman Jimmy Williams wurde zum ?ltesten lebenden Mann ernannt. Williams, aus dem tiefsten S?den Amerikas, bat unsere Reporter h?flich, sein Land zu verlassen.;;;;;;;;;;;x
+some_fake_ANY_title_29;BANK ROBBERY!;;BANKRAUB!;;;;;;;;;;;x
+some_fake_ANY_29;Local bank in $ANYPROVINCE$ has been invaded by a masked gang of ne'er-do-wells. The police are searching for the criminals and is granting a reward for any information leading to their capture.;;Lokale Bank in $ANYPROVINCE$ von maskierter Gang ?berfallen. Die Fahndung nach den Kriminellen l?uft, eine Belohnung f?r Informationen, die zur Ergreifung f?hren, wurde ausgesprochen.;;;;;;;;;;;x
+some_fake_ANY_title_30;Piano Cat on tour;;Klavierkatze auf Tour;;;;;;;;;;;x
+some_fake_ANY_30;The famous feline pianist known simply as the Piano Cat is scheduled to arrive in $OURCAPITAL$ this week. The cat artist is expected to play a series of classical pieces.;;Die als Klavierkatze ber?hmte Katzenpianistin wird diese Woche in $OURCAPITAL$ ankommen. Sie soll eine Reihe klassischer St?cke spielen.;;;;;;;;;;;x
+some_fake_ANY_title_31;Special Lectures;;Spezial-Vorlesungen;;;;;;;;;;;x
+some_fake_ANY_31;The Council of Science of $OURCAPITAL$ is to present a series of special lectures on the origins of civilisation in the Fertile Crescent. Special presentations of pottery shards from Tyre are planned.;;Der Wissenschaftsrat von $OURCAPITAL$ wird eine Reihe von Spezial-Vorlesungen zu den Urspr?ngen der Zivilisation im Fruchtbaren Halbmond halten. Eine Pr?sentiation von Tonscherben aus Tyros ist eingeplant.;;;;;;;;;;;x
+some_fake_ANY_title_32;HEED! HEED!;;ACHTUNG! ACHTUNG!;;;;;;;;;;;x
+some_fake_ANY_32;A storm of gigantic proportions is incoming. Instructions from Public Safety officials are: Do not sweep any chimneys during the storm. Accidents may occur if this warning is not heeded.;;Ein Sturm von gigantischem Ausma? wird erwartet. Offizielle der ?ffentlichen Sicherheit raten: Reinigt keine Kamine w?hrend des Sturms, andernfalls drohen Unf?lle.;;;;;;;;;;;x
+some_fake_ANY_title_34;Trade Summit;;Handels-Gipfeltreffen;;;;;;;;;;;x
+some_fake_ANY_34;Current European and International Tariffs as well as protectionist practices will be discussed next Thursday in $OURCAPITAL$.;;Aktuelle europ?ische und internationale Z?lle und Schutzma?nahmen werden n?chsten Donnerstag in $OURCAPITAL$ diskutiert.;;;;;;;;;;;x
+some_fake_ANY_title_35;Postal Convention;;Tagung der Post;;;;;;;;;;;x
+some_fake_ANY_35;Today $OURCOUNTRY_ADJ$ and foreign authorities are assembled to discuss postage fees for all letters sent overseas.;;$OURCOUNTRY_ADJ$ und ausl?ndische Offizielle diskutieren heute Postgeb?hren f?r ?berseebriefe.;;;;;;;;;;;x
+some_fake_ANY_title_36;Modern Coal Trade;;Moderner Kohlehandel;;;;;;;;;;;x
+some_fake_ANY_36;The free trade of coal for railway locomotives and eventually seafaring ships in the western world is being discussed today at the local Chamber of Commerce.;;Die Handelskammer diskutiert heute ?ber den freien Kohlehandel f?r Lokomotiven und Schifffahrt in der westlichen Welt.;;;;;;;;;;;x
+some_fake_ANY_title_37;Unlikely to become Cardinal;;Wird wohl nicht Kardinal;;;;;;;;;;;x
+some_fake_ANY_37;Unofficial comments from Pope's inner circle in Vatican denounce the rumors of the coming elevation of Archbishop as premature.;;Inoffizielle Kommentare aus dem inneren Zirkel des Papstes im Vatikan nennen Ger?chte zu geplanter Bef?rderung des Erzbischofs vorschnell.;;;;;;;;;;;x
+some_fake_ANY_title_38;General's funeral.;;General-Beerdigung;;;;;;;;;;;x
+some_fake_ANY_38;A former general and banker who died at his house last week to be buried today. Only his intimate friends will be present at the ceremony.;;Ein Ii seinem Haus verstorbener, fr?herer General und Banker wird heute im engsten Freundeskreis beerdigt. ;;;;;;;;;;;x
+some_fake_ANY_title_39;Mountain top birth;;Geburt auf Berggipfel;;;;;;;;;;;x
+some_fake_ANY_39;A woman who fell ill during ascension to the mountain top was taken by her two companions to a shelter 4000 feet above sea level to give birth to a healthy boy.;;W?hrend Bergaufstiegs erkrankte Frau wird von zwei Begleitern zu Schutzh?tte auf 4000 Metern gebracht und bringt gesunden Jungen zur Welt.;;;;;;;;;;;x
+some_fake_ANY_title_40;Moral expansion?;;Moralische Ausdehnung?;;;;;;;;;;;x
+some_fake_ANY_40;Can we allow history to record that we crushed foreign peoples' dreams of freedom by subjugating them to our government? Can we govern them without their consent?;;Ist es rechtens, den Traum nach Freiheit ausl?ndischer V?lker von unserer Regierung zu unterdr?cken und sie ohne ihre Zustimmung zu regieren?;;;;;;;;;;;x
+some_fake_ANY_title_41;Blackmailer arrested.;;Erpresser verhaftet.;;;;;;;;;;;x
+some_fake_ANY_41;A former actor and an alleged deserter from the army was today jailed for annoying a famous actress with requests for money.;;Ehemaliger Schauspieler und mutma?l. Deserteur der Armee heute verhaftet wegen Geldforderungen an bekannter Schauspielerin.;;;;;;;;;;;x
+some_fake_ANY_title_42;Skirting evil;;B?se Rockl?nge;;;;;;;;;;;x
+some_fake_ANY_42;Fashion cannot dictate the dust of the sidewalks to be dragged into homes, a physician claims, and demands women abandon the new trend of wearing trailing skirts for health reasons.;;Mode sollte den Staub der Stra?en nicht ins Heim tragen. Mediziner fordert von Frauen aus Gesundheitsgr?nden, den neuen Trend der Schleppenr?cke nicht mitzumachen.;;;;;;;;;;;x
+some_fake_ANY_title_43;Faith cure kills child;;Heilung durch Gebet  t?tet Kind;;;;;;;;;;;x
+some_fake_ANY_43;A 12 yearsold girl sick with dysentery died at a local hospital after parents replaced the family physician with a faith doctor.;;12 Jahre altes M?dchen stirbt in Krankenhaus, nachdem Eltern den Familienarzt durch Prediger ersetzen.;;;;;;;;;;;x
+some_fake_ANY_title_44;Respect of Yardies gained!;;Respekt der Yardies verdient!;;;;;;;;;;;x
+some_fake_ANY_44;A local man from $ANYPROVINCE$ reports having beat down many men armed with rifles in a local pub. The man claimd the assailants put themselves at a disadvantage by using weapons.;;Einwohner von $ANYPROVINCE$ schl?gt mit Gewehren bewaffnete M?nner in Bar. Er behauptet, die Waffen waren ihr Nachteil.;;;;;;;;;;;x
+some_fake_ANY_title_45;Article review;;Artikel-Review;;;;;;;;;;;x
+some_fake_ANY_45;All newspaper articles to be subjected to a review by a special board to confirm their accuracy and truthfulness. In unrelated news: The journalist writing about wooden pavements has vanished.;;Alle Nachrichten werden von einem speziellen Team auf Genauigkeit und Wahrheit gepr?ft. Davon unabh?ngig: Journalist, der von h?lzernem Stra?enbelag berichtete, wird vermisst.;;;;;;;;;;;x
+some_fake_ANY_title_46;Law discussed;;Gesetz-Diskussion;;;;;;;;;;;x
+some_fake_ANY_46;Lawyers from all over the country convened today in $OURCAPITAL$ to discuss eventual updates to the country's judiciary system in matters of civil and criminal law.;;Anw?lte aus gesamtem Land trafen sich heute in $OURCAPITAL$, um m?gliche Gesetzesaktualisierungen im zivilen und Straf-Recht zu diskutieren.;;;;;;;;;;;x
+some_fake_ANY_title_48;The history of $OURCOUNTRY$;;Die Geschichte von $OURCOUNTRY$;;;;;;;;;;;x
+some_fake_ANY_48;A definitive multivolume work on the history of the $OURCOUNTRY_ADJ$ civilization has finally been completed. Leading historians proclaim it the greatest reference yet, true to our heroic deeds.;;Ein mehrere B?nder umfassendes Werk zur Geschichte der $OURCOUNTRY_ADJ$ Zivilisation wurde fertiggestellt. F?hrende Historiker nennen es die beste Referenz all unserer heroischen Taten.;;;;;;;;;;;x
+some_fake_ANY_title_49;Bach Concert;;Bach-Konzert;;;;;;;;;;;x
+some_fake_ANY_49;A dash of nostalgia for all enthusiasts of music. A collection of Bach's most famous pieces will be played by the $OURCOUNTRY_ADJ$ National Orchestra next week in the Grand Concert Hall of $OURCAPITAL$. ;;Nostalgie f?r alle Musikliebhaber. Eine Sammlung von Bachs bekanntesten Werken wird n?chste Woche vom $OURCOUNTRY_ADJ$ National-Orchester in der Konzerthalle von $OURCAPITAL$ aufgef?hrt.;;;;;;;;;;;x
+some_fake_ANY_title_50;Stone delivered;;Stein geliefert;;;;;;;;;;;x
+some_fake_ANY_50;Inhabitants of $ANYPROVINCE$ puzzled by the delivery of gigantic pieces of marble from abroad. Rumour has it that a new grandiose monument will be built in the capital's main square.;;Einwohner von $ANYPROVINCE$ beeindruckt von einer Lieferung gigantischer Marmorbl?cke von ?bersee. Ger?chten zufolge wird ein neues, grandioses Monument auf dem Marktplatz der Hauptstadt errichtet.;;;;;;;;;;;x
+some_fake_ANY_title_51;Mechanical contraptions;;Mechanische Ger?te;;;;;;;;;;;x
+some_fake_ANY_51;Gadgets of various sorts will play an increasingly large part in everyday life, according to a top boffin who heads the engineering department at $OURCAPITAL$ university.;;Wichtiger Wissenschaftler der Ingenieurs-Abteilung der Universit?t von $OURCAPITAL$ sieht verschiedene Neuheiten von gro?er Bedeutung f?r den Alltag.;;;;;;;;;;;x
+some_fake_ANY_title_52;Blacksmith dead;;Schmied tot;;;;;;;;;;;x
+some_fake_ANY_52;A blacksmith was kicked to death by a horse he was attempting to shoe in $ANYPROVINCE$ yesterday.;;Schmied bei Hufanpassungen von Pferd in $ANYPROVINCE$ gestern zu Tode getreten.;;;;;;;;;;;x
+some_fake_ANY_title_53;Solar eclipse;;;;;;;;;;;;;
+some_fake_ANY_53;Readers are politely reminded that a solar eclipse is due to occur this coming Friday. The temporary phenomenon is no cause for panic or work stoppages.;;;;;;;;;;;;;
+some_fake_ANY_title_54;Monocle sales plateau;;;;;;;;;;;;;
+some_fake_ANY_54;Monocle sales, which have been rising for decades, appear to have levelled out. Orders have held steady through the last quarter.;;;;;;;;;;;;;
+some_fake_ANY_title_55;Time travel;;;;;;;;;;;;;
+some_fake_ANY_55;A prominent author of penny dreadfuls has put forth the idea that man could move backwards and forwards through time, appearing at various dates in the past and present.;;;;;;;;;;;;;
+some_fake_ANY_title_56;Literacy;;;;;;;;;;;;;
+some_fake_ANY_56;Literacy is at an all-time high across the globe, new figures show. Previously the preserve of the clergy and noble classes, it is now seen even amongst the common labourer and fairer sex.;;;;;;;;;;;;;
+some_fake_ANY_title_57;Public 'science' lecture;;;;;;;;;;;;;
+some_fake_ANY_57;Aspiring natural philosophers are advised that a lecture on geology, or the study of rock formations, will take place in the $OURCAPITAL$ auditorium on Tuesday next. Admission is '1.;;;;;;;;;;;;;
+some_fake_ANY_title_58;Meeting interrupted;;;;;;;;;;;;;
+some_fake_ANY_58;A political club was invaded by campaigners for equality of the sexes yesterday. The womens' husbands have been reprimanded by the constabulary for neglecting to control their wives.;;;;;;;;;;;;;
+some_fake_ANY_title_59;The Jew;;;;;;;;;;;;;
+some_fake_ANY_59;The Jew maintains a stiff upper lip, has a strong sense of fair play and is an advocate of liberty. Inventive, graceful and witty, he cuts a striking figure amongst the nationalities.;;;;;;;;;;;;;
+some_fake_ANY_title_60;Wave of Influenza;;;;;;;;;;;;;
+some_fake_ANY_60;Flu sweeps $OURCOUNTRY$. There are already many reported infections throughout the land. Laymen fear a pandemic might be coming, while experts assure it's just a seasonal occurrence.;;;;;;;;;;;;;
+some_fake_ANY_title_61;Hoarde uncovered;;;;;;;;;;;;;
+some_fake_ANY_61;The remnants of an old coin hoard were found in $ANYPROVINCE$ this week. Authorities mention many pieces of golden coinage discovered by a farmer plowing a field after heavy rain.;;;;;;;;;;;;;
+some_fake_ANY_title_62;Metric Nonsense;;;;;;;;;;;;;
+some_fake_ANY_62;According to a British statesman, the Imperial System is the way of the future: 'This French Metric nonsense is bound to never catch on' he claims.;;;;;;;;;;;;;
+EVTNAME1010011;The Great Scottish Famine;;;;;;;;;;;;;
+EVTDESC1010011;For years, British committees have looked into the situation in Scotland and predicted disaster: the Scottish farmers had become more and more dependent on their potato crop, and if anything were to happen to that crop it would cause not only widespread chaos throughout the Scottish economy but famine and worse. Their predictions have come true. A blight has been spreading, leading to failure after failure of the Scottish potato harvest. Proponents of laissez-faire economics are adamant that the market will provide food for those affected, and that the government should not interfere in private enterprise. Others claim that no expense is too high to help the Scottish, and that failure to act quickly will lead to starvation and resentment... but conservatives are quick to dismiss this as inflammatory nonsense.;;;;;;;;;;;;;
+EVT1010011OPTA;Do whatever it takes to help them.;;;;;;;;;;;;;
+EVT1010011OPTB;Give them what aid we can.;;;;;;;;;;;;;
+EVT1010011OPTC;We must not interfere in the markets.;;;;;;;;;;;;;
+EVTDESC1010011_NEWS_LONG;Troublesome reports arrive from Scotland of what appears to be a widespread shortage in agricultural products gripping the territory and establishing a situation of famine among the population. While reports vary as to the severity of the situation, tales of entire harvests of potato being rendered useless by the potato blight illness set the stage for what some are dubbing 'the beginning of a calamity' due to the tuber's importance in the Scottish diet. $COUNTRY$ response to the reports has so far been indecisive, and many wonder how the situation will evolve.;;;;;;;;;;;;;
+EVTDESC1010011_NEWS_MEDIUM;Reports arrive from Scotland of a shortage in agricultural products establishing a famine in the region, with tales of entire harvests of potato being rendered useless. $COUNTRY$ response to the reports has so far been indecisive as many wonder how the situation will evolve.;;;;;;;;;;;;;
+EVTDESC1010011_NEWS_SHORT;Reports come from Scotland of a shortage in agricultural products causing a famine in the region. With tales of entire harvests rendered useless, many call on the government to take action.;;;;;;;;;;;;;
+EVTNAME1010012;Scottish Famine Spreads;;;;;;;;;;;;;
+EVTDESC1010012;The blight affecting the Scottish potato crop has spread to $STATENAME$. With the local harvest quickly failing, the effects are already being felt -- poor Scottish peasants are walking the streets of $PROVINCENAME$, begging for government aid which never arrives, and many are obviously considering making their way to the New World out of desperation.;;;;;;;;;;;;;
+EVT1010012OPTA;Our choice has been made.;;;;;;;;;;;;;
+EVTDESC1010013;The blight affecting the Scottish potato crop has spread to $STATENAME$. With the local harvest quickly failing, the effects are already being felt -- poor Scottish peasants are walking the streets of $PROVINCENAME$, barely subsisting on the limited cornmeal handouts offered by the government, and many are obviously considering making their way to the New World out of desperation.;;;;;;;;;;;;;
+EVTDESC1010014;The blight affecting the Scottish potato crop has spread to $STATENAME$. With the local harvest quickly failing, the effects are already being felt -- in $PROVINCENAME$, the Scottish are gathering in large crowds to receive aid sent by the British government. While they are grateful, times are still incredibly difficult and it's clear many are considering leaving Scotland to take their chances in the New World.;;;;;;;;;;;;;
+EVTNAME1010015;The Young Scottish Rebellion;;;;;;;;;;;;;
+EVTDESC1010015;An aborted attempt at an uprising recently took place in the village of Lanark, Scotland. A group of Scottish nationalists, frustrated by what they call the inept handling of the recent famine by the British government, engaged in a long gunfight with a unit of constabulary until reinforcements arrived and drove the men off. Many of these nationalists have since been captured and tried, but the event has sparked an increase in nationalism across the region.;;;;;;;;;;;;;
+EVT1010015OPTA;Outrageous!;;;;;;;;;;;;;
+EVTNAME1010016;Scotland's Opportunity;;;;;;;;;;;;;
+EVTDESC1010016;Not content to wait until the dust of the war has settled, nationalists in Scotland have taken to the streets of $PROVINCENAME$ to call for the end of $COUNTRY_ADJ$ rule. With our forces engaged elsewhere, their calls have quickly swept across all of $STATENAME$.;;;;;;;;;;;;;
+EVT1010016OPTA;When the war is done, there shall be consequences.;;;;;;;;;;;;;
+EVTNAME1010020;The Scottish Republican Brotherhood;;;;;;;;;;;;;
+EVTDESC1010020;The tone among the people in our Scottish territories has changed. Many Scottish nationalist who emigrated to the United States founded a militant organization called the Alban Brotherhood there, a group dedicated to freeing Scotland from $COUNTRY_ADJ$ control... and now they have formed a sister organization back home, the Scottish Republican Brotherhood. Already they are stirring up trouble, and it seems certain they will continue until some manner of home rule is attained.;;;;;;;;;;;;;
+EVT1010020OPTA;Perhaps the time has come to examine the Scottish situation.;;;;;;;;;;;;;
+EVTNAME1010021;Alban in $PROVINCENAME$;;;;;;;;;;;;;
+EVTDESC1010021;We've received reports that the Scottish Republican Brotherhood has been active in $PROVINCENAME$, spreading propaganda and generally stirring up agitation against the $COUNTRY_ADJ$ government. The constabulary in $STATENAME$ has been actively hunting these nationalists down, but considering many within the constabulary are Scottish themselves the process has not been simple.;;;;;;;;;;;;;
+EVT1010021OPTA;This is a serious issue.;;;;;;;;;;;;;
+EVTNAME1010022;Alban Revolt in $PROVINCENAME$;;;;;;;;;;;;;
+EVTDESC1010022;The Scottish Republican Brotherhood has stirred up local resentment in $PROVINCENAME$, resulting in several riots and a renewed campaign against $COUNTRY_ADJ$ rule in Scotland.;;;;;;;;;;;;;
+EVT1010022OPTA;This simply makes things far more difficult.;;;;;;;;;;;;;
+EVTNAME1010023;The Easter Rising;;;;;;;;;;;;;
+EVTDESC1010023;In an event organized by the Scottish Republican Brotherhood, a group of Scottish nationalists seized key locations in the city of $PROVINCENAME$ on Easter Monday, kicking off the most significant uprising in Scotland since the rebellion of 1798.;;;;;;;;;;;;;
+EVT1010023OPTA;This calls for decisive action.;;;;;;;;;;;;;
+EVT1010023OPTB;Due process must be followed, no matter the cost.;;;;;;;;;;;;;
+EVTNAME1010024;The Sinn Fhìn Demand;;;;;;;;;;;;;
+EVTDESC1010024;Spurred on by increased public sympathy towards the Scottish Republican Brotherhood following the Easter Rising, the Sinn Fhìn have won a majority of seats in Scotland during the last election. They have gathered in Glasgow and declared themselves Pàrlamaid na h-Alba, the parliament of Scotland, and demanded that Scotland be granted immediate full independence. Considering their popularity, refusing would all but certainly trigger a war... but many agree that this is not the way to a peaceful resolution, and that $COUNTRY$ should never submit to such demands.;;;;;;;;;;;;;
+EVT1010024OPTA;We will not be negotiated with at gunpoint.;;;;;;;;;;;;;
+EVT1010024OPTB;Grant them independence.;;;;;;;;;;;;;
+EVTNAME1010025;The Anglo-Scottish Treaty;;;;;;;;;;;;;
+EVTDESC1010025;With Scotland once again under our control, talks have begun in earnest to deal with the Scottish situation once and for all... now on our terms, rather than on theirs. The suggestion is that Scotland remain an autonomous Dominion under our control, with any regions that wish to opt out of the new state and remain part of $COUNTRY$ able to do so. Others suggest this is unworkable, and we should either simply release them and keep them as allies or annex them entirely.;;;;;;;;;;;;;
+EVT1010025OPTA;They shall become an autonomous Dominion.;;;;;;;;;;;;;
+EVT1010025OPTB;They shall become a free ally.;;;;;;;;;;;;;
+EVT1010025OPTC;They are part of $COUNTRY$. Annex them.;;;;;;;;;;;;;
+EVTNAME1010030;Craig Donaldson;;;;;;;;;;;;;
+EVTDESC1010030;An Anglo-Scottish politician by the name of Craig Donaldson has just been elected to Parliament. Some are describing him as a firebrand and nationalist agitator, while others suggest he's a man of remarkable charisma and organizational talent -- able to take on the entirety of the $COUNTRY_ADJ$ political system in order to push his Scottish Home Rule agenda and succeed. It's very possible that this man could single-handedly turn the tide of opinion on the subject of Home Rule.;;;;;;;;;;;;;
+EVT1010030OPTA;Keep him contained. We don't want trouble.;;;;;;;;;;;;;
+EVT1010030OPTB;Encourage him. He'll do good work.;;;;;;;;;;;;;
+EVTNAME1010031;The $STATENAME$ Volunteers;;;;;;;;;;;;;
+EVTDESC1010031;With Craig Donaldson putting forward his Home Rule agenda, $COUNTRY_ADJ$ citizens in $PROVINCENAME$ have become increasingly concerned that they might end up in an independent Scottish state -- one dominated by Scottish Catholics in Glasgow. They have begun actively campaigning to ensure this doesn't happen.;;;;;;;;;;;;;
+EVT1010031OPTA;Yet more trouble in Scotland?;;;;;;;;;;;;;
+EVTNAME1010032;Scottish Home Rule;;;;;;;;;;;;;
+EVTDESC1010032;Craig Donaldson has been successfully advancing his Home Rule Bill through Parliament, and while it is continually being held up by opposition from the Upper House, there is a sense that the man is managing to convince $COUNTRY_ADJ$ law-makers who -- in the not-too-distant past -- might have said that Home Rule was unthinkable. \n\nNow we must consider whether his vision will see the light of day: do we grant Scotland the status of an autonomous Dominion under our control, or put this aside and face renewed violence among the Scottish? Either way, this man Donaldson will not desist, and the question will keep coming before us even if we do not pass the Bill now.;;;;;;;;;;;;;
+EVT1010032OPTA;Pass the bill and give them Home Rule.;;;;;;;;;;;;;
+EVT1010032OPTB;There shall be no independence for Scotland.;;;;;;;;;;;;;
+EVT1010032OPTC;Onward to Scotland! (Play as Scotland);;;;;;;;;;;;;
+EVTNAME1010033;Kitty O'Shea;;;;;;;;;;;;;
+EVTDESC1010033;The revelation that Craig Donaldson has been involved with a married woman, one Catherine O'Shea, and indeed is responsible for her subsequent divorce, was the scandal that ended his political career and prevented him from pushing the Home Rule agenda. Without him, it appears unlikely that the Scottish Republican movement will gain the political clout it requires to attempt another passing of the Home Rule Bill.;;;;;;;;;;;;;
+EVT1010033OPTA;Unfortunate. For the Scottish, I mean.;;;;;;;;;;;;;
+EVTDESC1010015_NEWS_LONG;Tensions came to a boil in the village of Lanark in Scotland as the famine affecting the region reaches catastrophic proportions. A group calling themselves the 'Young Scotlanders' rose in rebellion against the British authorities, raising barricades and facing the police in a stand off that lasted several hours before police reinforcements lead the rebels to flee. As the manhunt for the rebel leaders continue, many are believed to have escaped to France and USA. The british government has dubbed the rebellion as 'an outrageous attempt to subvert law and order'.;;;;;;;;;;;;;
+EVTDESC1010015_NEWS_MEDIUM;Tensions came to a boil in the village of Lanark in Scotland where a group called the 'Young Scotlanders' rose in rebellion against British authorities, facing the police in a stand off that lasted several hours before police reinforcements forced the rebels to flee.;;;;;;;;;;;;;
+EVTDESC1010015_NEWS_SHORT;In Scotland, a group called the 'Young Scotlanders' rose against the British authorities, facing the police in a stand off before police reinforcements forced the rebels to flee.;;;;;;;;;;;;;
+EVTDESC1010020_NEWS_LONG;The tone among the people in Scotland has changed. Many Scottish nationalist who emigrated to the United States founded a militant organization called the Alban Brotherhood there, a group dedicated to freeing Scotland from British control... and now they have formed a sister organization back home, the Scottish Republican Brotherhood. Already they are stirring up trouble, and it seems certain they will continue until some manner of home rule is attained.;;;;;;;;;;;;;
+EVTDESC1010020_NEWS_MEDIUM;Many Scottish nationalist who emigrated to the United States founded a militant organization called the Alban Brotherhood there, a group dedicated to freeing Scotland from British control... and now they have formed a sister organization back home, the Scottish Republican Brotherhood.;;;;;;;;;;;;;
+EVTDESC1010020_NEWS_SHORT;Scottish nationalists who immigrated to the United States founded the radical Alban Brotherhood. Now they have formed a sister organization back home: the Scottish Republican Brotherhood.;;;;;;;;;;;;;
+EVTDESC1010024_NEWS_LONG;Spurred on by increased public sympathy towards the Scottish Republican Brotherhood following the Easter Rising, the Sinn Fhìn have won a majority of seats in Scotland during the last election. They have gathered in Glasgow and declared themselves Pàrlamaid na h-Alba, the parliament of Scotland, and demanded that Scotland be granted immediate full independence. Considering their popularity, refusing would all but certainly trigger a war... but many agree that this is not the way to a peaceful resolution, and that $COUNTRY$ should never submit to such demands.;;;;;;;;;;;;;
+EVTDESC1010024_NEWS_MEDIUM;The Sinn Fhìn have won a majority of seats in Scotland during the last election. They gathered in Glasgow and declared themselves the parliament, and demanded that Scotland be granted immediate independence. Considering their popularity, refusing would all but certainly trigger a war.;;;;;;;;;;;;;
+EVTDESC1010024_NEWS_SHORT;The Sinn Fhìn have won a majority of seats in Scotland during the last election. They gathered in Glasgow and demanded that Scotland be granted immediate independence.;;;;;;;;;;;;;
+EVTDESC1010025_NEWS_LONG;With Scotland once again under British control, talks have begun in earnest to deal with the Scottish situation once and for all... now on British terms, rather than on theirs. The suggestion is that Scotland remain an autonomous Dominion under British control, with any regions that wish to opt out of the new state and remain part of $COUNTRY$ able to do so. Others suggest this is unworkable, and the British should either simply release them and keep them as allies or annex them entirely.;;;;;;;;;;;;;
+EVTDESC1010025_NEWS_MEDIUM;With Scotland once again under British control, talks have begun in earnest to deal with the Scottish situation once and for all... now on British terms, rather than on Scotland's.;;;;;;;;;;;;;
+EVTDESC1010025_NEWS_SHORT;With Scotland once again under British control, talks have begun in earnest to deal with the Scottish situation once and for all... now on British terms, rather than on Scotland's.;;;;;;;;;;;;;
+EVTDESC1010032_NEWS_LONG;Craig Donaldson has been successfully advancing his Scottish Home Rule Bill through the British Parliament, and while it is continually being held up by opposition from the Upper House, there is a sense that the man is managing to convince $COUNTRY_ADJ$ law-makers who -- in the not-too-distant past -- might have said that Home Rule was unthinkable.;;;;;;;;;;;;;
+EVTDESC1010032_NEWS_MEDIUM;Craig Donaldson has been successfully advancing his Scottish Home Rule Bill through the British Parliament. There is a sense that the man is managing to convince $COUNTRY_ADJ$ law-makers who -- in the not-too-distant past -- might have said that Home Rule was unthinkable.;;;;;;;;;;;;;
+EVTDESC1010032_NEWS_SHORT;Craig Donaldson has been successfully advancing his Scottish Home Rule Bill through British Parliament. The man is convincing law-makers who might have once deemed Home Rule unthinkable.;;;;;;;;;;;;;
+irish_republicans;Scottish Republicans;;;;;;;;;;;;;
+irish_republicans_desc;Down with the monarchy! A Scottish Free State is the only solution!;;;;;;;;;;;;;
+irish_unionists;Scottish Unionists;;;;;;;;;;;;;
+irish_unionists_desc;Scotland is a part of the United Kingdom, now and forever more! We will not turn our back on the monarchy!;;;;;;;;;;;;;
+irish_potato_blight;Potato Blight;;;;;;;;;;;;;
+irish_potato_blight_desc;Famine spreads as crops lie, dead and rotting, in our fields.;;;;;;;;;;;;;
+EVTNAME16010;Outker Visser's Last Raid;;;;;;;;;;;;;
+REMOVE_EVTDESC16010;Outker Visser's body lies a-mouldering in the grave, but his soul is marching on.'--Outker Visser's Body, Union Marching song\n\nThe famed hero of the abolitionist movement, the late Outker Visser, was hanged in $PROVINCENAME$ today after a failed raid on a military armory. Supposedly, Visser had planned to use the arsenal's weapons to arm slaves and incite an open slave rebellion across the entire south. The raid, and Outker Visser's death, have furthered escalated southern tension over the slavery issue, and in some slave-states there is now even talk of secession from the Union.;;;;;;;;;;;;;
+EVTOPTA16010;His soul is, indeed, marching on.;;;;;;;;;;;;;
+EVTNAME1000;Socialists;;;;;;;;;;;;;
+EVTDESC1000;Haal Sigemundov has published The Communist Manifesto, which has led to workers in $COUNTRY$ to found a party dedicated to advancing the agenda laid out therein. They call themselves socialists and believe in a land ruled by the workers, where the workers control the means of production. Equality, justice, solidarity and democracy are other vital points in the socialists ideology.;;;;;;;;;;;;;
+EVTOPTA1000;Workers of the world, Unite!;;;;;;;;;;;;;
+EVTNAME952503;The Frisian Proposal;;;;;;;;;;;;;
+EVTDESC952503;The Frysk approached us about our protectorate in the Adaman Islands. We long had disputes and issues as who is the rightful protector of the territories occupied by the Sultanate of Adaman, as well as other emerging conflicts in Asia. They are willing to trade a colony with us and settle our disputes if we relinquish our protectorate over Adaman. \n\n?RNOTE: Make sure the Frysk own provinces in India if you select the second option.?W;;;;;;;;;;;;;
+EVT952503OPTA;Let them have it, we don't need anything in exchange.;;;;;;;;;;;;;
+EVT952503OPTB;Their possessions in India would make a nice deal.;;;;;;;;;;;;;
+EVT952503OPTC;Pacific islands will do.;;;;;;;;;;;;;
+EVT952503OPTD;Adaman is not for sale.;;;;;;;;;;;;;
+EVTNAME952504;The $FROMCOUNTRY_ADJ$ Have Agreed;;;;;;;;;;;;;
+EVTDESC952504;$FROMCOUNTRY_ADJ$ diplomats inform us our request was granted, and that we may overthrow the Sultanate of Adaman. They didn't even ask for anything in return.;;;;;;;;;;;;;
+EVT952504OPTA;Wonderful News! Make the necessary arrangements.;;;;;;;;;;;;;
+EVT952504OPTB;We are not interested in this anymore.;;;;;;;;;;;;;
+EVTNAME952508;The Yndyaanske Treaty of $YEAR$;;;;;;;;;;;;;
+EVTDESC952508;The Frysk agreed to our demands and are transferring ownership of their colonies in India to us.;;;;;;;;;;;;;
+EVTDESC952506;$FROMCOUNTRY_ADJ$ diplomats returned with their government demands: they want some of our Pacific colonies in exchange for letting us get Adaman without interference. They won't help us couping the Sultanate, but at least they will not get in our way and will work so other Great Powers don't get in your way.;;;;;;;;;;;;;
+EVT952505OPTB;These demands are an outrage! We will never agree to this.;;;;;;;;;;;;;
+EVTNAME952506;The $FROMCOUNTRY_ADJ$ Proposal;;;;;;;;;;;;;
+EVTNAME952509;The $COUNTRY_ADJ$ - $FROMCOUNTRY_ADJ$ Treaty of $YEAR$;;;;;;;;;;;;;
+EVTDESC952509;The Frysk agreed to transfer ownership of some Pacific colonies to us. The diplomats made the necessary arrangements and the colonies are already in our power.;;;;;;;;;;;;;
+EVTNAME952507;The $FROMCOUNTRY_ADJ$ Refuse;;;;;;;;;;;;;
+EVTDESC952507;$FROMCOUNTRY_ADJ$ diplomats informed us that their government reject our most reasonable offers, and that their protectorate over the Sultanate of Adaman will continue.;;;;;;;;;;;;;
+EVT952507OPTA;They will regret this.;;;;;;;;;;;;;
+EVTNAME952505;The Yndyaanske Proposal;;;;;;;;;;;;;
+EVTDESC952505;$FROMCOUNTRY_ADJ$ diplomats returned with their government demands: they want out possessions in Trankebar of India, a colony they long claim and covet, in exchange for letting us get Adaman without interference. They won't help us couping the Sultanate, but at least they will not get in our way and will work so other Great Powers don't get in your way.;;;;;;;;;;;;;
+EVTNAME952510;Negotiations Break Up;;;;;;;;;;;;;
+EVTDESC952510;Our negotiations over our colonial disputes regarding the Adaman Sultanate and the Frysk colonies in Asia came to a halt as the Frysk government refused all of our offers. Our relation will suffer because of this.;;;;;;;;;;;;;
+EVT952510OPTA;A pity.;;;;;;;;;;;;;
+the_aceh_question_title;The Adaman Question;;;;;;;;;;;;;
+the_aceh_question_desc;For much of the 19th century, Adaman's ownership by the Norse had been guaranteed by the Vinlandic-Frysk Treaty of 1824 and its status as a protectorate of Vinland since the late 1700s. During the 1820s, the Sultanate of Adaman became a regional political and commercial power, supplying half of the world's pepper, which increased the revenues and influence of local feudal rajahs. Following the opening of the Suez Canal, the trade routes shifted and we are now in a position to strike a deal with the civilized protectors of the Adaman: allow us a free hand within their sphere of influence in Maritime Southeast Asia while we also take the responsibility to fight piracy in the region. With this deal we might get their sanction to conquer Adaman, though we should be ready to give something in return, most probably a colony.;;;;;;;;;;;;;
+recognize_chechenya_title;Officially Recognize Chechnya;;;;;;;;;;;;;
+recognize_chechenya_desc;We will extend formal recognition of Chechnya, opening an embassy in their capital and formally establishing relations. The Gardtaveldi will, of course, not approve.;;;;;;;;;;;;;
+recognize_dagestan_title;Officially Recognize Dagestan;;;;;;;;;;;;;
+recognize_dagestan_desc;We will extend formal recognition of Dagestan, opening an embassy in their capital and formally establishing relations. The Gardtaveldi will, of course, not approve.;;;;;;;;;;;;;
+recognize_circassia_title;Officially Recognize Circassia;;;;;;;;;;;;;
+recognize_circassia_desc;We will extend formal recognition of Circassia, opening an embassy in their capital and formally establishing relations. The Gardtaveldi will, of course, not approve.;;;;;;;;;;;;;
+EVTNAME952500;The Frysk Demand;;;;;;;;;;;;;
+EVTDESC952500;The Frysk demand that we submit ourselves to their direct control, as a colonial province, so they may bring civilization to our people.;;;;;;;;;;;;;
+EVT952500OPTA;We have no choice but to surrender.;;;;;;;;;;;;;
+EVT952500OPTB;We will fight to the last man.;;;;;;;;;;;;;
+EVTNAME952501;The Sultanates Refuse;;;;;;;;;;;;;
+EVTDESC952501;The Sultanates of Yogyakarta and Surakarta refused our demand and expelled our diplomats of their courts.;;;;;;;;;;;;;
+EVT952501OPTA;Kill the men, take the women.;;;;;;;;;;;;;
+EVT952501OPTB;It's better to forgive and forget.;;;;;;;;;;;;;
+embrace_the_boer_title;Make Amends with the Granjeros;;;;;;;;;;;;;
+embrace_the_boer_desc;Our rule in South Africa was tyrannical: we closed the colony against free immigration, kept the whole of the trade in our own hands, combined the administrative, legislative and judicial powers in one body, prescribed to the farmers the nature of the crops they were to grow, demanded from them a large part of their produce, and harassed them with other exactions tending to discourage industry and enterprise. The effect of this tyranny was inevitable: it drove men to desperation. They fled from oppression, and thus Caminata began. The colony policies changed hands but many of the Granjeros farmers were as dissatisfied with Transvaal rule as they had been with the Frysk central rule, though their ground of complaint was not the same. By making amends with the Granjeros farmers, paying compensation, abolishing former tyrannical rule and administrating the colonies directly, we can make amends and make the Granjeros accept our rule, to finally put an end to the trekking.;;;;;;;;;;;;;
+first_annexiation_limburg_title;The Liege Question;;;;;;;;;;;;;
+first_annexiation_limburg_desc;With the end of the Lorraine-led customs union known as East Frankia Confederation and the rise of a modern, intertwined German state, the duchy of Liege became an outdated promise - one that was part of the defunct East Frank Confederation. Liege is internationally recognized as an integral part of the Wallonia but as the Germans set their eyes and ambitions on the complete unification of all German Confederation states, the duchy became a dangerous compromise. Several senior figures in $CAPITAL$ are preparing an order for the $MONARCHTITLE$ to sign, declaring the extinction of the old duchy of Liege and its full integration in the Friesland. The Germans, however, might try to protest this move.;;;;;;;;;;;;;
+EVTNAME952514;The Duchy of Liege;;;;;;;;;;;;;
+EVTDESC952514;With the union of the German Confederation in a more unified state, an old member of the Confederation, the Duchy of Liege, which was created to fill the spot of Liege per the London Treaty, had its autonomy revoked and it's being annexed by the Friesland. Our claim in the region is tenuous, but it exists and we could push for it. If we decide to do it, we have six months to stall the Friesland before they annex Liege, and other great powers might try to intervene, but if we succeed, liberate Liege and bring them in our sphere, we will be able to annex it.;;;;;;;;;;;;;
+EVT952514OPTA;Let it go. We recognized the territory as part of the Friesland.;;;;;;;;;;;;;
+EVT952514OPTB;A state that once was part of the Confederation is a part of our country.;;;;;;;;;;;;;
+EVTNAME952515;The $FROMCOUNTRY_ADJ$ Claims;;;;;;;;;;;;;
+EVTDESC952515;The $FROMCOUNTRY_ADJ$ are claiming Liege on the basis of their customs union. They don't have much time to press their claims, as they are not strong claims. Other great powers might declare their support for us if they try anything. Our advisors expect that any movement to annex Liege right now is being blocked by $FROMCOUNTRY$, but if we manage to keep Liege under our vassalage for six months we will be able to annex Liege and solve this crisis our way.;;;;;;;;;;;;;
+EVT952515OPTA;Damn $FROMCOUNTRY_ADJ$.;;;;;;;;;;;;;
+EVTNAME952516;The End of the Liege Crisis;;;;;;;;;;;;;
+EVTDESC952516;The Liege crisis arose from German ambitions over the old duchy of Liege. Wherever they enforced their claims or not, the question is now, for better or worse, gone.;;;;;;;;;;;;;
+EVT952516OPTA;Europe can be at peace once more.;;;;;;;;;;;;;
+EVTNAME952517;The Liege Crisis;;;;;;;;;;;;;
+EVTDESC952517;The Germans of $FROMCOUNTRY$ are claiming the Duchy of Liege as part of their territory. This is started because of the Frysk move to annex the territory as the fall of the East Frank customs union created a fear of a German claim in the area. The Frysk will surely fall if they have to fend the Germans by themselves but they only need six months to finish annexing the territory. As Great Power, we need to declare our position on the matter.;;;;;;;;;;;;;
+EVT952517OPTA;German violation of Frysk territory will not be tolerated.;;;;;;;;;;;;;
+EVT952517OPTB;We don't want to get involved.;;;;;;;;;;;;;
+accept_the_flemish_title;Embrace the Walloons;;;;;;;;;;;;;
+accept_the_flemish_desc;The $COUNTRY_ADJ$ made several mistakes when dealing with the Walloons. The Calvinist/Catholic divide and political ostracization, among other things, led to the Belgian Revolution. It's time we try and repair our relationship, implement effective freedom of religion and give them equal rights. Bowing down to them will dent our international prestige, but it will allow us to live in peace once again.;;;;;;;;;;;;;
+dutch_wallonia_title;$COUNTRY_ADJ$ Wallonia;;;;;;;;;;;;;
+dutch_wallonia_desc;During the Belgian independence, the Walloons renamed the towns, natural features, roads and villages in their language. With the return of the rightful $COUNTRY_ADJ$ rule in the region, there would be nothing more natural than restoring the proper names.;;;;;;;;;;;;;

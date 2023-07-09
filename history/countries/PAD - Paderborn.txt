@@ -1,3 +1,4 @@
+capital = 539
 primary_culture = south_german
 culture = north_german
 culture = zzz_religion_catholic

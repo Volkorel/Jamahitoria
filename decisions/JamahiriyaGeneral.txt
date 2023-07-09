@@ -54,56 +54,47 @@ political_decisions = {
 				defender_goal = { casus_belli = make_puppet }
 				call_ally = no
 			}
+			country_event = {
+				id = 99945
+				days = 0
+			}
         }
         ai_will_do = {
             factor = 5
         }
     }
-	give_ora_to_dominionora = {
-		picture = give_oranje_dominion
-		potential = {
-			tag = X06
-			exists = ORA
-		}
-		allow = {
-			war = no
-			ORA = { vassal_of = THIS }
-			any_owned = {
-				limit = {
-					OR = {
-						region = ORA_2103
-						region = TRN_2108
-						region = POR_2049
-						region = ENG_2092
-						region = ENG_2083
-						region = ENG_2074
-						region = ENG_2078
-						region = POR_2003
-					}
-				}
-				owned_by = X06
+    intervene_mjolnir_1776 = {
+		picture = hroud_revolution
+        potential = {
+			OR = {
+				tag = X36
+				tag = CLM
+				is_greater_power = yes
 			}
-		}
-		effect = {
-			any_owned = {
-				limit = {
-					OR = {
-						region = ORA_2103
-						region = TRN_2108
-						region = POR_2049
-						region = ENG_2092
-						region = ENG_2083
-						region = ENG_2074
-						region = ENG_2078
-						region = POR_2003
-					}
+			NOT = { has_country_flag = intervene_mjolnir_1776 }
+			NOT = {
+				OR = {
+					tag = USA
+					tag = X06
 				}
-				add_core = ORA
-				secede_province = ORA
 			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}	
+			X06 = {
+				war_with = USA
+			}
+        }
+        allow = {
+			X06 = {
+				war_with = USA
+			}
+        }
+        effect = {
+			country_event = {
+				id = 99943
+				days = 0
+			}
+        }
+        ai_will_do = {
+            factor = 5
+        }
+    }
 }

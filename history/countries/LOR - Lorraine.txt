@@ -1,7 +1,5 @@
 capital = 411
-primary_culture = dummy
-culture = dummy
-culture = noculture
+primary_culture = french
 culture = north_german
 culture = wallonian
 culture = zzz_religion_catholic

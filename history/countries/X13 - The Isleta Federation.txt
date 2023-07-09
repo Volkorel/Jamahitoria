@@ -1,5 +1,8 @@
 capital = 2148
-primary_culture = pueblo
+primary_culture = siouan
+culture = central_algonquian
+culture = muskogean
+culture = native_american_minor
 culture = zzz_religion_totemism
 religion = totemism
 government = absolute_monarchy

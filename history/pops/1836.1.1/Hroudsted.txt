@@ -5,6 +5,81 @@
 		religion = totemism
 		size= 234
 	}
+	farmers=
+	{
+		culture = kusabo
+		religion = catholic
+		size= 25089
+	}
+
+	soldiers=
+	{
+		culture = kusabo
+		religion = catholic
+		size= 7299
+	}
+
+	artisans=
+	{
+		culture = kusabo
+		religion = catholic
+		size= 5149
+	}
+
+	clergymen=
+	{
+		culture = kusabo
+		religion = catholic
+		size= 1186
+	}
+
+	aristocrats=
+	{
+		culture = kusabo
+		religion = catholic
+		size= 1281
+	}
+
+	bureaucrats=
+	{
+		culture = kusabo
+		religion = catholic
+		size= 286
+	}
+
+	officers=
+	{
+		culture = kusabo
+		religion = catholic
+		size= 459
+	}
+	farmers=
+	{
+		culture = kusabo
+		religion = mormon
+		size= 25089
+	}
+
+	soldiers=
+	{
+		culture = kusabo
+		religion = mormon
+		size= 12299
+	}
+
+	artisans=
+	{
+		culture = kusabo
+		religion = mormon
+		size= 12149
+	}
+
+	clergymen=
+	{
+		culture = kusabo
+		religion = mormon
+		size= 5186
+	}
 }
 245 = {
 	tribals=
@@ -453,7 +528,7 @@
 
 }
 242 = {
-	slaves=
+	farmers=
 	{
 		culture = native_american_minor
 		religion = totemism
@@ -488,7 +563,7 @@
 		size= 1023
 	}
 
-	slaves=
+	farmers=
 	{
 		culture = afro_norse
 		religion = laeradr
@@ -532,7 +607,7 @@
 
 }
 241 = {
-	slaves=
+	farmers=
 	{
 		culture = native_american_minor
 		religion = totemism
@@ -588,7 +663,7 @@
 		size= 21333
 	}
 
-	slaves=
+	farmers=
 	{
 		culture = native_american_minor
 		religion = laeradr
@@ -746,7 +821,7 @@
 
 }
 232 = {
-	slaves=
+	farmers=
 	{
 		culture = native_american_minor
 		religion = totemism
@@ -767,7 +842,7 @@
 		size= 27702
 	}
 
-	slaves=
+	farmers=
 	{
 		culture = afro_norse
 		religion = laeradr
@@ -954,7 +1029,7 @@
 
 }
 229 = {
-	slaves=
+	farmers=
 	{
 		culture = native_american_minor
 		religion = totemism
@@ -975,7 +1050,7 @@
 		size= 5456
 	}
 
-	slaves=
+	farmers=
 	{
 		culture = afro_norse
 		religion = laeradr
@@ -1529,7 +1604,7 @@
 
 }
 223 = {
-	slaves=
+	farmers=
 	{
 		culture = native_american_minor
 		religion = totemism
@@ -1571,7 +1646,7 @@
 		size= 70467
 	}
 
-	slaves=
+	farmers=
 	{
 		culture = afro_norse
 		religion = laeradr
@@ -1766,7 +1841,7 @@
 
 }
 222 = {
-	slaves=
+	farmers=
 	{
 		culture = native_american_minor
 		religion = totemism
@@ -1801,7 +1876,7 @@
 		size= 39
 	}
 
-	slaves=
+	farmers=
 	{
 		culture = afro_norse
 		religion = laeradr
@@ -1859,7 +1934,7 @@
 
 }
 219 = {
-	slaves=
+	farmers=
 	{
 		culture = native_american_minor
 		religion = totemism
@@ -1887,7 +1962,7 @@
 		size= 19932
 	}
 
-	slaves=
+	farmers=
 	{
 		culture = afro_norse
 		religion = laeradr
@@ -1938,7 +2013,7 @@
 
 }
 220 = {
-	slaves=
+	farmers=
 	{
 		culture = native_american_minor
 		religion = totemism
@@ -1987,7 +2062,7 @@
 		size= 221
 	}
 
-	slaves=
+	farmers=
 	{
 		culture = afro_norse
 		religion = laeradr
@@ -2045,7 +2120,7 @@
 
 }
 2146 = {
-	slaves=
+	farmers=
 	{
 		culture = native_american_minor
 		religion = totemism
@@ -2101,7 +2176,7 @@
 		size= 2384
 	}
 
-	slaves=
+	farmers=
 	{
 		culture = afro_norse
 		religion = laeradr
@@ -2152,7 +2227,7 @@
 
 }
 217 = {
-	slaves=
+	farmers=
 	{
 		culture = native_american_minor
 		religion = totemism
@@ -2173,7 +2248,7 @@
 		size= 1565
 	}
 
-	slaves=
+	farmers=
 	{
 		culture = afro_norse
 		religion = laeradr
@@ -2529,7 +2604,7 @@
 
 }
 215 = {
-	slaves=
+	farmers=
 	{
 		culture = native_american_minor
 		religion = totemism
@@ -2585,7 +2660,7 @@
 		size= 2823
 	}
 
-	slaves=
+	farmers=
 	{
 		culture = native_american_minor
 		religion = laeradr
@@ -2643,7 +2718,7 @@
 
 }
 212 = {
-	slaves=
+	farmers=
 	{
 		culture = native_american_minor
 		religion = totemism
@@ -2748,7 +2823,7 @@
 		size= 2
 	}
 
-	slaves=
+	farmers=
 	{
 		culture = native_american_minor
 		religion = laeradr
@@ -2806,7 +2881,7 @@
 
 }
 213 = {
-	slaves=
+	farmers=
 	{
 		culture = iroquoian
 		religion = totemism
@@ -2841,7 +2916,7 @@
 		size= 82
 	}
 
-	slaves=
+	farmers=
 	{
 		culture = afro_norse
 		religion = laeradr
@@ -6211,6 +6286,8 @@
 		culture = nieuwereld
 		religion = meinwerkist
 		size= 18422
+		militancy = 8
+		rebel_type = separatist_rebels
 	}
 
 	soldiers=
@@ -6218,6 +6295,8 @@
 		culture = nieuwereld
 		religion = meinwerkist
 		size= 479
+		militancy = 8
+		rebel_type = separatist_rebels
 	}
 
 	artisans=
@@ -6225,6 +6304,8 @@
 		culture = nieuwereld
 		religion = meinwerkist
 		size= 1309
+		militancy = 8
+		rebel_type = separatist_rebels
 	}
 
 	aristocrats=
@@ -6232,6 +6313,8 @@
 		culture = nieuwereld
 		religion = meinwerkist
 		size= 320
+		militancy = 8
+		rebel_type = separatist_rebels
 	}
 
 	clergymen=
@@ -6239,6 +6322,8 @@
 		culture = nieuwereld
 		religion = meinwerkist
 		size= 212
+		militancy = 8
+		rebel_type = separatist_rebels
 	}
 
 	bureaucrats=
@@ -6246,6 +6331,8 @@
 		culture = nieuwereld
 		religion = meinwerkist
 		size= 98
+		militancy = 8
+		rebel_type = separatist_rebels
 	}
 
 	officers=
@@ -6253,6 +6340,8 @@
 		culture = nieuwereld
 		religion = meinwerkist
 		size= 42
+		militancy = 8
+		rebel_type = separatist_rebels
 	}
 
 }

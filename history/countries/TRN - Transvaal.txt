@@ -1,7 +1,7 @@
 capital = 2105
 primary_culture = boer
-culture = zzz_religion_protestant
-religion = protestant
+culture = granjeros
+religion = meinwerkist
 government = democracy
 plurality = 0
 nationalvalue = nv_order

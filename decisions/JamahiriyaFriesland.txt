@@ -1,68 +1,131 @@
 political_decisions = {
-
 	give_fek_fek = {
 		picture = give_fek_indonesian_lands
-		potential = {
-			tag = X06
-		}
-		allow = {
-			war = no
+        potential = {
 			is_our_vassal = FEK
-			any_owned = {
-				limit = {
-					OR = {
-						region = ATJ_1405
-						region = NET_1401
-						region = NET_1398
-						region = NET_1413
-						region = NET_1418
-						region = BAL_1438
-						region = NET_1446
-						region = NET_1449
-						region = NET_1423
-						region = NET_1426
-						region = BRU_1394
-						region = BRU_1396
-						region = NET_1447
-						region = ENG_1384
-						region = ENG_1391
-						region = SIA_1352
-						region = ENG_1343
-					}
-				}
-				owned_by = X06
-			}
-		}
-		effect = {
-			any_owned = {
-				limit = {
-					OR = {
-						region = ATJ_1405
-						region = NET_1401
-						region = NET_1398
-						region = NET_1413
-						region = NET_1418
-						region = BAL_1438
-						region = NET_1446
-						region = NET_1449
-						region = NET_1423
-						region = NET_1426
-						region = BRU_1394
-						region = BRU_1396
-						region = NET_1447
-						region = ENG_1384
-						region = ENG_1391
-						region = SIA_1352
-						region = ENG_1343
-					}
-				}
-				add_core = FEK
-				secede_province = FEK
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
+			FEK = { substate_of = THIS }
+            exists = FEK
+        }
+        allow = {
+            war = no
+        }
+        effect = {
+            THIS = {
+                any_owned = {
+                    limit = {
+						OR = {
+							is_core = MLC
+							is_core = MLY
+							is_core = PHG
+							is_core = PAT
+							is_core = BRU
+							is_core = JAV
+							is_core = FEK
+						}
+                        owned_by = THIS
+                    }
+                    secede_province = FEK
+                }
+            }
+        }
 	}
-	
+	give_saf_to_dominionsaf = {
+		picture = give_saf_dominion
+        potential = {
+			is_our_vassal = SAF
+            exists = SAF
+        }
+        allow = {
+            war = no
+        }
+        effect = {
+            THIS = {
+                any_owned = {
+                    limit = {
+						is_core = SAF
+                        owned_by = THIS
+                    }
+                    secede_province = SAF
+                }
+            }
+        }
+	}
+	give_ora_to_dominionora = {
+		picture = give_oranje_dominion
+        potential = {
+			is_our_vassal = ORA
+            exists = ORA
+        }
+        allow = {
+            war = no
+        }
+        effect = {
+            THIS = {
+                any_owned = {
+                    limit = {
+						is_core = ORA
+                        owned_by = THIS
+                    }
+                    secede_province = ORA
+                }
+            }
+        }
+	}
+	sariemarais = {
+		picture = sariemarais
+        potential = {
+			is_our_vassal = SAF
+			exists = SAF
+			is_our_vassal = ORA
+            exists = ORA
+        }
+        allow = {
+			invention = mission_to_civilize
+            war = no
+			year = 1870
+			relation = {
+				who = SAF
+				value = 175
+			}
+			relation = {
+				who = ORA
+				value = 175
+			}
+			NOT = {
+				exists = XHO
+				exists = XHR
+				exists = SHO
+				exists = ZUL
+				exists = ROD
+			}
+        }
+        effect = {
+            ORA = {
+                any_owned = {
+                    limit = {
+                        owned_by = ORA
+                    }
+                    secede_province = TRN
+                }
+            }
+            SAF = {
+                any_owned = {
+                    limit = {
+                        owned_by = SAF
+                    }
+                    secede_province = TRN
+                }
+            }
+            THIS = {
+                any_owned = {
+                    limit = {
+						is_core = ROD
+                        owned_by = THIS
+                    }
+                    secede_province = TRN
+                }
+            }
+			change_tag = TRN
+        }
+	}
 }

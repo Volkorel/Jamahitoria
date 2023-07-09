@@ -800,8 +800,8 @@ leader = {
 
 #Armies
 navy = {
-	name="3rd Fleet"
-	location=2913
+	name="Keampanfloot fan Atlantyske"
+	location=2087
 	ship = {
 		name="1st Lampung Frigate"
 		type=frigate
@@ -955,7 +955,7 @@ navy = {
 
 navy = {
 	name="Vloot van Ommelanden"
-	location=2808
+	location=1440
 	ship = {
 		name="1st Zwolle Clipper Transport"
 		type=clipper_transport
@@ -975,8 +975,8 @@ navy = {
 }
 
 navy = {
-	name="2nd Fleet"
-	location=2740
+	name="Twadde Float"
+	location=375
 	ship = {
 		name="1st Semarang Frigate"
 		type=frigate
@@ -1013,7 +1013,7 @@ navy = {
 
 army = {
 	name="3rd Army"
-	location=1408
+	location=385
 	regiment = {
 		name="1st Sibolga Infantry"
 		type=infantry
@@ -1138,7 +1138,7 @@ army = {
 
 army = {
 	name="Leger van Pagarruyung"
-	location=1398
+	location=385
 	regiment = {
 		name="1st Sibolga Artillery"
 		type=artillery
@@ -1188,7 +1188,7 @@ army = {
 
 navy = {
 	name="Vloot van Bangka"
-	location=2724
+	location=375
 	ship = {
 		name="1st Tarakan Clipper Transport"
 		type=clipper_transport
@@ -1209,7 +1209,7 @@ navy = {
 
 navy = {
 	name="Vloot van Gariep"
-	location=2911
+	location=2096
 	ship = {
 		name="1st Palu Clipper Transport"
 		type=clipper_transport
@@ -1226,7 +1226,7 @@ navy = {
 
 navy = {
 	name="Vloot van Poso"
-	location=2912
+	location=2096
 	ship = {
 		name="1st Rotterdam Man'o'war"
 		type=manowar
@@ -1262,8 +1262,8 @@ navy = {
 }
 
 navy = {
-	name="Vloot van Coast of Maldives"
-	location=2744
+	name="Float fan Yndyske Oseaan"
+	location=2591
 	ship = {
 		name="1st Utrecht Man'o'war"
 		type=manowar

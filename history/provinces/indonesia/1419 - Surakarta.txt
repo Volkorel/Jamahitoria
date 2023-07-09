@@ -1,5 +1,5 @@
-owner=BRU
-controller=FEK
+owner=JAV
+controller=JAV
 add_core=BRU
 add_core=JAV
 add_core=MLC
