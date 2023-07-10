@@ -1522,7 +1522,7 @@ political_decisions = {
             MEX = { country_event = { id = 44805 days = 2 } }
             UCA = { country_event = { id = 97550 days = 2 } }
             QNG = { country_event = { id = 160009 days = 5 } }
-            ENG = { country_event = { id = 98200 days = 3 } }
+            X06 = { country_event = { id = 98200 days = 3 } }
             HAI = { country_event = { id = 45106 days = 3 } }
             ##########################################################
 

@@ -412,3 +412,83 @@ country_event = {
 		}
     }
 }
+
+country_event = {
+	id = 99949
+	title = "EVTNAME98205"
+	desc = "EVTDESC98205"
+	picture = "Unite"
+	is_triggered_only = yes
+	option = {
+		name = "EVTOPTA98205"
+		any_owned = {
+			limit = {
+				province_id = 2071
+			}
+			secede_province = NAL
+		}
+		NAL = {
+			any_pop = {
+				limit = { has_pop_culture = granjeros }
+				reduce_pop = 1.99
+			}
+			war = {
+				target = SHO
+				attacker_goal = {
+					casus_belli = become_independent
+				}
+				defender_goal = {
+					casus_belli = conquest
+				}
+			}
+            capital_scope = {
+                sub_unit = { type = infantry value = current }
+                sub_unit = { type = infantry value = current }
+                sub_unit = { type = infantry value = current }
+                sub_unit = { type = infantry value = current }
+                sub_unit = { type = cavalry value = current }
+                sub_unit = { type = artillery value = current }
+                sub_unit = { type = artillery value = current }
+                sub_unit = { type = artillery value = current }
+                sub_unit = { type = artillery value = current }
+                sub_unit = { type = artillery value = current }
+            }
+		}
+		X06 = { country_event = 98206 }
+	}
+}
+country_event = {
+	id = 99950
+	title = "EVTNAME98205"
+	desc = "EVTDESC98205"
+	picture = "Unite"
+	is_triggered_only = yes
+	option = {
+		name = "EVTOPTA98205"
+		any_owned = {
+			limit = {
+				province_id = 2071
+			}
+			secede_province = NAL
+		}
+		NAL = {
+			any_pop = {
+				limit = { has_pop_culture = granjeros }
+				reduce_pop = 1.99
+			}
+            capital_scope = {
+                sub_unit = { type = infantry value = current }
+                sub_unit = { type = infantry value = current }
+                sub_unit = { type = infantry value = current }
+                sub_unit = { type = infantry value = current }
+                sub_unit = { type = cavalry value = current }
+                sub_unit = { type = artillery value = current }
+                sub_unit = { type = artillery value = current }
+                sub_unit = { type = artillery value = current }
+                sub_unit = { type = artillery value = current }
+                sub_unit = { type = artillery value = current }
+            }
+		}
+		X06 = { country_event = 98207 }
+	}
+}

@@ -9,9 +9,14 @@ country_event = {
     title = "EVTNAME98200" #The Great Boer Trek
     desc = "EVTDESC98200"
     picture = "pioneer_wagons"
-
-    is_triggered_only = yes
-
+    trigger = {
+		tag = X06
+        year = 1836
+    }
+    mean_time_to_happen = {
+        months = 1
+    }
+	fire_only_once = yes
     option = {
         name = "EVT98200OPTA"
         set_global_flag = great_boer_trek
@@ -19,10 +24,18 @@ country_event = {
             which = xhosa_conflict
             value = 0
         }
-        any_pop = {
-            limit = { has_pop_culture = boer }
-            consciousness = 6
-        }
+		ORA = {
+			any_pop = {
+				limit = { has_pop_culture = granjeros }
+				consciousness = 6
+			}
+		}
+		SAF = {
+			any_pop = {
+				limit = { has_pop_culture = granjeros }
+				consciousness = 6
+			}
+		}
     }
 }
 
@@ -33,7 +46,7 @@ country_event = {
     picture = "pioneer_wagons"
 
     trigger = {
-        tag = ZUL
+		tag = SHO
         year = 1838
         has_global_flag = great_boer_trek
         NOT = {
@@ -53,28 +66,26 @@ country_event = {
         prestige = 5
         badboy = 5
         any_pop = {
-            limit = { has_pop_culture = boer }
+            limit = { has_pop_culture = granjeros }
             literacy = 0.25
         }
-        2111 = {
+        2071 = {
             any_pop = {
-                limit = { has_pop_culture = boer }
+                limit = { has_pop_culture = granjeros }
                 reduce_pop = 0.8
             }
-            add_core = SAF
+			add_core = ROD
             add_core = NAL
-            secede_province = ENG
         }
-        2112 = {
+        2069 = {
             any_pop = {
-                limit = { has_pop_culture = boer }
+                limit = { has_pop_culture = granjeros }
                 reduce_pop = 0.8
             }
-            add_core = SAF
+            add_core = ROD
             add_core = NAL
-            secede_province = ENG
         }
-        2087 = { owner = { country_event = 98206 } }
+        SHO = { country_event = 99949 }
         ai_chance = {
             factor = 90
         }
@@ -84,22 +95,20 @@ country_event = {
         name = "EVT98205OPTB"
         set_country_flag = make_peace_with_the_laagers
         any_pop = {
-            limit = { has_pop_culture = boer }
+            limit = { has_pop_culture = granjeros }
             literacy = 0.25
         }
-        2111 = {
-            add_core = SAF
+        2071 = {
+            add_core = ROD
             add_core = NAL
-            secede_province = ENG
         }
-        2112 = {
-            add_core = SAF
+        2069 = {
+            add_core = ROD
             add_core = NAL
-            secede_province = ENG
         }
-        2087 = { owner = { country_event = 98207 } }
+        SHO = { country_event = 99950 }
         any_pop = {
-            limit = { has_pop_culture = zulu }
+            limit = { has_pop_culture = shona }
             militancy = 4
         }
         ai_chance = {
@@ -123,8 +132,7 @@ country_event = {
     option = {
         name = "EVT98206OPTA"
         prestige = 5
-        release_vassal = NAL
-        relation = { who = ZUL value = -100 }
+        relation = { who = SHO value = -100 }
         relation = { who = NAL value = -100 }
         diplomatic_influence = { who = NAL value = 100 }
         NAL = { prestige = -30 add_country_modifier = { name = unrecognized_country duration = 1825 } }
@@ -142,12 +150,10 @@ country_event = {
         2071 = { state_scope = { change_region_name = "Bembezi" } }
         ai_chance = { factor = 100 }
     }
-
     option = {
         name = "EVT98206OPTB"
         prestige = -5
         badboy = -2
-        release = NAL
         relation = { who = NAL value = 50 }
         diplomatic_influence = { who = NAL value = 200 }
         NAL = { prestige = -30 add_country_modifier = { name = unrecognized_country duration = 1825 } }
@@ -170,12 +176,10 @@ country_event = {
         }
         ai_chance = { factor = 0 }
     }
-
     option = {
         name = "EVT98207OPTC"
         prestige = -5
         badboy = -2
-        release = NAL
         relation = { who = NAL value = 50 }
         diplomatic_influence = { who = NAL value = 200 }
         NAL = { prestige = -30 }
@@ -210,8 +214,7 @@ country_event = {
 
     option = {
         name = "EVT98206OPTA"
-        release = NAL
-        casus_belli ={
+        casus_belli = {
             target = NAL
             type = conquest_any
             months = 60
@@ -243,7 +246,6 @@ country_event = {
         name = "EVT98207OPTB"
         prestige = 5
         badboy = -2
-        release = NAL
         relation = { who = NAL value = 50 }
         diplomatic_influence = { who = NAL value = 100 }
         NAL = { prestige = -30 }
@@ -271,7 +273,7 @@ country_event = {
     option = {
         name = "EVT98207OPTC"
         release = NAL
-        casus_belli ={
+        casus_belli = {
             target = NAL
             type = conquest_any
             months = 60
