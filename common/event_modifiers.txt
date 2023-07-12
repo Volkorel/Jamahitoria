@@ -2564,10 +2564,42 @@ emergency_tax_measures2 = {
 
 ### Hroudsted ###
 hroud_independence_war = {
-    war_exhaustion = -5.0
-	leadership_modifier = 1.0
-    land_organisation = 1.0
-    naval_organisation = 1.0
+    war_exhaustion = -50.0
+	leadership_modifier = 25.0
+    land_organisation = 25.0
+    naval_organisation = 25.0
 	mobilisation_size = 1.0
+	mobilization_economy_impact = -25.0
+	org_regain = 0.95
+	import_cost = -1.0
+	research_points = 1.0
+	RGO_output = 1.0
+	RGO_throughput = 1.0
+	supply_consumption = -1.0
+	rich_income_modifier = 1.0
+	middle_income_modifier = 1.5
+	poor_income_modifier = 2.0
+    icon = 17
+}
+freiestaatf = {
+    war_exhaustion = -25.0
+	leadership_modifier = 25.0
+    land_organisation = 25.0
+    naval_organisation = 25.0
+	mobilisation_size = 1.0
+	org_regain = 1.0
+	supply_consumption = -0.7
+    icon = 17
+}
+friedrich_heckerlied = {
+    war_exhaustion = -0.45
+	leadership_modifier = 0.25
+    land_organisation = 0.20
+    naval_organisation = 0.20
+	mobilisation_size = 1.0
+	org_regain = 0.60
+	supply_consumption = -0.85
+    ruling_party_support = 0.1
+    political_reform_desire = -0.05
     icon = 17
 }

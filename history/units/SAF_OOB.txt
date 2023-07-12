@@ -835,4 +835,18 @@ navy = {
 		type=frigate
 	}
 }
+army = {
+	name="Weermag van Transvaal"
+	location=2087
+		regiment = {
+		name="1st Transvaal Artillery"
+		type=artillery
+		home=2087
+	}
+	regiment = {
+		name="1st Transvaal Infantry"
+		type=infantry
+		home=2087
+	}
+}
 

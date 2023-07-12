@@ -819,140 +819,140 @@
 409 = {
 	soldiers=
 	{
-		culture = north_german
+		culture = french
 		religion = catholic
 		size= 5508
 	}
 
 	craftsmen=
 	{
-		culture = north_german
+		culture = french
 		religion = catholic
 		size= 7684
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = french
 		religion = catholic
 		size= 14219
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = french
 		religion = catholic
 		size= 1298
 	}
 
 	clerks=
 	{
-		culture = north_german
+		culture = french
 		religion = catholic
 		size= 403
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = french
 		religion = catholic
 		size= 276
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = french
 		religion = catholic
 		size= 174
 	}
 
 	capitalists=
 	{
-		culture = north_german
+		culture = french
 		religion = catholic
 		size= 72
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = french
 		religion = catholic
 		size= 1255
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = french
 		religion = catholic
 		size= 89439
 	}
 
 	soldiers=
 	{
-		culture = north_german
+		culture = french
 		religion = protestant
 		size= 350
 	}
 
 	craftsmen=
 	{
-		culture = north_german
+		culture = french
 		religion = protestant
 		size= 486
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = french
 		religion = protestant
 		size= 3136
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = french
 		religion = protestant
 		size= 286
 	}
 
 	clerks=
 	{
-		culture = north_german
+		culture = french
 		religion = protestant
 		size= 89
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = french
 		religion = protestant
 		size= 61
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = french
 		religion = protestant
 		size= 38
 	}
 
 	capitalists=
 	{
-		culture = north_german
+		culture = french
 		religion = protestant
 		size= 16
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = french
 		religion = protestant
 		size= 277
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = french
 		religion = protestant
 		size= 2755
 	}
@@ -961,49 +961,49 @@
 410 = {
 	soldiers=
 	{
-		culture = north_german
+		culture = french
 		religion = catholic
 		size= 3884
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = french
 		religion = catholic
 		size= 9392
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = french
 		religion = catholic
 		size= 1300
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = french
 		religion = catholic
 		size= 388
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = french
 		religion = catholic
 		size= 215
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = french
 		religion = catholic
 		size= 1357
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = french
 		religion = catholic
 		size= 90050
 	}

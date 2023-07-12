@@ -4,3 +4,27 @@
 #Leaders
 
 #Armies
+army = {
+	name="1st Xhosa Army"
+	location=2104
+	regiment = {
+		name="Xhosa Tribesmen"
+		type=infantry
+		home=2104
+	}
+	regiment = {
+		name="Xhosa Tribesmen"
+		type=infantry
+		home=2104
+	}
+	regiment = {
+		name="Xhosa Tribesmen"
+		type=infantry
+		home=2104
+	}
+	regiment = {
+		name="1st Xhosa Infantry"
+		type=infantry
+		home=2104
+	}
+}

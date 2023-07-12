@@ -291,6 +291,12 @@
 		religion = norse_pagan_reformed
 		size= 23380
 	}
+	farmers=
+	{
+		culture = frisian
+		religion = meinwerkist
+		size= 16380
+	}
 
 }
 370 = {

@@ -1,140 +1,140 @@
 718 = {
 	soldiers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 887
 	}
 
 	artisans=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 966
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 68
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 30
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 198
 	}
 
 	farmers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 42035
 	}
 
 	soldiers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 278
 	}
 
 	artisans=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 1570
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 111
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 49
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 320
 	}
 
 	farmers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 11458
 	}
 
 	soldiers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = catholic
 		size= 40
 	}
 
 	artisans=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = catholic
 		size= 2707
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = catholic
 		size= 191
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = catholic
 		size= 84
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = catholic
 		size= 22
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = catholic
 		size= 553
 	}
@@ -721,98 +721,98 @@
 938 = {
 	soldiers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 4133
 	}
 
 	artisans=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 424
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 77
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 32
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 30
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 147
 	}
 
 	farmers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 25118
 	}
 
 	soldiers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 445
 	}
 
 	artisans=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 723
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 132
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 54
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 51
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 251
 	}
 
 	farmers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 8716
 	}
@@ -1622,98 +1622,98 @@
 945 = {
 	soldiers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 2107
 	}
 
 	artisans=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 592
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 150
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 52
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 49
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 241
 	}
 
 	farmers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 48662
 	}
 
 	soldiers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 731
 	}
 
 	artisans=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 1001
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 254
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 87
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 83
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 408
 	}
 
 	farmers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 14830
 	}
@@ -1722,98 +1722,98 @@
 946 = {
 	soldiers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 6569
 	}
 
 	artisans=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 4473
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 326
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 132
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 126
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 504
 	}
 
 	farmers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 93964
 	}
 
 	soldiers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 2322
 	}
 
 	artisans=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 7636
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 555
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 225
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 215
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 860
 	}
 
 	farmers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 25413
 	}
@@ -1822,98 +1822,98 @@
 947 = {
 	soldiers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 3648
 	}
 
 	artisans=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 2436
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 180
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 73
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 70
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 279
 	}
 
 	farmers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = norse_pagan_reformed
 		size= 52541
 	}
 
 	soldiers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 1289
 	}
 
 	artisans=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 4159
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 306
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 125
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 119
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 476
 	}
 
 	farmers=
 	{
-		culture = swedish
+		culture = byelorussian
 		religion = jewish
 		size= 14210
 	}

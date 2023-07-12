@@ -1,98 +1,98 @@
 546 = {
 	soldiers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 4786
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 10397
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 805
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 119
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 155
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 1243
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 113456
 	}
 
 	soldiers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = protestant
 		size= 447
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = protestant
 		size= 2274
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = protestant
 		size= 177
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = protestant
 		size= 26
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = protestant
 		size= 34
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = protestant
 		size= 273
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = protestant
 		size= 8926
 	}
@@ -101,98 +101,98 @@
 679 = {
 	soldiers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 1896
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 3523
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 293
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 55
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 94
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 330
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 35049
 	}
 
 	soldiers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = protestant
 		size= 65
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = protestant
 		size= 316
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = protestant
 		size= 26
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = protestant
 		size= 5
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = protestant
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = protestant
 		size= 29
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = protestant
 		size= 963
 	}
@@ -201,49 +201,49 @@
 680 = {
 	soldiers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 6125
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 569
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 122
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 57
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 551
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 35292
 	}
@@ -252,98 +252,98 @@
 681 = {
 	soldiers=
 	{
-		culture = french
+		culture = polish
 		religion = catholic
 		size= 1031
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = polish
 		religion = catholic
 		size= 1738
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = polish
 		religion = catholic
 		size= 112
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = polish
 		religion = catholic
 		size= 28
 	}
 
 	officers=
 	{
-		culture = french
+		culture = polish
 		religion = catholic
 		size= 32
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = polish
 		religion = catholic
 		size= 166
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = polish
 		religion = catholic
 		size= 36082
 	}
 
 	soldiers=
 	{
-		culture = byelorussian
+		culture = sorbian
 		religion = catholic
 		size= 369
 	}
 
 	artisans=
 	{
-		culture = byelorussian
+		culture = sorbian
 		religion = catholic
 		size= 2979
 	}
 
 	clergymen=
 	{
-		culture = byelorussian
+		culture = sorbian
 		religion = catholic
 		size= 190
 	}
 
 	bureaucrats=
 	{
-		culture = byelorussian
+		culture = sorbian
 		religion = catholic
 		size= 47
 	}
 
 	officers=
 	{
-		culture = byelorussian
+		culture = sorbian
 		religion = catholic
 		size= 54
 	}
 
 	aristocrats=
 	{
-		culture = byelorussian
+		culture = sorbian
 		religion = catholic
 		size= 284
 	}
 
 	farmers=
 	{
-		culture = byelorussian
+		culture = sorbian
 		religion = catholic
 		size= 9996
 	}
@@ -843,49 +843,49 @@
 690 = {
 	soldiers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 477
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 724
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 34
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 41
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 43
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 160
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 18623
 	}
@@ -929,140 +929,140 @@
 691 = {
 	soldiers=
 	{
-		culture = byelorussian
+		culture = oldpommeranian
 		religion = catholic
 		size= 1198
 	}
 
 	artisans=
 	{
-		culture = byelorussian
+		culture = oldpommeranian
 		religion = catholic
 		size= 753
 	}
 
 	clergymen=
 	{
-		culture = byelorussian
+		culture = oldpommeranian
 		religion = catholic
 		size= 141
 	}
 
 	bureaucrats=
 	{
-		culture = byelorussian
+		culture = oldpommeranian
 		religion = catholic
 		size= 26
 	}
 
 	officers=
 	{
-		culture = byelorussian
+		culture = oldpommeranian
 		religion = catholic
 		size= 30
 	}
 
 	aristocrats=
 	{
-		culture = byelorussian
+		culture = oldpommeranian
 		religion = catholic
 		size= 317
 	}
 
 	farmers=
 	{
-		culture = byelorussian
+		culture = oldpommeranian
 		religion = catholic
 		size= 40345
 	}
 
 	soldiers=
 	{
-		culture = byelorussian
+		culture = oldpommeranian
 		religion = protestant
 		size= 69
 	}
 
 	artisans=
 	{
-		culture = byelorussian
+		culture = oldpommeranian
 		religion = protestant
 		size= 153
 	}
 
 	clergymen=
 	{
-		culture = byelorussian
+		culture = oldpommeranian
 		religion = protestant
 		size= 29
 	}
 
 	bureaucrats=
 	{
-		culture = byelorussian
+		culture = oldpommeranian
 		religion = protestant
 		size= 5
 	}
 
 	officers=
 	{
-		culture = byelorussian
+		culture = oldpommeranian
 		religion = protestant
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = byelorussian
+		culture = oldpommeranian
 		religion = protestant
 		size= 64
 	}
 
 	farmers=
 	{
-		culture = byelorussian
+		culture = oldpommeranian
 		religion = protestant
 		size= 2142
 	}
 
 	soldiers=
 	{
-		culture = north_german
+		culture = polish
 		religion = catholic
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = polish
 		religion = catholic
 		size= 909
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = polish
 		religion = catholic
 		size= 170
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = polish
 		religion = catholic
 		size= 32
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = polish
 		religion = catholic
 		size= 36
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = polish
 		religion = catholic
 		size= 382
 	}
@@ -1071,189 +1071,189 @@
 692 = {
 	soldiers=
 	{
-		culture = french
+		culture = oldpommeranian
 		religion = catholic
 		size= 267
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = oldpommeranian
 		religion = catholic
 		size= 346
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = oldpommeranian
 		religion = catholic
 		size= 28
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = oldpommeranian
 		religion = catholic
 		size= 6
 	}
 
 	officers=
 	{
-		culture = french
+		culture = oldpommeranian
 		religion = catholic
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = oldpommeranian
 		religion = catholic
 		size= 65
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = oldpommeranian
 		religion = catholic
 		size= 8811
 	}
 
 	soldiers=
 	{
-		culture = french
+		culture = oldpommeranian
 		religion = protestant
 		size= 24
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = oldpommeranian
 		religion = protestant
 		size= 121
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = oldpommeranian
 		religion = protestant
 		size= 10
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = oldpommeranian
 		religion = protestant
 		size= 2
 	}
 
 	officers=
 	{
-		culture = french
+		culture = oldpommeranian
 		religion = protestant
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = oldpommeranian
 		religion = protestant
 		size= 23
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = oldpommeranian
 		religion = protestant
 		size= 690
 	}
 
 	soldiers=
 	{
-		culture = byelorussian
+		culture = oldpommeranian
 		religion = catholic
 		size= 180
 	}
 
 	artisans=
 	{
-		culture = byelorussian
+		culture = oldpommeranian
 		religion = catholic
 		size= 1048
 	}
 
 	clergymen=
 	{
-		culture = byelorussian
+		culture = oldpommeranian
 		religion = catholic
 		size= 87
 	}
 
 	bureaucrats=
 	{
-		culture = byelorussian
+		culture = oldpommeranian
 		religion = catholic
 		size= 16
 	}
 
 	officers=
 	{
-		culture = byelorussian
+		culture = oldpommeranian
 		religion = catholic
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = byelorussian
+		culture = oldpommeranian
 		religion = catholic
 		size= 196
 	}
 
 	farmers=
 	{
-		culture = byelorussian
+		culture = oldpommeranian
 		religion = catholic
 		size= 4895
 	}
 
 	soldiers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 447
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 1436
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 120
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 22
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 26
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 268
 	}
@@ -1269,49 +1269,49 @@
 693 = {
 	soldiers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 1061
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 3409
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 284
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 53
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 61
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 371
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 32643
 	}
@@ -1320,49 +1320,49 @@
 694 = {
 	soldiers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 7233
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 6689
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 530
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 107
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 78
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 1222
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = oldpommeranian
 		religion = catholic
 		size= 32235
 	}
@@ -1399,49 +1399,49 @@
 696 = {
 	soldiers=
 	{
-		culture = north_german
+		culture = polish
 		religion = catholic
 		size= 3841
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = polish
 		religion = catholic
 		size= 9344
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = polish
 		religion = catholic
 		size= 1557
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = polish
 		religion = catholic
 		size= 146
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = polish
 		religion = catholic
 		size= 208
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = polish
 		religion = catholic
 		size= 872
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = polish
 		religion = catholic
 		size= 87852
 	}

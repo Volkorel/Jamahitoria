@@ -786,32 +786,6 @@ country_event = {
             }
             country_event = 31530
         }
-        random_country = {
-            limit = {
-                OR = {
-                    tag = AUS
-                    tag = KUK
-                }
-                exists = yes
-                is_greater_power = no
-                in_sphere = THIS
-                war = no
-                OR = {
-                    vassal_of = THIS
-                    is_vassal = no
-                }
-                any_owned_province = {
-                    NOT = {
-                        OR = {
-                            is_core = AUS
-                            is_core = GER
-                            is_colonial = yes
-                        }
-                    }
-                }
-            }
-            country_event = 31515
-        }
         any_country = {
             limit = {
                 is_culture_group = germanic

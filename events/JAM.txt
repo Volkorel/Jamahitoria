@@ -492,3 +492,456 @@ country_event = {
 		X06 = { country_event = 98207 }
 	}
 }
+
+country_event = {
+	id = 99951
+	title = "EVTNAME99951"
+	desc = "EVTDESC99951"
+	picture = "hecker"
+    news = yes
+    news_desc_long = "EVTDESC99951_NEWS_LONG"
+    news_desc_medium = "EVTDESC99951_NEWS_MEDIUM"
+    news_desc_short = "EVTDESC99951_NEWS_SHORT"
+	trigger = {
+		tag = HAN
+		has_global_flag = liberal_revolutions_should_now_fire
+		year = 1848
+	}
+	option = {
+		name = "EVTOPTA99951"
+		set_country_flag = german_heckerkrieg
+		rich_strata = { ideology = { value = liberal factor = 1.0 } }
+		middle_strata = { ideology = { value = liberal factor = 1.0 } }
+		poor_strata = { ideology = { value = liberal factor = 1.0 } }
+		any_pop = {
+			scaled_militancy = {
+				ideology = liberal
+				factor = 15
+			}
+			scaled_consciousness = {
+				ideology = liberal
+				factor = 15
+			}
+		}
+	}
+}
+country_event = {
+	id = 99952
+	title = "EVTNAME99952"
+	desc = "EVTDESC99952"
+	picture = "hecker"
+    news = yes
+    news_desc_long = "EVTDESC99952_NEWS_LONG"
+    news_desc_medium = "EVTDESC99952_NEWS_MEDIUM"
+    news_desc_short = "EVTDESC99952_NEWS_SHORT"
+	trigger = {
+		tag = HAN
+		has_country_flag = german_heckerkrieg
+		OR = {
+			revolt_percentage = 0.5
+			any_owned_province = {
+				is_capital = yes
+				controlled_by_rebels = yes
+			}
+			average_militancy = 7
+		}
+	}
+	option = {
+		name = "EVTOPTA99951"
+		clr_country_flag = german_heckerkrieg
+		set_country_flag = heckerkrieg_stage_one
+		change_tag = GER
+        random_country = {
+            limit = {
+                tag = PAL
+                exists = yes
+                is_greater_power = no
+                in_sphere = THIS
+                war = no
+                OR = {
+                    vassal_of = THIS
+                    is_vassal = no
+                }
+            }
+            country_event = 31530
+        }
+        any_country = {
+            limit = {
+                is_culture_group = germanic
+                exists = no
+                NOT = { tag = BAV }
+                NOT = { has_country_flag = post_colonial_country }
+            }
+            country_event = 11105
+        }
+        any_country = {
+            limit = {
+                OR = {
+                    tag = BAV
+                    tag = KUK
+                    tag = DNB
+                }
+                exists = no
+                THIS = { capital = 619 }
+            }
+            country_event = 11105
+        }
+        any_country = {
+            limit = {
+                exists = yes
+                NOT = { tag = THIS }
+                OR = {
+                    is_culture_group = germanic
+                    tag = SCH
+                }
+                is_greater_power = no
+                OR = {
+                    in_sphere = THIS
+                    has_country_flag = wants_to_unify
+                    AND = {
+                        part_of_sphere = no
+                        relation = { who = THIS value = 100 }
+                    }
+                }
+                NOT = {
+                    tag = KUK
+                    tag = BAV
+                    tag = DNB
+                    tag = UBD
+                }
+                NOT = { has_country_flag = post_colonial_country }
+            }
+            country_event = 11101
+        }
+        political_reform = wealth_voting
+        political_reform = population_equal_weight
+        political_reform = yes_meeting
+        political_reform = free_press
+        political_reform = non_socialist
+        political_reform = secret_ballots
+        government = democracy
+        prestige = 35
+        badboy = 4
+        any_country = {
+            limit = { is_our_vassal = THIS }
+            release_vassal = THIS
+        }
+        HAN = {
+            all_core = {
+                remove_core = HAN
+                add_core = GER
+            }
+        }
+		add_country_modifier = {
+			name = freiestaatf
+			duration = -1
+		}
+		add_country_modifier = {
+			name = friedrich_heckerlied
+			duration = 12200
+		}
+	}
+}
+#Hecker invades the uhhhh Angria and Palatinate
+country_event = {
+	id = 99953
+	title = "EVTNAME99953"
+	desc = "EVTDESC99953"
+	picture = "hecker"
+	trigger = {
+		tag = GER
+		has_country_flag = heckerkrieg_stage_one
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVTOPTA99953"
+		war = {
+			target = PAL
+			attacker_goal = {
+				casus_belli = unification_annex_casus_belli
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		war = {
+			target = PAD
+			attacker_goal = {
+				casus_belli = unification_annex_casus_belli
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		X06 = { country_event = 99954 }
+		X05 = { country_event = 99954 }
+		ENG = { country_event = 99954 }
+		X03 = { country_event = 99954 }
+		FRA = { country_event = 99954 }
+		LOM = { country_event = 99954 }
+		clr_country_flag = heckerkrieg_stage_one
+	}
+}
+
+country_event = {
+	id = 99954
+	title = "EVTNAME99954"
+	desc = "EVTDESC99954"
+	picture = "hecker"
+	is_triggered_only = yes
+	option = {
+		name = "EVTOPTA99954" #Side with Freiestaat
+		create_alliance = GER
+		relation = {
+			who = GER
+			value = 100
+		}
+		relation = {
+			who = PAL
+			value = -100
+		}
+		relation = {
+			who = PAD
+			value = -100
+		}
+		leave_alliance = PAL
+		leave_alliance = PAD
+		ai_chance = {
+			factor = -100
+			Modifier = {
+				factor = 150
+				tag = X03
+			}
+			Modifier = {
+				factor = 150
+				tag = LOM
+			}
+		}
+	}
+	option = {
+		name = "EVTOPTB99954" #Side with Angria & Palatinate
+		create_alliance = PAL
+		create_alliance = PAD
+		relation = {
+			who = PAL
+			value = 100
+		}
+		relation = {
+			who = PAD
+			value = 100
+		}
+		relation = {
+			who = GER
+			value = -200
+		}
+		leave_alliance = GER
+		casus_belli = {
+			target = GER
+			type = cut_down_to_size
+			months = 60
+		}
+	}
+	option = {
+		name = "EVTOPTC99957" #NO one
+		relation = {
+			who = PAL
+			value = -50
+		}
+		relation = {
+			who = PAD
+			value = -50
+		}
+		relation = {
+			who = GER
+			value = 50
+		}
+	}
+}
+
+country_event = {
+	id = 99955
+	title = "EVTNAME99955"
+	desc = "EVTDESC99955"
+	picture = "hecker2"
+	trigger = {
+		tag = GER
+		OR = {
+			has_country_flag = heckerkrieg_stage_one
+			war = yes
+		}
+		OR = {
+			USA = { war_with = X06 }
+			USA = { is_independant = yes }
+		}
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVTOPTA99955"
+		war = {
+			target = X06
+			attacker_goal = {
+				casus_belli = acquire_all_cores
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		leave_alliance = X06
+		relation = {
+			who = X06
+			value = -200
+		}
+		clr_country_flag = heckerkrieg_stage_one
+		set_country_flag = heckerkrieg_stage_two
+		X06 = { country_event = 99956 }
+	}
+}
+country_event = {
+	id = 99956
+	title = "EVTNAME99956"
+	desc = "EVTDESC99956"
+	picture = "hecker2"
+    news = yes
+    news_desc_long = "EVTDESC99939_NEWS_LONG"
+    news_desc_medium = "EVTDESC99939_NEWS_MEDIUM"
+    news_desc_short = "EVTDESC99939_NEWS_SHORT"
+	is_triggered_only = yes
+	option = {
+		name = "EVTOPTA99956"
+		leave_alliance = GER
+		relation = {
+			who = X06
+			value = -200
+		}
+		X05 = { country_event = 99957 }
+		ENG = { country_event = 99957 }
+		X03 = { country_event = 99957 }
+		FRA = { country_event = 99957 }
+		LOM = { country_event = 99957 }
+	}
+}
+country_event = {
+	id = 99957
+	title = "EVTNAME99957"
+	desc = "EVTDESC99957"
+	picture = "hecker2"
+	is_triggered_only = yes
+	option = {
+		name = "EVTOPTA99957" #Side with Freiestaat
+		create_alliance = GER
+		relation = {
+			who = GER
+			value = 100
+		}
+		relation = {
+			who = X06
+			value = -100
+		}
+		leave_alliance = X06
+		ai_chance = {
+			factor = -100
+			Modifier = {
+				factor = 150
+				tag = X03
+			}
+			Modifier = {
+				factor = 150
+				tag = LOM
+			}
+		}
+	}
+	option = {
+		name = "EVTOPTB99957" #Side with Angria & Palatinate
+		create_alliance = X06
+		relation = {
+			who = X06
+			value = 100
+		}
+		relation = {
+			who = GER
+			value = -200
+		}
+		leave_alliance = GER
+		casus_belli = {
+			target = GER
+			type = cut_down_to_size
+			months = 60
+		}
+	}
+	option = {
+		name = "EVTOPTC99957" #NO one
+		relation = {
+			who = X06
+			value = -50
+		}
+		relation = {
+			who = GER
+			value = 50
+		}
+	}
+}
+country_event = {
+	id = 99958
+	title = "EVTNAME99958"
+	desc = "EVTDESC99958"
+	picture = "restoration_war"
+    news = yes
+    news_desc_long = "EVTDESC99958_NEWS_LONG"
+    news_desc_medium = "EVTDESC99958_NEWS_MEDIUM"
+    news_desc_short = "EVTDESC99958_NEWS_SHORT"
+	trigger = {
+		tag = CLM
+		NOT = {
+			MEX = { government = democracy }
+		}
+		year = 1837
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVTOPTA99958"
+		war = {
+			target = MEX
+			attacker_goal = {
+				casus_belli = install_democracy
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 99959
+	title = "EVTNAME99959"
+	desc = "EVTDESC99959"
+	picture = "restoration_war"
+    news = yes
+    news_desc_long = "EVTDESC99959_NEWS_LONG"
+    news_desc_medium = "EVTDESC99959_NEWS_MEDIUM"
+    news_desc_short = "EVTDESC99959_NEWS_SHORT"
+	trigger = {
+		tag = X36
+		year = 1844
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVTOPTA99959"
+		any_pop = {
+			limit = {
+				OR = {
+					has_pop_religion = pre_schism
+					has_pop_religion = catholic
+					has_pop_religion = protestant
+					has_pop_religion = meinwerkist
+				}
+			}
+			militancy = 50
+			consciousness = 25
+			ideology = {
+				value = reactionary
+				factor = 1.0
+			}
+		}
+	}
+}
