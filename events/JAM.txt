@@ -655,24 +655,22 @@ country_event = {
 	fire_only_once = yes
 	option = {
 		name = "EVTOPTA99953"
-		war = {
-			target = PAL
-			attacker_goal = {
-				casus_belli = unification_annex_casus_belli
-			}
-			defender_goal = {
-				casus_belli = status_quo
-			}
-		}
-		war = {
-			target = PAD
-			attacker_goal = {
-				casus_belli = unification_annex_casus_belli
-			}
-			defender_goal = {
-				casus_belli = status_quo
-			}
-		}
+        random_country = {
+            limit = { owns = 565 }
+            war = {
+                target = THIS
+                attacker_goal = { casus_belli = unification_annex_casus_belli }
+                call_ally = yes
+            }
+        }
+        random_country = {
+            limit = { owns = 535 }
+            war = {
+                target = THIS
+                attacker_goal = { casus_belli = unification_annex_casus_belli }
+                call_ally = yes
+            }
+        }
 		X06 = { country_event = 99954 }
 		X05 = { country_event = 99954 }
 		ENG = { country_event = 99954 }
@@ -943,5 +941,141 @@ country_event = {
 				factor = 1.0
 			}
 		}
+	}
+}
+
+country_event = {
+	id = 99960
+	title = "EVTNAME99960"
+	desc = "EVTDESC99960"
+	picture = "restoration_war"
+	trigger = {
+		tag = ROD
+		NOT = {
+			war_with = SHO
+		}
+		exists = NAL
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVTOPTA99959"
+		NAL = { any_owned = { secede_province = ROD } }
+	}
+}
+
+country_event = {
+	id = 99961
+	title = "EVTNAME99961"
+	desc = "EVTDESC99961"
+	picture = "restoration_war"
+	trigger = {
+		tag = BRT
+		exists = MAD
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVTOPTA99961"
+		war = {
+			target = MAD
+			attacker_goal = {
+				casus_belli = colonial_conquest
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 99962
+	title = "EVTNAME99962"
+	desc = "EVTDESC99962"
+	picture = "restoration_war"
+	trigger = {
+		tag = BRT
+		owns = 2120
+		NOT = {
+			exists = MAD
+		}
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVTOPTA99961"
+		war = {
+			target = BMN
+			attacker_goal = {
+				casus_belli = colonial_conquest
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 99963
+	title = "EVTNAME99963"
+	desc = "EVTDESC99963"
+	picture = "fryskfasc"
+	trigger = {
+		tag = X06
+		year = 1930
+		is_ideology_enabled = fascist
+		NOT = { government = fascist_dictatorship }
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVTOPTA99963"
+		random_owned = {
+           owner = {
+                soldiers = {
+                    limit = { is_primary_culture = yes }
+                    ideology = {
+                        value = fascist
+                        factor = 1.0
+                    }
+                }
+                officers = {
+                    limit = { is_primary_culture = yes }
+                    ideology = {
+                        value = fascist
+                        factor = 1.0
+                    }
+                }
+                any_pop = {
+                    limit = {
+                        is_primary_culture = yes
+                        NOT = {
+                            OR = {
+                                type = soldiers
+                                type = officers
+                            }
+                        }
+                    }
+                    ideology = {
+                        value = fascist
+                        factor = 0.8
+                    }
+                }
+            }
+        }
+        add_country_modifier = {
+            name = punitive_effects
+            duration = 1825
+        }
+        add_country_modifier = {
+            name = no_more_war
+            duration = 3650
+        }
+	}
+}
+country_event = {
+	id = 99964
+	title = "EVTNAME99964"
+	desc = "EVTDESC99964"
+	picture = "believeinfri"
+	trigger = {
+		tag = X06
+		year = 1935
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVTOPTA99964"
 	}
 }

@@ -27,6 +27,34 @@ political_decisions = {
             factor = 1
         }
     }
+	breton_india = {
+		picture = sariemarais
+        potential = {
+			owns = 1319
+			owns = 2120
+			owns = 1310
+        }
+        allow = {
+			invention = mission_to_civilize
+            war = no
+        }
+        effect = {
+			release_vassal = RAJ
+            THIS = {
+                any_owned = {
+                    limit = {
+						OR = {
+							is_core = BMN
+							is_core = HND
+							is_core = SIN
+						}
+                        owned_by = THIS
+                    }
+                    secede_province = RAJ
+                }
+            }
+        }
+	}
     declare_hroud_revolution = {
 		picture = hroud_revolution
         potential = {

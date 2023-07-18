@@ -161,40 +161,6 @@ political_decisions = {
         }
     }
 
-    become_hungary = {
-        picture = enact_dual_monarchy
-        potential = {
-            tag = KUK
-            NOT = {
-                exists = BAV
-            }
-        }
-
-        allow = {
-            war = no
-            NOT = { owns = 641 }
-            owns = 599
-        }
-
-        effect = {
-            KUK = {
-                all_core = { remove_core = KUK }
-            }
-            capital = 599
-            any_pop = {
-                limit = { has_pop_culture = avar }
-                militancy = 4
-            }
-            any_pop = {
-                limit = { has_pop_culture = south_german }
-                militancy = -4
-            }
-            primary_culture = south_german
-            clr_country_flag = dual_monarchy
-            change_tag = BAV
-        }
-    }
-
     begin_hungarian_revolution = {
         picture = gtfo
         potential = {
